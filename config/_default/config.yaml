@@ -11,6 +11,27 @@ baseURL: 'https://oxon8.com/' # Website URL
 ############################
 
 defaultContentLanguage: zh
+languages:
+  en:
+    params:
+    title: Oxford Roadmapping
+    weight: 1
+  zh:
+    params:
+      navigation:
+        menu: 菜单
+        tour: 精准脱碳之旅
+        news: 双化协同发展
+        people: 成员
+        event: 日程
+        publication: 发表
+        contact: 联络我们
+        menu: 菜单
+    title: 澳恪森数智科技服务
+    weight: 2
+  zh-tw:
+    title: 澳恪森數智科技服務
+    weight: 3
 hasCJKLanguage: true
 defaultContentLanguageInSubdir: false
 removePathAccents: true
