@@ -1,5 +1,5 @@
 ---
-title:  向大学生说明绿色金融科技，澳恪森开展湾区设计协同创新路线
+title:  '向大学生说明绿色金融科技，澳恪森开展湾区设计协同创新路线'
 date: 2023-03-19
 image: 'featured.jpg'
   focal_point: 'top'
