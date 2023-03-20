@@ -42,6 +42,44 @@ date: 2023-03-19
 
 “欢迎有志对产业前瞻与传统的知识地图﹑协作地图有兴趣的大学生来使用工具箱参与绿色化数字化创新。”潘仲亷博士总结。
 
+-----
+
+## 延伸阅读
+
+*  中国华能 (2022-03-28)，[碳中和目标下电力行业如何加快发展BECCS技术](https://m.thepaper.cn/newsDetail_forward_17338633) 生物质能碳捕集与封存 BECCS。『实现碳中和需要负碳技术』 
+	* [农业农村部办公厅关于做好2022年农作物秸秆综合利用工作的通知](http://www.gov.cn/zhengce/zhengceku/2022-04/26/content_5687228.htm) 中国政府网 (www.gov.cn) 农办科〔2022〕12号 
+		* 推进秸秆变能源降碳，助力“双碳”工作。积极有序发展秸秆为原料的成型燃料、打捆直燃、沼气工程、热解气化等生物质能利用，提升农村清洁用能比例。在乡村社区、园区以及公共机构等推广打捆直燃集中式供热、成型燃料+生物质锅炉供热、成型燃料+清洁炉具分散式供暖等模式。
+	* 中国科协科普部 (2022), [生物质能源化利用 助力“双碳”目标实现](http://www.news.cn/science/2022-11/10/c_1310675250.htm) -新华网 (news.cn)
+* Council of the EU (2022), [Council adopts conclusions on carbon farming - Consilium](https://www.consilium.europa.eu/en/press/press-releases/2022/04/07/council-adopts-conclusions-on-carbon-farming/) 
+	* 结论具体说明了理事会对碳去除认证框架的期望，今年年底将提出立法提案，以确保根据科学证明的测量要求，增加**碳去除**和储存的做法具有经济价值。
+	* 欧盟的碳捕集、利用和封存 [Carbon Capture, Utilisation and Storage in the European Union (europa.eu)](https://setis.ec.europa.eu/carbon-capture-utilisation-and-storage-european-union_en)
+	* 欧盟碳去除认证框架 [Carbon Removal Certification (europa.eu)](https://climate.ec.europa.eu/eu-action/sustainable-carbon-cycles/carbon-removal-certification_en)
+* IEA (2022), Bioenergy with Carbon Capture and Storage, IEA, Paris https://www.iea.org/reports/bioenergy-with-carbon-capture-and-storage, License: CC BY 4.0
+	* 『BECCS路线已有商业化路线，但最关键的路线仍处于示范或试点阶段』
+	* ![### Technology readiness level of selected BECCS pathways](https://iea.imgix.net/e60f99ce-4e3e-4bea-a400-9bd884b5bd5b/BECCS-TRL-v2.png?auto=compress%2Cformat&fit=min&q=80&rect=0%2C0%2C3000%2C1500&w=2560&fit=crop&fm=jpg&q=70&auto=format&h=1280)
+*  Ai, Z., Hanasaki, N., Heck, V. _et al._ (2021), Global bioenergy with carbon capture and storage potential is largely constrained by sustainable irrigation. _Nat Sustain_ **4**, 884–891 . https://doi.org/10.1038/s41893-021-00740-4
+	* 『BECCS在许多严格的气候情景中至关重要...  我们的研究结果强调了水资源/灌溉限制在全球BECCS潜力
+中的重要性。』
+
+* [Venton](https://www.pnas.org/doi/10.1073/pnas.1617583113#con), Danielle (2016), Can bioenergy with carbon capture and storage make an impact?  _PNAS_ **113(47)**, 13260–13262. [https://doi.org/10.1073/pnas.1617583113](https://doi.org/10.1073/pnas.1617583113)
+	* 『BECCS的技术挑战是真实的，...更大的挑战是金融和政治。我们尚未制定政策，认识到气候挑战的紧迫性』
+* 广州日报 (2021-08-23),  [一棵荔枝树 三种致富“经”](http://food.cnr.cn/focus/20210823/t20210823_525575542.shtml) 央广网 (cnr.cn) 
+	* 广州市从化区荔枝产业园...将助推从化区建设全省乃至全国乡村振兴示范区。
+	* ...李仲辉介绍道，在荔枝树上种铁皮石斛既不影响荔枝生长，又能多一项收益。
+	* ... 李仲辉介绍，培植荔枝菌，需要设备、技术和人工，每亩地投入4万到8万元左右，收成之时收益可以达到每亩地20万元左右。
+	* ... “以前是靠人，现在靠技术。”李仲辉介绍道，荔博园里安装了摄像头，气象、温度、水土等资料都通过技术收集起来，温度不够？水分不够？远程就能遥控打开水闸，工作人员只要坐在办公室就能照顾荔枝。
+	* ...“通过电商零售我们的利润能高出30%。”
+	* ...其中荔枝产业园在凤二村率先实施的农户以荔枝果树土地经营权入股，探索出的“土地流转得租金、入园就业得薪金、家庭经营得现金、股份分红得股金”的“一地生四金”模式就让农民获得多重收入。
+	* 陈厚彬观察发现，... “比如很少产业园会在生产环节寻求科技支持，省内很多荔枝园依然是低产的，品质提升也是不够的，精深加工不足，没有真正从研发、生产到加工环节投入科技力量，提升产品的附加值。”
+* [456亿！涉及高速改扩建、产业园！从化2022年重点建设项目出炉！_腾讯新闻 (qq.com)](https://new.qq.com/rain/a/20220323A09G1Z00)
+	* 明珠片区选址**明珠工业园核心区低丘缓坡片区东侧**，用地面积约1000亩，**打造生物医药、医疗美容融合发展的“南方美谷”**；
+	* 民乐片区**紧邻京珠高速民乐出入口**，用地面积约3000亩，**重点打造新能源汽车零部件生产基地**；
+	* 太平片区选址**太平镇镇区南侧**，用地面积约12平方公里，作为中新知识城产业延伸和空间扩展的辐射区域，通过城市更新和旧村改造，打造**成为集科技创新、国际合作、生态宜居为特色的产城融合发展示范区**。
+* [EMILY DREYFUSS](https://www.wired.com/author/emily-dreyfuss) (2019), [The Plan to Grab the World's Carbon With Supercharged Plants](https://www.wired.com/story/the-plan-to-grab-the-worlds-carbon-with-supercharged-plants/)  WIRED
+
+-----
+
+
 ### 湾区设计开放大学/湾区设计协同研究院
 湾区设计开放大学/湾区设计协同研究院 ...
 
