@@ -3,26 +3,28 @@ title: '《在 ESG 咨询丶报告和传播教育方面进行合作》获录稿�
 date: 2023-02-22
 ---
 
-澳恪森数智科技服务 ( Oxford Roadmapping) 参与的论文 **[《在 ESG 咨询﹑报告和参与教育方面进行合作》( Collaborating on ESG consulting, reporting, and communicating education) ](https://www.frontiersin.org/articles/10.3389/fenvs.2023.1119011/abstract)**获录稿发表。 
-本研究以创新设计思维方法“我们如何可能”(How might we)，遵循设计科学惯例举办设计工作坊，整合了设计思维、文献分析和跨学科专家访谈，在 ESG 咨询﹑报告和参与方面产出教育合作路线图。
+澳恪森数智科技服务 ( Oxford Roadmapping) 参与的论文 [**《在 ESG 咨询﹑报告和参与教育方面进行合作》( Collaborating on ESG consulting, reporting, and communicating education)** ](https://www.frontiersin.org/articles/10.3389/fenvs.2023.1119011/abstract) 获录稿发表。 
+此研究以创新设计思维方法“我们如何可能”(How might we)，遵循设计科学惯例举办设计工作坊，整合了设计思维、文献分析和跨学科专家访谈，在 ESG 咨询﹑报告和参与方面产出教育合作路线图。
 
 
 <!--more-->
 
 ### 获录稿发表的合作伙伴地图
 
+此研究获国际期刊 《Frontiers in Environmental Science》2023/02/22 正式录稿于《人工智能背景下碳中和的路径丶方法与理论》(消费者对向循环经济转型的偏好 - 刺激驱动力和克服障碍) 研究课题下。
 
+此研究面对粤港澳大湾区在国家及国企双碳目标，以及绿色金融所需的ESG人才需求，文章整合了相关文献及专家访谈数据，基于创新的利益相关人分析，提出了用数据贯通ESG 咨询﹑报告和参与教育的合作伙伴地图，对培养政府及企业部门所需的ESG顾问﹑投资﹑分析﹑管理﹑传播﹑公关﹑等等人才勾勒出主要利害关系人﹑主要文献﹑及人才需求的驱动及障碍。
 
-2023/02/22 获国际期刊 《Frontiers in Environmental Science》正式录稿于《人工智能背景下碳中和的路径丶方法与理论》(消费者对向循环经济转型的偏好 - 刺激驱动力和克服障碍) 研究课题下。面对粤港澳大湾区在国家及国企双碳目标，以及绿色金融所需的ESG人才需求，文章整合了相关文献及专家访谈数据，基于创新的利益相关人分析，提出了用数据贯通ESG 咨询丶报告和参与教育的合作伙伴地图，对培养政府及企业部门所需的ESG顾问丶投资丶分析丶管理丶传播丶公关丶等等人才勾勒出主要利害关系人丶主要文献丶及人才需求的驱动及障碍。此文展示了我校攻坚棘手问题的跨领域丶应用创新丶及创新教育能力。
+### 解决ESG及双碳系统创新的迫切人才培养及需求
 
-发表于环境经济学及管理栏目，符合国家ESG及双碳人才建设需求，论文以国际前沿发展结合粤港澳大湾区具体的人才需求及供给，运用循环经济商业模式画布的设计科学方法，进行了交叉分析并形成系统需求文件，明确ESG数据价值链上的利益相关人，以全覆盖解决ESG及双碳系统创新的迫切人才培养及需求。
+此研究发表于环境经济学及管理栏目，符合国家ESG及双碳人才建设需求，论文以国际前沿发展结合粤港澳大湾区具体的人才需求及供给，运用循环经济商业模式画布的设计科学方法，进行了交叉分析并形成系统需求文件，明确ESG数据价值链上的利益相关人，全覆盖解决ESG及双碳系统创新的迫切人才培养及需求。
 
-### ESG咨询教育合作伙伴地图
+#### ESG咨询教育合作伙伴地图
 ![ESG-Education-PartnerMap-consulting.png](./ESG-Education-PartnerMap-consulting.png)
-### ESG报告教育合作伙伴地图
+#### ESG报告教育合作伙伴地图
 ![ESG-Education-PartnerMap-reporting.png](./ESG-Education-PartnerMap-reporting.png)
 
-### ESG传播教育合作伙伴地图
+#### ESG传播教育合作伙伴地图
 ![ESG-Education-PartnerMap-communicating.png](./ESG-Education-PartnerMap-communicating.png)
 
 ### 英文 Abstract
