@@ -7,6 +7,23 @@ en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   contentDir: content/en
+  title: Oxford Roadmapping  (Oxon8)
+  params:
+    description: Innovate with Designs of Smart Platforms and Green FinTech, on a mission to reduce gigatones of GHG emissions by transforming how carbon neutrality information flows change business operations and supply chains
+  menu:
+    main:
+      - name: event
+        url: '#event'
+        weight: 4
+      - name: people
+        url: '#people'
+        weight: 3
+      - name: tour
+        url: '#tour'
+        weight: 2
+      - name: news
+        url: '#news'
+        weight: 1
 
 # Uncomment the lines below to configure your website in a second language.
 zh:
@@ -17,6 +34,12 @@ zh:
     description: 创新数智平台与绿色金融科技的设计
   menu:
     main:
+      - name: 日程
+        url: '#event'
+        weight: 4
+      - name: 成员
+        url: '#people'
+        weight: 3
       - name: 精准脱碳之旅
         url: '#tour'
         weight: 2
