@@ -7,5 +7,5 @@ view: compact
 # Optional banner image (relative to `assets/media/` folder).
 banner:
   caption: '荔枝_扇面'
-  image: 'Lychees.jpg'
+  image: './Lychees.jpg'
 ---
