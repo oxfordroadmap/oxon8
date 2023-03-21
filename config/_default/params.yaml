@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: ocean
-  theme_night: coffee
+  theme_day: Ocean
+  theme_night: Coffee
   font: classic
   font_size: xl
 
