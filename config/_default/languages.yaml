@@ -9,14 +9,34 @@ en:
   #contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+zh:
+  languageCode: zh-Hans
+  contentDir: content/zh
+  title: 澳恪森数智科技服务
+  params:
+    description: 创新数智平台与绿色金融科技的设计
+      navigation:
+        menu: 菜单
+        tour: 精准脱碳之旅
+        news: 双化协同发展
+        people: 成员
+        event: 日程
+        publication: 发表
+        contact: 联络我们
+        menu: 菜单
+  menu:
+    main:
+      - name: 精准脱碳之旅
+        url: '#tour'
+        weight: 2
+      - name: 双化协同发展
+        url: '#news'
+        weight: 1
+
+  zh:
+    params:
+    title: 澳恪森数智科技服务
+    weight: 2
+  zh-tw:
+    title: 澳恪森數智科技服務
+    weight: 3
