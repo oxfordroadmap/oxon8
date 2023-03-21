@@ -17,7 +17,7 @@ design:
   css_class:
 ---
 
-~[Oxon8 Icon](./welcome.jpg)
+![Oxon8  welcome image](./media/welcome.jpg)
 <br>**Oxon 8** (Oxford Roadmapping)  focuses on desin innovations of smart digital platforms and Green Financial Technologies (Green FinTech).  As a knowledge intermediary and technology research institute in China, it provide pertinent information and consulting services, including but not limited to the following services of and for design innovations: 
 
 *  How might we design information flows that drive the socio-technical integration  and social innovations of circular economy plus digital economy? 
