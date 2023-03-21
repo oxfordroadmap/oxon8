@@ -1,5 +1,5 @@
 ---
-title: Smart Digital Platforms for Carbon Neutral Management and Services: Business Models Based on ITU Standards for Green Digital Transformation
+title: '"Smart Digital Platforms for Carbon Neutral Management and Services" accepted for publications.' 
 date: 2023-02-20
 ---
 

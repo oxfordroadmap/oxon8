@@ -9,7 +9,7 @@ weight: 10 # Order that this section will appear.
 title: |
   Oxon 8  
   澳恪森数智科技服务  Oxford Roadmapping
-hero_media: welcome.jpg
+hero_media: icon.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -18,7 +18,7 @@ design:
   css_class:
 ---
 
-~[Oxon8 Icon](./icon.png)
+~[Oxon8 Icon](./welcome.jpg)
 <br>**澳恪森数智科技服务** (Oxford Roadmapping)  聚焦数智平台与绿色金融科技的设计创新，提供相关的信息咨询服务的中介及研究机构，包括但不限于以下的设计创新信息咨询服务：
 
 *  如何设计信息流驱动循环经济+数字经济的社会创新

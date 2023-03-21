@@ -1,5 +1,5 @@
 ---
-title: Collaborating on ESG consulting, reporting, and engaging education: Using partner maps for capability building design
+title: '"Collaborating on ESG consulting, reporting, and engaging education" accepted for publications'
 date: 2023-02-22
 ---
 
