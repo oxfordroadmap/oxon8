@@ -16,7 +16,7 @@ design:
 content:
   slides:
     - title: '👋 欢迎'
-      content:  精准脱碳之旅，与您同行...
+      content:  '精准脱碳之旅，与您同行...'
       align: center
       background:
         position: right
