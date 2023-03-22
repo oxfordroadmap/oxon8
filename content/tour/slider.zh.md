@@ -15,24 +15,24 @@ design:
 
 content:
   slides:
-    - title: '👋 欢迎'
-      content:  '精准脱碳之旅，与您同行...'
+    - title: 👋 Welcome to the group
+      content: Take a look at what we're working on...
       align: center
       background:
         position: right
         color: '#666'
         brightness: 0.7
         media: coders.jpg
-    - title: '发 & 发' ☕️
-      content: '同我们分享您的需求与经验，不论您在湾区哪'
+    - title: Lunch & Learn ☕️
+      content: 'Share your knowledge with the group and explore exciting new topics together!'
       align: left
       background:
         position: center
         color: '#555'
         brightness: 0.7
         media: contact.jpg
-    - title: '荔 & 力' 
-      content: '协力，用心绿色化数字化发展!'
+    - title: World-Class Semiconductor Lab
+      content: 'Just opened last month!'
       align: right
       background:
         position: center
@@ -42,6 +42,6 @@ content:
       link:
         icon: graduation-cap
         icon_pack: fas
-        text: 连络
+        text: Join Us
         url: ../contact/
 ---
