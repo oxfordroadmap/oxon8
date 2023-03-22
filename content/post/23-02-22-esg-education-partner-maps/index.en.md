@@ -1,11 +1,22 @@
 ---
-title: '"Collaborating on ESG consulting, reporting, and engaging education" accepted for publications'
+title: '"Collaborating on ESG consulting, reporting, and communicating education" accepted for publications'
 date: 2023-02-22
 ---
 
-Congratulations to Oxford Roadmapping for publishing a research report on **[Collaborating on ESG consulting, reporting, and engaging education: Using partner maps for capability building design](https://www.frontiersin.org/articles/10.3389/fenvs.2023.1119011/abstract)**.  This study presents findings regarding three main consulting, reporting, and communicating activities,  following the design science conventions and running design workshops that integrate design thinking of “how might we” design questions, literature analysis, and expert interviews across disciplines
+A research report on [Collaborating on ESG consulting, reporting, and engaging education](https://www.frontiersin.org/articles/10.3389/fenvs.2023.1119011/abstract) contributed by ***Oxford Roadmapping*** is accpted for publication.
 
+Using the design innovation "How Might We" method, the report produces a series of Partner Maps for ESG consulting, reporting and communicating. The research and design method followed the design science methods by executing design workshops that integrated design thinking, literature analysis and expert interviews from various disciplines. 
 <!--more-->
+
+### Scientific Journal Publication
+
+This report is accepted by ***Frontiers in Environmental Science*** on 2023/02/22, under the Research Topic of  "Consumers' Preferences Toward the Transition to Circular Economy-- Stimulating Drivers and Tackling" Barriers."
+Focusing on the Guangdong–Hong Kong–Macao Greater Bay Area (Greater Bay Area) and the  crucial role of China in green finance, ESG efforts, carbon neutral policies, and climate change actions, this study presented findings of three  main ESG activities—consulting, reporting, and communicating.   It integrated design thinking of “how might we” design questions, literature analysis, and expert interviews across disciplines.   
+
+### Meeting the ESG Talent Demands 
+
+According to [a World Economic Forum event](https://www.weforum.org/agenda/2022/06/esg-talent-is-critical-for-advancing-sustainability-strategies/), ESG talent is critical.   Based on the stakeholder analysis,  three partner/capability maps were generated to map stakeholders and explore the capabilities needed.  Using a circular economy-based partner map design canvas, three partner maps were developed for capability building design for ESG education: 
+
 #### ESG Consulting Partner Map
 ![ESG-Education-PartnerMap-consulting.png](./ESG-Education-PartnerMap-consulting.png)
 #### ESG Reporting Partner Map
@@ -14,6 +25,9 @@ Congratulations to Oxford Roadmapping for publishing a research report on **[Col
 #### ESG Communicating Partner Map
 ![ESG-Education-PartnerMap-communicating.png](./ESG-Education-PartnerMap-communicating.png)
 
+
+### Smart System of ESG and Carbon Information
+A conceptual framework—a Smart System of ESG and Carbon Information—is proposed to summarize planning, operating, and communicating with ESG and carbon information, along with high-level organizational actions and talent capabilities. It identifies the building blocks of an ESG operating system within an enterprise to engage various stakeholders for value-creation collaboration.
 
 ### Abstract
 
