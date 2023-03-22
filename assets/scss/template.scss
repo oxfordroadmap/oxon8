@@ -11,6 +11,9 @@
 img[alt=drawing] { width: 200px; }
 
 
+
+// highlight-coloring
+
 .container {
   line-height: 1.4;
   text-align: center;
@@ -40,3 +43,16 @@ img[alt=drawing] { width: 200px; }
   border-radius: 20% 25% 20% 24%;
   padding: 10px 3px 3px 10px;
 }
+
+.highlight-yellow:before {
+  background: #FFDC7488;
+}
+
+.highlight-green:before {
+  background: #E2EC9688;
+}
+
+.highlight-fushia:before {
+  background: #E0AACC88;
+}
+
