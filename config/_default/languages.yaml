@@ -34,6 +34,12 @@ zh:
     description: 创新数智平台与绿色金融科技的设计
   menu:
     main:
+      - name: 连络
+        url: '#contact'
+        weight: 6
+      - name: 发发
+        url: 'publication'
+        weight: 5
       - name: 日程
         url: 'event'
         weight: 4
