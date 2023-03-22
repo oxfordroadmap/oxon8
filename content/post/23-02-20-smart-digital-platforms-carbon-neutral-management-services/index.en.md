@@ -3,7 +3,15 @@ title: '"Smart Digital Platforms for Carbon Neutral Management and Services" acc
 date: 2023-02-20
 ---
 
-Congratulations to Oxford Roadmapping for publishing a research report on **[Smart Digital Platforms for Carbon Neutral Management and Services](https://www.frontiersin.org/articles/10.3389/fevo.2023.1134381/abstract)**.  This brief research report focuses on the effects of artificial intelligence (AI) on the environment, by analyzing the latest documents by major standard organizations such as the International Telecommunication Union (ITU) and Internet Society of China (ISC). By outlining the latest developments onto a platform canvas for carbon neutrality management and services, the report outlines the potential of “AI _of_ the environment” (i.e., the material compositions and environmental impact of AI itself) and “AI _for_ the environment” (i.e., the purposeful use of smart applications to benefit the environment). 
+Congratulations to Oxford Roadmapping for publishing a research report on **[Smart Digital Platforms for Carbon Neutral Management and Services](https://www.frontiersin.org/articles/10.3389/fevo.2023.1134381/abstract)**.  
+
+Business Models Based on ITU Standards for Green Digital Transformation
+
+This brief research report focuses on the effects of artificial intelligence (AI) on the environment, by analyzing the latest documents by major standard organizations such as the International Telecommunication Union (ITU) and Internet Society of China (ISC). 
+
+Smart Digital Platforms for Carbon Neutral Management and Services
+
+By outlining the latest developments onto a platform canvas for carbon neutrality management and services, the report outlines the potential of “AI _of_ the environment” (i.e., the material compositions and environmental impact of AI itself) and “AI _for_ the environment” (i.e., the purposeful use of smart applications to benefit the environment). 
 
 <!--more-->
 
@@ -12,6 +20,7 @@ This study succinctly visualizes key elements of digital platforms of/for GHG em
 
 ### Main Findings
 
+####  Internet Society of China (ISC) documents
 The latest requirements documents by Internet Society of China (ISC) were analyzed in the context of the ITU green digital transformation standards.  
 
 ![ISoC_cn2023_arch_req.webp](ISoC_cn2023_arch_req.webp)
@@ -19,9 +28,15 @@ The latest requirements documents by Internet Society of China (ISC) were analyz
 ![ISoC_cn2023_func_req.webp](ISoC_cn2023_func_req.webp)
 
 
+#### Digital Platform Business Model
+
 Such an analysis, was then used as basis for designing a buisness model using platform canvas, as shown below:
 
 ![featured.png](featured.png)
+
+###  Smart optimization, substitution, induced consumption, information management, and facilitation services 
+
+AI, according to the ITU-T L.1470 and L.1480 standards, can provide smart services for "optimization, substitution, induced consumption, information management, and facilitation."   These services must be enabled by smart digital platforms for carbon neutral management and services.
 
 
 ### Abstract
