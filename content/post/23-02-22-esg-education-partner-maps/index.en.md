@@ -28,6 +28,8 @@ According to [a World Economic Forum event](https://www.weforum.org/agenda/2022/
 
 ### Smart System of ESG and Carbon Information
 A conceptual framework—a Smart System of ESG and Carbon Information—is proposed to summarize planning, operating, and communicating with ESG and carbon information, along with high-level organizational actions and talent capabilities. It identifies the building blocks of an ESG operating system within an enterprise to engage various stakeholders for value-creation collaboration.
+![featured.jpg](./featured.jpg)
+
 
 ### Abstract
 
