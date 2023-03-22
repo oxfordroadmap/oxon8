@@ -25,3 +25,20 @@ design:
 *  如何设计数智平台促进区域经济+乡村振兴
 
 ![Oxon8  welcome image](welcome.jpg)
+
+
+### 地址
+
+澳恪森数智科技服务
+
+广州市从化区温泉鎮温泉东路75号
+
+<div>
+     <iframe width="500" height="400" frameborder="0" src="https://cn.bing.com/maps/embed?h=400&w=500&cp=mykpgwtdszpw&lvl=9&typ=d&sty=r&src=SHELL&FORM=MBEDV8" scrolling="no">
+     </iframe>
+     <div style="white-space: nowrap; text-align: center; width: 500px; padding: 6px 0;">
+        <a id="largeMapLink" target="_blank" href="https://cn.bing.com/maps?cp=mykpgwtdszpw&amp;sty=r&amp;lvl=9&amp;FORM=MBEDLD">View Larger Map</a> &nbsp; | &nbsp;
+        <a id="dirMapLink" target="_blank" href="https://cn.bing.com/maps/directions?cp=mykpgwtdszpw&amp;sty=r&amp;lvl=9&amp;rtp=~pos.mykpgw_tdszpw____&amp;FORM=MBEDLD">Get Directions</a>
+    </div>
+</div>
+
