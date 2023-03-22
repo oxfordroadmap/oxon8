@@ -9,7 +9,7 @@ weight: 10 # Order that this section will appear.
 title: |
   澳恪森数智科技服务  
   Oxon 8
-hero_media: icon.png
+hero_media: icon_oxon8_256x256.webp
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
