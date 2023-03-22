@@ -6,6 +6,14 @@ date: 2023-02-22
 Congratulations to Oxford Roadmapping for publishing a research report on **[Collaborating on ESG consulting, reporting, and engaging education: Using partner maps for capability building design](https://www.frontiersin.org/articles/10.3389/fenvs.2023.1119011/abstract)**.  This study presents findings regarding three main consulting, reporting, and communicating activities,  following the design science conventions and running design workshops that integrate design thinking of “how might we” design questions, literature analysis, and expert interviews across disciplines
 
 <!--more-->
+#### ESG Consulting Partner Map
+![ESG-Education-PartnerMap-consulting.png](./ESG-Education-PartnerMap-consulting.png)
+#### ESG Reporting Partner Map
+![ESG-Education-PartnerMap-reporting.png](./ESG-Education-PartnerMap-reporting.png)
+
+#### ESG Communicating Partner Map
+![ESG-Education-PartnerMap-communicating.png](./ESG-Education-PartnerMap-communicating.png)
+
 
 ### Abstract
 
