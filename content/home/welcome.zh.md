@@ -19,7 +19,7 @@ design:
 ---
 
 <br>
-<br>聚焦<span class="highlight-container highlight-yellow"><span class="highlight"> 数智平台** </span></span> 与 <span class="highlight-container highlight-green"><span class="highlight"> 绿色金融科技</span></span> 的设计创新，<span class="highlight-container highlight-fushia"><span class="highlight">澳恪森数智科技服务</span></span> (Oxford Roadmapping, a.k.a. Oxon8)  提供相关的信息咨询服务的中介及研究机构，包括但不限于以下的设计创新信息咨询服务 (互联网和相关服务) ：
+<br>聚焦<span class="highlight-container highlight-yellow"><span class="highlight"> 数智平台¹</span></span> 与 <span class="highlight-container highlight-green"><span class="highlight"> 绿色金融科技²</span></span> 的设计创新³，<span class="highlight-container highlight-fushia"><span class="highlight">澳恪森数智科技服务</span></span> (Oxford Roadmapping, a.k.a. Oxon8)  提供相关的信息咨询服务的中介及研究机构，包括但不限于以下的设计创新信息咨询服务 (互联网和相关服务) ：
 
 *  如何设计<span class="highlight-container highlight-fushia"><span class="highlight">信息流</span></span> 驱动  **循环经济**+**数字经济** 的 社会创新
 *  如何设计 <span class="highlight-container highlight-green"><span class="highlight"> 绿色金融科技</span></span> 对齐  **产业链** 融合发展協作
@@ -33,15 +33,19 @@ design:
 澳恪森数智科技服务
 
 广州市从化区温泉镇温泉东路75号
+
 75 Wenquan East Rd, Conghua District
+
 Guangzhou, Guangdong
 
-<div>
-     <iframe width="500" height="300" frameborder="0" src="https://www.bing.com/maps/embed?h=300&w=500&cp=my648xtg47m7&lvl=16&typ=d&sty=r&src=SHELL&FORM=MBEDV8" scrolling="no">
-     </iframe>
-     <div style="white-space: nowrap; text-align: center; width: 500px; padding: 6px 0;">
-        <a id="largeMapLink" target="_blank" href="https://cn.bing.com/maps?cp=mykpgwtdszpw&amp;sty=r&amp;lvl=9&amp;FORM=MBEDLD">查看大图</a> &nbsp; | &nbsp;
-        <a id="dirMapLink" target="_blank" href="https://cn.bing.com/maps/directions?cp=mykpgwtdszpw&amp;sty=r&amp;lvl=9&amp;rtp=~pos.mykpgw_tdszpw____&amp;FORM=MBEDLD">寻路</a>
-    </div>
-</div>
 
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=113.6466121673584%2C23.64072064356766%2C113.6563003063202%2C23.6464603326956&amp;layer=hot&amp;marker=23.64359046633303%2C113.65146081346836" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=23.64359&amp;mlon=113.65146#map=17/23.64359/113.65146&amp;layers=HN">查看大图</a></small>
+
+
+### 脚注腳
+
+#### 数智平台¹
+
+#### 绿色金融科技²
+
+#### 设计创新³
