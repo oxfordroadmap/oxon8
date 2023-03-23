@@ -4,11 +4,11 @@ widget: pages
 headless: true
 weight: 20
 
-title: 最新消息 (Latest News)
+title: 最新消息
 subtitle:
 
 content:
-  count: 5
+  count: 3
   filters:
     author: ''
     category: ''
@@ -20,7 +20,7 @@ content:
   page_type: post
 design:
   view: showcase
-  columns: '2'
+  columns: '1'
   # For the Showcase view, do you want to flip alternate rows?
   flip_alt_rows: true
 ---
