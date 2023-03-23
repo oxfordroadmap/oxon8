@@ -15,13 +15,13 @@ sections:
 ---
 
 <div class="row">
-<div class="col-7 font-weight-bolder text-justify">
+<div class="col-6 font-weight-bolder text-justify">
 
 *  如何设计<span class="highlight-container highlight-fushia"><span class="highlight">信息流³</span></span> 驱动  **循环经济**+**数字经济** 的 社会创新³
 *  如何设计 <span class="highlight-container highlight-green"><span class="highlight"> 绿色金融科技²</span></span> 对齐  **产业链** 融合发展協作³
 *  如何设计<span class="highlight-container highlight-yellow"><span class="highlight"> 数智平台¹</span></span> 促进 **区域经济** + **乡村振兴** 的 可持续发展³
 </div>
-<div class="col-5 small text-left">
+<div class="col-6 small text-left">
 
 ##### 脚注
 
@@ -31,8 +31,8 @@ sections:
 
 </div>
 </div>
-<div class="row"><div class="col-2">{{% cta cta_link="mailto:oxon8com@outlook.com" cta_text="留个信✉"  icon_pack="fas" icon="mailbox-flag-up" %}}</div>
-    <div class="col-8 display-5">澳恪森数智科技服务</div><div class="col-2">{{% cta cta_link="./people/" cta_text="团队成员 →" %}}</div></div>
+<div class="row"><div class="col-3">{{% cta cta_link="mailto:oxon8com@outlook.com" cta_text="留个信✉"  icon_pack="fas" icon="mailbox-flag-up" %}}</div>
+    <div class="col-6 display-3">澳恪森数智科技服务</div><div class="col-3">{{% cta cta_link="./people/" cta_text="团队成员 →" %}}</div></div>
 	
 
 ![icon_oxon8_256x256.webp](icon_oxon8_256x256.webp)
