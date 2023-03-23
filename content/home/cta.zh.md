@@ -32,7 +32,7 @@ sections:
 </div>
 </div>
 <div class="row"><div class="col-3">{{% cta cta_link="mailto:oxon8com@outlook.com" cta_text="留个信✉"  icon_pack="fas" icon="mailbox-flag-up" %}}</div>
-    <div class="col-6 display-3">澳恪森数智科技服务</div><div class="col-3">{{% cta cta_link="./people/" cta_text="团队成员 →" %}}</div></div>
+    <div class="col-6 display-4">澳恪森数智科技服务</div><div class="col-3">{{% cta cta_link="./people/" cta_text="团队成员 →" %}}</div></div>
 	
 
 ![icon_oxon8_256x256.webp](icon_oxon8_256x256.webp)

@@ -18,3 +18,4 @@ content:
 design:
   columns: '1'
 ---
+![icon_oxon8_256x256.webp](icon_oxon8_256x256.webp)
