@@ -8,17 +8,14 @@ sections:
     id: about
     content:
       title: 提供 设计创新  及  信息咨询服务
-      subtitle: 
+      subtitle: {{% cta cta_link="./people/" cta_text="团队成员 →" %}}{{% cta cta_link="mailto:oxon8com@outlook.com" cta_text="留个信✉"  icon_pack="fas" icon="mailbox-flag-up" %}}
       text: 包括但不限于：
     design:
-      columns: '2'
+      columns: '4'
 ---
 *  如何设计<span class="highlight-container highlight-fushia"><span class="highlight">信息流</span></span> 驱动  **循环经济**+**数字经济** 的 社会创新
 *  如何设计 <span class="highlight-container highlight-green"><span class="highlight"> 绿色金融科技</span></span> 对齐  **产业链** 融合发展協作
 *  如何设计<span class="highlight-container highlight-yellow"><span class="highlight"> 数智平台</span></span> 促进 **区域经济** + **乡村振兴** 的 可持续发展
-
-{{% cta cta_link="./people/" cta_text="团队成员 →" %}}
-{{% cta cta_link="mailto:oxon8com@outlook.com" cta_text="留个信✉"  icon_pack="fas" icon="mailbox-flag-up" %}}
 
  ### 脚注
  * 数智平台¹ 指以利用人工智能丶区块链丶云计算丶数据科技 (ABCD) 等数字科技实现[数字化转型](http://www.sasac.gov.cn/n4470048/n13461446/n15927611/n16058233/c16135120/content.html)的[平台商业模式](https://www2.deloitte.com/cn/zh/pages/soe/articles/soe-digital-transformation-2.html)
