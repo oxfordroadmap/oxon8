@@ -3,8 +3,9 @@ title: '《在 ESG 咨询丶报告和传播教育方面进行合作》获录稿�
 date: 2023-02-22
 ---
 
-澳恪森数智科技服务的论文 [**《在 ESG 咨询﹑报告和参与教育方面进行合作》( Collaborating on ESG consulting, reporting, and communicating education)** ](https://www.frontiersin.org/articles/10.3389/fenvs.2023.1119011/abstract) 获录稿发表。 
-此研究以创新设计「我们可以怎样」(How Might We)思维方法，在 ESG 咨询﹑报告和参与方面产出教育合作路线图。
+**澳恪森**的论文 [**《在 ESG 咨询﹑报告和参与教育方面进行合作》( Collaborating on ESG consulting, reporting, and communicating education)** ](https://www.frontiersin.org/articles/10.3389/fenvs.2023.1119011/abstract) 获录稿发表。 
+
+此研究以创新设计「我们可以怎样」(How Might We)思维方法，在 ESG 教育产出合作路线图。
 <!--more-->
 
 ### 获录稿发表的合作伙伴地图
