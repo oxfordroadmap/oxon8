@@ -2,16 +2,10 @@
 # Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
 # Add more sections by duplicating this file and customizing to your requirements.
 ---
-widget: hero # See https://wowchemy.com/docs/page-builder/
-headless: true # This file represents a page section.
-weight: 10 # Order that this section will appear.
-title: |
-  澳恪森数智科技服务  
- 
 sections:
   - block: hero
     content:
-      title:   Oxon 8 
+      title:   '澳恪森数智科技服务 Oxon8'
       image:
         # Reference an image in your `assets/media/` folder
         filename: icon_oxon8_256x256.webp
