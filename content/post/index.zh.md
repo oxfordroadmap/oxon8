@@ -12,13 +12,17 @@ banner:
 
 sections:
   - block: collection
-    id: post
+    id: 'news'
     content:
-      title: 最新消息 1
-      subtitle: 双化协同发展
+      title: '最新消息'
+      subtitle: '双化协同发展'
       text: 
       # Display content from the `content/post/` folder
       filters:
         folders:
           - post
+    design:
+      columns: '1'
+      view: showcase
+      flip_alt_rows: true
 ---
