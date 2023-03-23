@@ -16,14 +16,14 @@ sections:
 
 <div class="container">
   <div class="row">
-    <div class="col-sm-4 blockquote text-right">
+    <div class="col-sm-6 blockquote text-left">
 
 *  如何设计<span class="highlight-container highlight-fushia"><span class="highlight">信息流³</span></span> 驱动  **循环经济**+**数字经济** 的 社会创新³
 *  如何设计 <span class="highlight-container highlight-green"><span class="highlight"> 绿色金融科技²</span></span> 对齐  **产业链** 融合发展協作³
 *  如何设计<span class="highlight-container highlight-yellow"><span class="highlight"> 数智平台¹</span></span> 促进 **区域经济** + **乡村振兴** 的 可持续发展³
 
 </div>
-    <div class="col-sm-8 small">
+    <div class="col-sm-6 small text-left">
 
 ##### 脚注
  * 数智平台¹ 指以利用人工智能丶区块链丶云计算丶数据科技 (ABCD) 等数字科技实现[数字化转型](http://www.sasac.gov.cn/n4470048/n13461446/n15927611/n16058233/c16135120/content.html)的[平台商业模式](https://www2.deloitte.com/cn/zh/pages/soe/articles/soe-digital-transformation-2.html)
