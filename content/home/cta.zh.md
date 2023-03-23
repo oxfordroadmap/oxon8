@@ -24,7 +24,9 @@ sections:
 <div class="h6">
 
 *  如何设计<span class="highlight-container highlight-fushia"><span class="highlight">信息流</span></span> 驱动  **循环经济**+**数字经济** 的 社会创新
+
 *  如何设计 <span class="highlight-container highlight-green"><span class="highlight"> 绿色金融科技²</span></span> 对齐  **产业链** 融合发展協作创新
+
 *  如何设计<span class="highlight-container highlight-yellow"><span class="highlight"> 数智平台¹</span></span> 促进 **区域经济** + **乡村振兴** 的 可持续发展创新
 
 </div>
