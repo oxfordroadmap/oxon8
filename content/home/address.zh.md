@@ -5,7 +5,7 @@ weight: 60
 title: contact
 subtitle: 
 content:
-  email: 'oxon8com@outlook.com'
+  email: oxon8com@outlook.com
   address:
     street: '从化区温泉镇温泉东路75号  75 Wenquan East Rd, Conghua'
     city: '广州市  Guangzhou, Guangdong'
