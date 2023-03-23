@@ -1,5 +1,5 @@
 ---
-title: 最新消息
+title: 双化协同发展--最新消息
 
 # Listing view
 view: compact
@@ -8,4 +8,17 @@ view: compact
 banner:
   caption: '荔枝_扇面'
   image: 'Lychees.jpg'
+
+
+sections:
+  - block: collection
+    id: post
+    content:
+      title: 最新消息 1
+      subtitle: 双化协同发展
+      text: 
+      # Display content from the `content/post/` folder
+      filters:
+        folders:
+          - post
 ---
