@@ -4,13 +4,10 @@ type: landing
 weight: 40
 sections:
   - block: markdown
-    content:
-      subtitle: 
-      text: 提供 设计创新  及  信息咨询服务
      design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '4'
+      columns: '2'
 ---
 包括但不限于：
 *  如何设计<span class="highlight-container highlight-fushia"><span class="highlight">信息流</span></span> 驱动  **循环经济**+**数字经济** 的 社会创新
