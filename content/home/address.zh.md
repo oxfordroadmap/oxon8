@@ -4,8 +4,7 @@ widget: contact
 headless: true
 # Order that this section appears on the page.
 weight: 60
-
-title: 连络 & 地址
+title: '连络 & 地址'
 subtitle: 
 content:
   email: oxon8com@outlook.com
