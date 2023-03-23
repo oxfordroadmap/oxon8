@@ -4,9 +4,7 @@ type: widget_page
 
 # Homepage is headless, other widget pages are not.
 headless: true
----
 
-# Your landing page sections - add as many different content blocks as you like
 sections:
   - block: markdown
     id: contact
