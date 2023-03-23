@@ -8,7 +8,7 @@ weight: 60
 title: 连络 & 地址
 subtitle: 
 content:
-    email: oxon8com@outlook.com
+  email: oxon8com@outlook.com
   # phone: 888 888 88 88
   # appointment_url: 'https://calendly.com'
   address:
