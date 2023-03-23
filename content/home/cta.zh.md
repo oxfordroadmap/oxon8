@@ -11,7 +11,7 @@ sections:
       subtitle: 
       text: 
     design:
-      columns: '1'
+      columns: '2'
 ---
 
 <div class="row  align-items-center"><div class="col-3">{{% cta cta_link="mailto:oxon8com@outlook.com" cta_text="留个信✉"  icon_pack="fas" icon="mailbox-flag-up" %}}</div>
