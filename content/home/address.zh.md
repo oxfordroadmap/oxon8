@@ -7,10 +7,9 @@ subtitle:
 content:
   email: 'oxon8com@outlook.com'
   address:
-    street: 从化区温泉镇温泉东路75号  75 Wenquan East Rd, Conghua
-    city: 广州市  Guangzhou, Guangdong
-    # postcode: '94305'
-     country: China
+    street: '从化区温泉镇温泉东路75号  75 Wenquan East Rd, Conghua'
+    city: '广州市  Guangzhou, Guangdong'
+    country: China
     country_code: CN
   coordinates:
     latitude: '23.64359'
