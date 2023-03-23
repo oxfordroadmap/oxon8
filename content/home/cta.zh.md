@@ -2,11 +2,15 @@
 title: My page
 type: landing
 weight: 40
-
+    design:
+      # See Page Builder docs for all section customization options.
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
+---
 sections:
   - block: markdown
     content:
-      title: **澳恪森数智科技服务 (Oxford Roadmapping, a.k.a. Oxon8) **
+      title: 澳恪森数智科技服务 (Oxford Roadmapping, a.k.a. Oxon8)
       subtitle: 来自湾区﹑服务湾区
       text: |-
         提供 设计创新  及  信息咨询服务
