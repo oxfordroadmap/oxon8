@@ -23,7 +23,7 @@ sections:
 *  如何设计<span class="highlight-container highlight-yellow"><span class="highlight"> 数智平台¹</span></span> 促进 **区域经济** + **乡村振兴** 的 可持续发展³
 
 </div>
-    <div class="col-sm-8">
+    <div class="col-sm-8 small">
 
 ### 脚注
  * 数智平台¹ 指以利用人工智能丶区块链丶云计算丶数据科技 (ABCD) 等数字科技实现[数字化转型](http://www.sasac.gov.cn/n4470048/n13461446/n15927611/n16058233/c16135120/content.html)的[平台商业模式](https://www2.deloitte.com/cn/zh/pages/soe/articles/soe-digital-transformation-2.html)
@@ -35,8 +35,10 @@ sections:
   <div class="row">
     <div class="col-sm">{{% cta cta_link="mailto:oxon8com@outlook.com" cta_text="留个信✉"  icon_pack="fas" icon="mailbox-flag-up" %}}</div>
     <div class="col-sm">
+	
 ## 澳恪森数智科技服务
 ![icon_oxon8_256x256.webp](icon_oxon8_256x256.webp)
+
     </div>
     <div class="col-sm">{{% cta cta_link="./people/" cta_text="团队成员 →" %}}</div>
   </div>
