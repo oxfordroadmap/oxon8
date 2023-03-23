@@ -1,15 +1,14 @@
 ---
-title: My page
+title: 澳恪森数智科技服务
 type: landing
 weight: 40
 sections:
   - block: markdown
     content:
-      title: 澳恪森数智科技服务 (Oxford Roadmapping, a.k.a. Oxon8)
-      subtitle: 来自湾区﹑服务湾区
+      subtitle: 
       text: |-
         提供 设计创新  及  信息咨询服务
-
+        
         包括但不限于：
         *  如何设计<span class="highlight-container highlight-fushia"><span class="highlight">信息流</span></span> 驱动  **循环经济**+**数字经济** 的 社会创新
         *  如何设计 <span class="highlight-container highlight-green"><span class="highlight"> 绿色金融科技</span></span> 对齐  **产业链** 融合发展協作

@@ -2,7 +2,7 @@
 widget: contact
 headless: true
 weight: 60
-title: contact
+title: '连络 & 地址'
 subtitle: 
 content:
   email: oxon8com@outlook.com
