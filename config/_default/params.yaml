@@ -9,7 +9,7 @@ appearance:
   theme_day: Ocean
   theme_night: Dark
   font: classic
-  font_size: xl
+  font_size: l
 
 # SEO
 
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} 澳恪森数智 Oxford Roadmapping {license}'
     license:
       enable: true
       allow_derivatives: false
