@@ -15,7 +15,7 @@ sections:
 ---
 
 <div class="row  align-items-center"><div class="col-3">{{% cta cta_link="mailto:oxon8com@outlook.com" cta_text="留个信✉"  icon_pack="fas" icon="mailbox-flag-up" %}}</div>
-    <div class="col-6 h4">澳恪森数智科技服务<br/>Oxford Roadmapping</div><div class="col-3">{{% cta cta_link="./people/" cta_text="团队成员 →" %}}</div></div>
+    <div class="col-6 h4">澳恪森数智科技服务<br/>Oxford Roadmapping</div><div class="col-3">{{% cta cta_link="./people/" cta_text="团队成员🗫" %}}</div></div>
 
 <div class="row align-items-center">
 <div class="col-6 h5 text-justify">
