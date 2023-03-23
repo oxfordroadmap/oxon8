@@ -46,7 +46,7 @@ sections:
       columns: '2'
       # Add custom styles
       css_style:
-      css_class:---
+      css_class:
 ---
 
 <br>
@@ -56,7 +56,9 @@ sections:
 *  如何设计 <span class="highlight-container highlight-green"><span class="highlight"> 绿色金融科技</span></span> 对齐  **产业链** 融合发展協作
 *  如何设计<span class="highlight-container highlight-yellow"><span class="highlight"> 数智平台</span></span> 促进 **区域经济** + **乡村振兴** 的 可持续发展
 
-### 脚注腳
+-----
+
+### 脚注
 
 #### 数智平台¹
 
