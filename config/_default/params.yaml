@@ -32,7 +32,8 @@ marketing:
 header:
   navbar:
     enable: true
-    align: r
+    # Align menu links: left (l), center (c), or right (r)
+    align: l
     show_logo: true
     show_language: false
     show_day_night: true
