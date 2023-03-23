@@ -1,5 +1,5 @@
 ---
-title: 
+title: 澳恪森数智科技服务
 type: landing
 weight: 40
 
@@ -14,7 +14,10 @@ sections:
       columns: '1'
 ---
 
-<div class="row">
+<div class="row  align-items-center"><div class="col-3">{{% cta cta_link="mailto:oxon8com@outlook.com" cta_text="留个信✉"  icon_pack="fas" icon="mailbox-flag-up" %}}</div>
+    <div class="col-6 display-4">澳恪森数智科技服务<br/>Oxford Roadmapping</div><div class="col-3">{{% cta cta_link="./people/" cta_text="团队成员 →" %}}</div></div>
+
+<div class="row align-items-center">
 <div class="col-6 font-weight-bolder text-justify">
 提供 设计创新³  及  信息咨询服务，包括但不限于：
 
@@ -32,7 +35,4 @@ sections:
 
 </div>
 </div>
-<div class="row"><div class="col-3">{{% cta cta_link="mailto:oxon8com@outlook.com" cta_text="留个信✉"  icon_pack="fas" icon="mailbox-flag-up" %}}</div>
-    <div class="col-6 display-5">澳恪森数智科技服务</div><div class="col-3">{{% cta cta_link="./people/" cta_text="团队成员 →" %}}</div></div>
-
 
