@@ -1,47 +1,47 @@
 ---
-# A Demo section created with the Blank widget.
-# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
-sections:
-  - block: hero
-    content:
-      title:   '澳恪森数智科技服务 Oxon8'
-      image:
-        # Reference an image in your `assets/media/` folder
-        filename: icon_oxon8_256x256.webp
-        filename: welcome.jpg
-      # Add your Call-To-Action (CTA) button and optional icon
-      cta:
-        label: '团队成员'
-        url: https://oxon8.netlify.app/people/
-        icon_pack: fas
-        icon: people-group
-      # Optionally, add an alternative CTA link
-      cta_alt:
-        label: '留个信'
-        url: 'mailto:oxon8com@outlook.com'
-        icon_pack: fas
-        icon: mailbox-flag-up
-      # Optionally, add a note under the Call-To-Action button
-      cta_note:
-        label: >-
-                    聚焦数智平台¹ 与 绿色金融科技²的设计创新³
-      # Add your Hero text here
-      text: |-
+widget: hero # See https://wowchemy.com/docs/page-builder/
+headless: true # This file represents a page section.
+weight: 10 # Order that this section will appear.
+title:  |
+  '澳恪森数智科技服务 Oxon8'
+hero_media: 
+  filename: icon_oxon8_256x256.webp
+  filename: welcome.jpg
+        # Add your Call-To-Action (CTA) button and optional icon
+cta:
+  label: '团队成员'
+  url: https://oxon8.netlify.app/people/
+  icon_pack: fas
+  icon: people-group
+# Optionally, add an alternative CTA link
+cta_alt:
+  label: '留个信'
+  url: 'mailto:oxon8com@outlook.com'
+  icon_pack: fas
+  icon: mailbox-flag-up
+# Optionally, add a note under the Call-To-Action button
+cta_note:
+  label: >-
+    聚焦数智平台¹ 与 绿色金融科技²的设计创新³
+# Add your Hero text here
+text: |-
 
-        **澳恪森数智科技服务 (Oxford Roadmapping, a.k.a. Oxon8) **
+  **澳恪森数智科技服务 (Oxford Roadmapping, a.k.a. Oxon8) **
 
-        **提供设计创新信息咨询服务 (互联网和相关服务) **
+  **提供设计创新信息咨询服务 (互联网和相关服务) **
 
-        **来自湾区﹑服务湾区**
+  **来自湾区﹑服务湾区**
 
         使用工具箱参与绿色化数字化创新
+design:
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns: '2'
+  # Add custom styles
+  css_style:
+  css_class:
 
-        <!--Custom spacing-->
-        <div class="mb-3"></div>
-        <!--GitHub Button JS-->
-        <script async defer src="https://buttons.github.io/buttons.js"></script>        
-    design:
+---
+   design:
       # Choose how many columns the section has. Valid values: 1 or 2.
       columns: '2'
       # Add custom styles
