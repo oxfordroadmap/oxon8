@@ -28,14 +28,12 @@ sections:
 <div class="col-6 small text-left">
 
 #####  脚注
-<ul class="list-unstyled">
-<li>
+
 ¹数智平台 指以利用人工智能丶区块链丶云计算丶数据科技 (ABCD) 等数字科技实现[数字化转型](http://www.sasac.gov.cn/n4470048/n13461446/n15927611/n16058233/c16135120/content.html)的[平台商业模式](https://www2.deloitte.com/cn/zh/pages/soe/articles/soe-digital-transformation-2.html)
-</li><li>
-² [绿色金融科技](https://link.springer.com/chapter/10.1007/978-3-319-76014-8_11) 指[可持续金融](https://www.unep.org/regions/asia-and-pacific/regional-initiatives/supporting-resource-efficiency/green-financing) (特别包括[联合国可持续发展目标下](https://www.un.org/en/digital-financing-taskforce) ) 及 金融科技 (或 数字金融) 两者交叉的新兴领域及实践。
-</li><li>
+
+² [绿色金融科技](https://link.springer.com/chapter/10.1007/978-3-319-76014-8_11) 指[可持续金融](https://www.unep.org/regions/asia-and-pacific/regional-initiatives/supporting-resource-efficiency/green-financing) (特别包括[联合国可持续发展目标下](https://www.un.org/en/digital-financing-taskforce) ) 及 [金融科技](https://www.sciencedirect.com/topics/economics-econometrics-and-finance/fintech) (或 数字金融) 两者交叉的新兴领域及实践。
+
 ³ [设计创新](https://www.sciencedirect.com/topics/social-sciences/design-innovation)  为设计学及创新学交叉的领域，在联合国系统下如[使用创新标准结合数字化转型达成可持续发展](https://www.unido.org/news/unido-promotes-innovation-standards-and-digital-transformation-achieve-sdgs)丶[使用数字化转型促进社会包容型发展](https://www.un.org/development/desa/dspd/2021/02/digital-technologies-for-social-inclusion/)丶[使用数字创新生态系统促进数字化转型](https://www.itu.int/itu-d/sites/innovation/)
-</li>
 </div>
 </div>
 
