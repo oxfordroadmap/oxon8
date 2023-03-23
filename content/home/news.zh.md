@@ -19,6 +19,8 @@ content:
   order: desc
   page_type: post
 design:
-  view: 3
-  columns: '1'
+  view: showcase
+  columns: '2'
+  # For the Showcase view, do you want to flip alternate rows?
+  flip_alt_rows: true
 ---

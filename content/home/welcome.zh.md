@@ -7,46 +7,12 @@ title:  |
 hero_media: 
   filename: icon_oxon8_256x256.webp
   filename: welcome.jpg
-        # Add your Call-To-Action (CTA) button and optional icon
-cta:
-  label: '团队成员'
-  url: https://oxon8.netlify.app/people/
-  icon_pack: fas
-  icon: people-group
-# Optionally, add an alternative CTA link
-cta_alt:
-  label: '留个信'
-  url: 'mailto:oxon8com@outlook.com'
-  icon_pack: fas
-  icon: mailbox-flag-up
-# Optionally, add a note under the Call-To-Action button
-cta_note:
-  label: >-
-    聚焦数智平台¹ 与 绿色金融科技²的设计创新³
-# Add your Hero text here
-text: |-
-
-  **澳恪森数智科技服务 (Oxford Roadmapping, a.k.a. Oxon8) **
-
-  **提供设计创新信息咨询服务 (互联网和相关服务) **
-
-  **来自湾区﹑服务湾区**
-
-        使用工具箱参与绿色化数字化创新
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
   # Add custom styles
   css_style:
   css_class:
-
----
-   design:
-      # Choose how many columns the section has. Valid values: 1 or 2.
-      columns: '2'
-      # Add custom styles
-      css_style:
-      css_class:
 ---
 
 <br>
