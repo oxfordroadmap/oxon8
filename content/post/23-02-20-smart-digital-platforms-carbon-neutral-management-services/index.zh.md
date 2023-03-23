@@ -3,13 +3,13 @@ title: '《碳中和管理服务数智平台》获录稿发表'
 date: 2023-02-20
 ---
 
-**澳恪森**的论文 [**《碳中和管理服务数智平台》( Smart Digital Platforms for Carbon Neutral Management and Services)** ](https://www.frontiersin.org/articles/10.3389/fevo.2023.1134381/abstract) 获录稿发表。 
+**澳恪森**的论文 [**《碳中和管理服务数智平台》** ](https://www.frontiersin.org/articles/10.3389/fevo.2023.1134381/abstract) 获录稿发表。 
 
 此研究以国际电信联盟（ITU）和中国互联网协会（ISC）等主要标准组织的最新文件，推出源于环境﹑为环境服务的人工智能碳中和管理服务平台。
 
 <!--more-->
 
-重点关注人工智能（AI）对环境的影响，该报告研究概述了“源于环境的人工智能”（“AI _of_ the environment”即人工智能本身的物质组成和环境影响）和“为环境服务的人工智能”（AI _for_ the environment”即有目的地使用智能应用造福环境）的潜力，总结碳中和管理服务平台的最新发展，
+获录稿发表的论文 [**《碳中和管理服务数智平台》( Smart Digital Platforms for Carbon Neutral Management and Services)** ](https://www.frontiersin.org/articles/10.3389/fevo.2023.1134381/abstract) 重点关注人工智能（AI）对环境的影响，该报告研究概述了“源于环境的人工智能”（“AI _of_ the environment”即人工智能本身的物质组成和环境影响）和“为环境服务的人工智能”（AI _for_ the environment”即有目的地使用智能应用造福环境）的潜力，总结碳中和管理服务平台的最新发展，
 
 
 ### 获录稿发表的碳中和管理服务数智平台

@@ -3,14 +3,13 @@ title: '《在 ESG 咨询丶报告和传播教育方面进行合作》获录稿�
 date: 2023-02-22
 ---
 
-**澳恪森**的论文 [**《在 ESG 咨询﹑报告和参与教育方面进行合作》( Collaborating on ESG consulting, reporting, and communicating education)** ](https://www.frontiersin.org/articles/10.3389/fenvs.2023.1119011/abstract) 获录稿发表。 
+**澳恪森**的论文 [**《在 ESG 咨询﹑报告和参与教育方面进行合作》** ](https://www.frontiersin.org/articles/10.3389/fenvs.2023.1119011/abstract) 获录稿发表。 
 
 此研究以创新设计「我们可以怎样」(How Might We)思维方法，在 ESG 教育产出合作路线图。
 <!--more-->
 
 ### 获录稿发表的合作伙伴地图
-
-此研究获国际期刊 《Frontiers in Environmental Science》2023/02/22 正式录稿于《消费者对向循环经济转型的偏好 - 刺激驱动力和克服障碍》(Consumers' Preferences Toward the Transition to Circular Economy-- Stimulating Drivers and Tackling" Barriers) 研究课题下。
+论文 [**《在 ESG 咨询﹑报告和参与教育方面进行合作》( Collaborating on ESG consulting, reporting, and communicating education)** ](https://www.frontiersin.org/articles/10.3389/fenvs.2023.1119011/abstract) 获国际期刊 《Frontiers in Environmental Science》2023/02/22 正式录稿于《消费者对向循环经济转型的偏好 - 刺激驱动力和克服障碍》(Consumers' Preferences Toward the Transition to Circular Economy-- Stimulating Drivers and Tackling" Barriers) 研究课题下。
 
 此研究发表于环境经济学及管理栏目，符合国家ESG及双碳人才建设需求。
 此研究面对粤港澳大湾区在国家及国企双碳目标，以及绿色金融所需的ESG人才需求，文章整合了相关文献及专家访谈数据，基于创新的利益相关人分析，提出了用数据贯通ESG 咨询﹑报告和参与教育的合作伙伴地图，对培养政府及企业部门所需的ESG顾问﹑投资﹑分析﹑管理﹑传播﹑公关﹑等等人才勾勒出主要利害关系人﹑主要文献﹑及人才需求的驱动及障碍。
