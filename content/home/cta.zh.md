@@ -9,7 +9,7 @@ sections:
     content:
       title: 
       subtitle: 
-      text: <div class="row  align-items-center"><div class="col-3">{{% cta cta_link="mailto:oxon8com@outlook.com" cta_text="留个信✉"  icon_pack="fas" icon="mailbox-flag-up" %}}</div><div class="col-6 h4 text-center">澳恪森数智科技服务<br/><span class="highlight-container highlight-blue"><span class="highlight">Oxford Roadmapping</span></span></div><div class="col-3">{{% cta cta_link="./people/" cta_text="团队成员 →" %}}</div></div>
+      text: 
     design:
       columns: '2'
       spacing:
@@ -24,18 +24,10 @@ sections:
       #text_color_light: true
 
 ---
+<div class="row  align-items-center"><div class="col-3">{{% cta cta_link="mailto:oxon8com@outlook.com" cta_text="留个信✉"  icon_pack="fas" icon="mailbox-flag-up" %}}</div><div class="col-6 h4 text-center">澳恪森数智科技服务<br/><span class="highlight-container highlight-blue"><span class="highlight">Oxford Roadmapping</span></span></div><div class="col-3">{{% cta cta_link="./people/" cta_text="团队成员 →" %}}</div></div>
+
 <div class="row align-items-center">
-<div class="col-7 hero-lead">
-聚焦<span class="highlight-container highlight-yellow"><span class="highlight"> 数智平台¹ </span></span> 与 <span class="highlight-container highlight-green"><span class="highlight"> 绿色金融科技² </span></span> 的 <span class="highlight-container highlight-fushia"><span class="highlight"> 设计创新³ </span></span>， 提供以下服务：
-
-*  如何设计<span class="highlight-container highlight-fushia"><span class="highlight">信息流</span></span> 驱动  **循环经济**+**数字经济** 的 社会创新
-
-*  如何设计 <span class="highlight-container highlight-green"><span class="highlight"> 绿色金融科技²</span></span> 对齐  **产业链** 融合发展協作创新
-
-*  如何设计<span class="highlight-container highlight-yellow"><span class="highlight"> 数智平台¹</span></span> 促进 **区域经济** + **乡村振兴** 的 可持续发展创新
-
-</div>
-<div class="col-5 small text-left">
+<div class="col-12 small text-left">
 
 #####  脚注
 
