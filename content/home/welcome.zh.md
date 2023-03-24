@@ -2,7 +2,7 @@
 widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
-title:  
+title:  澳恪森数智科技服务
 hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -11,13 +11,7 @@ design:
   css_style: 
   css_class: 
 ---
-<div class="hero-lead">
-澳恪森数智科技服务
 <small class="text-muted"> 聚焦 </small>
-
-## Oxford Roadmapping
-{.alert .alert-success}
-
 <span class="highlight-container highlight-yellow"><span class="highlight"> 数智平台¹ </span></span>
  与 
  <span class="highlight-container highlight-green"><span class="highlight"> 绿色金融科技² </span></span>
@@ -31,3 +25,5 @@ design:
 *  如何设计 <span class="highlight-container highlight-green"><span class="highlight"> 绿色金融科技²</span></span> 对齐  **产业链** 融合发展 的 協作创新
 *  如何设计 <span class="highlight-container highlight-yellow"><span class="highlight"> 数智平台¹</span></span> 促进 **区域经济** + **乡村振兴** 的 可持续发展创新
  
+ ## Oxford Roadmapping
+{.alert .alert-success}
