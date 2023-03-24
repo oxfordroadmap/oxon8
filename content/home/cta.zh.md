@@ -16,10 +16,10 @@ sections:
         padding: ["-50px", "0", "-50px", "0"]
       background:
       # Choose colors such as from https://html-color-codes.info
-      gradient_start: '#002147'
-      gradient_end: '#5b92e5'
+        gradient_start: '#002147'
+        gradient_end: '#5b92e5'
       # The gradient angle from 0-360 degrees
-      gradient_angle: 180
+        gradient_angle: 180
       # Text color (true=light, false=dark, or remove for the dynamic theme color).
       #text_color_light: true
 
