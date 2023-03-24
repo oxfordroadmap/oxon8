@@ -33,9 +33,9 @@ header:
   navbar:
     enable: true
     # Align menu links: left (l), center (c), or right (r)
-    align: l
+    align: r
     show_logo: true
-    show_language: false
+    show_language: true
     show_day_night: true
     show_search: true
     highlight_active_link: false
@@ -44,7 +44,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} 澳恪森数智 Oxford Roadmapping {license}'
+    notice: '© {year} Oxford Roadmapping 澳恪森数智 {license}'
     license:
       enable: true
       allow_derivatives: false
