@@ -22,7 +22,7 @@ design:
     gradient_start: '#5b92e5'
     gradient_end: '#002147'
   # The gradient angle from 0-360 degrees
-    gradient_angle: 120
+    gradient_angle: 150
   # Text color (true=light, false=dark, or remove for the dynamic theme color).
   #text_color_light: true
 ---
