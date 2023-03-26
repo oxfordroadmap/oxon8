@@ -19,7 +19,7 @@ design:
   columns: '1'
   background:
   # Choose colors such as from https://html-color-codes.info
-    gradient_start: '#5b92e5'
+    gradient_start: '#5b92e588'
     gradient_end: '#002147'
   # The gradient angle from 0-360 degrees
     gradient_angle: 150
