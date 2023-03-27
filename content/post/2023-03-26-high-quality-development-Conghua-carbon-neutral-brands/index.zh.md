@@ -41,7 +41,7 @@ date: 2023-03-26
 
 〝荔枝不只是水果，更是有从田野到餐桌的各种农产品，从荔枝干到荔枝酒，需要不只是智能的现代营销及物流，更需有促进绿色发展及乡村振兴的增长，〞澳恪森创始人之一潘仲亷点出绿色供应链金融的机会，〝要如何能给有减排或创新的荔枝绿色供应链农户及商家相对映的绿色信用﹑投融资？要如何推动绿色产业营销的同时避免漂绿？要如何打造可信可用的荔枝E碳足迹护照？要如何建立「双碳荔枝」的行业最佳实践﹑标准﹑及标章？〞
 
-![Crops for Carbon Farming](featured.jpg)
+![Crops for Carbon Farming](./featured.jpg)
 
 > 來源： [Crops for Carbon Farming](https://www.frontiersin.org/articles/10.3389/fpls.2021.636709/full)
 
