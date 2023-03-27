@@ -6,7 +6,7 @@
 title: 澳恪森数智科技服务 Oxford Roadmapping  # Website name
 baseURL: '//oxfordroadmap.github.io/oxon8/' # Website URL
 CanonifyURLs: 'true'
-RelativeURLs: 'true'
+# RelativeURLs: 'true'
 
 ############################
 ## LANGUAGE
