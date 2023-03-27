@@ -1,6 +1,6 @@
 ---
 title:  '设计科学+信息科学：数字化转型的知识基础及案例方法'
-date: 2023-03-26
+date: 2023-03-27
 ---
 
 3篇SCIE/SSCI 2区论文《[在 ESG 咨询﹑报告和传播教育方面进行合作](https://oxfordroadmap.github.io/oxon8/post/2023-02-22-esg-education-partner-maps/)》、《[碳中和管理服务数智平台](https://oxfordroadmap.github.io/oxon8/post/2023-02-20-smart-digital-platforms-carbon-neutral-management-services/)》、《[智能港口知识图谱分析：面对全球价值链挑战的研究](https://www.mdpi.com/2079-8954/11/2/88) 》的共同处，除了在攻克〝绿化化及数字化转型促进高质量发展〞的议题之外，就是在方法和数据面向，运用了设计科学+信息科学的取径。
