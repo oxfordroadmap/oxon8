@@ -26,7 +26,7 @@ date: 2023-03-27
 
 ### 设计科学框架助力ESG教育设计
 
-〝ESG教育及培训在财务及金融领域是双碳及可持续高质量发展的重大议题，〞任教于财务及会计本科教育的潘仲亷博士老师表示，〝**为了科学地掌握业界需求，并能运用在数字技术创新**，使用设计科学为基础框架且有信息系统及信息技术大量案例的方法，是自然而然的选择。〞
+〝ESG教育培训在财务及金融领域是双碳及可持续高质量发展的重大议题，〞任教于财务及会计本科教育的潘仲亷博士老师表示，〝**为了科学地掌握业界需求，并能运用在数字技术创新**，使用设计科学为基础框架且有信息系统及信息技术大量案例的方法，是自然而然的选择。〞
 
 〝《[在 ESG 咨询﹑报告和传播教育方面进行合作](https://oxfordroadmap.github.io/oxon8/post/2023-02-22-esg-education-partner-maps/)》论文里就运用到信息系统研究中的设计科学框架，〞廖汉腾博士表示，〝**此科学方法传承例子包括如**[March and Smith, 1995](https://www.frontiersin.org/articles/10.3389/fenvs.2023.1119011/full#B43); [Hevner et al., 2004](https://www.frontiersin.org/articles/10.3389/fenvs.2023.1119011/full#B30); [Bertella et al., 2021](https://www.frontiersin.org/articles/10.3389/fenvs.2023.1119011/full#B3); [Eisape, 2022](https://www.frontiersin.org/articles/10.3389/fenvs.2023.1119011/full#B24); [Fatima et al., 2022](https://www.frontiersin.org/articles/10.3389/fenvs.2023.1119011/full#B28)等人的研究，利用设计工作坊来识别出理论和实践的落差，再以协同设计创新去填补这样的落差。〞
 
