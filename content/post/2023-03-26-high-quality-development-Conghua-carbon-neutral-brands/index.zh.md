@@ -17,7 +17,7 @@ date: 2023-03-26
 
 ![](contact.jpg)
 
-〝碳核算是攻关 “3060” 双碳目标的基础，中国已超出国际前沿发展的供应链金融及平台技术，必需要发展[E碳足迹][E-liability Institute](https://e-liability.institute/about-e-liability/)或碳排护照，支持产品及服务出海〞，台湾科技大学博士潘仲亷博士从市场化及产品化的角度来分析，〝不管是[保加利亚玫瑰](https://baike.baidu.com/item/%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A%E7%8E%AB%E7%91%B0%E8%8A%82/11027118)、从化荔枝的农产品、衍生民生美妆保养商品，还是其下游的酒店餐饮的采购，要如何在创投、供应链金融等方面，进行科学化能核算的支持呢？〞
+〝碳核算是攻关 “3060” 双碳目标的基础，中国已超出国际前沿发展的供应链金融及平台技术，必需要发展[E碳足迹](https://e-liability.institute/about-e-liability/)或碳排护照，支持产品及服务出海〞，台湾科技大学博士潘仲亷博士从市场化及产品化的角度来分析，〝不管是[保加利亚玫瑰](https://baike.baidu.com/item/%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A%E7%8E%AB%E7%91%B0%E8%8A%82/11027118)、从化荔枝的农产品、衍生民生美妆保养商品，还是其下游的酒店餐饮的采购，要如何在创投、供应链金融等方面，进行科学化能核算的支持呢？〞
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/%D0%A0%D0%B8%D1%82%D1%83%D0%B0%D0%BB%D1%8A%D1%82_%D0%A0%D0%BE%D0%B7%D0%BE%D0%B1%D0%B5%D1%80_%D0%B2_%D1%81%D0%B5%D0%BB%D0%BE_%D0%A0%D0%BE%D0%B7%D0%BE%D0%B2%D0%BE.JPG/1024px-%D0%A0%D0%B8%D1%82%D1%83%D0%B0%D0%BB%D1%8A%D1%82_%D0%A0%D0%BE%D0%B7%D0%BE%D0%B1%D0%B5%D1%80_%D0%B2_%D1%81%D0%B5%D0%BB%D0%BE_%D0%A0%D0%BE%D0%B7%D0%BE%D0%B2%D0%BE.JPG)
 > [保加利亚玫瑰節](https://www.rosefestivalkazanlak.com/)
@@ -25,7 +25,11 @@ date: 2023-03-26
 
 〝国家在[统筹推进 “近零碳港口” 建设赋能行业“双碳”](https://info.chineseshipping.com.cn/cninfo/News/202208/t20220825_1368795.shtml)方面，已运用技术打造世界一流港口、绿色港口，〞智彗港口物联网专家罗聪明副教授指出系统创新的发展设计方向，〝出海的、进口的，若有良好的E碳足迹或碳排护照，在选择进出口的海关及港口时，就可以在数智平台上找到近零碳的路径及费用。若已是负碳的绿色农产品，再有“近零碳港口”的碳核算证书，就能串连出可信可查的碳中和产品及品牌。〞
 
-澳恪森创办人之一廖汉腾博士指出国际市场上零碳水果或碳中和农产品的品牌化作法，〝主要是要SBTi科学碳目标倡议，提供坚实信息及数据服务，能面对碳核算等要求，再进行有效的绿色生产、物流、运营及营销。〞
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XfWSMj3CfSE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+> [E碳足迹](https://e-liability.institute/about-e-liability/)或碳排护照：具有打通绿色信息流、金流的潜力
+
+
+澳恪森创办人之一廖汉腾博士指出国际市场上零碳水果或碳中和农产品的品牌化作法，〝主要是要SBTi科学碳目标倡议，提供坚实信息及数据服务，能面对碳核算等要求，再进行有效的绿色生产、物流、运营及营销。若能结合[E碳足迹](https://e-liability.institute/about-e-liability/)或碳排护照，則具有打通绿色信息流、金流的潜力。〞
 
 ### 科技创新服务及产品：双碳荔枝？
 
