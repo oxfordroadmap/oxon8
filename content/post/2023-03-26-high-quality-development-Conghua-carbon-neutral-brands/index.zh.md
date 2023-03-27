@@ -26,6 +26,8 @@ date: 2023-03-26
 〝国家在[统筹推进 “近零碳港口” 建设赋能行业“双碳”](https://info.chineseshipping.com.cn/cninfo/News/202208/t20220825_1368795.shtml)方面，已运用技术打造世界一流港口、绿色港口，〞智彗港口物联网专家罗聪明副教授指出系统创新的发展设计方向，〝出海的、进口的，若有良好的E碳足迹或碳排护照，在选择进出口的海关及港口时，就可以在数智平台上找到近零碳的路径及费用。若已是负碳的绿色农产品，再有“近零碳港口”的碳核算证书，就能串连出可信可查的碳中和产品及品牌。〞
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XfWSMj3CfSE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 > [E碳足迹](https://e-liability.institute/about-e-liability/)或碳排护照：具有打通绿色信息流、金流的潜力
 
 
