@@ -26,7 +26,7 @@ date: 2023-03-30
 根据联合国粮农组织及国际电联的议程文件 ( 见[FAO 官网](https://www.fao.org/e-agriculture/events/itu-webinars-series-episode-21-digital-agriculture-driving-digital-transformation-food) 及[ITU 官网](https://www.itu.int/cities/standards4dt/ep21/#Lehmann))，澳恪森将 Webinar 议程整理如下：
 
 - **14:00 - 14:10** -- **欢迎致辞**
-  - **大江征三** Seizo Onoe ](https://www.itu.int/en/ITU-T/tsbdir/Pages/Seizo_Onoe/biography.aspx)，**国际电联** 电信标准化局 主任
+  - [**大江征三** Seizo Onoe ](https://www.itu.int/en/ITU-T/tsbdir/Pages/Seizo_Onoe/biography.aspx)，**国际电联** 电信标准化局 主任
   - **[Dejan Jakovljevic](https://www.itu.int/en/ITU-T/webinars/DT4CC/20230217/Pages/bios.aspx#Jakovljevic)**，**联合国粮农组织** 首席信息官兼数字化和信息学司司长
   - **[Johannes Lehmann](https://www.itu.int/en/ITU-T/webinars/DT4CC/20230217/Pages/bios.aspx#Lehmann)**，**德国标准化研究所** 智能农业业务发展主管，**ISO 国标准组织** 智能农业战略咨询小组召集人
 - **14：10 - 14：50** -- **分论坛**：**农业数字化转型**
@@ -38,18 +38,32 @@ date: 2023-03-30
 	- [**Ramy Ahmed Fathy**](https://www.itu.int/en/ITU-T/webinars/DT4CC/20230217/Pages/bios.aspx#Fathy)，**国际电联** ITU-T 电信标准化局 第 20 研究组 ITU-T SG20 副主席
 	- [Bilel Jamoussi](https://www.itu.int/en/ITU-T/webinars/DT4CC/20230217/Pages/bios.aspx#Jamoussi)，**国际电联** ITU TSB 研究组组长
 
-![Smart_Farming_def.jpg](Smart_Farming_def.jpg)
-
 
 〝分论坛主体活动是以世界经济论坛、先正达、及微软云为主，〞潘仲亷博士分析，〝突出了**数据作为资产在云端创新创业促进经济发展，运用数字技术创新的新业态**，而 FG-AI4A 的联合主席作为主持人所负责的集团，正是德国主要的电信研究所的应用系统部门，以互动及认知系统的设计切入，显见信息系统及设计科学交叉发展信息技术的必要，是数字农业新业态。〞
 
+![ITU-FG-AI4A-Co-Chair.jpg](ITU-FG-AI4A-Co-Chair.jpg)
+
+> [FG-AI4A](https://www.itu.int/en/ITU-T/focusgroups/ai4a/Pages/default.aspx#) 联合主席 [塞巴斯蒂安·博斯 Sebastian Bosse](https://www.itu.int/en/ITU-T/webinars/DT4CC/20230217/Pages/bios.aspx#Bosse) **德国 Fraunhofer HHI** 互动与认知系统集团 负责人
+
+
 **联合国粮农组织** 首席信息官   [Dejan Jakovljevic](https://www.itu.int/en/ITU-T/webinars/DT4CC/20230217/Pages/bios.aspx#Jakovljevic) 首先点出全球粮农体系安全及韧性，不只要在现有的耕地上增加可持续生产力，更要在此领域使用数字科技协助创新，在供应链上各环节，要提供可负担的技术准入及数字公共产品，才能释放潜力。这对乡村及脆弱群体尤为重要。
 
-〝联合国粮农组织不只强调技术系统创新，〞廖汉腾博士分析，〝更突**数字技术促粮农体系 agri-food systems 的政策顾问及投资的必要性** ，才能将数字农业的投资影响最大化。这也是联合国粮农组织和国际电联合力的出发点，并点名『数据是横跨联合国粮农组织有体系各介入切点的加速器』(data is cross-cutting accelerators across all FAO's programmatic internventions)。〞
+[Dejan Jakovljevic](https://www.itu.int/en/ITU-T/webinars/DT4CC/20230217/Pages/bios.aspx#Jakovljevic)从粮食安全的时序、进用、使用、及稳定 的四项关键原则出发，主张物理网及人工智能应整体性的对农粮体系的上下游进行跨领域的通力协作，以达经济规模。
 
 ### 启示 1 ：农业供应链的数据驱动转型 -- 广东**_绿色碳链通_**农业机运
 
+〝联合国粮农组织不只强调技术系统创新，〞廖汉腾博士分析，〝更突**数字技术促粮农体系 agri-food systems 的政策顾问及投资的必要性** ，才能将数字农业的投资影响最大化。这也是联合国粮农组织和国际电联合力的出发点，并点名『数据是横跨联合国粮农组织有体系各介入切点的加速器』(data is cross-cutting accelerators across all FAO's programmatic internventions)。〞
+
+![FAO-Dejan-Jakovljevic.jpg](FAO-Dejan-Jakovljevic.jpg)
+
+
+〝像 ITU 及 ISO 标准，作为真正的国际标准化组织，得开发市场能采用且可规模化应用的信息科技，来确保数据驱动平衡的成功，来支持粮食安全的四原则。〞 Dejan Jakovljevic 说。
+
 〝这让我们更确认了，澳恪森的绿色信息流打通供应链各平台及节点的重要性，〞潘仲亷博士补充，〝联合国粮农组织指出人工智能用于监控森林、农害、人力投入、肥料运用等，亦点出在经济、社会、及伦理的风控，必需要有符合国际人权原则的人工智能设计 ，这和我们即将发表的供应链安全韧性及劳动人权论文结论十分契合，也是乡村振兴在成功精准脱贫后，要精准脱碳的关键抓手。〞
+
+![Smart_Farming_def.jpg](Smart_Farming_def.jpg)
+
+> 智能农业的工作定义：于农业价值链上，数据驱动的丶有原则的决策，能对多种通常互相冲突的目标进行最佳化，以面对全球VUCA的环境。來源：[R. Andres Ferreyra](https://www.itu.int/en/ITU-T/webinars/DT4CC/20230217/Pages/bios.aspx#Ferreyra)，**先正达** (Syngenta) 
 
 〝没错，绿色数据、绿色信息流需在农业供应链能发挥正面角色，〞廖汉腾博士指出在地的前沿机运，〝广东已成功依托**企业碳账户+供应链金融** 推出 **_绿色碳链通_** 融资业务，是[**绿色金融**创新用例](http://www.greenfinance.org.cn/displaynews.php?cid=86&id=3537)，十分需要在农业及乡村振兴领域开发相关**绿色供应链金融科技** Green Supply Chain FinTech，根据农业供应商不同的测评等级和绿色标识，提供差异化的信贷融资、数字技术支持、甚至是租税优免或产业补贴，以支持上下游供应商企业进行绿色改造升级和日常运营。〞
 
@@ -59,13 +73,11 @@ date: 2023-03-30
 
 ### 启示 2 ：支持粮食安全的数据驱动转型 -- 国际原则及用例
 
-[FG-AI4A](https://www.itu.int/en/ITU-T/focusgroups/ai4a/Pages/default.aspx#) 联合主席 [塞巴斯蒂安·博斯 Sebastian Bosse](https://www.itu.int/en/ITU-T/webinars/DT4CC/20230217/Pages/bios.aspx#Bosse)则从粮食安全的时序、进用、使用、及稳定 的四项关键原则出发，主张物理网及人工智能应整体性的对农粮体系的上下游进行跨领域的通力协作，以达经济规模。
-
-〝像 ITU 及 ISO 标准，作为真正的国际标准化组织，得开发市场能采用且可规模化应用的信息科技，来确保数据驱动平衡的成功，来支持粮食安全的四原则。〞 塞巴斯蒂安·博斯说。
-
 在实践上，智能农业策略顾问组在 2021 年 9 月召集 150 名专家，针对 ISO 标准实现农粮供应链的可互操性 (interoperatbility)，而 ITU [FG-AI4A](https://www.itu.int/en/ITU-T/focusgroups/ai4a/Pages/default.aspx#) 则聚焦在物联网及人工智能。
 
 **世界经济论坛 (WEF)**  农业工业 4.0 革命 负责人[Abhay Pareek](https://www.itu.int/en/ITU-T/webinars/DT4CC/20230217/Pages/bios.aspx#Pareek)，也以其在印度在地及国际论坛的经验，同意经济规模化达成粮食安全四原则的重要，以及用数据驱动为主的取径。
+
+![WEF_Agri-Industry-4.0-Abhay-Pareek.jpg](WEF_Agri-Industry-4.0-Abhay-Pareek.jpg)
 
 Abhay Pareek 分享了在 3 大领域的实践，基于 30 多项用例研究：(1) 增进包容性：让女性、青年、及老年农民可透过数字手段进用包括信用及保险的金融服务；(2) 增进可持续性：让农业参与者能有效地运用包括水等资源；(3)  提高供应链效率：包括鼓励农业科技的创新创业。这方面特别需要数据 (包括政府及产业的数据)、技术、及技术验证的支持及服务 。
 
