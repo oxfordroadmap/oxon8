@@ -15,7 +15,7 @@ date: 2023-03-30
 
 ### 数字农业生态设计能催生新产业新业态
 
-〝绿色转型、数字转型的双化融合，在农业领域就需要新产业新业态生态设计，这也是像[_国家工业设计研究院（生态设计领域）_](http://news.zjnu.edu.cn/2022/0324/c8449a390137/page.htm)、[_车载信息服务产业应用联盟 TIAA_](https://www.tiaa.org.cn/index/temdown/index.html)等组织在人才培养、标准服务等持续进行知识及技术转化的工作。〞廖汉腾博士指出，〝现在正进行国际标准制定活动的[国际电信联盟 ITU-T 专门小组](https://www.itu.int/en/ITU-T/focusgroups/Pages/default.aspx "ITU-T Focus Groups")，[FG-AI4A](https://www.itu.int/en/ITU-T/focusgroups/ai4a/Pages/default.aspx#) ，致力于构建**数字农业的人工智能 (AI) 和物联网 (IoT)** 的 专门词汇表 _**WG-Gloss**_、用例和解决方案 _**WG-Gloss**_、数据采集和建模 _**WG-Gloss**_、标准活动的路线图 _**WG-Roadmap**_、伦理法律和监管考虑 _**WG-ELR**_、协作和外联 **_WG-CO_**、等等工作。〞
+〝绿色转型、数字转型的双化融合，在农业领域就需要新产业新业态生态设计，这也是像[_国家工业设计研究院（生态设计领域）_](http://news.zjnu.edu.cn/2022/0324/c8449a390137/page.htm)、[_车载信息服务产业应用联盟 TIAA_](https://www.tiaa.org.cn/index/temdown/index.html)等组织在人才培养、标准服务等持续进行知识及技术转化的工作。〞廖汉腾博士指出，〝现在正进行国际标准制定活动的[国际电信联盟 ITU-T 专门小组](https://www.itu.int/en/ITU-T/focusgroups/Pages/default.aspx "ITU-T Focus Groups")，[FG-AI4A](https://www.itu.int/en/ITU-T/focusgroups/ai4a/Pages/default.aspx#) ，致力于构建**数字农业的人工智能 (AI) 和物联网 (IoT)** 的 专门词汇表 _**WG-Gloss**_、用例和解决方案 _**WG-AS**_、数据采集和建模 _**WG-DAM**_、标准活动的路线图 _**WG-Roadmap**_、伦理法律和监管考虑 _**WG-ELR**_、协作和外联 **_WG-CO_**、等等工作。〞
 
 潘仲亷博士表示，〝这些打底的知识及技术转化的工作，不只有全球知名研究单位参与，亦有如华为、[车载信息服务产业应用联盟 TIAA](https://www.tiaa.org.cn/index/temdown/index.html)等中国的企业及行业的参加，显见相关的单位，在数字农业领域催生新产业新业态的强烈动机。〞
 
@@ -135,7 +135,7 @@ R. Andres Ferreyrag 配合图表进行报告，并指出目前的难点有以下
 澳恪森数智科技服务征求加入 ITU FG-AI4A 的合作伙伴，参与以下活动，使致力于构建**数字农业的人工智能 (AI) 和物联网 (IoT)** 的[FG-AI4A](https://www.itu.int/en/ITU-T/focusgroups/ai4a/Pages/default.aspx#) 国际标准的讨论流程，能有效采集并试验在地的数字农业及绿色金融科技：
 
 - 专门词汇表 _**WG-Gloss**_、
-- 用例和解决方案 _**WG-Gloss**_、
+- 用例和解决方案 _**WG-AS**_、
 - 标准活动的路线图 _**WG-Roadmap**_
 
 〝供应链金融低碳体系建设方面，农业及农粮体系在国家[粮食安全战略高度](https://www.chinanews.com.cn/gn/2023/03-29/9980766.shtml)下可不能少。〞澳恪森创办人与商业模式运营官潘仲亷博士总结。〝支持智能农业及乡村振兴的绿色供应链金融，对从化的农业、旅游业、酒店业、美妆业等等，都是关键需要高质量发展的商业模式创新，这也是我们最近发表的《[在 ESG 咨询﹑报告和传播教育方面进行合作](https://oxfordroadmap.github.io/oxon8/post/2023-02-22-esg-education-partner-maps/)》、《[碳中和管理服务数智平台](https://oxfordroadmap.github.io/oxon8/post/2023-02-20-smart-digital-platforms-carbon-neutral-management-services/)》两篇论文及系列设计画布的发展相符。〞 ( 参见[《 设计科学+信息科学：不论任何学科都能用上的知识及方法》](https://oxfordroadmap.github.io/oxon8/post/2023-03-27-design-science-plus-information-science/) )
