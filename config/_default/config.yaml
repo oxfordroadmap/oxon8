@@ -28,8 +28,7 @@ languages:
         event: 日程
         publication: 发发
         contact: 联络我们
-        menu: 菜单
-    title: 澳恪森数智科技服务
+     title: 澳恪森数智科技服务
     weight: 2
   zh-tw:
     title: 澳恪森數智科技服務
