@@ -4,8 +4,8 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
-    url: /oxon8
+  - name: home
+    url: home
     weight: 5
   - name: tour
     url: tour
