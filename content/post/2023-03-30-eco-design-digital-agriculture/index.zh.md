@@ -7,7 +7,7 @@ date: 2023-03-30
 
 **产业振兴**、**农业产业链**、**新产业新业态**要如何做？
 
-联合国[**国际电信联盟**](https://www.itu.int/zh/about/Pages/default.aspx) (ITU，简称 **国际电联**，负责**信息通信技术 ICT 事务**的专门机构) ，及[粮食及农业组织](https://www.fao.org/home/zh) (FAO，简称 **粮农组织**，负责**消除饥饿**的专门机构 **) ，亦已合作于[2023 年 2 月 17 日在线研讨会 ](https://itu.zoom.us/rec/play/zmdnzzW2a2y-1P9XM0GzQTShgHK4k4KtbS6kJX5pMeXGqLVkYMZGZ-opt6AsWii2CzsBM7-kMV7RdL2X.hRjzOJsdYSB2UFY1?startTime=1676638840000&_x_zm_rtaid=yoN60stZT-eP9f9NWA4MNg.1680104621320.50988e2cd7b334379f81d2ea2c62f7e1&_x_zm_rhtaid=287)。以《数字农业：为粮食安全驱动数字转型》为题，是国际电信联盟在线研讨会系列第 21 集。
+联合国[**国际电信联盟**](https://www.itu.int/zh/about/Pages/default.aspx) (ITU，简称 **国际电联**，负责**信息通信技术 ICT 事务**的专门机构) ，及[粮食及农业组织](https://www.fao.org/home/zh) (FAO，简称 **粮农组织**，负责**消除饥饿**的专门机构 ) ，亦已合作于[2023 年 2 月 17 日在线研讨会 ](https://itu.zoom.us/rec/play/zmdnzzW2a2y-1P9XM0GzQTShgHK4k4KtbS6kJX5pMeXGqLVkYMZGZ-opt6AsWii2CzsBM7-kMV7RdL2X.hRjzOJsdYSB2UFY1?startTime=1676638840000&_x_zm_rtaid=yoN60stZT-eP9f9NWA4MNg.1680104621320.50988e2cd7b334379f81d2ea2c62f7e1&_x_zm_rhtaid=287)。以《数字农业：为粮食安全驱动数字转型》为题，是国际电信联盟在线研讨会系列第 21 集。
 
 澳恪森两位创办人，数据科学家廖汉腾博士与商业模式运营官潘仲亷博士进行了学习及笔记。
 
@@ -50,7 +50,10 @@ date: 2023-03-30
 
 [Dejan Jakovljevic](https://www.itu.int/en/ITU-T/webinars/DT4CC/20230217/Pages/bios.aspx#Jakovljevic)从粮食安全的时序、进用、使用、及稳定 的四项关键原则出发，主张物理网及人工智能应整体性的对农粮体系的上下游进行跨领域的通力协作，以达经济规模。
 
-### 启示 1 ：农业供应链的数据驱动转型 -- 广东**_绿色碳链通_**农业机运
+-----
+
+
+### 启示 1 ：农业供应链的数据驱动转型 -- 广东**绿色碳链通**农业机运
 
 〝联合国粮农组织不只强调技术系统创新，〞廖汉腾博士分析，〝更突**数字技术促粮农体系 agri-food systems 的政策顾问及投资的必要性** ，才能将数字农业的投资影响最大化。这也是联合国粮农组织和国际电联合力的出发点，并点名『数据是横跨联合国粮农组织有体系各介入切点的加速器』(data is cross-cutting accelerators across all FAO's programmatic internventions)。〞
 
@@ -71,6 +74,8 @@ date: 2023-03-30
 
 〝这是绿色数据及信息流促进社会、环境、治理 (ESG) 效益的**精准支持**及数据驱动**精准脱碳**、**精准减排**的最新理论及实践路径，〞廖汉腾博士总结，〝在**扩大企业碳账户的行业覆盖面**的工作建议之下，农业有不少[生物能源与碳捕获和储存 (BECCS )](https://www.eco.gov.cn/news_info/51244.html)在零碳或负碳的机运，打通绿色品牌、技术、地理标志、等估值的 **高质量发展**，[设计如『双碳荔枝』、『碳中和玫瑰』品牌之绿色金融科技路线图](https://oxfordroadmap.github.io/oxon8/post/2023-03-26-high-quality-development-conghua-carbon-neutral-brands/)。
 
+-----
+
 ### 启示 2 ：支持粮食安全的数据驱动转型 -- 国际原则及用例
 
 在实践上，智能农业策略顾问组在 2021 年 9 月召集 150 名专家，针对 ISO 标准实现农粮供应链的可互操性 (interoperatbility)，而 ITU [FG-AI4A](https://www.itu.int/en/ITU-T/focusgroups/ai4a/Pages/default.aspx#) 则聚焦在物联网及人工智能。
@@ -84,6 +89,8 @@ Abhay Pareek 分享了在 3 大领域的实践，基于 30 多项用例研究：
 政府可以扮演支点或驱动者的角色，将私部门创新者的金融及非金融动机进行支持，Abhay Pareek 表示，让数据集可以在 PPP 框架下进行交流，所以推出了数据交流及交易中心、最后一哩协作合作、沙盒试验、以提供安全可控的人工智能运用的解决方案。
 
 〝PPP 框架、沙盒试验等社会-技术手段，〞廖汉腾博士总结，〝看来是使用数据支持粮食安全的可行路径。如何能有效采集并试验在地的数字农业及绿色金融科技将是重要的工作。[广东省碳普惠交易](http://gdee.gd.gov.cn/attachment/0/487/487047/3905858.pdf) 可算是类似的 **增进包容性** 试验。〞
+
+-----
 
 ### 启示 3：智能农业在粮农体系核心问题 -- 标准的推广及教学重要
 
@@ -117,7 +124,9 @@ R. Andres Ferreyrag 配合图表进行报告，并指出目前的难点有以下
 
 〝针对数智农业的数据及分析标准，〞廖汉腾博士总结，〝看来需要可互操性高的标准，这方面中国的相关行业及国家标准的建构及发展将是重要的工作。〞
 
-### 合作机运：征求加入 ITU FG-AI4A 的合作伙伴
+-----
+
+### 合作机运：澳恪森数智征求加入 ITU FG-AI4A 的合作伙伴
 
 聚焦<span class="highlight-container highlight-yellow"><span class="highlight"><a href="#脚注">数智平台 ¹</a></span></span> 与   <span class="highlight-container highlight-green"><span class="highlight"><a href="#脚注">绿色金融科技 ²</a></span></span>  <span class="highlight-container highlight-fushia"><span class="highlight"><a href="#脚注">设计创新 ³</a></span></span>的 **澳恪森数智科技服务** ，认同此次联合国信息通信技术及农粮组织的权威前沿讨论结论之一：易用易交换的数据标准及数据分析标准是发展的必要。
 
