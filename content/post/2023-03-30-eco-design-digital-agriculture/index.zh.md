@@ -7,7 +7,7 @@ date: 2023-03-30
 
 **产业振兴**、**农业产业链**、**新产业新业态**要如何做？
 
-联合国**_负责信息通信技术（ICT）事务的专门机构_**的[**国际电信联盟**](https://www.itu.int/zh/about/Pages/default.aspx) (ITU) ，**_饥饿消除专门机构_**的 **[粮食及农业组织（粮农组织）](https://www.fao.org/home/zh)** (FAO) ，亦以《数字农业：为粮食安全驱动数字转型》为题，于[2023 年 2 月 17 日进行了一小时的在线研讨会 ](https://itu.zoom.us/rec/play/zmdnzzW2a2y-1P9XM0GzQTShgHK4k4KtbS6kJX5pMeXGqLVkYMZGZ-opt6AsWii2CzsBM7-kMV7RdL2X.hRjzOJsdYSB2UFY1?startTime=1676638840000&_x_zm_rtaid=yoN60stZT-eP9f9NWA4MNg.1680104621320.50988e2cd7b334379f81d2ea2c62f7e1&_x_zm_rhtaid=287)。
+联合国[**国际电信联盟**](https://www.itu.int/zh/about/Pages/default.aspx) (ITU，简称 **国际电联**，负责**信息通信技术 ICT 事务**的专门机构) ，及[粮食及农业组织](https://www.fao.org/home/zh) (FAO，简称 **粮农组织**，负责**消除饥饿**的专门机构 **) ，亦已合作于[2023 年 2 月 17 日在线研讨会 ](https://itu.zoom.us/rec/play/zmdnzzW2a2y-1P9XM0GzQTShgHK4k4KtbS6kJX5pMeXGqLVkYMZGZ-opt6AsWii2CzsBM7-kMV7RdL2X.hRjzOJsdYSB2UFY1?startTime=1676638840000&_x_zm_rtaid=yoN60stZT-eP9f9NWA4MNg.1680104621320.50988e2cd7b334379f81d2ea2c62f7e1&_x_zm_rhtaid=287)。以《数字农业：为粮食安全驱动数字转型》为题，是国际电信联盟在线研讨会系列第 21 集。
 
 澳恪森两位创办人，数据科学家廖汉腾博士与商业模式运营官潘仲亷博士进行了学习及笔记。
 
@@ -23,7 +23,7 @@ date: 2023-03-30
 
 ### 议程及主要利益相关者分析
 
-根据联合国粮农组织及国际电信联盟 (简称 **国际电联** 的议程文件 (见[FAO E-Agriculture 官网](https://www.fao.org/e-agriculture/events/itu-webinars-series-episode-21-digital-agriculture-driving-digital-transformation-food) 及[ITU 官网](https://www.itu.int/cities/standards4dt/ep21/#Lehmann))，澳恪森将 Webinar 议程，是国际电信联盟在线研讨会系列第 21 集，整理如下：
+根据联合国粮农组织及国际电联的议程文件 ( 见[FAO 官网](https://www.fao.org/e-agriculture/events/itu-webinars-series-episode-21-digital-agriculture-driving-digital-transformation-food) 及[ITU 官网](https://www.itu.int/cities/standards4dt/ep21/#Lehmann))，澳恪森将 Webinar 议程整理如下：
 
 - **14:00 - 14:10** -- **欢迎致辞**
   - **大江征三** Seizo Onoe ](https://www.itu.int/en/ITU-T/tsbdir/Pages/Seizo_Onoe/biography.aspx)，**国际电联** 电信标准化局 主任
