@@ -6,6 +6,7 @@
 main:
   - name: Home
     pageRef: /oxon8/
+    url: oxon8
     weight: 5
   - name: tour
     url: tour
