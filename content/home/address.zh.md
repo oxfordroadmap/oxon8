@@ -26,3 +26,5 @@ design:
   # Text color (true=light, false=dark, or remove for the dynamic theme color).
   #text_color_light: true
 ---
+
+![WEDC_site-20220223175659171-1024x.jpg](WEDC_site-20220223175659171-1024x.jpg)
