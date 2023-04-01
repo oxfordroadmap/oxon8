@@ -31,7 +31,7 @@ tags:
   - just transitions
   - Industry 4.0
   - big data analytics 
-featured: false
+featured: true
 
 # links:
 # - name: ""
