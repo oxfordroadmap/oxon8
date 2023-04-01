@@ -4,10 +4,6 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
-    pageRef: /oxon8/
-    url: oxon8
-    weight: 5
   - name: tour
     url: tour
     weight: 10
@@ -17,12 +13,12 @@ main:
   - name: people
     url: people
     weight: 30
-  - name: event
-    url: event
-    weight: 40
   - name: publication
     url: publication
     weight: 50
   - name: contact
     url: #contact
     weight: 60
+#  - name: event
+#    url: event
+#    weight: 40

@@ -1,5 +1,5 @@
 ---
-title: 发&发
+title: Publications
 
 # Listing view
 view: citation
@@ -7,7 +7,5 @@ view: citation
 # Optional banner image (relative to `assets/media/` folder).
 banner:
   caption: '发表&发布'
-  image: ''
+  image: 'Encyclopédie_Figurative_System_of_Human_Knowledge.jpg'
 ---
-
-简要说明?------------------------------------Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!--------------------------------------'
