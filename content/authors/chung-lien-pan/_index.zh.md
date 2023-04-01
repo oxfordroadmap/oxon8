@@ -63,11 +63,15 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
 
+# Highlight the author in author lists? (true/false)
+highlight_name: true
+
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Founders
 ---
+
 ### 潘仲亷 Pan, Chung-Lien
 * ORCID: [0000-0001-9488-5329](https://orcid.org/0000-0001-9488-5329)
 
