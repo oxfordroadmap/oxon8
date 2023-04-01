@@ -70,6 +70,8 @@ email: ''
 user_groups:
   - Founders
 ---
+### 潘仲亷 Pan, Chung-Lien
+* ORCID: [0000-0001-9488-5329](https://orcid.org/0000-0001-9488-5329)
 
 潘仲亷 Chung-Lien Pan (Member, IEEE) was born in Kaohsiung, Taiwan, in 1965. He received a bachelor’s degree in management, Executive MBA in 2001, and PhD in Finance in 2017, all from the National Taiwan University of Science and Technology, Taipei, Taiwan. From 1992 to 2001, he was a Project Manager at the Aviation Development Center of the Zhongshan Institute of Science, Taiwan. From 2001 to 2004, he was the Product and Administration Manager of Vastwiew Technology at Hsinchu Science Park. From 2005 to 2007; he was an investment manager at Standard Chartered Bank Priority Banking. From 2007 to 2016, he served as the general manager of Wanghong Venture Capital Consulting Company. Since 2017, he has been an Associate Professor (Financial Management) at the Nanfang College of Sun Yat-Sen University, now known as the Nanfang College of Guangzhou, China. Together with Dr. Liao, he established a university-level research center (Higher Education Impact Assessment Center) and served as the Associate Director. In the past three years, he has published more than 30 papers. With his past industrial experience at the intersection of finance and managment of information systems (MIS), his current research interests include green digital transformation, ESG reporting, sustainable development goals, carbon neutrality, green supply chains, and Fintech.
 
