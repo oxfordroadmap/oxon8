@@ -7,10 +7,10 @@ authors:
   - Chung-Lien Pan
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
-role:  负责人、CFO/COO
+role:  CFO/COO
 
 # Organizations/Affiliations
 organizations:
