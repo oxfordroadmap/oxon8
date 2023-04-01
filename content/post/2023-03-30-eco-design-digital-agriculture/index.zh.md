@@ -1,6 +1,19 @@
 ---
-title:  '数字农业生态设计：联合国信息通信技术及农粮组织的前沿讨论'
+title:  '数字农业生态设计：联合国粮农数字化转型的前沿讨论'
 date: 2023-03-30
+categories:
+- 数字化转型
+- DigitialTransformation
+tags:
+- 数字化转型
+- DigitialTransformation
+- 数字化转型
+- AgriFood
+- 农粮体系
+- FinTech
+- 金融科技
+- RuralVitalization
+- 乡村振兴
 ---
 
 乡村振兴作为粮食安全战略，「要...积极延伸和拓展**农业产业链**，培育发展农村**新产业新业态**，...」
