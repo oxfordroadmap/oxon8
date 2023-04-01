@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 潘仲亷 Chung-Lien Pan 
+title: 潘仲亷
 
 # Username (this should match the folder name)
 authors:
