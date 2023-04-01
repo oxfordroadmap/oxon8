@@ -29,5 +29,7 @@ design:
 
 ![WEDC_site-20220223175659171-1024x.jpg](WEDC_site-20220223175659171-1024x.jpg)
 
+```{.rounded .mx-auto .d-block .align-middle}
 ![icon.png](icon.png)
-{.rounded .mx-auto .d-block .align-middle}
+
+```
