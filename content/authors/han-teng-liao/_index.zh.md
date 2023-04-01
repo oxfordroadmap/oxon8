@@ -2,6 +2,10 @@
 # Display name
 title: 廖汉腾 Han-Teng Liao (DPhil. Oxon.) 
 
+# Username (this should match the folder name)
+authors:
+  - Han-Teng Liao
+
 # Is this the primary user of the site?
 superuser: true
 
