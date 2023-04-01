@@ -21,7 +21,6 @@ publication_short: ''
 abstract: "Supply chain sustainability has gone beyond the sustainability-performance towards sustainability-practice approach, and how can digital technologies enhance such sustainability-practice approach for improving resilience and human rights, especially as part of the green and digital twin transition after the Covid-19 pandemic? To enrich the sustainability-practice approach with digital, resilient, and human labor considerations, the paper has conducted a roadmapping exercise based on knowledge mapping on the topic. The knowledge dataset was collected in late December 2022 from the Web of Science Core Collection. By mapping the current supply chain knowledge in the dimensions of resilience, human rights, and digital technologies, the knowledge mapping results, including the intellectual and conceptual structure and the main concepts and ideas, form the basis for the roadmapping taxonomy proposed in the paper. The taxonomy highlights the importance of dynamics capabilities facing supply chain disruptions, especially their ripple effects, along with the corresponding digital technologies to enhance the human social dynamics in facing such disruptions. The proposed taxonomy synthesized the knowledge of practices and theories learned from the major impact of Covid-19 in shaping supply chain practices with the help of digital technologies and human cooperation. By providing a people- and community-centric knowledge-based framework and relevant managerial insights, as the main contribution of the research, the taxonomy should help professionals and researchers to enhance their understanding of resilience in designing and implementing digital solutions that shape actions and interactions that are articulated and circulated in networked, digitized, and datafied forms, with the ultimate purpose to improve the supply chain and operations practices for sustainability."
 # Summary. An optional shortened abstract.
 summary: Designing and implementing digital solutions to shape interactions within the supply chain and operations practices for sustainability can benefit from the proposed taxonomy.   It synthesized the knowledge of practices and theories learned from the major impact of Covid-19 in shaping supply chain practices with the help of digital technologies and human cooperation.
-
 tags:
   - supply chain resilience
   - ESG
@@ -32,7 +31,6 @@ tags:
   - Industry 4.0
   - big data analytics 
 featured: true
-
 # links:
 # - name: ""
 #   url: ""
