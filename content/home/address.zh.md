@@ -7,7 +7,7 @@ subtitle:
 content:
   email: oxon8com@outlook.com
   address:
-    street: '广州市 从化区温泉镇温泉东路75号 [湾区设计开放大学]  75 Wenquan East Rd, Conghua'
+    street: '广州市 从化区温泉镇温泉东路75号 [湾区设计开放大学]  <br/> 75 Wenquan East Rd, Conghua'
     city: 'Guangzhou, Guangdong'
     country: China
     country_code: CN
