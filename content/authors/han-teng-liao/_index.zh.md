@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 廖汉腾 Han-Teng Liao (DPhil. Oxon.) 
+title: 廖汉腾
 
 # Username (this should match the folder name)
 authors:
@@ -70,7 +70,7 @@ user_groups:
   - Affiliated Principal Investigators
 ---
 
-### 廖汉腾  Liao, Han-Teng
+### 廖汉腾  Liao, Han-Teng 
 * ORCID: [0000-0003-1081-5599](https://orcid.org/0000-0003-1081-5599)
 * WOS收录：15  |  WOS核心合集引用：24  |  H 因子：4
 	* ResearcherID: [AAC-5793-2019](https://www.webofscience.com/wos/author/rid/AAC-5793-2019)  |  论文： 54 篇 |  合作者：22  |  H 因子：4
