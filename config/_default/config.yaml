@@ -31,6 +31,7 @@ languages:
     title: 澳恪森数智科技服务
     weight: 2
   zh-tw:
+    params:
       navigation:
         tour: 精准脫碳之旅
         news: 綠色數位轉型發展
