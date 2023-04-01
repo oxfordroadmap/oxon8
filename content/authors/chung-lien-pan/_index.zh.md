@@ -10,9 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role:
-  - name: CFO/COO
-  - name: Associate Professor
+role:  负责人、CFO/COO
 
 # Organizations/Affiliations
 organizations:
