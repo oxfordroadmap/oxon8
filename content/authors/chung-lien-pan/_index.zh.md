@@ -48,7 +48,7 @@ social:
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/GeorgeCushen
-#  - icon: google-scholar
+  - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com.sg/scholar?hl=en&as_sdt=0%2C48&q=Chung-Lien+Pan
 #  - icon: github
