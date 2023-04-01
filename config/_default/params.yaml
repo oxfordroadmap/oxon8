@@ -22,7 +22,8 @@ marketing:
     twitter: 'oxoneight'
   analytics:
     google_analytics: ''
-    baidu_tongji: ''
+    baidu_tongji: '41eb279f42ca292a4eacc18b2d4f86d5'
+    microsoft_clarity: ''
   verification:
     google: ''
     baidu: ''
