@@ -17,7 +17,7 @@ organizations:
   - name: 澳恪森数智科技服务 Oxford Roadmapping 
     url: 'https://oxon8.com/author/chung-lien-pan/'
 #  - name: GDT for Green Digital Transformation, Nanfang College-Guangzhou
-@    url: 'https://edu.ieee.org/cn-ncg/officers/advisor-pan-chung-lien/'
+#    url: 'https://edu.ieee.org/cn-ncg/officers/advisor-pan-chung-lien/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: He continuously work in the area of FinTech, including the cross-disciplinary work in the area of green digital transformation with the team members of the university-level GDT for Green and Digital Transformation and the ESG Data-Driven Decisions Lab at Nanfang College-Guangzhou, formally known as Nanfang College of Sun-Yat Sen University.
