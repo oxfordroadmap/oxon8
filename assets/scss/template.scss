@@ -7,9 +7,10 @@ img {
   margin: auto;
 }
 
-// .navbar-brand {
+ .navbar-brand {
+   padding: 0 0 0 48px 
 //   pointer-events: none;
-// }
+}
 
 .navbar-brand:before {
     content: '';
@@ -18,7 +19,7 @@ img {
     position: absolute;
     width: 32px;
     height: 32px;
-    margin-left: -42px;
+    margin: -5px -48px auto;
 }
 
 

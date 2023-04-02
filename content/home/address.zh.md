@@ -7,7 +7,7 @@ subtitle:
 content:
   email: oxon8com@outlook.com
   address:
-    street: '广州市 从化区温泉镇温泉东路75号 [湾区设计开放大学]  <br/> 75 Wenquan East Rd, Conghua'
+    street: '澳恪森数智科技服务（广州）有限公司 <br/> 广州市 从化区温泉镇温泉东路75号 [湾区设计开放大学]  <br/> Oxford Roadmapping Inc. <br/> 75 Wenquan East Rd, Conghua'
     city: 'Guangzhou, Guangdong'
     country: China
     country_code: CN
@@ -22,7 +22,7 @@ design:
     gradient_start: '#5b92e588'
     gradient_end: '#002147'
   # The gradient angle from 0-360 degrees
-    gradient_angle: 150
+    gradient_angle: 180
   # Text color (true=light, false=dark, or remove for the dynamic theme color).
   #text_color_light: true
 ---
