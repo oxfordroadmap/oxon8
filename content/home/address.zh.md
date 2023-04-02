@@ -1,8 +1,8 @@
 ---
 widget: contact
 headless: true
-weight: 60
-title: '来自湾区﹑服务湾区  --- 澳恪森数智 地址'
+weight: 50
+title: '来自湾区﹑服务湾区  --- 澳恪森数智 '
 subtitle: 
 content:
   email: oxon8com@outlook.com
@@ -26,9 +26,11 @@ design:
   # Text color (true=light, false=dark, or remove for the dynamic theme color).
   #text_color_light: true
 ---
+![icon.png](icon.png)
 
 ![WEDC_site-20220223175659171-1024x.jpg](WEDC_site-20220223175659171-1024x.jpg)
 
 
-![icon.png](icon.png)
+<a name="contact"></a>
 
+# 连络地址
