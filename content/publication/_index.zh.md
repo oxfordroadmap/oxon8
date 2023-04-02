@@ -11,3 +11,5 @@ banner:
 ---
 
 ### 论文 & 报告
+
+<div class="fa-3x"><i class="fa-solid fa-heart fa-beat" style="--fa-beat-scale: 2.0;"></i></div> 
