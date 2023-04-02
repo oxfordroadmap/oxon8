@@ -65,8 +65,10 @@ projects: ['prj-Green_FinTech_Supply_Chain']
 slides: "Supply_Chain"
 ---
 
+<a href="https://www.scimagojr.com/journalsearch.php?q=21100826280&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=21100826280" alt="SCImago Journal &amp; Country Rank"  /></a>
+
 {{% callout note %}}
-单击  _Cite_ 按钮，导出文献元数据，方便访问者能够将出版物信息导入参考文献管理软件
+单击 _引用_ 按钮，导出文献元数据，方便访问者能够将出版物信息导入参考文献管理软件
 {{% /callout %}}
 
 

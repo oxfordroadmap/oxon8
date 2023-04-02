@@ -12,3 +12,12 @@ url_pdf: "https://www.frontiersin.org/articles/10.3389/fevo.2023.1134381"
 doi: "10.3389/fevo.2023.1134381"
 ---
 
+
+<a href="https://www.scimagojr.com/journalsearch.php?q=21100834704&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=21100834704" alt="SCImago Journal &amp; Country Rank"  /></a>
+
+
+{{% callout note %}}
+单击 _引用_ 按钮，导出文献元数据，方便访问者能够将出版物信息导入参考文献管理软件
+{{% /callout %}}
+
+
