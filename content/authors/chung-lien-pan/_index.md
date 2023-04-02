@@ -1,33 +1,27 @@
 ---
-# Display name
 title: 潘仲亷
-
-# Username (this should match the folder name)
+role: CFO/COO
+avatar_filename: avatar.jpg
+organizations:
+  - name: 澳恪森数智科技服务 Oxford Roadmapping
+    url: https://oxon8.com/author/chung-lien-pan/
+superuser: true
 authors:
   - Chung-Lien Pan
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role:  CFO/COO
-
-# Organizations/Affiliations
-organizations:
-  - name: 澳恪森数智科技服务 Oxford Roadmapping 
-    url: 'https://oxon8.com/author/chung-lien-pan/'
-#  - name: GDT for Green Digital Transformation, Nanfang College-Guangzhou
-#    url: 'https://edu.ieee.org/cn-ncg/officers/advisor-pan-chung-lien/'
-
-# Short bio (displayed in user profile at end of posts)
-bio: He continuously work in the area of FinTech, including the cross-disciplinary work in the area of green digital transformation with the team members of the university-level GDT for Green and Digital Transformation and the ESG Data-Driven Decisions Lab at Nanfang College-Guangzhou, formally known as Nanfang College of Sun-Yat Sen University.
-
+bio: He continuously work in the area of FinTech, including the
+  cross-disciplinary work in the area of green digital transformation with the
+  team members of the university-level GDT for Green and Digital Transformation
+  and the ESG Data-Driven Decisions Lab at Nanfang College-Guangzhou, formally
+  known as Nanfang College of Sun-Yat Sen University.
 interests:
   - innovation and entrepreneurship
   - business models
   - FinTech
   - supply chain management
-
+social:
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com.sg/scholar?hl=en&as_sdt=0%2C48&q=Chung-Lien+Pan
 education:
   courses:
     - course: PhD in Finance
@@ -36,40 +30,10 @@ education:
     - course: Executive MBA
       institution: National Taiwan University of Science and Technology
       year: 2001
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-#  - icon: envelope
-#    icon_pack: fas
-#    link: 'mailto:test@example.org'
-#  - icon: twitter
-#    icon_pack: fab
-#    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com.sg/scholar?hl=en&as_sdt=0%2C48&q=Chung-Lien+Pan
-#  - icon: github
-#    icon_pack: fab
-#    link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'peter5612@gmail.com'
-
-# Highlight the author in author lists? (true/false)
-highlight_name: true
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Founders
+highlight_name: true
+email: peter5612@gmail.com
 ---
 
 ### 潘仲亷 Pan, Chung-Lien
