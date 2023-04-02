@@ -39,5 +39,5 @@ Systems 是社会科学引文索引Social Science Citation Index, SSCI收录期�
 -----
 
 {{% callout note %}}
-单击  _Cite_ 按钮，导出文献元数据，方便访问者能够将出版物信息导入参考文献管理软件
+单击  _引用_  按钮，导出文献元数据，方便访问者能够将出版物信息导入参考文献管理软件
 {{% /callout %}}
