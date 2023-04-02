@@ -13,6 +13,8 @@ url_pdf: "https://www.mdpi.com/2079-8954/11/2/88"
 doi: "10.3390/systems11020088"
 ---
 
+<a href="https://www.scimagojr.com/journalsearch.php?q=21101020135&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=21101020135" alt="SCImago Journal &amp; Country Rank"  /></a>
+
 ### 港口在全球供应链变化下，如何进行绿色数字化转型变革？
 
 [澳恪森数智科技服务](https://oxon8.com/)负责人、数据科学家[廖汉腾](https://oxon8.com/author/%E5%BB%96%E6%B1%89%E8%85%BE/)博士，与从化在地高校的电气与计算机工程学、会计学高级科研人员合作，产出智能港口知识图谱及技术路线图，以面对全球价值链挑战的研究。
@@ -61,8 +63,6 @@ doi: "10.3390/systems11020088"
 澳恪森数智科技服务，英文名为 Oxford Roadmapping 牛津路线图，征求合作互助伙伴，包括但不限于如 [《Technological Forecasting & Social Change》（TFSC）2023 会议征稿](https://mp.weixin.qq.com/s?src=11&timestamp=1680422814&ver=4443&signature=faVRH4jt1orKyRa6qYZIOJkptFX2Hq3DLw55-*K6gOPYim6-aLlKe7pEe1BjhQSCeNoBz6tFyTDhFUWjPzYcmIdEIpsnzdVeYxuXSEc2rIFMHMl5qh4iq-tlYKU2JIe*&new=1)。
 
 ---
-
-<a href="https://www.scimagojr.com/journalsearch.php?q=21101020135&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=21101020135" alt="SCImago Journal &amp; Country Rank"  /></a>
 
 {{% callout note %}}
 单击 _引用_ 按钮，导出文献元数据，方便访问者能够将出版物信息导入参考文献管理软件

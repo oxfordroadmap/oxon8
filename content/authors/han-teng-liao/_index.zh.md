@@ -15,8 +15,7 @@ organizations:
   - name: 澳恪森数智科技服务 Oxford Roadmapping 
     url: 'https://oxon8.com/'
 
-# Short bio (displayed in user profile at end of posts)
-bio: 研发兴趣包括 [数字化绿色化双化转型](https://joint-research-centre.ec.europa.eu/jrc-news/twin-green-digital-transition-how-sustainable-digital-technologies-could-enable-carbon-neutral-eu-2022-06-29_en)﹑[碳中和](https://www.frontiersin.org/articles/10.3389/fenvs.2023.1119011/abstract) 数智平台﹑及 [人工智能科技向善](https://aiforgood.itu.int/)。     My research interests include [twin green digital transition](https://joint-research-centre.ec.europa.eu/jrc-news/twin-green-digital-transition-how-sustainable-digital-technologies-could-enable-carbon-neutral-eu-2022-06-29_en), [carbon neutrality](https://www.frontiersin.org/articles/10.3389/fenvs.2023.1119011/abstract), and [Artificial Intelligence for Good](https://aiforgood.itu.int/).
+# [澳恪森数智科技服务](https://oxon8.com/) 负责人、数据科学家。 研发兴趣包括 [数字化绿色化双化转型](https://joint-research-centre.ec.europa.eu/jrc-news/twin-green-digital-transition-how-sustainable-digital-technologies-could-enable-carbon-neutral-eu-2022-06-29_en)﹑[碳中和](https://www.frontiersin.org/articles/10.3389/fenvs.2023.1119011/abstract) 数智平台﹑及 [人工智能科技向善](https://aiforgood.itu.int/)。     
 
 interests:
   - 技术路线图
@@ -92,7 +91,7 @@ user_groups:
 
 他担任高等教育影响评估中心（也称为*GDT 促 绿色数字化转型*）的主任，一直通过基于云端、API 的人工智能项目管理和产品设计课程和工作坊来推进可持续发展的创新教学和研究。
 
-他担任过在中国广州从化举行的*2019 年世界生态设计大会：可持续发展创新设计与互联网生态*的会议主席，并编辑名为“**互联网生态设计向善**”报告。 他担任过在美国华盛顿特区举行的*2011 年中国互联网研究会议*（**互联网发展的中国因素：全球公共产品，国家政策和私人利益**）的会议组织者。
+他担任过在中国广州从化举行的*2019 年世界生态设计大会：可持续发展创新设计与互联网生态*的会议主席，并编辑名为 “**互联网生态设计向善**” 报告。 他担任过在美国华盛顿特区举行的 *2011 年中国互联网研究会议*（**互联网发展的中国因素：全球公共产品，国家政策和私人利益**）的会议组织者。
 
 他持续致力于人工智能向善和技术向善领域，包括与广州南方学院校级*GDT 绿色和数字化转型*和*ESG 数据驱动决策实验室*的团队成员一起，在绿色数字化转型领域开展跨学科工作。
 
