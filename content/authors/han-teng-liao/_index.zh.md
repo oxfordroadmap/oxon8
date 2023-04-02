@@ -21,21 +21,23 @@ organizations:
 bio: 研发兴趣包括 [数字化绿色化双化转型](https://joint-research-centre.ec.europa.eu/jrc-news/twin-green-digital-transition-how-sustainable-digital-technologies-could-enable-carbon-neutral-eu-2022-06-29_en)﹑[碳中和](https://www.frontiersin.org/articles/10.3389/fenvs.2023.1119011/abstract) 数智平台﹑及 [人工智能科技向善](https://aiforgood.itu.int/)。     My research interests include [twin green digital transition](https://joint-research-centre.ec.europa.eu/jrc-news/twin-green-digital-transition-how-sustainable-digital-technologies-could-enable-carbon-neutral-eu-2022-06-29_en), [carbon neutrality](https://www.frontiersin.org/articles/10.3389/fenvs.2023.1119011/abstract), and [Artificial Intelligence for Good](https://aiforgood.itu.int/).
 
 interests:
-  - Twin Green Digital Transition
-  - Carbon Neutrality
-  - Artificial Intelligence for Good (AI4Good)
-  - Technology Roadmapping
+  - 技术路线图
+  - 技术采用路线图
+  - 双化协同发展
+  - 碳中和
+  - 人工智能向善技术向善
+  - 技术向善
 
 education:
   courses:
-    - course: PhD in Information, Communication and Social Sciences
-      institution: Oxford University
+    - course: 信息、传播和社会 科学博士学位
+      institution: 英国牛津大学
       year: 2014
-    - course: MEng in Computer Science and Information Engineering, MSc in Journalism
-      institution: National Taiwan University
+    - course: 计算机科学与信息工程硕士学位 及 新闻学硕士
+      institution: 台湾大学
       year: 2004
-    - course: BEng in Electrical Engineering, BSc in Foreign Languages and Literatures
-      institution: National Taiwan University
+    - course: 电气工程学士 及 外国语言文学学士
+      institution: 台湾大学
       year: 2000
 
 social:
@@ -83,7 +85,7 @@ user_groups:
 
 廖汉腾 (IEEE会员; 牛津博士) 1976年生于台湾台北。他于2000年获得台湾大学电气工程 ([NTUEE](https://web.ee.ntu.edu.tw/eng/about1.php)) 学士学位及外国语言文学学士学位。他于2004年获同一所大学计算机科学与信息工程 ([NTUCSIE](https://www.csie.ntu.edu.tw/)) 硕士学位及新闻学硕士学位。
 
-在台湾台北中央研究院信息科学研究所担任开源软件平台Open Source Software Foundry的项目经理，再担任营级政战官和代理连长（台湾义务兵役）后，他于2014年获得**英国牛津大学**信息，传播和社会科学博士学位。博士论文研究跨越不同国家、地区和语言边界的**开放合作**的治理和绩效。
+在台湾台北中央研究院信息科学研究所担任开源软件平台Open Source Software Foundry的项目经理，再担任营级政战官和代理连长（台湾义务兵役）后，他于2014年获得**英国牛津大学**信息、传播和社会科学博士学位。博士论文研究跨越不同国家、地区和语言边界的**开放合作**的治理和绩效。
 
 博士后工作，以循证政策研究(evidence-based policy research)工作为主。2015年至2016年，为联合国大学计算与社会研究所（UNU-CS）的第一位研究员，之前他还在位于美国华盛顿特区的**乔治城大学**外交学院担任雅虎研究员和位于德国柏林的**亚历山大·冯·洪堡大学**互联网与社会研究所的暑期研究员做与互联网相关的智库型研究。自2017年以来，他一直担任广州南方学院（前身为中山大学南方学院）的副教授。
 
