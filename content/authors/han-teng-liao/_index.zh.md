@@ -2,7 +2,7 @@
 # Display name
 title: 廖汉腾
 role: 负责人、数据科学家 Lead Data Scientist
-avatar_filename: avatar.png
+avatar_filename: avatar_HTL.png
 # Username (this should match the folder name)
 authors:
   - Han-Teng Liao
@@ -70,7 +70,7 @@ user_groups:
   - Affiliated Principal Investigators
 ---
 
-### 廖汉腾  Liao, Han-Teng 
+# 廖汉腾  Liao, Han-Teng 
 * ORCID: [0000-0003-1081-5599](https://orcid.org/0000-0003-1081-5599)
 * WOS收录：15  |  WOS核心合集引用：24  |  H 因子：4
 	* ResearcherID: [AAC-5793-2019](https://www.webofscience.com/wos/author/rid/AAC-5793-2019)  |  论文： 54 篇 |  合作者：22  |  H 因子：4
@@ -79,7 +79,7 @@ user_groups:
 * [Loop Profile](https://loop.frontiersin.org/people/1440943/overview)：54 |  引用：31  |  Views：[7,000+](https://loop.frontiersin.org/people/1440943/impact)    |  Downloads：1,200+ 
 * CNKI收录：3  (北大核心 1 CSSCI 1 )
 
-### [澳恪森数智科技服务](https://oxon8.com/) 负责人、数据科学家
+## 个人简介：[澳恪森数智科技服务](https://oxon8.com/) 负责人、数据科学家
 
 廖汉腾 (IEEE会员; 牛津博士) 1976年生于台湾台北。他于2000年获得台湾大学电气工程 ([NTUEE](https://web.ee.ntu.edu.tw/eng/about1.php)) 学士学位及外国语言文学学士学位。他于2004年获同一所大学计算机科学与信息工程 ([NTUCSIE](https://www.csie.ntu.edu.tw/)) 硕士学位及新闻学硕士学位。
 
@@ -98,3 +98,5 @@ user_groups:
 他最近在 2021 年 IEEE TEMSMET 会议上获得了优异证书，以表彰他在 **CSR（企业社会责任）**和 **ESG（环境、社会和治理）报告**研究工作中发挥的引领作用。他是IEEE TEMS的成员和该大学的IEEE学生分会顾问。
 
 他目前的研究社会服务目的是推进生态设计、商业生态系统两者的产学合作，特别是关于云计算（例如软件即服务）、人工智能（AI）和大数据等平台如何通过监测、分析、评估和设计关键指标指标来推进可持续发展目标（主要是与碳中和相关的气候目标），这些计量指标需经〝可行共识机制〞方法，定义和具体化新兴的未来技术，如何以集成、可审计和负责任的方式应用，产出正面社经及环境影响。
+
+## 科研与技术

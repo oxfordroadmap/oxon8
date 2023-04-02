@@ -70,7 +70,7 @@ user_groups:
   - Affiliated Principal Investigators
 ---
 
-### 廖汉腾  Liao, Han-Teng 
+# 廖汉腾  Liao, Han-Teng 
 * ORCID: [0000-0003-1081-5599](https://orcid.org/0000-0003-1081-5599)
 * WOS收录：15  |  WOS核心合集引用：24  |  H 因子：4
 	* ResearcherID: [AAC-5793-2019](https://www.webofscience.com/wos/author/rid/AAC-5793-2019)  |  论文： 54 篇 |  合作者：22  |  H 因子：4
@@ -79,7 +79,7 @@ user_groups:
 * [Loop Profile](https://loop.frontiersin.org/people/1440943/overview)：54 |  引用：31  |  Views：[7,000+](https://loop.frontiersin.org/people/1440943/impact)    |  Downloads：1,200+ 
 * CNKI收录：3  (北大核心 1 CSSCI 1 )
 
-### [澳恪森数智科技服务](https://oxon8.com/) 负责人、数据科学家
+## 个人简介：[澳恪森数智科技服务](https://oxon8.com/) 负责人、数据科学家
 
 廖汉腾 (IEEE会员; 牛津博士) 1976年生于台湾台北。他于2000年获得台湾大学电气工程 ([NTUEE](https://web.ee.ntu.edu.tw/eng/about1.php)) 学士学位及外国语言文学学士学位。他于2004年获同一所大学计算机科学与信息工程 ([NTUCSIE](https://www.csie.ntu.edu.tw/)) 硕士学位及新闻学硕士学位。
 

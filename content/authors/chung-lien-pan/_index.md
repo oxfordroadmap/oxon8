@@ -1,7 +1,7 @@
 ---
 title: 潘仲亷
 role: CFO/COO
-avatar_filename: avatar.png
+avatar_filename: avatar_HTL.png
 organizations:
   - name: 澳恪森数智科技服务 Oxford Roadmapping
     url: https://oxon8.com/author/chung-lien-pan/
