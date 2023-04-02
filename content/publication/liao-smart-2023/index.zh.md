@@ -9,5 +9,6 @@ abstract: "This brief research report focuses on the effects of artificial intel
 featured: true
 publication: "*Frontiers in Ecology and Evolution*"
 url_pdf: "https://www.frontiersin.org/articles/10.3389/fevo.2023.1134381"
+doi: "10.3389/fevo.2023.1134381"
 ---
 
