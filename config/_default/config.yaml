@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: 澳恪森数智科技服务 Oxford Roadmapping  # Website name
-baseURL: 'https://oxon8.com' # Website URL
+baseURL: 'https://oxon8.com/' # Website URL
 canonifyURLs: 'false'
 
 
