@@ -50,7 +50,7 @@ content:
         text: '发表论文 & 发布报告 --  分享问题及解决方案 💡'
         url: https://oxon8.com/publication/
     - title: '🎁 Oxon8 助您运用世界一流前沿方法，'
-      content: '点创新火苗 ❤️‍🔥  ***「吾生也有涯，而知也无涯」*** 掌握知识及情报...'
+      content: '点创新火苗 ❤️‍🔥 「吾生也有涯，而知也无涯」掌握知识及情报...'
       align: right
       background:
         position: center
@@ -63,7 +63,7 @@ content:
         text: '最新消息--双化协同发展 📰'
         url: https://oxon8.com/post/
     - title: '💡 Oxon8 助您成就技术创新火炬，'
-      content: '照亮人类共同体前路 ✊ *** 行道「天涯若比邻 ... 海内存知己」*** 按目的工具箱🧰'
+      content: '照亮人类共同体前路 ✊  行道「天涯若比邻 ... 海内存知己」运用創新設計工具箱🧰'
       align: right
       background:
         position: center
