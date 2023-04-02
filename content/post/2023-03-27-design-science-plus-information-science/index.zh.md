@@ -3,7 +3,7 @@ title:  '设计科学+信息科学：不论任何学科都能用上的知识及�
 date: 2023-03-27
 ---
 
-3篇SCIE/SSCI 2区论文《[在 ESG 咨询﹑报告和传播教育方面进行合作](https://oxfordroadmap.github.io/oxon8/post/2023-02-22-esg-education-partner-maps/)》、《[碳中和管理服务数智平台](https://oxfordroadmap.github.io/oxon8/post/2023-02-20-smart-digital-platforms-carbon-neutral-management-services/)》、《[智能港口知识图谱分析：面对全球价值链挑战的研究](https://www.mdpi.com/2079-8954/11/2/88) 》的共同处，除了在攻克〝绿化化及数字化转型促进高质量发展〞的议题之外，就是在方法和数据面向，运用了设计科学+信息科学的取径。
+3篇SCIE/SSCI 2区论文《[在 ESG 咨询﹑报告和传播教育方面进行合作](https://oxon8.com/post/2023-02-22-esg-education-partner-maps/)》、《[碳中和管理服务数智平台](https://oxon8.com/post/2023-02-20-smart-digital-platforms-carbon-neutral-management-services/)》、《[智能港口知识图谱分析：面对全球价值链挑战的研究](https://oxon8.com/publication/liao-knowledge-2023/) 》的共同处，除了在攻克〝绿化化及数字化转型促进高质量发展〞的议题之外，就是在方法和数据面向，运用了设计科学+信息科学的取径。
 
 〝只要有方法，就解决大多数人害怕理论的难点。从省级项目的立项或结项，到大学生的创新创业比赛甚至是本科论文，〞**澳恪森**创办人潘仲亷博士，亦是**知研1对1**辅导老师表示，〝**不论任何学科**，都能使用设计科学+信息科学来完成，取得成果。进可攻坚创新，退可发表论文完成保底任务。〞
 
@@ -28,11 +28,11 @@ date: 2023-03-27
 
 〝ESG教育培训在财务及金融领域是双碳及可持续高质量发展的重大议题，〞任教于财务及会计本科教育的潘仲亷博士老师表示，〝**为了科学地掌握业界需求，并能运用在数字技术创新**，使用设计科学为基础框架且有信息系统及信息技术大量案例的方法，是自然而然的选择。〞
 
-〝《[在 ESG 咨询﹑报告和传播教育方面进行合作](https://oxfordroadmap.github.io/oxon8/post/2023-02-22-esg-education-partner-maps/)》论文里就运用到信息系统研究中的设计科学框架，〞廖汉腾博士表示，〝**此科学方法传承例子包括如**[March and Smith, 1995](https://www.frontiersin.org/articles/10.3389/fenvs.2023.1119011/full#B43); [Hevner et al., 2004](https://www.frontiersin.org/articles/10.3389/fenvs.2023.1119011/full#B30); [Bertella et al., 2021](https://www.frontiersin.org/articles/10.3389/fenvs.2023.1119011/full#B3); [Eisape, 2022](https://www.frontiersin.org/articles/10.3389/fenvs.2023.1119011/full#B24); [Fatima et al., 2022](https://www.frontiersin.org/articles/10.3389/fenvs.2023.1119011/full#B28)等人的研究，利用设计工作坊来识别出理论和实践的落差，再以协同设计创新去填补这样的落差。〞
+〝《[在 ESG 咨询﹑报告和传播教育方面进行合作](https://oxon8.com/post/2023-02-22-esg-education-partner-maps/)》论文里就运用到信息系统研究中的设计科学框架，〞廖汉腾博士表示，〝**此科学方法传承例子包括如**[March and Smith, 1995](https://www.frontiersin.org/articles/10.3389/fenvs.2023.1119011/full#B43); [Hevner et al., 2004](https://www.frontiersin.org/articles/10.3389/fenvs.2023.1119011/full#B30); [Bertella et al., 2021](https://www.frontiersin.org/articles/10.3389/fenvs.2023.1119011/full#B3); [Eisape, 2022](https://www.frontiersin.org/articles/10.3389/fenvs.2023.1119011/full#B24); [Fatima et al., 2022](https://www.frontiersin.org/articles/10.3389/fenvs.2023.1119011/full#B28)等人的研究，利用设计工作坊来识别出理论和实践的落差，再以协同设计创新去填补这样的落差。〞
 
 ### 设计画布内涵循环经济、利益关系人分析的绿色经管思维
 
-〝ESG教育本身就要处理环境、社会、治理的多方思维，〞潘仲亷博士老师表示，〝设计科学已在商管、可持续性等领域**已有现成的设计画布，能让设计工作坊参与者通过运用及讨论，把相关的知识及需求按理论框架纳入成设计成果**，《[在 ESG 咨询﹑报告和传播教育方面进行合作](https://oxfordroadmap.github.io/oxon8/post/2023-02-22-esg-education-partner-maps/)》论文用的是[Circulab（2020）](https://www.frontiersin.org/articles/10.3389/fenvs.2023.1119011/full#B13)提供的合作伙伴地图画布，直接就整合了环境学科的可持续性分析、以及商管+创新学的利益相关者分析。〞
+〝ESG教育本身就要处理环境、社会、治理的多方思维，〞潘仲亷博士老师表示，〝设计科学已在商管、可持续性等领域**已有现成的设计画布，能让设计工作坊参与者通过运用及讨论，把相关的知识及需求按理论框架纳入成设计成果**，《[在 ESG 咨询﹑报告和传播教育方面进行合作](https://oxon8.com/post/2023-02-22-esg-education-partner-maps/)》论文用的是[Circulab（2020）](https://www.frontiersin.org/articles/10.3389/fenvs.2023.1119011/full#B13)提供的合作伙伴地图画布，直接就整合了环境学科的可持续性分析、以及商管+创新学的利益相关者分析。〞
 
 ![](https://www.frontiersin.org/files/Articles/1119011/fenvs-11-1119011-HTML/image_m/fenvs-11-1119011-g001.jpg)
 
@@ -42,19 +42,19 @@ date: 2023-03-27
 
 ### 设计画布内涵数智平台、平台经济、及商业模式分析及创造的思维
 
-〝《[碳中和管理服务数智平台](https://oxfordroadmap.github.io/oxon8/post/2023-02-20-smart-digital-platforms-carbon-neutral-management-services/)》用的画布则是著名的平台经济商业模式画布，〞潘仲亷博士老师补充，〝商业模式不只能用来分析，还能用来创新创业。〞
+〝《[碳中和管理服务数智平台](https://oxon8.com/post/2023-02-20-smart-digital-platforms-carbon-neutral-management-services/)》用的画布则是著名的平台经济商业模式画布，〞潘仲亷博士老师补充，〝商业模式不只能用来分析，还能用来创新创业。〞
 
 ![](https://www.frontiersin.org/files/Articles/1134381/fevo-11-1134381-HTML/image_m/fevo-11-1134381-g001.jpg)
 
-> **[碳中和管理服务数智平台](https://oxfordroadmap.github.io/oxon8/post/2023-02-20-smart-digital-platforms-carbon-neutral-management-services/)画布**
+> ** [碳中和管理服务数智平台](https://oxon8.com/post/2023-02-20-smart-digital-platforms-carbon-neutral-management-services/)画布**
 
-〝的确，在数智平台此类传统为信息系统及管理的学科，若能结合设计思维﹑不但能用作数据收集及分析框架，还能作为创新起点。〞廖汉腾博士解释，〝《[碳中和管理服务数智平台](https://oxfordroadmap.github.io/oxon8/post/2023-02-20-smart-digital-platforms-carbon-neutral-management-services/)》还将量化及质化的数据整合到此平台设计创新画布上，突出的是价值『协同』设计的开创。〝
+〝的确，在数智平台此类传统为信息系统及管理的学科，若能结合设计思维﹑不但能用作数据收集及分析框架，还能作为创新起点。〞廖汉腾博士解释，〝《[碳中和管理服务数智平台](https://oxon8.com/post/2023-02-20-smart-digital-platforms-carbon-neutral-management-services/)》还将量化及质化的数据整合到此平台设计创新画布上，突出的是价值『协同』设计的开创。〝
 
 〝我们在该论文还点出平台创新的理论及实践，和『开放协作』产出网络价值效应原则直接相关，〞廖汉腾博士解释，〝『开放协作』引出『开放创新』，又接连到了『设计协作』co-design 的价值主张生态系创新。〝
 
 ### 知识图谱的设计画布创新：基于前研文献知识为基础的双创思维
 
-〝《[智能港口知识图谱分析](https://www.mdpi.com/2079-8954/11/2/88) 》的论文，则也运用到含系统创新、复杂理论的设计思维，〞廖汉腾博士说明此篇论文的设计学方法如何能和信息学的文献计量学方法相结合，〝想象设计学的最简化版本就是有(1)议题空间，及(2)解决方案空间，那么所有的科学及产业实践问题都可以一一对映放在这两空间上面。〞
+〝《[智能港口知识图谱分析：面对全球价值链挑战的研究](https://oxon8.com/publication/liao-knowledge-2023/) 》的论文，则也运用到含系统创新、复杂理论的设计思维，〞廖汉腾博士说明此篇论文的设计学方法如何能和信息学的文献计量学方法相结合，〝想象设计学的最简化版本就是有(1)议题空间，及(2)解决方案空间，那么所有的科学及产业实践问题都可以一一对映放在这两空间上面。〞
 
 〝议题有哪些，解决方案有哪些，〞潘仲亷博士老师补充，〝 怎么有结构、有组织、有层次的分析及说明，其本身就是学科知识及前沿知识。〞
 
@@ -69,7 +69,7 @@ date: 2023-03-27
 
 ### 基于知识图谱的前瞻策略设计
 
-廖汉腾博士说明知识图谱分析成果如合成为前瞻策略设计的基础，〝《[智能港口知识图谱分析](https://www.mdpi.com/2079-8954/11/2/88) 》的结论则是应用到socio-technical transition 社会-技术转型过渡的理论，其知识正有环境可持续学科 (sustainability) 及社会-技术设计 (socio-technical design) 科学的较长时间向度及创新尺度的学科传统。〞
+廖汉腾博士说明知识图谱分析成果如合成为前瞻策略设计的基础，〝《[智能港口知识图谱分析](https://oxon8.com/publication/liao-knowledge-2023/) 》的结论则是应用到socio-technical transition 社会-技术转型过渡的理论，其知识正有环境可持续学科 (sustainability) 及社会-技术设计 (socio-technical design) 科学的较长时间向度及创新尺度的学科传统。〞
 
 
 ![A socio-technical transition framework of green smart ports.](https://www.mdpi.com/systems/systems-11-00088/article_deploy/html/images/systems-11-00088-g010.png)
