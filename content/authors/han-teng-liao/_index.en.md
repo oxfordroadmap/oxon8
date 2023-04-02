@@ -1,7 +1,8 @@
 ---
 # Display name
-title: 廖汉腾
-
+title: Han-Teng Liao 廖汉腾
+role: Lead Data Scientist
+avatar_filename: avatar.png
 # Username (this should match the folder name)
 authors:
   - Han-Teng Liao
@@ -9,12 +10,9 @@ authors:
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position
-role: 负责人、数据科学家 Lead Data Scientist
-
 # Organizations/Affiliations
 organizations:
-  - name: 澳恪森数智科技服务 Oxford Roadmapping 
+  - name: Oxford Roadmapping 澳恪森数智科技服务 
     url: 'https://oxon8.com/'
 
 # Short bio (displayed in user profile at end of posts)

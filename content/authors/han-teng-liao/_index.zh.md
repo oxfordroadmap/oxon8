@@ -1,16 +1,14 @@
 ---
 # Display name
 title: 廖汉腾
-
+role: 负责人、数据科学家 Lead Data Scientist
+avatar_filename: avatar.png
 # Username (this should match the folder name)
 authors:
   - Han-Teng Liao
 
 # Is this the primary user of the site?
 superuser: true
-
-# Role/position
-role: 负责人、数据科学家 Lead Data Scientist
 
 # Organizations/Affiliations
 organizations:
