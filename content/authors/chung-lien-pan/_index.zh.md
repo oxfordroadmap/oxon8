@@ -22,10 +22,10 @@ social:
     link: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C48&q=Chung-Lien+Pan
 education:
   courses:
-    - course: 金融学博士
+    - course: 财务金融博士
       institution: 台湾科技大学
       year: 2017
-    - course: 行政工商管理硕士
+    - course: 高阶管理硕士
       institution: 台湾科技大学
       year: 2001
 user_groups:
@@ -37,8 +37,8 @@ email: peter5612@gmail.com
 ### 潘仲亷 Pan, Chung-Lien
 * ORCID: [0000-0001-9488-5329](https://orcid.org/0000-0001-9488-5329)
 
-潘仲亷 Chung-Lien Pan (Member, IEEE) was born in Kaohsiung, Taiwan, in 1965. He received a bachelor’s degree in management, Executive MBA in 2001, and PhD in Finance in 2017, all from the National Taiwan University of Science and Technology, Taipei, Taiwan. From 1992 to 2001, he was a Project Manager at the Aviation Development Center of the Zhongshan Institute of Science, Taiwan. From 2001 to 2004, he was the Product and Administration Manager of Vastwiew Technology at Hsinchu Science Park. From 2005 to 2007; he was an investment manager at Standard Chartered Bank Priority Banking. From 2007 to 2016, he served as the general manager of Wanghong Venture Capital Consulting Company. Since 2017, he has been an Associate Professor (Financial Management) at the Nanfang College of Sun Yat-Sen University, now known as the Nanfang College of Guangzhou, China. Together with Dr. Liao, he established a university-level research center (Higher Education Impact Assessment Center) and served as the Associate Director. In the past three years, he has published more than 30 papers. With his past industrial experience at the intersection of finance and managment of information systems (MIS), his current research interests include green digital transformation, ESG reporting, sustainable development goals, carbon neutrality, green supply chains, and Fintech.
+潘仲亷 (IEEE会员) 1965年出生于台湾高雄，1999年获得管理学学士学位，2002年获得台湾科技大学高阶管理硕士学位，2017年获得台湾科技大学财务金融博士学位。1992年至2001年，担任台湾中山科学院航空发展中心项目经理。 2001年至2004年，任新竹科学园区钰瀚科技产品及行政经理。2005年至2007年担任渣打银行优先理财的投资经理。2007年至2016年任旺鸿创业投资顾问公司总经理。2017年起任中山大学南方学院（现中国广州南方学院）副教授（财务管理）。与廖博士共同建立校级研究中心（高等教育影响评估中心）并于2023年接任主任。近三年来，发表论文40余篇。凭借过去在金融和信息系统管理 (MIS) 交叉领域的行业经验，他目前的研究兴趣包括绿色数字化转型、ESG 报告、可持续发展目标、碳中和、绿色供应炼和金融科技。
 
-With more than ten-year working experience in venture capital across industries ranging from aviation manufacturing, mass-consumption retail, and foreign-capital banks, Associate Professor Pan currently coaches college students in innovation and entrepreneurship (I&E) as a professor of practice. In I&E, he has been undertaking the work as competition judges for the 2021 China “Internet +” College Students Innovation and Entrepreneurship Competition. He also serves as the I&E mentor of Guangzhou Nansha Pioneering Park, at the heart of the Greater Bay Area (the Guangdong-Hong Kong-Macao Greater Bay Area). He has been actively engaging students with the IEEE TEMS inter-disciplinary activities in the area of I&E, ESG, FinTech and carbon neutrality, with the university-wide record in advising students publishing and presenting research in international conferences. He continuously work in the area of FinTech, including the cross-disciplinary work in the area of green digital transformation with the team members of the university-level GDT for Green and Digital Transformation and the ESG Data-Driven Decisions Lab at Nanfang College-Guangzhou, formally known as Nanfang College of Sun-Yat Sen University.
+潘副教授在航空制造、大众消费零售、外资银行等行业拥有超过十年的风险投资工作经验，目前以创业导师的身份指导大学生创新创业。在创新创业方面，一直承担着2021~2022年中国“互联网+”大学生创新创业大赛评委工作。他还担任位于粤港澳大湾区核心地带的广州南沙创业园的创新创业导师。他一直积极让学生参与创新创业、ESG、金融科技和碳中和领域的 IEEE TEMS 跨学科活动，并在全校范围内为学生在国际会议上发表和展示研究提供建议。他一直在金融科技领域工作，包括与大学级 GDT 绿色和数字化转型团队成员以及广州南方学院 ESG 数据驱动决策实验室的团队成员在绿色数字化转型领域的跨学科工作。
 
 ## 科研与技术
