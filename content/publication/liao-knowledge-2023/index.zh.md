@@ -17,13 +17,16 @@ doi: "10.3390/systems11020088"
 
 [澳恪森数智科技服务](https://oxon8.com/)负责人、数据科学家[廖汉腾](https://oxon8.com/author/%E5%BB%96%E6%B1%89%E8%85%BE/)博士，与从化在地高校的电气与计算机工程学、会计学高级科研人员合作，产出智能港口知识图谱及技术路线图，以面对全球价值链挑战的研究。
 
+澳恪森数智科技服务3 个月的有效交流合作，产出高影响因子及分区高水平索引论文，持续在智能双碳、智能医疗等领域，征求合作互助伙伴。
+
 ### 系统创新对齐利益相关者，以面对全球供应链断链风险及清晰双碳目标管理
 
 此文揭示了系统创新在利益相关者的对齐及管理方面的必要性，以面对全球供应链断链风险、港口入口出口数据作为双碳目标管理、全球价值链数据作为地方及行业治理的迫切性、本研究为建立更清晰和可行的智能港口与双碳实现绿色化数字化双化路线图的学科发展做出贡献。
 
+> Systems 是社会科学引文索引 Social Science Citation Index, SSCI 收录期刊，根据 Journal Citation Reports（JCR）分区，2020 年影响因子为 Q2 2 区，期刊跨学科评价指标 Journal Citation Indicator（JCI）分区为 Q1 1 区。
+
 ![./20220203-Systems_Intelligent_Ports.svg](./20220203-Systems_Intelligent_Ports.svg)
 
-> Systems 是社会科学引文索引 Social Science Citation Index, SSCI 收录期刊，根据 Journal Citation Reports（JCR）分区，2020 年影响因子为 Q2 2 区，期刊跨学科评价指标 Journal Citation Indicator（JCI）分区为 Q1 1 区。
 
 ### 3 个月的有效交流合作，产出高影响因子及分区高水平索引论文
 
@@ -53,7 +56,7 @@ doi: "10.3390/systems11020088"
 
 此文揭示了系统创新在利益相关者的对齐及管理方面的必要性，以面对全球供应链断链风险、港口入口出口数据作为双碳目标管理、全球价值链数据作为地方及行业治理的迫切性、本研究为建立更清晰和可行的智能港口与双碳实现绿色化数字化双化路线图的学科发展做出贡献。
 
-### 澳恪森数智科技服务与高校影响力研究中心征求合作互助伙伴
+### 澳恪森数智科技服务征求合作互助伙伴
 
 澳恪森数智科技服务，英文名为 Oxford Roadmapping 牛津路线图，征求合作互助伙伴，包括但不限于如 [《Technological Forecasting & Social Change》（TFSC）2023 会议征稿](https://mp.weixin.qq.com/s?src=11&timestamp=1680422814&ver=4443&signature=faVRH4jt1orKyRa6qYZIOJkptFX2Hq3DLw55-*K6gOPYim6-aLlKe7pEe1BjhQSCeNoBz6tFyTDhFUWjPzYcmIdEIpsnzdVeYxuXSEc2rIFMHMl5qh4iq-tlYKU2JIe*&new=1)。
 
