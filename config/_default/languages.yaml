@@ -12,9 +12,6 @@ en:
     description: Innovate with Designs of Smart Platforms and Green FinTech, on a mission to reduce gigatones of GHG emissions by transforming how carbon neutrality information flows change business operations and supply chains
   menu:
     main:
-      - name: event
-        url: 'event'
-        weight: 4
       - name: people
         url: 'people'
         weight: 3
@@ -40,9 +37,6 @@ zh:
       - name: 发发
         url: 'publication'
         weight: 5
-      - name: 日程
-        url: 'event'
-        weight: 4
       - name: 成员
         url: 'people'
         weight: 3
