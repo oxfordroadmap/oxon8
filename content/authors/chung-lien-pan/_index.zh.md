@@ -1,76 +1,36 @@
 ---
-# Display name
 title: 潘仲亷
-role:  CFO/COO
+role: CFO/COO
 avatar_filename: avatar.png
-
-# Username (this should match the folder name)
+organizations:
+  - name: 澳恪森数智科技服务 Oxford Roadmapping
+    url: https://oxon8.com/author/chung-lien-pan/
+superuser: true
 authors:
   - Chung-Lien Pan
-
-# Is this the primary user of the site?
-superuser: true
-
-
-
-# Organizations/Affiliations
-organizations:
-  - name: 澳恪森数智科技服务 Oxford Roadmapping 
-    url: 'https://oxon8.com/author/chung-lien-pan/'
-#  - name: GDT for Green Digital Transformation, Nanfang College-Guangzhou
-#    url: 'https://edu.ieee.org/cn-ncg/officers/advisor-pan-chung-lien/'
-
-# Short bio (displayed in user profile at end of posts)
-bio: He continuously work in the area of FinTech, including the cross-disciplinary work in the area of green digital transformation with the team members of the university-level GDT for Green and Digital Transformation and the ESG Data-Driven Decisions Lab at Nanfang College-Guangzhou, formally known as Nanfang College of Sun-Yat Sen University.
+bio: 澳恪森数智科技服务公司的CFO及COO，潘仲亷持续在金融及供应链领域进行产学院协作发展绿色金融科技工作。自2023年4月起，潘仲亷担任广州南方学院（正式名称为中山大学南方学院）的校级研究中心主任及核心成员丶以及该校ESG数据驱动决策实验室的核心成员，在绿色数字化转型领域开展金融科技+科技金融的双创科研及企业创新。
 
 interests:
   - innovation and entrepreneurship
   - business models
   - FinTech
   - supply chain management
-
-education:
-  courses:
-    - course: PhD in Finance
-      institution: National Taiwan University of Science and Technology
-      year: 2017
-    - course: Executive MBA
-      institution: National Taiwan University of Science and Technology
-      year: 2001
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-#  - icon: envelope
-#    icon_pack: fas
-#    link: 'mailto:test@example.org'
-#  - icon: twitter
-#    icon_pack: fab
-#    link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com.sg/scholar?hl=en&as_sdt=0%2C48&q=Chung-Lien+Pan
-#  - icon: github
-#    icon_pack: fab
-#    link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'peter5612@gmail.com'
-
-# Highlight the author in author lists? (true/false)
-highlight_name: true
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+    link: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C48&q=Chung-Lien+Pan
+education:
+  courses:
+    - course: 金融学博士
+      institution: 台湾科技大学
+      year: 2017
+    - course: 行政工商管理硕士
+      institution: 台湾科技大学
+      year: 2001
 user_groups:
   - Founders
+highlight_name: true
+email: peter5612@gmail.com
 ---
 
 ### 潘仲亷 Pan, Chung-Lien

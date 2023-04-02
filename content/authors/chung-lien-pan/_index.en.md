@@ -1,6 +1,8 @@
 ---
 # Display name
 title: 潘仲亷
+role:  CFO/COO
+avatar_filename: avatar.png
 
 # Username (this should match the folder name)
 authors:
@@ -9,8 +11,7 @@ authors:
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position
-role:  CFO/COO
+
 
 # Organizations/Affiliations
 organizations:
