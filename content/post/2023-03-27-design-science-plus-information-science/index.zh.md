@@ -3,18 +3,18 @@ title:  '设计科学+信息科学：不论任何学科都能用上的知识及�
 date: 2023-03-27
 ---
 
-3篇SCIE/SSCI 2区论文《[在 ESG 咨询﹑报告和传播教育方面进行合作](https://oxon8.com/post/2023-02-22-esg-education-partner-maps/)》、《[碳中和管理服务数智平台](https://oxon8.com/post/2023-02-20-smart-digital-platforms-carbon-neutral-management-services/)》、《[智能港口知识图谱分析：面对全球价值链挑战的研究](https://oxon8.com/publication/liao-knowledge-2023/) 》的共同处，除了在攻克〝绿化化及数字化转型促进高质量发展〞的议题之外，就是在方法和数据面向，运用了设计科学+信息科学的取径。
+3篇SCIE/SSCI 2区论文《[在 ESG 咨询﹑报告和传播教育方面进行合作](https://oxon8.com/post/2023-02-22-esg-education-partner-maps/)》、《[碳中和管理服务数智平台](https://oxon8.com/post/2023-02-20-smart-digital-platforms-carbon-neutral-management-services/)》、《[智能港口知识图谱分析：面对全球价值链挑战的研究](https://oxon8.com/publication/liao-knowledge-2023/) 》的共同处，除了在攻克〝<span class="highlight-container highlight-green"><span class="highlight">绿色化</span></span>及<span class="highlight-container highlight-yellow"><span class="highlight">数字化</span></span>转型促进高质量发展〞的议题之外，就是在方法和数据面向，运用了设计科学+信息科学的取径。
 
 〝只要有方法，就解决大多数人害怕理论的难点。从省级项目的立项或结项，到大学生的创新创业比赛甚至是本科论文，〞**澳恪森**创办人潘仲亷博士，亦是**知研1对1**辅导老师表示，〝**不论任何学科**，都能使用设计科学+信息科学来完成，取得成果。进可攻坚创新，退可发表论文完成保底任务。〞
 
 <!--more-->
 
-### 设计科学+信息科学？使用工具箱参与绿色化数字化创新
+### 设计科学+信息科学？使用工具箱参与<span class="highlight-container highlight-green"><span class="highlight">绿色化</span></span>数字化创新
 
 面对大学的科研人员、教师、学生，潘仲亷博士以澳恪森2023年具体项目为例，说明各专业的大学生都能使用工具箱参与绿色化数字化创新：
 
-* 🌱 绿色化数字化双化转型技术路线工具箱 🌐
-* 🎁 绿色化数字化双化转型商业模式工具箱 🈺
+* 🌱 <span class="highlight-container highlight-green"><span class="highlight">绿色化</span></span><span class="highlight-container highlight-yellow"><span class="highlight">数字化</span></span>双化转型技术路线工具箱 🌐
+* 🎁 <span class="highlight-container highlight-green"><span class="highlight">绿色化</span></span><span class="highlight-container highlight-yellow"><span class="highlight">数字化</span></span>双化转型商业模式工具箱 🈺
 * 👉基于专利分析﹑科学计量﹑等信息的中文及英文科技和课题预查新﹑前瞻与传统产业知识地图产品及服务 👌
 
 
@@ -89,9 +89,9 @@ date: 2023-03-27
 
 台湾科技大学博士潘仲亷从市场化及产品化的角度来分析，〝不管是[保加利亚玫瑰](https://baike.baidu.com/item/%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A%E7%8E%AB%E7%91%B0%E8%8A%82/11027118)、从化荔枝的农产品、衍生民生美妆保养商品，还是其下游的酒店餐饮的采购，要如何在创投、供应链金融等方面，进行科学化能核算的支持呢？ 要如何把好的农产品及民生服务，享有零碳或负碳的品牌估值及金融支持？〞
 
-〝欢迎有志对产业前瞻与传统的知识地图﹑协作地图有兴趣的行业协会、企业、大学科研人员来使用工具箱参与绿色化数字化创新。〞潘仲亷博士总结。〝我们将把科研成果，以设计学+信息学的双创设计工作坊及论文写作工作坊，和从化及湾区的一起共创价值。〞
+〝欢迎有志对产业前瞻与传统的知识地图﹑协作地图有兴趣的行业协会、企业、大学科研人员来使用工具箱参与<span class="highlight-container highlight-green"><span class="highlight">绿色化</span></span><span class="highlight-container highlight-yellow"><span class="highlight">数字化</span></span>创新。〞潘仲亷博士总结。〝我们将把科研成果，以设计学+信息学的双创设计工作坊及论文写作工作坊，和从化及湾区的一起共创价值。〞
 
-数字化转型的知识基础及案例方法，**澳恪森数智科技**将于2023年推出能助学员项目申请、结项、双创比赛、论文发表等等的设计及科研工作坊，敬请期待并关注澳恪森公众号 (Oxford Roadmapping) 及 本网站。
+<span class="highlight-container highlight-yellow"><span class="highlight">数字化</span></span>转型的知识基础及案例方法，**澳恪森数智科技**将于2023年推出能助学员项目申请、结项、双创比赛、论文发表等等的设计及科研工作坊，敬请期待并关注澳恪森公众号 (Oxford Roadmapping) 及 本网站。
 
 
 -----
