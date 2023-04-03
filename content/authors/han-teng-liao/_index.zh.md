@@ -6,16 +6,12 @@ avatar_filename: avatar_HTL.png
 # Username (this should match the folder name)
 authors:
   - Han-Teng Liao
-
-# Is this the primary user of the site?
 superuser: true
-
-# Organizations/Affiliations
 organizations:
   - name: 澳恪森数智科技服务 Oxford Roadmapping 
     url: 'https://oxon8.com/'
-
-# [澳恪森数智科技服务](https://oxon8.com/) 负责人、数据科学家。 研发兴趣包括 [数字化绿色化双化转型](https://joint-research-centre.ec.europa.eu/jrc-news/twin-green-digital-transition-how-sustainable-digital-technologies-could-enable-carbon-neutral-eu-2022-06-29_en)﹑[碳中和](https://www.frontiersin.org/articles/10.3389/fenvs.2023.1119011/abstract) 数智平台﹑及 [人工智能科技向善](https://aiforgood.itu.int/)。     
+bio: [澳恪森数智科技服务](https://oxon8.com/) 负责人、数据科学家。曾任开源软件平台项目经理后于
+[牛津大学](https://www.qschina.cn/universities/university-oxford)取得博士，台湾大学[电气工程](https://web.ee.ntu.edu.tw/eng/about1.php)学士及外国语言文学双学士丶[计算机科学与信息工程](https://www.csie.ntu.edu.tw/) 及 新闻学双硕士。博士后工作以循证政策研究为主，先后于美国**乔治城大学**丶德国**亚历山大·冯·洪堡大学**丶**联合国大学**等互联网智库研究。自 2017 年到创建**澳恪森数智**之前，他担任广州南方学院（前身为中山大学南方学院）的副教授，完成2019 年世界生态设计大会：**互联网生态设计向善**报告丶省级一流课程丶校级研究中心及校级实验室等成果。研发兴趣包括 [数字化绿色化双化转型](https://joint-research-centre.ec.europa.eu/jrc-news/twin-green-digital-transition-how-sustainable-digital-technologies-could-enable-carbon-neutral-eu-2022-06-29_en)、[碳中和](https://www.frontiersin.org/articles/10.3389/fenvs.2023.1119011/abstract) 数智平台、及 [人工智能科技向善](https://aiforgood.itu.int/)。创建澳恪森目的是推进生态设计丶商业生态系统两者的产学合作，集成丶可审计和负责任的数据驱动决策产出正面社经及环境影响。
 
 interests:
   - 技术路线图
