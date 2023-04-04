@@ -145,9 +145,12 @@ tags:
 
 -----
 ### 更多阅读
+* ICAP 秘书处，International Carbon Action Partnership   [2023 年进展报告](https://icapcarbonaction.com/en/news/out-now-new-icap-status-report-2023-presents-latest-developments-emissions-trading-systems)
 * 广州碳排放权交易所，[碳排放管理员-职业能力水平评价培训](https://www.cnemission.com/article/course/kcsz/202302/20230200002858.shtml)
 * [Tim Frick](https://www.mightybytes.com/blog/author/timfrick/ "Posts by Tim Frick") ，[Sustainable Web Design](https://www.mightybytes.com/blog/tag/sustainablewebdesign/)
 * [Tim Frick](https://www.mightybytes.com/blog/author/timfrick/ "Posts by Tim Frick") ，[Corporate Digital Responsibility](https://www.mightybytes.com/blog/what-is-corporate-digital-responsibility/) (CDR) strategy
+
+![](https://icapcarbonaction.com/system/files/styles/adelphi_icap_inline_full_l_2x/private/image/Image20230322100044.jpg?h=c673cd1c&itok=9nBXR8SW)
 
 ---
 
