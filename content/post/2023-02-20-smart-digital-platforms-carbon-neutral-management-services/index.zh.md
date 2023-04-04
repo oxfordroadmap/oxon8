@@ -54,3 +54,9 @@ This brief research report focuses on the effects of artificial intelligence (AI
 *  GDT高校影响力研究中心，(2023-02-23)，[碳中和智能数字平台——我校教师在SCI收录期刊发表科研论文](https://mp.weixin.qq.com/s?src=11&timestamp=1679462520&ver=4421&signature=P6rCLfVU9rhMdHQD1h1KOGG0InuWpYosPHY56bMxyZqK2OYpbmGanlnCbbBxlUbaaivh47rzV54P250KFIbyCsBDe-vINg2kg0HMqjU2f9qNyEmkhSaZw7xbXabX-vtn&new=1)
 *  知研1v1,  （2023-02-24）.　《三个月内三篇SCI(一区及二区）收录期刊发表，成绩斐然》 [03. ESG数据驱动治理及教育](https://mp.weixin.qq.com/s?src=11&timestamp=1679377034&ver=4419&signature=58rspt51riDaR40jvggKb7MvePyHPP3j0uR0cLd2acMEJsEzW2094fT63kp-SKdgx*ORo6w1YEtlkh3eg48VOxVKMBasEFW1A-Xd4OC31j3t2JoChGuMHv-2IOxJnnDQ&new=1)
 
+
+### 关于澳恪森数智科技
+澳恪森数智科技，简称Oxon8，全名为澳恪森数智科技服务（广州）有限公司，创新数智平台与绿色金融科技的设计，助组织与个人的双化协同发展及精准脱碳之旅。
+![icon.webp](app://local/Q:/__coding__/oxfordroadmap/oxon8/assets/media/icon.webp?1680427126955)
+澳恪森Oxon8为行业﹑智库﹑政府等提供基于专利分析﹑科学计量﹑知识图谱等等数据情报，合作开展集科技研发﹑科技服务﹑成果转化﹑系统集成﹑人才培养﹑等科技创新公共及商业服务，运用前瞻情报连结在地及全球网络。
+
