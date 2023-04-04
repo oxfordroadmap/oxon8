@@ -23,15 +23,15 @@ tags:
 
 **碳排放权交易**要如何做？由于诸多落地难点，因此有了**碳普惠方法**的打底，指在为了各行业的企业及个人能有方法可依，产出并提供相关活动的温室气体排放数据。
 
-![featured.png](./featured.png)
-
->  欧盟ETS的众多提案之一：由欧盟绿党的提案
+![http://images.cnemission.com/carbon/202302/2023020109501450.png](http://images.cnemission.com/carbon/202302/2023020109501450.png)
+> 來源：广州碳排放权交易所，[一图读懂--广州碳排放权交易中心2022年度市场报告](https://www.cnemission.com/article/news/jysdt/202301/20230100002836.shtml)
 
 ## 温室气体排放数据难点
 
 有温室气体排放数据，**碳排放权交易**才能有可信丶可操作的管理办法。
 
 2020年12月公布的《[碳排放权交易管理办法（试行）](http://www.gov.cn/zhengce/zhengceku/2021-01/06/content_5577360.htm)》，就有相关的报告及核查的基本要求。对于任何减排项目管理来说，就有工作流程基本要求如下图所示。
+
 
 ```mermaid
     graph TB
@@ -101,6 +101,11 @@ tags:
 这需要创新设计，对原有的业务以最终能对接国家量化核证为实践。
 
 
+![featured.png](./featured.png)
+
+>  欧盟ETS的众多提案之一：由欧盟绿党的提案
+
+
 ## 小结
 
 >要设计减排项目，必需掌握碳普惠方法学与碳排放权交易的关系，就是在能产出MRV数据，以绿色信息流打通产销融消投等循环经济各环节。
@@ -129,6 +134,13 @@ tags:
 ² [绿色金融科技](https://link.springer.com/chapter/10.1007/978-3-319-76014-8_11) 指 [可持续金融](https://www.unep.org/regions/asia-and-pacific/regional-initiatives/supporting-resource-efficiency/green-financing) (特别包括[联合国可持续发展目标下](https://www.un.org/en/digital-financing-taskforce) ) 及 [金融科技](https://www.sciencedirect.com/topics/economics-econometrics-and-finance/fintech) (或 数字金融) 两者交叉的新兴领域及实践。<br/>
 
 ³ [设计创新](https://www.sciencedirect.com/topics/social-sciences/design-innovation)  为 设计学 及 创新学 交叉的领域，在联合国系统下如[使用创新标准结合数字化转型达成可持续发展](https://www.unido.org/news/unido-promotes-innovation-standards-and-digital-transformation-achieve-sdgs)、[使用数字化转型促进社会包容型发展](https://www.un.org/development/desa/dspd/2021/02/digital-technologies-for-social-inclusion/)、[使用数字创新生态系统促进数字化转型](https://www.itu.int/itu-d/sites/innovation/)、等等。
+
+
+-----
+### 更多阅读
+* 广州碳排放权交易所，[碳排放管理员-职业能力水平评价培训](https://www.cnemission.com/article/course/kcsz/202302/20230200002858.shtml)
+* [Tim Frick](https://www.mightybytes.com/blog/author/timfrick/ "Posts by Tim Frick") ，[Sustainable Web Design](https://www.mightybytes.com/blog/tag/sustainablewebdesign/)
+* [Tim Frick](https://www.mightybytes.com/blog/author/timfrick/ "Posts by Tim Frick") ，[Corporate Digital Responsibility](https://www.mightybytes.com/blog/what-is-corporate-digital-responsibility/) (CDR) strategy
 
 ---
 
