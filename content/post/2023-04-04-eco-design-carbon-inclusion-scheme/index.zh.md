@@ -60,11 +60,12 @@ tags:
 > 方法学是指导温室气体自愿减排项目开发丶实施丶审定和减排量核查的主要依据，对减排项目的基准线识别丶额外性论证丶减排量核算和监测计划制定等具有重要的规范作用。碳达峰碳中和目标对温室气体自愿减排交易市场建设提出了新的更高要求，原有方法学体系难以满足当前工作需求，多数方法学需要更新基准线和额外性论证要求，部分方法学缺乏推广使用价值和应用场景，个别方法学不符合产业政策导向，近年涌现的创新减排技术也急需相应方法学支持。
 
 的确，这些方法学必需要通过专家评审验证，如中国林业科学研究院的[《湿地碳汇方法学》](http://www.caf.ac.cn/info/1041/19669.htm)丶海南省首个碳普惠方法学[《海南红树林造林/再造林碳汇项目方法学》](https://new.qq.com/rain/a/20230327A0508600)丶以及广东省生态环境厅关于印发《[广东省林业碳汇碳普惠方法学（2022年修订版）](http://gdee.gd.gov.cn/shbtwj/content/post_3993031.html)》等5个方法学：
-　　[1. 广东省林业碳汇碳普惠方法学（2022年修订版）.pdf](http://gdee.gd.gov.cn/attachment/0/496/496642/3993031.pdf)
-　　[2. 广东省安装分布式光伏发电系统碳普惠方法学（2022年修订版）.pdf](http://gdee.gd.gov.cn/attachment/0/496/496631/3993031.pdf) 
-　　[3. 广东省使用高效节能空调碳普惠方法学（2022年修订版）.pdf](http://gdee.gd.gov.cn/attachment/0/496/496638/3993031.pdf)
-　　[4. 广东省使用家用空气源热泵热水器碳普惠方法学（2022年修订版）.pdf](http://gdee.gd.gov.cn/attachment/0/496/496633/3993031.pdf)
-　　[5. 广东省废弃衣物再利用碳普惠方法学（2022年修订版）.pdf](http://gdee.gd.gov.cn/attachment/0/496/496634/3993031.pdf)
+
+1. [广东省林业碳汇碳普惠方法学（2022年修订版）.pdf](http://gdee.gd.gov.cn/attachment/0/496/496642/3993031.pdf)
+2. [广东省安装分布式光伏发电系统碳普惠方法学（2022年修订版）.pdf](http://gdee.gd.gov.cn/attachment/0/496/496631/3993031.pdf) 
+3. [广东省使用高效节能空调碳普惠方法学（2022年修订版）.pdf](http://gdee.gd.gov.cn/attachment/0/496/496638/3993031.pdf)
+4. [广东省使用家用空气源热泵热水器碳普惠方法学（2022年修订版）.pdf](http://gdee.gd.gov.cn/attachment/0/496/496633/3993031.pdf)
+5. [广东省废弃衣物再利用碳普惠方法学（2022年修订版）.pdf](http://gdee.gd.gov.cn/attachment/0/496/496634/3993031.pdf)
 
 澳恪森两位创办人，数据科学家廖汉腾博士与商业模式运营官COO/CFO潘仲亷博士表示，根据《广东省碳普惠交易管理办法》规定，的确在行业推广及应用方面，能促进更具包容性的参与，而各行各业各项产品及服务的相关碳普惠方法则是发展重点。
 
@@ -147,10 +148,15 @@ tags:
 ### 更多阅读
 * ICAP 秘书处，International Carbon Action Partnership   [2023 年进展报告](https://icapcarbonaction.com/en/news/out-now-new-icap-status-report-2023-presents-latest-developments-emissions-trading-systems)
 * 广州碳排放权交易所，[碳排放管理员-职业能力水平评价培训](https://www.cnemission.com/article/course/kcsz/202302/20230200002858.shtml)
+* 广州市人民政府，[市工业和信息化局领导主持召开推进广州服装产业“四化”转型座谈会 ](https://www.gz.gov.cn/xw/zwlb/bmdt/sgyhxxhj/content/post_8889961.html)
 * [Tim Frick](https://www.mightybytes.com/blog/author/timfrick/ "Posts by Tim Frick") ，[Sustainable Web Design](https://www.mightybytes.com/blog/tag/sustainablewebdesign/)
 * [Tim Frick](https://www.mightybytes.com/blog/author/timfrick/ "Posts by Tim Frick") ，[Corporate Digital Responsibility](https://www.mightybytes.com/blog/what-is-corporate-digital-responsibility/) (CDR) strategy
 
 ![](https://icapcarbonaction.com/system/files/styles/adelphi_icap_inline_full_l_2x/private/image/Image20230322100044.jpg?h=c673cd1c&itok=9nBXR8SW)
+
+* 广州市人民政府，[“广聚群链 湾区启航”广州人工智能、软件和信创产业链高质量发展暨产业对接大会成功举行](https://www.gz.gov.cn/xw/zwlb/bmdt/sgyhxxhj/content/post_8835925.html)：着力构建以数字经济为引领的工业和信息化现代产业体系，建立实施以市领导为“链长”、龙头企业为“链主”的双链式“链长制”，制定人工智能、软件和信创产业链等21条重点产业链高质量发展三年行动计划，着力打造软件和信创等8个万亿级、人工智能等13个千亿级和一大批百亿级产业链群。
+* [超九成企业盼转型，广州首批45个“四化”赋能重点平台出炉](https://www.sohu.com/a/644542689_161795)
+![](https://p3.itc.cn/q_70/images03/20230222/6dde6931ce96472294182a664329c52e.png)
 
 ---
 
