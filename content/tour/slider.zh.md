@@ -62,6 +62,19 @@ content:
         icon_pack: fas
         text: '最新消息--双化协同发展 📰'
         url: https://oxon8.com/post/
+    - title: '🌅 Oxon8 邀您“精准脱碳”之路上同行⛹，'
+      content: '如 ☑广东省重点建设学科科研能力提升项目'
+      align: right
+      background:
+        position: center
+        color: '#333'
+        brightness: 0.5
+        media: photo-precision-archer_statute.webp
+      link:
+        icon: briefcase
+        icon_pack: fas
+        text: '☑《“精准脱碳”之路》项目迸度'
+        url: https://oxon8.com/project/prj-2022zdjs121/
     - title: '💡 Oxon8 助您成就技术创新火炬，'
       content: '照亮人类共同体前路 ✊  行道「天涯若比邻 ... 海内存知己」运用創新設計工具箱🧰'
       align: right
