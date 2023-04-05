@@ -10,9 +10,12 @@ summary: "本研究以“精准脱碳”之技术路线图为题，在数字科�
 
 ### 项目迸度
 
-* 2023/03 SCIE 论文发表 2篇\r
-* 2023/04 开题报告\r
-* 2023/02 SCIE 论文发表 1篇
+* 2023/03：SCIE Q2论文发表 2篇
+
+* 2023/04：开题报告
+
+* 2023/02：SCIE Q2论文发表 1篇
+
 "
 draft: false
 featured: true
@@ -46,9 +49,9 @@ image:
 
 ### 项目迸度
 
-* 2023/03 SCIE 论文发表 2篇：[双碳服务及管理平台](https://oxon8.com/publication/liao-smart-2023/)、[ESG教育合作伙伴地图](https://oxon8.com/post/2023-02-22-esg-education-partner-maps/)
-* 2023/04 开题报告
-* 2023/02 SCIE 论文发表 1篇：[供应链知识图谱分析：设计绿色化和数字化转型双化之路线图分类](https://oxon8.com/publication/pan-knowledge-2023/)
+* 2023/03：SCIE Q2论文发表 2篇：[双碳服务及管理平台](https://oxon8.com/publication/liao-smart-2023/)、[ESG教育合作伙伴地图](https://oxon8.com/post/2023-02-22-esg-education-partner-maps/)
+* 2023/04：开题报告
+* 2023/02：SCIE Q2论文发表 1篇：[供应链知识图谱分析：设计绿色化和数字化转型双化之路线图分类](https://oxon8.com/publication/pan-knowledge-2023/)
 
 ### 项目大纲
 
