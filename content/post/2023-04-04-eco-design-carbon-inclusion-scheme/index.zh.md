@@ -25,6 +25,14 @@ tags:
 
 **碳排放权交易**要如何做？由于诸多落地难点，因此有了**碳普惠方法**的打底，指在为了各行业的企业及个人能有方法可依，产出并提供相关活动的温室气体排放数据。
 
+| 中文      | 英文 |
+| ----------- | ----------- |
+| 中国国家自主贡献 |  China's NDC ( Nationally Determined Contribution ) |
+| 国家核证自愿减排量 | CCER ( Chinese Certified Emission Reduction ) |
+| 碳排放权交易      | Carbon ETS ( Emission Trading Scheme ) |
+| 碳普惠方法   | Carbon Inclusive methodologies|
+
+
 ![http://images.cnemission.com/carbon/202302/2023020109501450.png](http://images.cnemission.com/carbon/202302/2023020109501450.png)
 > 來源：广州碳排放权交易所，[一图读懂--广州碳排放权交易中心2022年度市场报告](https://www.cnemission.com/article/news/jysdt/202301/20230100002836.shtml)
 
