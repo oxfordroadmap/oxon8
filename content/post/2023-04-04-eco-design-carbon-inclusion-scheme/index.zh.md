@@ -19,7 +19,7 @@ tags:
 - 金融科技
 ---
 
-真实落地双碳目标，需要在科学基础上对实际项目管理。澳恪森为企业及个人摘要了 减排**项目管理** 如何采用 **碳普惠方法**，以最终参与省及国家的碳排放核查及碳排放权交易，提供了简要易懂的图文说明，碳普惠方法产出MRV数据，以绿色信息流转型的工作流。
+真实落地双碳目标，需要在科学基础上对实际项目管理。澳恪森为企业及个人摘要了 减排**项目管理** 如何采用 **碳普惠方法**，以最终参与省及国家的碳排放核查及碳排放权交易，提供了简要易懂的图文说明，碳普惠方法产出MRV数据，以绿色信息流转型的工作流，发展绿色中介服务机构，按[广东省发展绿色金融支持碳达峰行动的实施方案](https://www.gd.gov.cn/zwgk/wjk/qbwj/ybh/content/post_3972447.html)做出贡献。
 
 <!--more-->
 
@@ -66,6 +66,16 @@ tags:
 2023年3月30日，生态环境部发布了[关于公开征集温室气体自愿减排项目方法学建议的函](https://www.mee.gov.cn/xxgk2018/xxgk/xxgk06/202303/t20230330_1024693.html)，指出：
 
 > 方法学是指导温室气体自愿减排项目开发、实施、审定和减排量核查的主要依据，对减排项目的基准线识别、额外性论证、减排量核算和监测计划制定等具有重要的规范作用。碳达峰碳中和目标对温室气体自愿减排交易市场建设提出了新的更高要求，原有方法学体系难以满足当前工作需求，多数方法学需要更新基准线和额外性论证要求，部分方法学缺乏推广使用价值和应用场景，个别方法学不符合产业政策导向，近年涌现的创新减排技术也急需相应方法学支持。
+
+## 中国核证自愿减排量(China Certified Emission Reduction, CCER)
+
+什么是CCER？方法学又是？
+
+中国核证自愿减排量 (China Certified Emission Reduction, CCER) 指特定项目减排效果的量化核证，并在国家温室气体自愿减排交易注册登记，可用于控排企业清缴履约。
+
+作为温室气体自愿减排交易主管部门， 自然资源部及国家发改委，自2013年以来，先后公布国家温室气体自愿减排方法学备案清单，为各类型项目开发CCER提供了算法指引。
+
+中科碳中和投研、ESG数字研究院团队整理了已发布的方法学共计203项，包括电力、交通、化工、建筑等30多个领域。（详见中国发展网，[十二批203个CCER方法学汇总-附件](http://shuangtan.chinadevelopment.com.cn/tkptgy/2022/1130/1811530.shtml)）。
 
 的确，这些方法学必需要通过专家评审验证，如中国林业科学研究院的[《湿地碳汇方法学》](http://www.caf.ac.cn/info/1041/19669.htm)、海南省首个碳普惠方法学[《海南红树林造林/再造林碳汇项目方法学》](https://new.qq.com/rain/a/20230327A0508600)、以及广东省生态环境厅关于印发《[广东省林业碳汇碳普惠方法学（2022年修订版）](http://gdee.gd.gov.cn/shbtwj/content/post_3993031.html)》等5个方法学：
 
@@ -121,10 +131,13 @@ tags:
 
 ## 小结
 
-
 〝设计减排项目，〞数据科学家廖汉腾博士说明，〝必需掌握碳普惠方法学与碳排放权交易的关系，就是在能产出MRV数据，以绿色信息流打通产销融消投等循环经济各环节。〞
 
 >要设计减排项目，必需掌握碳普惠方法学与碳排放权交易的关系。
+{.h3 .table-success}
+
+〝[广东省发展绿色金融支持碳达峰行动的实施方案](https://www.gd.gov.cn/zwgk/wjk/qbwj/ybh/content/post_3972447.html)中，〞商业模式运营官COO/CFO潘仲亷博士表示，〝鼓励绿色金融研究机构、专业智库创新发展。正同廖汉腾博士，發展在「鼓励碳核算与核查、绿色认证、环境咨询、绿色资产评估、数据服务」等绿色中介服务机构发展商业模式。〞
+
 
 
 -----
@@ -154,6 +167,9 @@ tags:
 
 -----
 ### 更多阅读
+* 中科碳中和ESG数字研究院投研团队，2022-12-08，[碳汇概念大全](http://shuangtan.chinadevelopment.com.cn/tkptgy/2022/1213/1813600.shtml)，中国发展网 chinadevelopment.com.cn
+* 中科碳中和ESG数字研究院投研团队，2022-12-08，[79项碳足迹相关政策汇编及摘要](http://shuangtan.chinadevelopment.com.cn/tkptgy/2022/1208/1812878.shtml)，中国发展网 chinadevelopment.com.cn
+* 广东省人民政府，2022，**关于印发《[广东省发展绿色金融支持碳达峰行动的实施方案](https://www.gd.gov.cn/zwgk/wjk/qbwj/ybh/content/post_3972447.html)》的通知**, 粤办函〔2022〕219号
 * ICAP 秘书处，International Carbon Action Partnership   [2023 年进展报告](https://icapcarbonaction.com/en/news/out-now-new-icap-status-report-2023-presents-latest-developments-emissions-trading-systems)
 * 广州碳排放权交易所，[碳排放管理员-职业能力水平评价培训](https://www.cnemission.com/article/course/kcsz/202302/20230200002858.shtml)
 * 广州市人民政府，[市工业和信息化局领导主持召开推进广州服装产业“四化”转型座谈会 ](https://www.gz.gov.cn/xw/zwlb/bmdt/sgyhxxhj/content/post_8889961.html)
