@@ -53,23 +53,23 @@ tags:
 
 跨国家地区合作网络显示以中国为主，少量有美国、英国、新西兰、马来西亚、巴基斯坦的合作者，构成合作网络，详见下图。
 
-![](file:///C:/Users/Hante/AppData/Local/Temp/msohtmlclip1/01/clip_image010.png)
+![Conghua_WoS_org_network_country.png](./Conghua_WoS_org_network_country.png)
 
 ## 科研表现—作者
 
 科研表现亦可从作者个人层次分析，简易计量可以算每个作者参与的文章量、简易权重则假定每位共同作者的贡献均摊，亦可只计第一及通讯作者的权重，详见下表。
 
-![featured.png](./featured.png)
+![Conghua_WoS_authors.png](./Conghua_WoS_authors.png)
 
-#### 澳恪森表示，除了澳恪森合作的成員之外，表現突出的還有**广州南方学院电气工程学院**[左海春 (Zuo, Haichun)](https://sece.nfu.edu.cn/szll/szll1/177aa8480fa04fbdb03eb863e2fb8a14.htm) ，及南海水产研究所的[姜敬哲 (Jiang, Jing-Zhe)](https://southchinafish.ac.cn/info/1137/6613.htm)。
+#### 澳恪森表示，除了澳恪森合作的成員之外，表現突出的還有广州南方学院***电气工程学院***[左海春 (Zuo, Haichun)](https://sece.nfu.edu.cn/szll/szll1/177aa8480fa04fbdb03eb863e2fb8a14.htm) ，及南海水产研究所的[姜敬哲 (Jiang, Jing-Zhe)](https://southchinafish.ac.cn/info/1137/6613.htm)。
 
-作者合作网络显示以中科院为主，少量有**_广州南方学院_****_ESG_****_实验室_**的Pan, Chung-Lien、Liao, Han-Teng 及 Zhang, Yuan，**广州南方学院** Moradi, Hamzeh和中山大学的Chen, Jianbo合作、以及**_广州软件学院_**Wang, Ying的合作团队，详见下图。
+作者合作网络显示以中科院为主，少量有广州南方学院***ESG实验室***的Pan, Chung-Lien、Liao, Han-Teng 及 Zhang, Yuan，**广州南方学院** Moradi, Hamzeh和**中山大学**的Chen, Jianbo合作、以及**广州软件学院**Wang, Ying的合作团队，详见下图。
 
 ![](file:///C:/Users/Hante/AppData/Local/Temp/msohtmlclip1/01/clip_image014.png)
 
 ## 热点科研议题
 
-热点科研议题可以在共同作者关键词网络及词云反映，详见下图。其中印度一词主要以广州软件学院Ahmed, Mansoor参与的气候变迁对印度食物生产的影响、以及相关的碳排建模研究。
+热点科研议题可以在共同作者关键词网络及词云反映，详见下图。其中印度一词主要以**广州软件学院**Ahmed, Mansoor参与的气候变迁对印度食物生产的影响、以及相关的碳排建模研究。
 
 ![](file:///C:/Users/Hante/AppData/Local/Temp/msohtmlclip1/01/clip_image016.png)![](file:///C:/Users/Hante/AppData/Local/Temp/msohtmlclip1/01/clip_image018.jpg)
 
