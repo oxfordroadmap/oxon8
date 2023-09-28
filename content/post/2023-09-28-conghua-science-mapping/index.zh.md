@@ -82,6 +82,6 @@ tags:
 
 **澳恪森**表示，在机构合作、议题设定方面已有初步成效。由于科学计量学可就科研、专利等数据进行分析作为科研评估和前沿追踪依据。
 
-**澳恪森**已就中国社科基金历年以来立项的(1)碳排管理治理、(2)数字化转型、(3)绿色化转型共计864项项目，收集在WoS的科研数据，产出表现及影响力分析、议题及概念结构分析，欢迎来信询问 h.liao@ieee.org 各式合作机会。
+**澳恪森**已就[中国社科基金](http://fz.people.com.cn/skygb/sk/index.php/Index/index)历年以来立项的(1)[碳排管理治理](http://fz.people.com.cn/skygb/sk/index.php/index/seach?pznum=&xmtype=0&xktype=0&xmname=%E7%A2%B3&lxtime=0&xmleader=&zyzw=0&gzdw=&dwtype=0&szdq=0&ssxt=0&cgname=&cgxs=0&cglevel=0&jxdata=0&jxnum=&cbs=&cbdate=0&zz=&hj=)、(2)[数字化转型](http://fz.people.com.cn/skygb/sk/index.php/index/seach?pznum=&xmtype=0&xktype=0&xmname=%E6%95%B0%E5%AD%97%E5%8C%96%E8%BD%AC%E5%9E%8B&lxtime=0&xmleader=&zyzw=0&gzdw=&dwtype=0&szdq=0&ssxt=0&cgname=&cgxs=0&cglevel=0&jxdata=0&jxnum=&cbs=&cbdate=0&zz=&hj=)、(3)[绿色转型](http://fz.people.com.cn/skygb/sk/index.php/index/seach?pznum=&xmtype=0&xktype=0&xmname=%E7%BB%BF%E8%89%B2%E8%BD%AC%E5%9E%8B&lxtime=0&xmleader=&zyzw=0&gzdw=&dwtype=0&szdq=0&ssxt=0&cgname=&cgxs=0&cglevel=0&jxdata=0&jxnum=&cbs=&cbdate=0&zz=&hj=)共计864项项目，收集在WoS的科研数据，产出表现及影响力分析、议题及概念结构分析，欢迎来信询问 h.liao@ieee.org 各式合作机会。
 
 **澳恪森**在2023年后半将以《联合国气候变化框架公约》第二十八届缔约方大会（COP 28）的外围相关会议如IEEE 绿色科技、可持续发展和净零政策与实践研讨会(IEEE GTSNZ 2023)，持续对数字化绿色化协同（简称“双化协同”）发展及绿色数字化转型(Green Digital Transformation) 进行科研创新。
