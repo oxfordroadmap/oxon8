@@ -146,8 +146,7 @@ tags:
 
 聚焦<span class="highlight-container highlight-yellow"><span class="highlight"><a href="#脚注">数智平台 ¹</a></span></span> 与   <span class="highlight-container highlight-green"><span class="highlight"><a href="#脚注">绿色金融科技 ²</a></span></span>  <span class="highlight-container highlight-fushia"><span class="highlight"><a href="#脚注">设计创新 ³</a></span></span>的 **澳恪森数智科技服务** ，认同碳普惠方法在各行各业参与碳排放权交易的重要性。
 
-澳恪森数智科技服务征求开发碳普惠方法的合作伙伴，参与相关的公开征集方法学活动，以及广州[市工信局组织“四化”平台服务](https://gz.gov.cn/xw/zwlb/bmdt/content/post_8809369.html)
-的碳普惠应用。
+澳恪森数智科技服务征求开发碳普惠方法的合作伙伴，参与相关的公开征集方法学活动，以及广州[市工信局组织“四化”平台服务](https://gz.gov.cn/xw/zwlb/bmdt/content/post_8809369.html)的碳普惠应用。
 
 〝举例来说，[全国首个省级碳普惠应用“浙江碳普惠”，就是以ToC为出发点的**双碳数智平台**](https://www.eco.gov.cn/news_info/53945.html)。＂数据科学家廖汉腾表示，＂广州则以先进制造业强市战略，以ToB的工业4.0甚至是工业5.0实践为主，[开展“四化”平台赋能专项行动](https://gz.gov.cn/ysgz/xwdt/ysdt/content/mpost_8787864.html)。〞
 
