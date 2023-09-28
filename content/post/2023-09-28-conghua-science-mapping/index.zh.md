@@ -71,14 +71,17 @@ tags:
 
 热点科研议题可以在共同作者关键词网络及词云反映，详见下图。其中印度一词主要以**广州软件学院**Ahmed, Mansoor参与的气候变迁对印度食物生产的影响、以及相关的碳排建模研究。
 
-![](file:///C:/Users/Hante/AppData/Local/Temp/msohtmlclip1/01/clip_image016.png)![](file:///C:/Users/Hante/AppData/Local/Temp/msohtmlclip1/01/clip_image018.jpg)
+![Conghua_WoS_author_keywords_word_cloud.png](./Conghua_WoS_author_keywords_word_cloud.png)
 
-其它热点科研议题则涉及数字化转型、ESG、社会-技术转型、战略前瞻等，均以**澳恪森**与**_广州南方学院_****_ESG_****_实验室_**为主要贡献者。
+其它热点科研议题则涉及数字化转型、ESG、社会-技术转型、战略前瞻等，均以**澳恪森**与广州南方学院***ESG实验室***为主要贡献者。
+
+![Conghua_WoS_author_keywords_co-occurence_network.png](./Conghua_WoS_author_keywords_co-occurence_network.png)
+
 
 ## 展望未来：机构合作、议题设定
 
 **澳恪森**表示，在机构合作、议题设定方面已有初步成效。由于科学计量学可就科研、专利等数据进行分析作为科研评估和前沿追踪依据。
 
-**澳恪森**已就中国社科基金历年以来立项的(1)碳排管理治理、(2)数字化转型、(3)绿色化转型共计864项项目，收集在WoS的科研数据，产出表现及影响力分析、议题及概念结构分析，欢迎来信询问各式合作机会。
+**澳恪森**已就中国社科基金历年以来立项的(1)碳排管理治理、(2)数字化转型、(3)绿色化转型共计864项项目，收集在WoS的科研数据，产出表现及影响力分析、议题及概念结构分析，欢迎来信询问 h.liao@ieee.org 各式合作机会。
 
 **澳恪森**在2023年后半将以《联合国气候变化框架公约》第二十八届缔约方大会（COP 28）的外围相关会议如IEEE 绿色科技、可持续发展和净零政策与实践研讨会(IEEE GTSNZ 2023)，持续对数字化绿色化协同（简称“双化协同”）发展及绿色数字化转型(Green Digital Transformation) 进行科研创新。
