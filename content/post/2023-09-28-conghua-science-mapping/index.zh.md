@@ -59,7 +59,7 @@ tags:
 
 科研表现亦可从作者个人层次分析，简易计量可以算每个作者参与的文章量、简易权重则假定每位共同作者的贡献均摊，亦可只计第一及通讯作者的权重，详见下表。
 
-![](file:///C:/Users/Hante/AppData/Local/Temp/msohtmlclip1/01/clip_image012.png)
+![featured.png](./featured.png)
 
 #### 澳恪森表示，除了澳恪森合作的成員之外，表現突出的還有**广州南方学院电气工程学院**[左海春 (Zuo, Haichun)](https://sece.nfu.edu.cn/szll/szll1/177aa8480fa04fbdb03eb863e2fb8a14.htm) ，及南海水产研究所的[姜敬哲 (Jiang, Jing-Zhe)](https://southchinafish.ac.cn/info/1137/6613.htm)。
 
