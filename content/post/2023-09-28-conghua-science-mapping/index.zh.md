@@ -65,7 +65,7 @@ tags:
 
 作者合作网络显示以中科院为主，少量有广州南方学院***ESG实验室***的Pan, Chung-Lien、Liao, Han-Teng 及 Zhang, Yuan，**广州南方学院** Moradi, Hamzeh和**中山大学**的Chen, Jianbo合作、以及**广州软件学院**Wang, Ying的合作团队，详见下图。
 
-![](file:///C:/Users/Hante/AppData/Local/Temp/msohtmlclip1/01/clip_image014.png)
+![Conghua_WoS_author_network_co-author.png](./Conghua_WoS_author_network_co-author.png)
 
 ## 热点科研议题
 
