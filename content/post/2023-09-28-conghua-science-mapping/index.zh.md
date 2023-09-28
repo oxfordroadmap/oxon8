@@ -45,7 +45,7 @@ tags:
 
 科研合作表现可以在共同作者跨机构合作网络反映，共同作者网络图点出了2023年从化区内一级机构间合作缺失，均是间接透过如中国科学院、仲恺农业工程学院，详见下图。
 
-![](file:///C:/Users/Hante/AppData/Local/Temp/msohtmlclip1/01/clip_image008.png)
+![Conghua_WoS_org_network_co-author.png](./Conghua_WoS_org_network_co-author.png)
 
 澳恪森(见上图右上的Oxford Roadmapping)表示，同样作为从化的机构，将和如湾区设计开放大学合作，在机构及国家地区层次扩展合作网络。
 
