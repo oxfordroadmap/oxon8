@@ -67,12 +67,12 @@ user_groups:
 # 廖汉腾 Liao, Han-Teng
 
 - ORCID: [0000-0003-1081-5599](https://orcid.org/0000-0003-1081-5599)
-- [WoS](https://www.webofscience.com/wos/author/rid/AAC-5793-2019) 收录：15 | WOS 核心合集引用：24 | H 因子：4
-  - ResearcherID: [AAC-5793-2019](https://www.webofscience.com/wos/author/rid/AAC-5793-2019) | 论文： 54 篇 | 合作者：22 | H 因子：4
-- [SCOPUS](https://www.scopus.com/authid/detail.uri?authorId=57193528319)收录：41 | SCOPUS 核心合集引用：85 | 合作者：45 | H 因子：5
-- [Google Scholar](https://scholar.google.com/citations?user=NAeKcO4AAAAJ)：77 | Google Scholar 引用：288 | H 因子：8
-- [Loop Profile](https://loop.frontiersin.org/people/1440943/overview)：54 | 引用：31 | Views：[7,000+](https://loop.frontiersin.org/people/1440943/impact) | Downloads：1,200+
-- CNKI 收录：3 (北大核心 1 CSSCI 1 )
+- [WoS](https://www.webofscience.com/wos/author/rid/AAC-5793-2019) 收录：18 | WOS 核心合集引用：34 | H 因子：4
+  - ResearcherID: [AAC-5793-2019](https://www.webofscience.com/wos/author/rid/AAC-5793-2019) | 论文： 58 篇 | 合作者：22 | H 因子：4
+- [SCOPUS](https://www.scopus.com/authid/detail.uri?authorId=57193528319)收录：44 | SCOPUS 核心合集引用：113 | 合作者：45 | H 因子：6
+- [Google Scholar](https://scholar.google.com/citations?user=NAeKcO4AAAAJ)：77 | Google Scholar 引用：336 | H 因子：9
+- [Loop Profile](https://loop.frontiersin.org/people/1440943/overview)：58 | Views：[13,000+](https://loop.frontiersin.org/people/1440943/impact) | Downloads：2,600+
+- CNKI 收录：4 (北大核心 1 CSSCI 1 )
 
 ## 个人简介：[澳恪森数智科技服务](https://oxon8.com/) 负责人﹑数据科学家
 
