@@ -22,27 +22,24 @@ tags:
 <figure>
 
 <div class="alert alert-success d-flex align-items-center" role="alert">
-  <svg class="bi flex-shrink-0 me-2" width="24" height="24" role="img" aria-label="Success:"><use xlink:href="#check-circle-fill"/></svg>
-  <div>
-   此图有交互功能（试试拖拉及<i class="bi bi-mouse3"></i>鼠标悬停效果）
+  <div class="text-success">
+   此图有🪄交互功能（试试拖拉、多手指平移、缩放页面及🖱️鼠标悬停效果）
   </div>
 </div>
 
 <iframe src="./NetGraph_单一省市_广东-2017-CO2排放.html" height="720px" width="100%" style="border:none;"></iframe>
 
 <div class="alert alert-success d-flex align-items-center" role="alert">
-  <svg class="bi flex-shrink-0 me-2" width="24" height="24" role="img" aria-label="Success:"><use xlink:href="#check-circle-fill"/></svg>
-  <div>
-   此图有交互功能（试试拖拉及<i class="bi bi-mouse3"></i>鼠标悬停效果）
+  <div class="text-success">
+   此图有🪄交互功能（试试拖拉、多手指平移、缩放页面及🖱️鼠标悬停效果）
   </div>
 </div>
 
 <iframe src="./NetGraph_单一省市_广东-2015-CO2排放.html" height="720px" width="100%" style="border:none;"></iframe>
 
 <div class="alert alert-success d-flex align-items-center" role="alert">
-  <svg class="bi flex-shrink-0 me-2" width="24" height="24" role="img" aria-label="Success:"><use xlink:href="#check-circle-fill"/></svg>
-  <div>
-   此图有交互功能（试试拖拉及<i class="bi bi-mouse3"></i>鼠标悬停效果）
+  <div class="text-success">
+   此图有🪄交互功能（试试拖拉、多手指平移、缩放页面及🖱️鼠标悬停效果）
   </div>
 </div>
 
