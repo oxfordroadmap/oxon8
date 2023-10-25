@@ -7,6 +7,8 @@ categories:
 - Science Mapping
 - 科学知识图谱
 tags:
+- Green Digital Transformation
+- 双化协同
 - Supply Chain
 - 供应链
 - FinTech
@@ -73,7 +75,7 @@ tags:
 
 ![Conghua_WoS_author_keywords_word_cloud.png](./Conghua_WoS_author_keywords_word_cloud.png)
 
-其它热点科研议题则涉及数字化转型、ESG、社会-技术转型、战略前瞻等，均以**澳恪森**与广州南方学院***ESG实验室***为主要贡献者。
+其它热点科研议题则涉及数字化转型、ESG、社会-技术转型、战略前瞻等，均以**澳恪森**与广州南方学院***ESG实验室***为主要贡献者。大致方向为双化协同  (Green Digital Transformation) 。
 
 ![Conghua_WoS_author_keywords_co-occurence_network.png](./Conghua_WoS_author_keywords_co-occurence_network.png)
 
