@@ -373,7 +373,7 @@ Shan, Y., Huang, Q., Guan, D. et al. (2020). China CO2 emission accounts 2016–
 
 ##### 本图文来源：Oxford Roadmapping 澳恪森数智科技服务(广州)有限公司
 
-<cite>廖汉腾. (2022). 广东2012-2017投入产出结构之系列可视化. Oxford Roadmapping 澳恪森数智科技服务(广州)有限公司. </cite>
+<cite>廖汉腾. (2023). 广东2012-2017投入产出结构之系列可视化. Oxford Roadmapping 澳恪森数智科技服务(广州)有限公司. </cite>
 
 > 注：此图文将正式发表，在发表前请勿引用。
 
