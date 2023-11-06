@@ -1,3 +1,16 @@
+---
+title:  '全球足迹网络之产业分析简介'
+date: 2023-11-06
+categories:
+- National Footprint and Biocapacity Accounts
+- 国家足迹与生物承截力核算
+tags:
+- Carbon management
+- 碳排管理
+- Green Digital Transformation
+- 双化协同
+---
+
 全球足迹网络之产业分析简介
 
 “全球足迹网络”的核心是于1990年代早期成立的科学研究公司“生态足迹”，由Mathis Wackernagel 及 William Rees 创立，基于Wackernagel于UBC的博士研究。其2003年的“国家足迹与生态承截力核算”资源核算工具取得不少包括联合国单位的认可与引用，包括15个国家政府将其计量方式应用在各自的政策方案里。该组织亦在瑞士日内瓦与意大利成立了社会组织。该单位亦参与了[中国生态足迹 
@@ -16,6 +29,10 @@
 与之相反的是“自下而上”方法，运用产业收集的任何资金流动、物质流动、及能源流动的数据。
 
 目前，“全球足迹网络”正针对地中海地区的旅游业迸行产业层次的评估，[发展可持续旅游产品，强调像MEET Network 的生态旅游套餐](https://www.footprintnetwork.org/our-work/sustainable-tourism/)，不但可以探索自然与人文，还能在比游客待在家里时产出更低的每日生态足迹。
+
+![富裕大城市的碳排高，责任也大](./featured.png)
+> 挪威NTNU研究世界13,000城市发现，富裕大城市的碳排高。[City Carbon Footprints] (http://citycarbonfootprints.info/)，图片来源[NASA Earth Observatory](https://earthobservatory.nasa.gov/images/144807/sizing-up-the-carbon-footprint-of-cities)
+
 
 ### 对澳恪森产业分析产品化的启发
 
