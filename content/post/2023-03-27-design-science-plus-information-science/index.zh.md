@@ -1,6 +1,14 @@
 ---
 title:  '设计科学+信息科学：不论任何学科都能用上的知识及方法'
 date: 2023-03-27
+categories:
+- Technology Roadmapping
+- 技术路线图
+tags:
+- design science
+- 设计科学
+- information science
+- 信息科学
 ---
 
 3篇SCIE/SSCI 2区论文《[在 ESG 咨询﹑报告和传播教育方面进行合作](https://oxon8.com/post/2023-02-22-esg-education-partner-maps/)》、《[碳中和管理服务数智平台](https://oxon8.com/post/2023-02-20-smart-digital-platforms-carbon-neutral-management-services/)》、《[智能港口知识图谱分析：面对全球价值链挑战的研究](https://oxon8.com/publication/liao-knowledge-2023/) 》的共同处，除了在攻克〝<span class="highlight-container highlight-green"><span class="highlight">绿色化</span></span>及<span class="highlight-container highlight-yellow"><span class="highlight">数字化</span></span>转型促进高质量发展〞的议题之外，就是在方法和数据面向，运用了设计科学+信息科学的取径。
@@ -20,7 +28,7 @@ date: 2023-03-27
 
 ![](https://images.squarespace-cdn.com/content/v1/580a088fff7c50685dae805e/1477956369493-551IVQVI7HIP7XV455FY/cambridge-roadmapping_rob-phaal.jpg?format=2500w)
 
->  [剑桥技术路线图 (Cambridge Roadmapping)](https://www.cambridgeroadmapping.net/)) 的方法及案例 ©1998-2023 Robert Phaal
+>  [剑桥技术路线图 (Cambridge Roadmapping)](https://www.cambridgeroadmapping.net/) 的方法及案例 ©1998-2023 Robert Phaal
 
 〝能产出技术路线图，能产出商业模式，〞**澳恪森**共同创办人、牛津大学互联网研究博士，廖汉腾表示，〝这3篇论文都运用了**设计科学**的理论及方法，特别是在信息管理、信息系统 (Information systems)、 信息技术 (Information Technology, IT) 等已有坚实学科背景及产业实践的基础上。〞
 
