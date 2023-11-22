@@ -5,7 +5,7 @@
 # Default language
 zh-Hans:
   languageCode: zh-Hans
-  contentDir: content/zh-Hans
+  contentDir: content
   title: 澳恪森数智科技服务
   params:
     description: 数智平台与绿色金融科技的创新设计
@@ -25,7 +25,22 @@ en:
   title: Oxford Roadmapping  (Oxon8)
   params:
     description: Innovate with Designs of Smart Platforms and Green FinTech, on a mission to reduce gigatones of GHG emissions by transforming how carbon neutrality information flows change business operations and supply chains
+  menu:
+    main:
+      - name: people
+        url: 'people'
+        weight: 3
+      - name: tour
+        url: 'tour'
+        weight: 2
+      - name: news
+        url: 'post'
+        weight: 1
   zh:
+    params:
+    title: 澳恪森数智
+    weight: 1
+  zh-Hans:
     params:
     title: 澳恪森数智科技服务
     weight: 2
@@ -39,10 +54,27 @@ zh-Hant:
   title: 澳恪森數智科技服務
   params:
     description: 數智平台與綠色金融科技的創新設計
+  menu:
+      main:
+      - name: 聯絡
+        url: '#contact'
+        weight: 6
+      - name: 我們成員
+        url: 'people'
+        weight: 5
+      - name: 发表
+        url: 'publication'
+        weight: 3
+      - name: 精準脫碳之旅
+        url: 'tour'
+        weight: 2
+      - name: 綠色化數位化轉型發展
+        url: 'post'
+        weight: 1
   en:
     params:
     title: Oxford Roadmapping
     weight: 2
-  zh-Hant:
-    title: 澳恪森數智科技服務
+  zh:
+    title: 澳恪森数智科技服务
     weight: 3
