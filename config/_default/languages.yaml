@@ -3,29 +3,9 @@
 #   Documentation: https://wowchemy.com/docs/guide/language/
 
 # Default language
-en:
-  languageCode: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  contentDir: content/en
-  title: Oxford Roadmapping  (Oxon8)
-  params:
-    description: Innovate with Designs of Smart Platforms and Green FinTech, on a mission to reduce gigatones of GHG emissions by transforming how carbon neutrality information flows change business operations and supply chains
-  menu:
-    main:
-      - name: people
-        url: 'people'
-        weight: 3
-      - name: tour
-        url: 'tour'
-        weight: 2
-      - name: news
-        url: 'post'
-        weight: 1
-
-# Uncomment the lines below to configure your website in a second language.
 zh-Hans:
   languageCode: zh-Hans
-  contentDir: content/zh-Hans
+  contentDir: content
   title: 澳恪森数智科技服务
   params:
     description: 数智平台与绿色金融科技的创新设计
@@ -46,6 +26,40 @@ zh-Hans:
       - name: 双化协同发展
         url: 'post'
         weight: 1
+  en:
+    params:
+    title: Oxford Roadmapping
+    weight: 2
+  zh-Hant:
+    title: 澳恪森數智科技服務
+    weight: 3
+
+# Uncomment the lines below to configure your website in a second language.
+en:
+  languageCode: en-us
+  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  contentDir: content/en
+  title: Oxford Roadmapping  (Oxon8)
+  params:
+    description: Innovate with Designs of Smart Platforms and Green FinTech, on a mission to reduce gigatones of GHG emissions by transforming how carbon neutrality information flows change business operations and supply chains
+  menu:
+    main:
+      - name: people
+        url: 'people'
+        weight: 3
+      - name: tour
+        url: 'tour'
+        weight: 2
+      - name: news
+        url: 'post'
+        weight: 1
+  zh:
+    params:
+    title: 澳恪森数智科技服务
+    weight: 2
+  zh-Hant:
+    title: 澳恪森數智科技服務
+    weight: 3
 
 zh-Hant:
   languageCode: zh-Hant
@@ -70,10 +84,9 @@ zh-Hant:
       - name: 雙化協同發展
         url: 'post'
         weight: 1
-
-  zh:
+  en:
     params:
-    title: 澳恪森数智科技服务
+    title: Oxford Roadmapping
     weight: 2
   zh-Hant:
     title: 澳恪森數智科技服務
