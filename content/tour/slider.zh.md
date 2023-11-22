@@ -37,7 +37,7 @@ content:
         text: '我们成员--跨领域团队  💪'
         url: https://oxon8.com/people/
     - title: '澳恪森数智 Oxon8 🌏 来自湾区、服务湾区 🔎'
-      content: '请同我们分享减排丶减碳丶可持续发展遇到的问题及知识...'
+      content: '请同我们分享减排丶脫碳丶可持续发展遇到的问题及知识...'
       align: left
       background:
         position: center

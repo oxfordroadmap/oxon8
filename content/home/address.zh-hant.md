@@ -2,12 +2,12 @@
 widget: contact
 headless: true
 weight: 50
-title: '来自湾区﹑服务湾区  --- 澳恪森数智 '
+title: '來自灣區﹑服務灣區  --- 澳恪森數智 '
 subtitle: 
 content:
   email: oxon8com@outlook.com
   address:
-    street: '澳恪森数智科技服务（广州）有限公司 <br/> 广州市 从化区温泉镇温泉东路75号 [湾区设计开放大学]  <br/> Oxford Roadmapping Inc. <br/> 75 Wenquan East Rd, Conghua'
+    street: '澳恪森數智科技服務（廣州）有限公司 <br/> 廣州市 從化區溫泉鎮溫泉東路75號 [灣區設計開放大學]  <br/> Oxford Roadmapping Inc. <br/> 75 Wenquan East Rd, Conghua'
     city: 'Guangzhou, Guangdong'
     country: China
     country_code: CN
@@ -33,4 +33,4 @@ design:
 
 <a name="contact"></a>
 
-# 连络地址
+# 連絡地址
