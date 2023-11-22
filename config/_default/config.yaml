@@ -12,13 +12,13 @@ canonifyURLs: 'false'
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: zh-Hans
+defaultContentLanguage: zh
 defaultContentLanguageInSubdir: false
 languages:
-  zh-Hans:
+  zh:
     contentDir: content
     disabled: false
-    languageCode: zh-Hans
+    languageCode: zh
     languageName: 中文 (簡体)
     languageDirection: ltr
     title: 澳恪森数智科技服务
