@@ -49,11 +49,11 @@ tags:
 
 中國香港的35個產業部門的關係，以2022年最新數據取前5%的投入產出數據關係(已包括近8成的關係總值數據)進行網路圖分析如下圖:
 <figure>
-<iframe src="./NetVis-中國香港-2022-總值-5-zh-Hant.html" height="800px" width="100%" style="border:none;"></iframe><figcaption markdown="1" >
-<div class="alert alert-success d-flex align-items-center" role="alert"><div class="text-success">
+<iframe src="./NetVis-中國香港-2022-總值-5-zh-Hant.html" height="800px" width="100%" style="border:none;"></iframe><figcaption >
+<div class="alert alert-success d-flex align-items-center" role="alert"><div class="text-success"  markdown="1">
 > * 註1：節點大小表達總值大小，使用🖱️滑鼠懸停(hover)效果可見總值、進出、與出口的數據值，單位為百萬美元（按當前價格計算）   
 > * 註2：此圖有🪄交互功能（⎘拖拉、🖔多手指平移、🔍縮放頁面及🖱️滑鼠懸停效果）
-<cite>廖汉腾. (2023). 中國香港主要產業結構. Oxford Roadmapping 澳恪森数智科技服务(广州). </cite>
+<br/><cite>廖汉腾. (2023). 中國香港主要產業結構. Oxford Roadmapping 澳恪森数智科技服务(广州). </cite>
 > 注：此图将正式发表，在发表前请勿引用。
 
 </div></div>
@@ -61,6 +61,7 @@ tags:
 </figure>
 
 值得注意的是上行的是“水運”的關係網絡，不只和空運及陸運相關，更形構出如“水運↦空運↦批發貿易↦水運”、“水運↦金融業↦房地產業↦批發貿易”、“水運↦金融業↦郵政和電信↦批發貿易”等核心網絡關係。
+
 下行的主要核心產業有：“批發貿易”、“金融業”、“房地產業”、及“建築業”，其間的主要關係依圖所示為“金融↦批發貿易↦建築業”、“金融業↦房地產業↦批發貿易↦建築業”。
 
 ### 網路圖分析--2000年中國香港產業部門之間關係 (此圖有交互功能) 
@@ -69,10 +70,10 @@ tags:
 
 <figure>
 <iframe src="./NetVis-中國香港-2000-總值-5-zh-Hant.html" height="800px" width="100%" style="border:none;"></iframe><figcaption markdown="1" >
-<div class="alert alert-success d-flex align-items-center" role="alert"><div class="text-success">
+<div class="alert alert-success d-flex align-items-center" role="alert"><div class="text-success"  markdown="1">
 > * 註1：節點大小表達總值大小，使用🖱️滑鼠懸停(hover)效果可見總值、進出、與出口的數據值，單位為百萬美元（按當前價格計算）   
 > * 註2：此圖有🪄交互功能（⎘拖拉、🖔多手指平移、🔍縮放頁面及🖱️滑鼠懸停效果）
-<cite>廖汉腾. (2023). 中國香港主要產業結構. Oxford Roadmapping 澳恪森数智科技服务(广州). </cite>
+<br/><cite>廖汉腾. (2023). 中國香港主要產業結構. Oxford Roadmapping 澳恪森数智科技服务(广州). </cite>
 > 注：此图将正式发表，在发表前请勿引用。
 
 </div></div>

@@ -49,11 +49,11 @@ tags:
 
 中国香港的35个产业部门的关系，以2022年最新数据取前5%的投入产出数据关系(已包括近8成的关系总值数据)进行网路图分析如下图:
 <figure>
-<iframe src="./NetVis-中国香港-2022-总值-5-zh-Hant.html" height="800px" width="100%" style="border:none;"></iframe><figcaption markdown="1" >
-<div class="alert alert-success d-flex align-items-center" role="alert"><div class="text-success">
+<iframe src="./NetVis-中国香港-2022-总值-5-zh-Hant.html" height="800px" width="100%" style="border:none;"></iframe><figcaption>
+<div class="alert alert-success d-flex align-items-center" role="alert"><div class="text-success" markdown="1">
 > * 注1：节点大小表达总值大小，使用🖱️滑鼠悬停(hover)效果可见总值丶进出丶与出口的数据值，单位为百万美元（按当前价格计算）   
 > * 注2：此图有🪄交互功能（⎘拖拉丶🖔多手指平移丶🔍缩放页面及🖱️滑鼠悬停效果）
-<cite>廖汉腾. (2023). 中国香港主要产业结构. Oxford Roadmapping 澳恪森数智科技服务(广州). </cite>
+<br/><cite>廖汉腾. (2023). 中国香港主要产业结构. Oxford Roadmapping 澳恪森数智科技服务(广州). </cite>
 > 注：此图将正式发表，在发表前请勿引用。
 
 </div></div>
@@ -61,7 +61,13 @@ tags:
 </figure>
 
 值得注意的是上行的是“水运”的关系网络，不只和空运及陆运相关，更形构出如“水运↦空运↦批发贸易↦水运”丶“水运↦金融业↦房地产业↦批发贸易”丶“水运↦金融业↦邮政和电信↦批发贸易”等核心网络关系。
+
 下行的主要核心产业有：“批发贸易”丶“金融业”丶“房地产业”丶及“建筑业”，其间的主要关系依图所示为“金融↦批发贸易↦建筑业”丶“金融业↦房地产业↦批发贸易↦建筑业”。
+
+<div class="alert alert-info d-flex align-items-center" role="alert"><div class="text-info" markdown="1">
+小帖士：香港海运港口局出版的 [香港海运业概览](https://www.hkmpb.gov.hk/publications/Maritime%20Industry%20in%20Hong%20Kong.pdf)</div></div>
+
+-----
 
 ### 网路图分析--2000年中国香港产业部门之间关系 (此图有交互功能) 
 
@@ -69,10 +75,10 @@ tags:
 
 <figure>
 <iframe src="./NetVis-中国香港-2000-总值-5-zh-Hant.html" height="800px" width="100%" style="border:none;"></iframe><figcaption markdown="1" >
-<div class="alert alert-success d-flex align-items-center" role="alert"><div class="text-success">
+<div class="alert alert-success d-flex align-items-center" role="alert"><div class="text-success" markdown="1">
 > * 注1：节点大小表达总值大小，使用🖱️滑鼠悬停(hover)效果可见总值丶进出丶与出口的数据值，单位为百万美元（按当前价格计算）   
 > * 注2：此图有🪄交互功能（⎘拖拉丶🖔多手指平移丶🔍缩放页面及🖱️滑鼠悬停效果）
-<cite>廖汉腾. (2023). 中国香港主要产业结构. Oxford Roadmapping 澳恪森数智科技服务(广州). </cite>
+<br/><cite>廖汉腾. (2023). 中国香港主要产业结构. Oxford Roadmapping 澳恪森数智科技服务(广州). </cite>
 > 注：此图将正式发表，在发表前请勿引用。
 
 </div></div>
