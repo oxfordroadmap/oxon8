@@ -64,6 +64,12 @@ tags:
 
 下行的主要核心產業有：“批發貿易”、“金融業”、“房地產業”、及“建築業”，其間的主要關係依圖所示為“金融↦批發貿易↦建築業”、“金融業↦房地產業↦批發貿易↦建築業”。
 
+
+<div class="alert alert-info d-flex align-items-center" role="alert"><div class="text-info" markdown="1">
+小帖士：香港海運港口局出版的 [香港海運業概覽](https://www.hkmpb.gov.hk/publications/Maritime%20Industry%20in%20Hong%20Kong.pdf)</div></div>
+
+-----
+
 ### 網路圖分析--2000年中國香港產業部門之間關係 (此圖有交互功能) 
 
 中國香港的35個產業部門的關係，以2000年最新數據取前5%的投入產出數據關係(已包括近8成的關係總值數據)進行網路圖分析如下圖:
@@ -71,8 +77,10 @@ tags:
 <figure>
 <iframe src="./NetVis-中國香港-2000-總值-5-zh-Hant.html" height="800px" width="100%" style="border:none;"></iframe><figcaption markdown="1" >
 <div class="alert alert-success d-flex align-items-center" role="alert"><div class="text-success"  markdown="1">
-> * 註1：節點大小表達總值大小，使用🖱️滑鼠懸停(hover)效果可見總值、進出、與出口的數據值，單位為百萬美元（按當前價格計算）   
-> * 註2：此圖有🪄交互功能（⎘拖拉、🖔多手指平移、🔍縮放頁面及🖱️滑鼠懸停效果）
+
+* 註1：節點大小表達總值大小，使用🖱️滑鼠懸停(hover)效果可見總值、進出、與出口的數據值，單位為百萬美元（按當前價格計算）   
+* 註2：此圖有🪄交互功能（⎘拖拉、🖔多手指平移、🔍縮放頁面及🖱️滑鼠懸停效果）
+
 <br/><cite>廖汉腾. (2023). 中國香港主要產業結構. Oxford Roadmapping 澳恪森数智科技服务(广州). </cite>
 > 注：此图将正式发表，在发表前请勿引用。
 
@@ -98,6 +106,8 @@ tags:
 * [美公布《2023年清潔航運法》協助航運業脫碳](https://tssp.neocities.org/news/shipping/202306/2023061603)
 
 中國香港在[企業社會責任（CSR），環境、社會及管治（ESG），以及聯合國永續發展目標（SDGs）](https://cbs.bschool.cuhk.edu.hk/zh-hant/news/%E4%BC%81%E6%A5%AD%E5%8F%AF%E6%8C%81%E7%BA%8C%E7%99%BC%E5%B1%95%E6%8C%87%E6%95%B8%E5%85%AC%E5%B8%83/#:~:text=%E9%80%8F%E9%81%8E%E4%BC%81%E6%A5%AD%E5%8F%AF%E6%8C%81%E7%BA%8C%E7%99%BC%E5%B1%95,%E6%8E%A8%E5%B1%95%E5%8F%AF%E6%8C%81%E7%BA%8C%E7%99%BC%E5%B1%95%E5%B7%A5%E4%BD%9C%E3%80%82%E3%80%8D)方向，已有不少在商業可持續發展的積累。
+
+### 香港數碼化綠色化雙轉型的問題
 
 因此，本文參照鄭永年從[浙江樣本討論「八八戰略」](https://www.qiia.org/zh-hant/node/1023)，對中國香港從價值鏈、供應鏈和產業鏈而言，提出以下問題：
 
