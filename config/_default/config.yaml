@@ -12,13 +12,13 @@ canonifyURLs: 'false'
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: zh
+defaultContentLanguage: zh-Hans
 languages:
   en:
     params:
     title: Oxford Roadmapping
     weight: 1
-  zh:
+  zh-Hans:
     params:
       navigation:
         tour: 精准脱碳之旅
@@ -30,7 +30,7 @@ languages:
         menu: 菜单
     title: 澳恪森数智科技服务
     weight: 2
-  zh-tw:
+  zh-Hant:
     params:
       navigation:
         tour: 精准脫碳之旅
