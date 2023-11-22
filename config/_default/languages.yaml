@@ -47,6 +47,7 @@ zh:
         url: 'post'
         weight: 1
 
+zh-Hant:
   languageCode: zh-Hant
   contentDir: content/zht
   title: 澳恪森數智科技服務
