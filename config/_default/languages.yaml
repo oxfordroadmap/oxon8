@@ -24,7 +24,7 @@ en:
 
 # Uncomment the lines below to configure your website in a second language.
 zh:
-  languageCode: zh-Hans
+  languageCode: zh
   contentDir: content/zh-Hans
   title: 澳恪森数智科技服务
   params:
