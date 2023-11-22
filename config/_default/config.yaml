@@ -12,13 +12,13 @@ canonifyURLs: 'false'
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: zh-Hans
+defaultContentLanguage: zh
 languages:
   en:
     params:
     title: Oxford Roadmapping
     weight: 1
-  zh-Hans:
+  zh:
     params:
       navigation:
         tour: 精准脱碳之旅
