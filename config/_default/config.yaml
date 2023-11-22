@@ -15,31 +15,12 @@ canonifyURLs: 'false'
 defaultContentLanguage: zh-Hans
 languages:
   zh-Hans:
-    params:
-      navigation:
-        tour: 精准脱碳之旅
-        news: 双化协同发展
-        people: 成员
-        event: 日程
-        publication: 发发
-        contact: 联络我们
-        menu: 菜单
     title: 澳恪森数智科技服务
     weight: 2
   zh-Hant:
-    params:
-      navigation:
-        tour: 精准脫碳之旅
-        news: 綠色數位轉型發展
-        people: 成員
-        event: 日程
-        publication: 發發
-        contact: 聯絡我們
-        menu: 菜單
     title: 澳恪森數智科技服務
     weight: 3
   en:
-    params:
     title: Oxford Roadmapping
     weight: 1
 hasCJKLanguage: true
