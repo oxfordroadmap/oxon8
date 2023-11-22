@@ -9,23 +9,6 @@ zh-Hans:
   title: 澳恪森数智科技服务
   params:
     description: 数智平台与绿色金融科技的创新设计
-  menu:
-    main:
-      - name: 连络
-        url: '#contact'
-        weight: 6
-      - name: 发发
-        url: 'publication'
-        weight: 5
-      - name: 成员
-        url: 'people'
-        weight: 3
-      - name: 精准脱碳之旅
-        url: 'tour'
-        weight: 2
-      - name: 双化协同发展
-        url: 'post'
-        weight: 1
   en:
     params:
     title: Oxford Roadmapping

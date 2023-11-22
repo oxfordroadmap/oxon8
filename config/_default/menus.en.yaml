@@ -4,21 +4,21 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: 精準脫碳之旅
-    url: tour
-    weight: 10
-  - name: 綠色化數位化轉型發展
-    url: post
-    weight: 20
-  - name: 成員
-    url: people
-    weight: 30
-  - name: 發表
-    url: publication
-    weight: 50
-  - name: 聯絡我們
-    url: #contact
-    weight: 60
+  - name: Contact
+    url: '#contact'
+    weight: 6
+  - name: Members
+    url: 'people'
+    weight: 5
+  - name: Publications
+    url: 'publication'
+    weight: 3
+  - name: Precise Decarbonization
+    url: 'tour'
+    weight: 2
+  - name: Twin Transition
+    url: 'post'
+    weight: 1
 #  - name: event
 #    url: event
 #    weight: 40
