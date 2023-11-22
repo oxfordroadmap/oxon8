@@ -3,8 +3,8 @@
 #   Documentation: https://wowchemy.com/docs/guide/language/
 
 # Default language
-zh-Hans:
-  languageCode: zh-Hans
+zh:
+  languageCode: zh
   title: 澳恪森数智科技服务
   params:
     description: 数智平台与绿色金融科技的创新设计
@@ -29,7 +29,7 @@ zh-Hans:
     params:
     title: Oxford Roadmapping
     weight: 2
-  zh-Hant:
+  zh-hant:
     title: 澳恪森數智科技服務
     weight: 3
 
@@ -55,16 +55,12 @@ en:
     params:
     title: 澳恪森数智
     weight: 1
-  zh-Hans:
-    params:
-    title: 澳恪森数智科技服务
-    weight: 2
-  zh-Hant:
-    title: 澳恪森數智科技服務
+  zh-hant:
+    title: 澳恪森數智
     weight: 3
 
-zh-Hant:
-  languageCode: zh-Hant
+zh-hant:
+  languageCode: zh-hant
   languageName: 中文 (正體)
   title: 澳恪森數智科技服務
   params:
