@@ -19,7 +19,7 @@ languages:
     contentDir: content
     disabled: false
     languageCode: zh-Hans
-    languageCode: 中文 (簡体)
+    languageName: 中文 (簡体)
     languageDirection: ltr
     title: 澳恪森数智科技服务
     weight: 1
