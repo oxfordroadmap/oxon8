@@ -15,12 +15,25 @@ tags:
 - 数字化绿色化双转型
 ---
 
-數碼化綠色化雙轉型的香港？香港生產力促進局、英國標準協會、曼徹斯特大學等單位及代表參加了在深圳舉辦的【[2023世界創新城市論壇](https://www.hkcd.com.hk/hkcdweb/content/2023/11/16/content_8610030.html)】，在内地稱“双化协同”的數碼化綠色化雙轉型正是本公司Oxford Roadmapping 澳恪森数智科技服务(广州)有限公司的主營領域，在此展示中國香港自2000至2022年二十多年的產業結構變化，運用包括社交網絡分析的數據可視化，指出已下行近5年的主要核心產業如“批發貿易”、“金融業”、“房地產業”、及“建築業”，要如何和近年來成長的“水運”、“公行國防社會安全”等新興核心產業，協同數碼化綠色化雙轉型？
+數碼化綠色化雙轉型的香港？
+
+以數碼化綠色化雙轉型為主題，【[2023世界創新城市論壇](https://www.hkcd.com.hk/hkcdweb/content/2023/11/16/content_8610030.html)】，
+
+Oxford Roadmapping 澳恪森数智科技服务在此展示中國香港自2000至2022年二十多年的產業結構變化，運用包括社交網絡分析的數據可視化，指出已下行近5年的主要核心產業如“批發貿易”、“金融業”、“房地產業”、及“建築業”，要如何和近年來成長的“水運”、“公行國防社會安全”等新興核心產業，協同數碼化綠色化雙轉型？
 
 此數據分析及可視化是根據[亞洲開發銀行ADB](https://data.adb.org) 所提供的產業投入產出數據，含[中國香港35部门的🔁投入及產出](https://data.adb.org/dataset/hong-kong-china-input-output-economic-indicators)，有如“批發貿易↦水運”、“金融業↦房地產業”等具有方向性的金流數據。此數據亦含各部門的進口及出口數據，但可惜未含碳排量或強度等清單數據。未來創新、科研等需要結合產業金流及碳流數據來實撐數碼化綠色化雙轉型。
 
 <!--more-->
 
+數碼化綠色化雙轉型的香港？
+
+以數碼化綠色化雙轉型為主題，香港生產力促進局、英國標準協會、曼徹斯特大學等單位及代表參加了在深圳舉辦的【[2023世界創新城市論壇](https://www.hkcd.com.hk/hkcdweb/content/2023/11/16/content_8610030.html)】。
+
+在内地稱“双化协同”的數碼化綠色化雙轉型正是本公司Oxford Roadmapping 澳恪森数智科技服务(广州)有限公司的主營領域。
+
+在此展示中國香港自2000至2022年二十多年的產業結構變化，運用包括社交網絡分析的數據可視化，指出已下行近5年的主要核心產業如“批發貿易”、“金融業”、“房地產業”、及“建築業”。
+
+中國香港要如何和近年來成長的“水運”、“公行國防社會安全”等新興核心產業，協同數碼化綠色化雙轉型？
 
 ### 趨勢圖分析——中國香港前8產業部門的總值、進出、與出口的多面分析
 
@@ -36,19 +49,14 @@ tags:
 
 中國香港的35個產業部門的關係，以2022年最新數據取前5%的投入產出數據關係(已包括近8成的關係總值數據)進行網路圖分析如下圖:
 <figure>
-
-<div class="alert alert-success d-flex align-items-center" role="alert">
-  <div class="text-success">
-* 註1：節點大小表達總值大小，使用🖱️滑鼠懸停(hover)效果可見總值、進出、與出口的數據值，單位為百萬美元（按當前價格計算）   
-* 註2：此圖有🪄交互功能（⎘拖拉、🖔多手指平移、🔍縮放頁面及🖱️滑鼠懸停效果）
-  </div>
-</div>
-<iframe src="./NetVis-中國香港-2022-總值-5-zh-Hant.html" height="800px" width="100%" style="border:none;"></iframe>
-<figcaption markdown="1" >
-<cite>廖汉腾. (2023). 中國香港主要產業結構. Oxford Roadmapping 澳恪森数智科技服务(广州)有限公司. </cite>
-
+<iframe src="./NetVis-中國香港-2022-總值-5-zh-Hant.html" height="800px" width="100%" style="border:none;"></iframe><figcaption markdown="1" >
+<div class="alert alert-success d-flex align-items-center" role="alert"><div class="text-success">
+> * 註1：節點大小表達總值大小，使用🖱️滑鼠懸停(hover)效果可見總值、進出、與出口的數據值，單位為百萬美元（按當前價格計算）   
+> * 註2：此圖有🪄交互功能（⎘拖拉、🖔多手指平移、🔍縮放頁面及🖱️滑鼠懸停效果）
+<cite>廖汉腾. (2023). 中國香港主要產業結構. Oxford Roadmapping 澳恪森数智科技服务(广州). </cite>
 > 注：此图将正式发表，在发表前请勿引用。
 
+</div></div>
 </figcaption>
 </figure>
 
@@ -58,20 +66,16 @@ tags:
 ### 網路圖分析--2000年中國香港產業部門之間關係 (此圖有交互功能) 
 
 中國香港的35個產業部門的關係，以2000年最新數據取前5%的投入產出數據關係(已包括近8成的關係總值數據)進行網路圖分析如下圖:
+
 <figure>
-
-<div class="alert alert-success d-flex align-items-center" role="alert">
-  <div class="text-success">
-* 註1：節點大小表達總值大小，使用🖱️滑鼠懸停(hover)效果可見總值、進出、與出口的數據值，單位為百萬美元（按當前價格計算）   
-* 註2：此圖有🪄交互功能（⎘拖拉、🖔多手指平移、🔍縮放頁面及🖱️滑鼠懸停效果）
-  </div>
-</div>
-<iframe src="./NetVis-中國香港-2000-總值-5-zh-Hant.html" height="800px" width="100%" style="border:none;"></iframe>
-<figcaption markdown="1" >
-<cite>廖汉腾. (2023). 中國香港主要產業結構. Oxford Roadmapping 澳恪森数智科技服务(广州)有限公司. </cite>
-
+<iframe src="./NetVis-中國香港-2000-總值-5-zh-Hant.html" height="800px" width="100%" style="border:none;"></iframe><figcaption markdown="1" >
+<div class="alert alert-success d-flex align-items-center" role="alert"><div class="text-success">
+> * 註1：節點大小表達總值大小，使用🖱️滑鼠懸停(hover)效果可見總值、進出、與出口的數據值，單位為百萬美元（按當前價格計算）   
+> * 註2：此圖有🪄交互功能（⎘拖拉、🖔多手指平移、🔍縮放頁面及🖱️滑鼠懸停效果）
+<cite>廖汉腾. (2023). 中國香港主要產業結構. Oxford Roadmapping 澳恪森数智科技服务(广州). </cite>
 > 注：此图将正式发表，在发表前请勿引用。
 
+</div></div>
 </figcaption>
 </figure>
 
@@ -106,7 +110,7 @@ tags:
 
 
 **澳恪森**表示，將於聯合國COP28 同步的IEEE技術可持續發展浄零政策研討会發布産業論文，並在亞太地區分析産業的碳足跡網絡，如[浙江精准脱碳](https://oxon8.netlify.app/post/2023-11-05-zhejiang-high-carbon-intensity-industry-mapping/)、
-[广东精准脱碳](https://oxon8.netlify.app/post/2023-10-26-guandong-high-carbon-intensity-industry-mapping/)、等，持續産出[數據科学+設計科学](https://oxon8.netlify.app/post/2023-03-27-design-science-plus-information-science/)的知識和方法，特別在[碳中和管理服務數智平台](https://oxon8.com/post/2023-02-20-smart-digital-platforms-carbon-neutral-management-services/)、[智能港口全球價值鏈脫碳](https://oxon8.com/publication/liao-knowledge-2023/)、[ESG 咨詢﹑報告和傳播教育合作](https://oxon8.com/publication/liao-knowledge-2023/)進行科研創新。
+[广东精准脱碳](https://oxon8.netlify.app/post/2023-10-26-guandong-high-carbon-intensity-industry-mapping/)、等，持續産出[數據科学+設計科学](https://oxon8.netlify.app/post/2023-03-27-design-science-plus-information-science/)的知識和方法，特別在[碳中和管理服務數智平台](https://oxon8.netlify.app/post/2023-02-20-smart-digital-platforms-carbon-neutral-management-services/)、[智能港口全球價值鏈脫碳](https://oxon8.netlify.app/publication/liao-knowledge-2023/)、[ESG 咨詢﹑報告和傳播教育合作](https://oxon8.netlify.app/publication/liao-knowledge-2023/)進行科研創新。
 
 在投入産出分析（Input-Output Analysis）整合 社交网絡圖可视化 （Social Network Mapping）及分析方面，有具大應用於 碳排管理（Carbon management）双化協同（Green Digital Transformation）的機運，歡迎來信 h.liao@ieee.org 詢問各式合作机会。
 
