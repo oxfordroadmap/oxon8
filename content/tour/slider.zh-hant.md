@@ -47,10 +47,10 @@ content:
       link:
         icon: thumbs-o-up
         icon_pack: fas
-        text: '發表論文 ^ 發布報告 --分享問題及解決方案'
+        text: '發表論文 & 發布報告 --分享問題及解決方案'
         url: https://oxon8.com/publication/
-    - title: '🎁 Oxon8 助您運用世界一流前沿方法，點創新火苗 ❤️‍🔥'
-      content: '***「吾生也有涯，而知也無涯」*** 有目的掌握知識及情報...'
+    - title: '🎁 Oxon8 助您運用世界一流前沿方法，點創新火苗 🔥'
+      content: '❤️***「吾生也有涯，而知也無涯」*** 有目的掌握知識及情報...'
       align: right
       background:
         position: center
