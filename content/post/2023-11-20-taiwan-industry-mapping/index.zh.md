@@ -53,7 +53,7 @@ tags:
 
 台湾的35个产业部门的关系，以2022年最新数据取前5%的投入产出数据关系(已包括近8成的关系总值数据)进行网路图分析如下图:
 <figure>
-<iframe src="./NetVis-台灣-2022-總值-5-zh-Hant.html" height="800px" width="100%" style="border:none;"></iframe><figcaption >
+<iframe src="./NetVis-台湾-2022-总值-5-zh-Hant.html" height="800px" width="100%" style="border:none;"></iframe><figcaption >
 <div class="alert alert-success d-flex align-items-center" role="alert"><div class="text-success"  markdown="1">
 
 
@@ -86,7 +86,7 @@ tags:
 台湾的35个产业部门的关系，以2000年最新数据取前5%的投入产出数据关系 (已包括近8成的关系总值数据) 进行网路图分析如下图:
 
 <figure>
-<iframe src="./NetVis-台灣-2000-總值-5-zh-Hant.html" height="800px" width="100%" style="border:none;"></iframe><figcaption markdown="1" >
+<iframe src="./NetVis-台湾-2000-总值-5-zh-Hant.html" height="800px" width="100%" style="border:none;"></iframe><figcaption markdown="1" >
 <div class="alert alert-success d-flex align-items-center" role="alert"><div class="text-success"  markdown="1">
 
 1. 节点大小表达总值大小，使用🖱️滑鼠悬停(hover)效果可见总值丶进出丶与出口的数据值，单位为百万美元（按当前价格计算）   

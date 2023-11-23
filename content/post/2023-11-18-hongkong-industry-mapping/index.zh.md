@@ -38,7 +38,7 @@ tags:
 
 中国香港的35个产业部门当中，以2022年最新数据取前8，其20多年的趋势图分析如下图所示：
 
-![TrendVis-中国香港-TopN_8-zh-Hant.png](TrendVis-中国香港-TopN_8-zh-Hant.svg)
+![TrendVis-中国香港-TopN_8-zh-Hant.png](TrendVis-中国香港-TopN_8-zh-Hans.svg)
 
 近5年以来，位居前列的主要核心产业正下行的有：“批发贸易”丶“金融业”丶“房地产业”丶及“建筑业”。这些自2000年起至2018带领香港产业走向成长的部门，极需寻找新增长点丶新创新点丶以及转型。
 
@@ -48,7 +48,7 @@ tags:
 
 中国香港的35个产业部门的关系，以2022年最新数据取前5%的投入产出数据关系(已包括近8成的关系总值数据)进行网路图分析如下图:
 <figure>
-<iframe src="./NetVis-中國香港-2022-總值-5-zh-Hant.html" height="800px" width="100%" style="border:none;"></iframe><figcaption>
+<iframe src="./NetVis-中国香港-2022-总值-5-zh-Hant.html" height="800px" width="100%" style="border:none;"></iframe><figcaption>
 <div class="alert alert-success d-flex align-items-center" role="alert"><div class="text-success" markdown="1">
 
 * 注1：节点大小表达总值大小，使用🖱️滑鼠悬停(hover)效果可见总值丶进出丶与出口的数据值，单位为百万美元（按当前价格计算）   
@@ -75,7 +75,7 @@ tags:
 中国香港的35个产业部门的关系，以2000年最新数据取前5%的投入产出数据关系(已包括近8成的关系总值数据)进行网路图分析如下图:
 
 <figure>
-<iframe src="./NetVis-中國香港-2000-總值-5-zh-Hant.html" height="800px" width="100%" style="border:none;"></iframe><figcaption markdown="1" >
+<iframe src="./NetVis-中国香港-2000-总值-5-zh-Hant.html" height="800px" width="100%" style="border:none;"></iframe><figcaption markdown="1" >
 <div class="alert alert-success d-flex align-items-center" role="alert"><div class="text-success" markdown="1">
 
 * 注1：节点大小表达总值大小，使用🖱️滑鼠悬停(hover)效果可见总值丶进出丶与出口的数据值，单位为百万美元（按当前价格计算）   
