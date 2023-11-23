@@ -10,6 +10,7 @@ categories:
 - 社交网络分析
 tags:
 - Green Digital Transformation
+- Twin Transition
 - 數碼化綠色化雙轉型
 - 双化协同
 - 数字化绿色化双转型
@@ -51,10 +52,12 @@ tags:
 <figure>
 <iframe src="./NetVis-中國香港-2022-總值-5-zh-Hant.html" height="800px" width="100%" style="border:none;"></iframe><figcaption >
 <div class="alert alert-success d-flex align-items-center" role="alert"><div class="text-success"  markdown="1">
-> * 註1：節點大小表達總值大小，使用🖱️滑鼠懸停(hover)效果可見總值、進出、與出口的數據值，單位為百萬美元（按當前價格計算）   
-> * 註2：此圖有🪄交互功能（⎘拖拉、🖔多手指平移、🔍縮放頁面及🖱️滑鼠懸停效果）
-<br/><cite>廖汉腾. (2023). 中國香港主要產業結構. Oxford Roadmapping 澳恪森数智科技服务(广州). </cite>
-> 注：此图将正式发表，在发表前请勿引用。
+
+* 註1：節點大小表達總值大小，使用🖱️滑鼠懸停(hover)效果可見總值、進出、與出口的數據值，單位為百萬美元（按當前價格計算）   
+* 註2：此圖有🪄交互功能（⎘拖拉、🖔多手指平移、🔍縮放頁面及🖱️滑鼠懸停效果）
+
+<br/><cite>廖漢騰. (2023). 台灣主要產業結構. Oxford Roadmapping 澳恪森數智科技服务(廣州). </cite>
+> 注：此圖將發表，在發表前請勿正式引用。
 
 </div></div>
 </figcaption>
@@ -81,8 +84,8 @@ tags:
 * 註1：節點大小表達總值大小，使用🖱️滑鼠懸停(hover)效果可見總值、進出、與出口的數據值，單位為百萬美元（按當前價格計算）   
 * 註2：此圖有🪄交互功能（⎘拖拉、🖔多手指平移、🔍縮放頁面及🖱️滑鼠懸停效果）
 
-<br/><cite>廖汉腾. (2023). 中國香港主要產業結構. Oxford Roadmapping 澳恪森数智科技服务(广州). </cite>
-> 注：此图将正式发表，在发表前请勿引用。
+<br/><cite>廖漢騰. (2023). 台灣主要產業結構. Oxford Roadmapping 澳恪森數智科技服务(廣州). </cite>
+> 注：此圖將發表，在發表前請勿正式引用。
 
 </div></div>
 </figcaption>
@@ -93,13 +96,14 @@ tags:
 
 #### 中國香港產業結構
 
-根據[滕光进等人（2003）的分析](https://kns.cnki.net/kcms2/article/abstract?v=PT3z46FIkGl5vk6M3OTxqW-L0diMgTYJC8CbUCKW77FeppRcaHiPn3KEr1Kn8ifP1UFDtkNy9nGXeMk50vutCXvVXmw4MFpZpFnUZWMmHV8HidJXB_xXf_WTMZ0i2EFR&uniplatform=NZKPT&flag=copy)，亚洲金融危机之后，香港得益於与 內地以及全球的经济互动，成為中國最重要的金融及商貿服务中心之一，而香港投資者也充分利用資本優勢進入信息及生物等高新技術領域，香港政府也改變原有“積極不干預” 并采取科創和高新環境的産業治理。
+根據[滕光進等人（2003）的分析](https://kns.cnki.net/kcms2/article/abstract?v=PT3z46FIkGl5vk6M3OTxqW-L0diMgTYJC8CbUCKW77FeppRcaHiPn3KEr1Kn8ifP1UFDtkNy9nGXeMk50vutCXvVXmw4MFpZpFnUZWMmHV8HidJXB_xXf_WTMZ0i2EFR&uniplatform=NZKPT&flag=copy)，亞洲金融危機之後，香港得益於與 內地以及全球的經濟互動，成為中國最重要的金融及商貿服務中心之一，而香港投資者也充分利用資本優勢進入信息及生物等高新技術領域，香港政府也改變原有“積極不干預” 並采取科創和高新環境的産業治理。
 
-20年后的中國香港，在信息及生物等高新技術領域的可見成果似乎仍不如傳統核心“批發貿易”、“金融業”、“房地產業”。
+20年後的中國香港，在信息及生物等高新技術領域的可見成果似乎仍不如傳統核心“批發貿易”、“金融業”、“房地產業”。
 
 #### 水運的新興與希望
 
-20年后的中國香港，在“水運”部門看見一個新引擎，可以在數碼化和綠色化拼淨零轉型。展望世界航運今年2023年的主要發展如下：
+20年後的中國香港，在“水運”部門看見一個新引擎，可以在數碼化和綠色化拼淨零轉型。展望世界航運今年2023年的主要發展如下：
+
 
 * [國際海事組織力通過2023年船舶溫室氣體減排戰略](https://news.un.org/zh/story/2023/07/1119527)，要求：需透過提升新建船舶的能源效率設計來降低其碳強度；到2030年，國際航運單次運輸任務的二氧化碳排放量要比採用可實現溫室氣體零排放或接近零排放的技術、燃料和/或能源，到2030年至少佔國際航運所用能源的5%，力求達到10%。
 * 全球 [碳稅逼近船運，擴大供應鏈脫碳需求](https://csr.cw.com.tw/article/41913)
@@ -125,8 +129,7 @@ tags:
 **澳恪森**表示，將於聯合國COP28 同步的IEEE技術可持續發展浄零政策研討会發布産業論文，並在亞太地區分析産業的碳足跡網絡，如[浙江精准脱碳](https://oxon8.netlify.app/post/2023-11-05-zhejiang-high-carbon-intensity-industry-mapping/)、
 [广东精准脱碳](https://oxon8.netlify.app/post/2023-10-26-guandong-high-carbon-intensity-industry-mapping/)、等，持續産出[數據科学+設計科学](https://oxon8.netlify.app/post/2023-03-27-design-science-plus-information-science/)的知識和方法，特別在[碳中和管理服務數智平台](https://oxon8.netlify.app/post/2023-02-20-smart-digital-platforms-carbon-neutral-management-services/)、[智能港口全球價值鏈脫碳](https://oxon8.netlify.app/publication/liao-knowledge-2023/)、[ESG 咨詢﹑報告和傳播教育合作](https://oxon8.netlify.app/publication/liao-knowledge-2023/)進行科研創新。
 
-在投入産出分析（Input-Output Analysis）整合 社交网絡圖可视化 （Social Network Mapping）及分析方面，有具大應用於 碳排管理（Carbon management）双化協同（Green Digital Transformation）的機運，歡迎來信 h.liao@ieee.org 詢問各式合作机会。
-
+在投入産出分析（Input-Output Analysis）整合 社交網絡圖可视化 （Social Network Mapping）及分析方面，有具大應用於 碳排管理（Carbon management）双化協同（Green Digital Transformation）的機會，歡迎來信 h.liao@ieee.org 詢問合作事宜。
 
 
 
@@ -142,6 +145,6 @@ tags:
 
 ##### 本图文来源：Oxford Roadmapping 澳恪森数智科技服务(广州)有限公司
 
-<cite>廖汉腾. (2022). 广东2012-2017投入产出结构之系列可视化. Oxford Roadmapping 澳恪森数智科技服务(广州)有限公司. </cite>
+<cite>廖漢騰. (2023). 台灣主要產業結構. Oxford Roadmapping 澳恪森數智科技服务(廣州). </cite>
 
-> 注：此图文将正式发表，在发表前请勿引用。
+> 注：此圖將發表，在發表前請勿正式引用。

@@ -9,7 +9,7 @@ tags:
 - 雙化協同
 ---
 
-猜猜95%以上全球網際網路信息流動在哪？在[海底光纜](https://www.thepaper.cn/newsDetail_forward_23582699)！
+猜猜95%以上全球網際網路信息流動在哪？在[海底電纜](https://www.thepaper.cn/newsDetail_forward_23582699)！
 
 聯合國[實現全人類的互連互通](https://news.un.org/zh/story/2020/09/1066822)“新路線圖”還在進行，[《中國網際網路發展報告2023》和《世界網際網路發展報告2023》藍皮書](http://www.cac.gov.cn/2023-11/08/c_1701102645017335.htm)也評估全世界的發展，包括21個欠發達國家。
 
