@@ -55,9 +55,9 @@ tags:
 <iframe src="./NetVis-台灣-2022-總值-5-zh-Hant.html" height="800px" width="100%" style="border:none;"></iframe><figcaption >
 <div class="alert alert-success d-flex align-items-center" role="alert"><div class="text-success"  markdown="1">
 
-* 註1：節點大小表達總值大小，使用🖱️滑鼠懸停(hover)效果可見總值、進出、與出口的數據值，單位為百萬美元（按當前價格計算）   
+1. 節點大小表達總值大小，使用🖱️滑鼠懸停(hover)效果可見總值、進出、與出口的數據值，單位為百萬美元（按當前價格計算）   
 
-* 註2：此圖有🪄交互功能（⎘拖拉、🖔多手指平移、🔍縮放頁面及🖱️滑鼠懸停效果）
+2. 此圖有🪄交互功能（⎘拖拉、🖔多手指平移、🔍縮放頁面及🖱️滑鼠懸停效果）
 <br/><cite>廖漢騰. (2023). 台灣主要產業結構. Oxford Roadmapping 澳恪森數智科技服务(廣州). </cite>
 > 注：此圖將發表，在發表前請勿正式引用。
 
@@ -71,7 +71,9 @@ tags:
 
 
 <div class="alert alert-info d-flex align-items-center" role="alert"><div class="text-info" markdown="1">
-小帖士：2023年核定[「臺灣AI行動計畫2.0」及「以大帶小製造業低碳化及智慧化升級轉型補助」](https://www.ey.gov.tw/Page/9277F759E41CCD91/58927b52-d2f4-4dd8-a34d-2de10622994d)來助力產業轉型升級的成本過高及回收期過長的門檻。</div></div>
+
+小帖士：2023年核定[「臺灣AI行動計畫2.0」及「以大帶小製造業低碳化及智慧化升級轉型補助」](https://www.ey.gov.tw/Page/9277F759E41CCD91/58927b52-d2f4-4dd8-a34d-2de10622994d)來助力產業轉型升級的成本過高及回收期過長的門檻。
+</div></div>
 
 -----
 
@@ -83,8 +85,10 @@ tags:
 <iframe src="./NetVis-台灣-2000-總值-5-zh-Hant.html" height="800px" width="100%" style="border:none;"></iframe><figcaption markdown="1" >
 <div class="alert alert-success d-flex align-items-center" role="alert"><div class="text-success"  markdown="1">
 
-* 註1：節點大小表達總值大小，使用🖱️滑鼠懸停(hover)效果可見總值、進出、與出口的數據值，單位為百萬美元（按當前價格計算）   
-* 註2：此圖有🪄交互功能（⎘拖拉、🖔多手指平移、🔍縮放頁面及🖱️滑鼠懸停效果）
+
+1. 節點大小表達總值大小，使用🖱️滑鼠懸停(hover)效果可見總值、進出、與出口的數據值，單位為百萬美元（按當前價格計算）   
+
+2. 此圖有🪄交互功能（⎘拖拉、🖔多手指平移、🔍縮放頁面及🖱️滑鼠懸停效果）
 
 <br/><cite>廖漢騰. (2023). 台灣主要產業結構. Oxford Roadmapping 澳恪森數智科技服务(廣州). </cite>
 > 注：此圖將發表，在發表前請勿正式引用。

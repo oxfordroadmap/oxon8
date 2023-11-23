@@ -42,7 +42,7 @@ tags:
 
 台湾的35个产业部门当中，以2022年最新数据取前8，其20多年的趋势图分析如下图所示：
 
-![TrendVis-台湾-TopN_8-zh-Hant.png](TrendVis-台湾-TopN_8-zh-Hant.svg)
+![TrendVis-台湾-TopN_8-zh-Hant.png](TrendVis-台灣-TopN_8-zh-Hant.svg)
 
 近20年以来，台湾位居前列的核心产业多数时候往上行，如其持续总值进出口三项第一的“电子和光学设备”产业，仅有2007至2008年（环球金融危机）以及2018至2019年下行。
 
@@ -53,12 +53,13 @@ tags:
 
 台湾的35个产业部门的关系，以2022年最新数据取前5%的投入产出数据关系(已包括近8成的关系总值数据)进行网路图分析如下图:
 <figure>
-<iframe src="./NetVis-台湾-2022-总值-5-zh-Hant.html" height="800px" width="100%" style="border:none;"></iframe><figcaption >
+<iframe src="./NetVis-台灣-2022-總值-5-zh-Hant.html" height="800px" width="100%" style="border:none;"></iframe><figcaption >
 <div class="alert alert-success d-flex align-items-center" role="alert"><div class="text-success"  markdown="1">
 
-* 注1：节点大小表达总值大小，使用🖱️滑鼠悬停(hover)效果可见总值丶进出丶与出口的数据值，单位为百万美元（按当前价格计算）   
 
-* 注2：此图有🪄交互功能（⎘拖拉丶🖔多手指平移丶🔍缩放页面及🖱️滑鼠悬停效果）
+1. 节点大小表达总值大小，使用🖱️滑鼠悬停(hover)效果可见总值丶进出丶与出口的数据值，单位为百万美元（按当前价格计算）   
+2. 此图有🪄交互功能（⎘拖拉丶🖔多手指平移丶🔍缩放页面及🖱️滑鼠悬停效果）
+
 <br/><cite>廖汉腾. (2023). 台湾主要产业结构. Oxford Roadmapping 澳恪森数智科技服务(广州). </cite>
 > 注：此图将发表，在发表前请勿正式引用。
 
@@ -72,7 +73,11 @@ tags:
 
 
 <div class="alert alert-info d-flex align-items-center" role="alert"><div class="text-info" markdown="1">
-小帖士：2023年核定[「台湾AI行动计画2.0」及「以大带小制造业低碳化及智慧化升级转型补助」](https://www.ey.gov.tw/Page/9277F759E41CCD91/58927b52-d2f4-4dd8-a34d-2de10622994d)来助力产业转型升级的成本过高及回收期过长的门槛。</div></div>
+
+
+小帖士：2023年核定[「台湾AI行动计画2.0」及「以大带小制造业低碳化及智慧化升级转型补助」](https://www.ey.gov.tw/Page/9277F759E41CCD91/58927b52-d2f4-4dd8-a34d-2de10622994d)来助力产业转型升级的成本过高及回收期过长的门槛。
+
+</div></div>
 
 -----
 
@@ -81,11 +86,11 @@ tags:
 台湾的35个产业部门的关系，以2000年最新数据取前5%的投入产出数据关系 (已包括近8成的关系总值数据) 进行网路图分析如下图:
 
 <figure>
-<iframe src="./NetVis-台湾-2000-总值-5-zh-Hant.html" height="800px" width="100%" style="border:none;"></iframe><figcaption markdown="1" >
+<iframe src="./NetVis-台灣-2000-總值-5-zh-Hant.html" height="800px" width="100%" style="border:none;"></iframe><figcaption markdown="1" >
 <div class="alert alert-success d-flex align-items-center" role="alert"><div class="text-success"  markdown="1">
 
-* 注1：节点大小表达总值大小，使用🖱️滑鼠悬停(hover)效果可见总值丶进出丶与出口的数据值，单位为百万美元（按当前价格计算）   
-* 注2：此图有🪄交互功能（⎘拖拉丶🖔多手指平移丶🔍缩放页面及🖱️滑鼠悬停效果）
+1. 节点大小表达总值大小，使用🖱️滑鼠悬停(hover)效果可见总值丶进出丶与出口的数据值，单位为百万美元（按当前价格计算）   
+2. 此图有🪄交互功能（⎘拖拉丶🖔多手指平移丶🔍缩放页面及🖱️滑鼠悬停效果）
 
 <br/><cite>廖汉腾. (2023). 台湾主要产业结构. Oxford Roadmapping 澳恪森数智科技服务(广州). </cite>
 > 注：此图将发表，在发表前请勿正式引用。
