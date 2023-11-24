@@ -64,17 +64,16 @@ user_groups:
   - Affiliated Principal Investigators
 ---
 
-# 廖漢騰 Liao, Han-Teng
+# 廖漢騰  Liao, Han-Teng 
+* ORCID: [0000-0003-1081-5599](https://orcid.org/0000-0003-1081-5599)
+* WOS收錄：15  |  WOS核心合集引用：24  |  H 因子：4
+	* ResearcherID: [AAC-5793-2019](https://www.webofscience.com/wos/author/rid/AAC-5793-2019)  |  論文： 54 篇 |  合作者：22  |  H 因子：4
+* [SCOPUS](https://www.scopus.com/authid/detail.uri?authorId=57193528319)收錄：41  |  SCOPUS核心合集引用：121  |  合作者：45  |  H 因子：6 
+* [Google Scholar](https://scholar.google.com/citations?user=NAeKcO4AAAAJ)：76  |  Google Scholar引用：356   |  H 因子：9
+* [Loop Profile](https://loop.frontiersin.org/people/1440943/overview)：58 |  引用：31  |  Views：[14,700+](https://loop.frontiersin.org/people/1440943/impact)    |  Downloads：1,200+ 
+* CNKI收錄：3  (北大核心 1 CSSCI 1 )
 
-- ORCID: [0000-0003-1081-5599](https://orcid.org/0000-0003-1081-5599)
-- [WoS](https://www.webofscience.com/wos/author/rid/AAC-5793-2019) 收錄：18 | WOS 核心合集引用：34 | H 因子：4
-  - ResearcherID: [AAC-5793-2019](https://www.webofscience.com/wos/author/rid/AAC-5793-2019) | 論文： 58 篇 | 合作者：22 | H 因子：4
-- [SCOPUS](https://www.scopus.com/authid/detail.uri?authorId=57193528319)收錄：44 | SCOPUS 核心合集引用：113 | 合作者：45 | H 因子：6
-- [Google Scholar](https://scholar.google.com/citations?user=NAeKcO4AAAAJ)：77 | Google Scholar 引用：336 | H 因子：9
-- [Loop Profile](https://loop.frontiersin.org/people/1440943/overview)：58 | Views：[13,000+](https://loop.frontiersin.org/people/1440943/impact) | Downloads：2,600+
-- CNKI 收錄：4 (北大核心 1 CSSCI 1 )
-
-## 個人簡介：[澳恪森數智科技服務](https://oxon8.com/) 負責人﹑數據科學家
+## 個人簡介：[澳恪森數智科技服務](https://oxon8.netlify.app/) 負責人﹑數據科學家
 
 廖漢騰 (IEEE 會員; [牛津大學](https://www.qschina.cn/universities/university-oxford) 博士) 1976 年生於台灣台北。他於 2000 年獲得台灣大學電氣工程 ( [NTUEE](https://web.ee.ntu.edu.tw/eng/about1.php) ) 學士學位及外國語言文學學士學位。他於 2004 年獲同一所大學計算機科學與信息工程 ( [NTUCSIE](https://www.csie.ntu.edu.tw/) ) 碩士學位及新聞學碩士學位。
 
