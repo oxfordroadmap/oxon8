@@ -16,6 +16,7 @@ tags:
 “全球足迹网络”的核心是于1990年代早期成立的科学研究公司“生态足迹”，由Mathis Wackernagel 及 William Rees 创立，基于Wackernagel于UBC的博士研究。其2003年的“国家足迹与生态承截力核算”资源核算工具取得不少包括联合国单位的认可与引用，包括15个国家政府将其计量方式应用在各自的政策方案里。该组织亦在瑞士日内瓦与意大利成立了社会组织。该单位亦参与了[中国生态足迹 
 报告2010](https://www.footprintnetwork.org/content/images/uploads/LPR_China_2010_Chinese.pdf) 的工作，研究中国大陆31省份对土地和水资源需求的变化，为经济发展和生态足迹脱钓指明机遇
 
+ <!--more-->
 ![Global-Footprint-Network-logo](Global-Footprint-Network-logo-blue-trademark.png)
 
 该公司于2017年发起“生态足迹探索器”的[开放数据平台](https://data.footprintnetwork.org/#/) ，释出200多个国家地区的相关足迹与生态承截力数据，并和欧盟高校合作产出[EUSTEPs线上学习平台](https://www.eusteps.eu/)
