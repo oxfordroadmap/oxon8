@@ -1,5 +1,5 @@
 ---
-title: “ 精准脱碳”之路 -- 广东省重点建设学科科研能力提升
+title: ‘精准脱碳’之路  -- 广东省重点建设学科科研能力提升
 subtitle: E-碳足迹核算打通地方与行业信息流内外双循环 -- prj-2022ZDJS121
 date: 2023-04-05T13:59:47.991Z
 summary: "本研究以“精准脱碳”之技术路线图为题，在数字科技达成“双碳”的背景，以E-碳足迹创新概念与实践出发，落实国家有关政策如“数字化绿色化协同转型发展”。
@@ -49,9 +49,9 @@ image:
 
 ### 项目迸度
 
-* 2023/03：SCIE Q2论文发表 2篇：[双碳服务及管理平台](https://oxon8.com/publication/liao-smart-2023/)、[ESG教育合作伙伴地图](https://oxon8.com/post/2023-02-22-esg-education-partner-maps/)
+* 2023/03：SCIE Q2论文发表 2篇：[双碳服务及管理平台](https://oxon8.netlify.app/publication/liao-smart-2023/)、[ESG教育合作伙伴地图](https://oxon8.netlify.app/post/2023-02-22-esg-education-partner-maps/)
 * 2023/04：开题报告
-* 2023/02：SCIE Q2论文发表 1篇：[供应链知识图谱分析：设计绿色化和数字化转型双化之路线图分类](https://oxon8.com/publication/pan-knowledge-2023/)
+* 2023/02：SCIE Q2论文发表 1篇：[供应链知识图谱分析：设计绿色化和数字化转型双化之路线图分类](https://oxon8.netlify.app/publication/pan-knowledge-2023/)
 
 ### 项目大纲
 
@@ -96,8 +96,8 @@ image:
 #### 政策及实践 发展方向
 
 * 发展「鼓励碳核算与核查、绿色认证、环境咨询、绿色资产评估、数据服务」等绿色中介服务机构快速发展商业模式，依《[广东省发展绿色金融支持碳达峰行动的实施方案](https://www.gd.gov.cn/zwgk/wjk/qbwj/ybh/content/post_3972447.html)》
-* 发展《[碳中和管理服务数智平台](https://oxon8.com/post/2023-02-20-smart-digital-platforms-carbon-neutral-management-services/)》，依广州市工信系统[开展“四化”平台赋能专项行动](https://gz.gov.cn/ysgz/xwdt/ysdt/content/mpost_8787864.html)挖掘行业及地方需求，提出人工智能及数智平台应用场景。
-* 发展[碳普惠方法学、设计减排项目](https://oxon8.com/post/2023-04-04-eco-design-carbon-inclusion-scheme/)，并建构能提升为生态环境部[温室气体自愿减排项目方法学征集](https://www.mee.gov.cn/xxgk2018/xxgk/xxgk06/202303/t20230330_1024693.html)的技术路线图工具箱。
+* 发展《[碳中和管理服务数智平台](https://oxon8.netlify.app/post/2023-02-20-smart-digital-platforms-carbon-neutral-management-services/)》，依广州市工信系统[开展“四化”平台赋能专项行动](https://gz.gov.cn/ysgz/xwdt/ysdt/content/mpost_8787864.html)挖掘行业及地方需求，提出人工智能及数智平台应用场景。
+* 发展[碳普惠方法学、设计减排项目](https://oxon8.netlify.app/post/2023-04-04-eco-design-carbon-inclusion-scheme/)，并建构能提升为生态环境部[温室气体自愿减排项目方法学征集](https://www.mee.gov.cn/xxgk2018/xxgk/xxgk06/202303/t20230330_1024693.html)的技术路线图工具箱。
 
 
 
@@ -106,8 +106,8 @@ image:
 
 在此广东省重点建设学科科研能力提升項目中，聚焦<span class="highlight-container highlight-yellow"><span class="highlight"><a href="#脚注">数智平台 ¹</a></span></span> 与   <span class="highlight-container highlight-green"><span class="highlight"><a href="#脚注">绿色金融科技 ²</a></span></span>  <span class="highlight-container highlight-fushia"><span class="highlight"><a href="#脚注">设计创新 ³</a></span></span>的 **澳恪森数智科技服务** ，征求合作伙伴：
 
-1. 发展[碳普惠方法学、设计减排项目](https://oxon8.com/post/2023-04-04-eco-design-carbon-inclusion-scheme/)
-2. 发展[碳中和管理服务数智平台](https://oxon8.com/post/2023-02-20-smart-digital-platforms-carbon-neutral-management-services/)，特别是如[含中国式财务会计优化的Odoo等SaaS服务](https://www.sunpop.cn/)
+1. 发展[碳普惠方法学、设计减排项目](https://oxon8.netlify.app/post/2023-04-04-eco-design-carbon-inclusion-scheme/)
+2. 发展[碳中和管理服务数智平台](https://oxon8.netlify.app/post/2023-02-20-smart-digital-platforms-carbon-neutral-management-services/)，特别是如[含中国式财务会计优化的Odoo等SaaS服务](https://www.sunpop.cn/)
 3. 发展绿色中介服务机构快速发展之商业模式，依《[广东省发展绿色金融支持碳达峰行动的实施方案](https://www.gd.gov.cn/zwgk/wjk/qbwj/ybh/content/post_3972447.html)》
 
 -----
