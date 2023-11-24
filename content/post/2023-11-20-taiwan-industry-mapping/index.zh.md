@@ -1,5 +1,5 @@
 ---
-title:  '台灣主要產業結構：趨勢與網路圖分析'
+title:  '台湾主要产业结构：趋势与网路图分析'
 date: 2023-11-20
 categories:
 - Input-Output Analysis
