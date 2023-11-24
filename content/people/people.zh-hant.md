@@ -10,7 +10,7 @@ headless: true
 weight: 68
 
 title: Meet the Team
-subtitle: 团队成员
+subtitle: 團隊成員
 
 content:
   # Choose which groups/teams of users to display.

@@ -13,7 +13,7 @@ superuser: true
 # Organizations/Affiliations
 organizations:
   - name: Oxford Roadmapping 澳恪森数智科技服务 
-    url: 'https://oxon8.com/'
+    url: 'https://oxon8.netlify.app/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 研发兴趣包括 [数字化绿色化双化转型](https://joint-research-centre.ec.europa.eu/jrc-news/twin-green-digital-transition-how-sustainable-digital-technologies-could-enable-carbon-neutral-eu-2022-06-29_en)﹑[碳中和](https://www.frontiersin.org/articles/10.3389/fenvs.2023.1119011/abstract) 数智平台﹑及 [人工智能科技向善](https://aiforgood.itu.int/)。     My research interests include [twin green digital transition](https://joint-research-centre.ec.europa.eu/jrc-news/twin-green-digital-transition-how-sustainable-digital-technologies-could-enable-carbon-neutral-eu-2022-06-29_en), [carbon neutrality](https://www.frontiersin.org/articles/10.3389/fenvs.2023.1119011/abstract), and [Artificial Intelligence for Good](https://aiforgood.itu.int/).
