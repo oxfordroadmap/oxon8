@@ -17,7 +17,7 @@ tags:
 联合国气候大会COP28致力解决气候问题，负责ICT信息通讯技术的国际电联ITU，利用数字技术在COP28上召集绿色数字行动轨道，以加强数字气候行动。
 
 特别是在数字创新创业方面，**澳恪森**表示，〝国际电联ITU在标准之外的[发展部门](https://www.itu.int/en/ITU-D/Pages/default.aspx)，更是倡导用数字创新来解决数字鸿沟的问题，更提出（数字）生态系统 （ecosystems）概念，将标准一方面往实际场景应用更紧密连结，一方面往技术治理更符合以人为中心的发展目标。〞
-澳恪森数据科学家廖汉腾博士表示，〝中国在**span class="highlight-container highlight-green"><span class="highlight">绿色化</span></span><span class="highlight-container highlight-yellow"><span class="highlight">数字化</span></span>双化转型**前沿以及**互联网创新创业**大学生教育方面，应该借此世界机遇，从绿色化数字行动@COP28深入瞭解如何协调一致行动利用数字技术解决气候问题。〞
+澳恪森数据科学家廖汉腾博士表示，〝中国在**<span class="highlight-container highlight-green"><span class="highlight">绿色化</span></span><span class="highlight-container highlight-yellow"><span class="highlight">数字化</span></span>双化转型**前沿以及**互联网创新创业**大学生教育方面，应该借此世界机遇，从绿色化数字行动@COP28深入瞭解如何协调一致行动利用数字技术解决气候问题。〞
 
 <!--more-->
 
