@@ -110,3 +110,4 @@ tags:
 ### 澳恪森数智科技支持 绿色化数字行动@COP28
 
 ![HTL-GreenDigitalAction.png](HTL-GreenDigitalAction.png)
+![CLP-GreenDigitalAction.png](CLP-GreenDigitalAction.png)
