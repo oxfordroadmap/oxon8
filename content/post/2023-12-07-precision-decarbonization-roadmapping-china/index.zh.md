@@ -1,5 +1,5 @@
 ---
-title:  '中国各省精准脱碳图谱：高碳排主要产业及其关系网：@COP28'
+title:  '中国各省精准脱碳图谱@COP28'
 date: 2023-12-07
 categories:
 - Precision Decarbonization
@@ -16,12 +16,6 @@ tags:
 - 数字化绿色化双转型
 ---
 
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Interacting with CEADs visualization outcomes  using Dropdowns · Bootstrap v5.3">
-    <meta name="author" content="Liao, Han-Teng, Oxford Roadmapping">
-    <title></title>
     <script src="https://jsd.cdn.zzko.cn/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js" integrity="sha256-YMa+wAM6QkVyz999odX7lPRxkoYAan8suedu4k2Zur8=" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://jsd.cdn.zzko.cn/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" integrity="sha256-MBffSnbbXwHCuZtgPYiwMQbfE7z+GOZ7fBPCNB06Z98=" crossorigin="anonymous">
 <!-- Custom Stylesheet -->
@@ -124,8 +118,3 @@ function loadIframe() {
   </div>
 </div>
   
-  
-  </body>
-  
-
-
