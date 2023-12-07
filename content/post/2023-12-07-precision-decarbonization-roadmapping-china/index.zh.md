@@ -25,14 +25,13 @@ tags:
 
 自行研发的投入产出网络图可视化 ，已释出在Github上，分别有[中文](https://oxfordroadmap.github.io/vis-carbon/index.zh-hans.html)
 及[英文](https://oxfordroadmap.github.io/vis-carbon/index.en.html)
-版本”。
+版本。
 
 为<span class="highlight-container highlight-green"><span class="highlight">绿色化</span></span><span class="highlight-container highlight-yellow"><span class="highlight">数字化</span></span>**转型** 
 (双化)前沿发展，贡献实际场景应用丶标准丶技术丶治理通盘考量，向前设计。
 
-“#GreenDigitalAction”！
-
- “双创加双化＂！
+“#GreenDigitalAction！双创加双化！利用[数字技术解决气候问题](https://oxon8.netlify.app/post/2023-11-27-itu-green-digital-action/)
+”
 
 <!--more-->
 
