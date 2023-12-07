@@ -6,6 +6,10 @@ categories:
 - 投入产出分析
 - Network Mapping
 - 网络图可视化
+- Precision Decarbonization
+- 精准脱碳
+- Decarbonization Roadmapping
+- 脱碳路线图
 tags:
 - Carbon management
 - 碳排管理
@@ -36,6 +40,10 @@ tags:
 <!--more-->
 
 ### 交互可视化图简要说明
+
+中国各省“减污降碳全景图”[中文](https://oxfordroadmap.github.io/vis-carbon/index.zh-hans.html)
+及[英文](https://oxfordroadmap.github.io/vis-carbon/index.en.html)
+版本，都是可交互的信息图。
 
 链结表达产业金流关系的出入关系，结点表达总产出大小，还有其它属性值，如碳排量及碳排强度！
 
