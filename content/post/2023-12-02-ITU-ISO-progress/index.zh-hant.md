@@ -1,6 +1,6 @@
 ---
 title:  '雙創加雙化的綠色化數字行動@COP28：國際電聯ITU主張協調一致行動利用數字技術解決氣候問題'
-date: 2023-11-27
+date: 2023-12-02
 categories:
 - Technology Roadmapping
 - 技術路線圖
