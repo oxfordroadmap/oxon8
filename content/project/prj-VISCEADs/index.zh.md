@@ -36,6 +36,7 @@ image:
 
 ### 项目原型成果A展示
 
+[点此可至全画面](./visualization.zh.html)，体验更佳！
  
 <iframe class = "info-vis" src="./visualization.zh.html" width="100%" style="border:none;"></iframe>
 
