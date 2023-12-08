@@ -10,13 +10,17 @@ authors:
   - Chung-Lien Pan
 tags:
   - 【2023VISCEADs】
-  - Carbon management
+  - 碳排管理
   - Green Digital Transformation
-  - Smart digital platforms
-  - Technological roadmapping
-  - Business models
+  - 双化协同  
+  - 数智平台
+  - 技术路线
+  - 商业模式
+  - 脱碳
 categories:
-  - Agro-food
+  - 精准脱碳
+  - 网络图可视化
+  - 投入产出分析
 image:
   filename: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Vertical_Tower_Aquaponic_System.jpg/617px-Vertical_Tower_Aquaponic_System.jpg
   focal_point: Smart
