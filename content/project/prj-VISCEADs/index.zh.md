@@ -36,7 +36,7 @@ image:
     width: 100vw;
     height: 100vh;
 }</style>
-<iframe class = "info-vis" src="./visualization.html" width="100%" style="border:none;"></iframe>
+<iframe class = "info-vis" src="./visualization.zh.html" width="100%" style="border:none;"></iframe>
 
 ### 项目迸度
 
