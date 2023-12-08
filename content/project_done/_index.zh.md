@@ -12,20 +12,6 @@ banner:
 
 sections:
   - block: collection
-    id: 'project'
-    content:
-      title: '项目'
-      subtitle: '进行中项目'
-      text: 
-      # Display content from the `content/project/` folder
-      filters:
-        folders:
-          - project
-    design:
-      columns: '2'
-      view: showcase
-      flip_alt_rows: true
-  - block: collection
     id: 'project_done'
     content:
       title: '<i class="ai fa-solid fa-list-check">已完成项目'
@@ -41,7 +27,5 @@ sections:
       flip_alt_rows: true
 ---
 
-
-## 产品 <i class="ai ai-dataverse ai-3x fa-spin"></i>
 
 ## 已完成项目 <i class="ai fa-solid fa-list-check"></i>
