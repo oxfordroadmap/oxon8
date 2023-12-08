@@ -1,27 +1,22 @@
 ---
-title: 照亮产业「精准脱碳」之路--2023VISCEADs
-subtitle: 中国碳核算数据库可视化项目--碳中和数智平台、双碳管服数字平台的骨架、基线、与标杆
+title: Shedding light on the paths for decarbonization journeys--  2023VISCEADs
+subtitle: 生物质能碳捕集与封存BECSS技术路线图--智能可持续农粮系统创新
 date: 2023-03-24T07:42:52.984Z
-summary:   碳核算数据系统创新，定义、设计并制作碳中和数智平台、双碳管服数字平台的骨架、基线、与标杆
+summary: 智能可持续农粮系统创新
 draft: false
 featured: true
 authors: 
   - Han-Teng Liao
   - Chung-Lien Pan
 tags:
-  - 【2023VISCEADs】
+  - 2023VISCEADs
   - Carbon management
-  - 碳排管理
   - Green Digital Transformation
-  - 双化协同  
-  - 数智平台
-  - 技术路线
-  - 商业模式
-  - 脱碳
+  - Smart digital platforms
+  - Technological roadmapping
+  - Business models
 categories:
-  - 投入产出分析
-  - 网络图可视化
-  - 精准脱碳
+  - Agro-food
 image:
   filename: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Vertical_Tower_Aquaponic_System.jpg/617px-Vertical_Tower_Aquaponic_System.jpg
   focal_point: Smart
@@ -46,18 +41,3 @@ image:
 以地方各省及全中国的碳排数据、进阶碳排强度计量、及产业整体与平均数据作为基线(baseline)，产出并提供产业与地方历史及现实数据作为‘精准脱碳’旅程的基础指标，作为下一步设计一般性KPI、及客制化KPI的基础，以形成按产业及地域特性“量身定制”的碳达峰碳中和管理与服务平台
 
 * 2023/12：交付原型成果A--含可交互功能之全套分省/地域之产业结构图
-
-
-### 项目原型成果A展示
-
-### 项目负责人
-廖汉腾
-
-
-### 关于澳恪森数智科技
-
-澳恪森数智科技，简称Oxon8，全名为澳恪森数智科技服务（广州）有限公司，创新数智平台与绿色金融科技的设计，助组织与个人的双化协同发展及精准脱碳之旅。
-
-![icon.webp](icon.webp)
-
-澳恪森Oxon8为行业﹑智库﹑政府等提供基于专利分析﹑科学计量﹑知识图谱等等数据情报，合作开展集科技研发﹑科技服务﹑成果转化﹑系统集成﹑人才培养﹑等科技创新公共及商业服务，运用前瞻情报连结在地及全球网络。
