@@ -12,7 +12,7 @@ banner:
 
 sections:
   - block: collection
-    id: 'projects'
+    id: 'project'
     content:
       title: '项目'
       subtitle: '澳恪森进行中与已完成的项目'
