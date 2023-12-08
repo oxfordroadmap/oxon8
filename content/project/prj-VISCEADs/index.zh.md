@@ -21,10 +21,6 @@ categories:
   - 精准脱碳
   - 网络图可视化
   - 投入产出分析
-image:
-  filename: prj-visCEADs.gif
-  focal_point: Smart
-  preview_only: false
 ---
 <style>
 .article-container{max-width:100vw; !important}
