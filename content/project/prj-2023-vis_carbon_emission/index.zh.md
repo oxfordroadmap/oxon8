@@ -33,7 +33,7 @@ categories:
   - 网络图可视化
 image:
   filename: photo-precision-archer_statute.webp
-  focal_point: Left
+  focal_point: Right
   preview_only: false
 ---
 
