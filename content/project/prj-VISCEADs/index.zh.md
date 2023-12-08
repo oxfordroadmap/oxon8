@@ -22,7 +22,7 @@ categories:
   - 网络图可视化
   - 投入产出分析
 image:
-  filename: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Vertical_Tower_Aquaponic_System.jpg/617px-Vertical_Tower_Aquaponic_System.jpg
+  filename: prj-visCEADs.gif
   focal_point: Smart
   preview_only: false
 ---
