@@ -5,6 +5,7 @@ date: 2023-12-07T07:42:52.984Z
 summary: 碳核算数据系统创新，定义、设计并制作碳中和数智平台、双碳管服数字平台的骨架、基线、与标杆
 draft: false
 featured: true
+featured_image: "/image/prj-visCEADs.png"
 authors: 
   - Han-Teng Liao
   - Chung-Lien Pan
