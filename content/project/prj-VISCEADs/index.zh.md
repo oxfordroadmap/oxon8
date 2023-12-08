@@ -26,16 +26,17 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-
-
-### 项目原型成果A展示
-
-
 <style>
+.article-container{max-width:100vw; !important}
 .info-vis {
     width: 100vw;
     height: 100vh;
 }</style>
+
+
+### 项目原型成果A展示
+
+ 
 <iframe class = "info-vis" src="./visualization.zh.html" width="100%" style="border:none;"></iframe>
 
 ### 项目迸度
