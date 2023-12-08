@@ -56,14 +56,14 @@ image:
 }</style>
 
 
-<div class="info-vis alert alert-success d-flex align-items-center" role="alert">
+<div class="alert alert-success d-flex align-items-center" role="alert">
 	<div class="text-success">此图有🪄交互功能（试试拖拉、多手指平移、缩放页面及🖱️鼠标悬停效果）</div>
 	<!-- Info-vis Main Part-->
-	<div class="row align-items-center" >
-	<div class="col-10"  height="100vh" >
-		<!-- Iframe Content -->
-		<iframe id="iframeContent" height="100%" width="100%" style="border:none;"></iframe>
-	</div>
+	<div class="info-vis row align-items-left" >
+		<div class="col-10"  height="100vh" >
+			<!-- Iframe Content -->
+			<iframe id="iframeContent" height="100%"  style="border:none;"></iframe>
+		</div>
 		<div class="col-2 order-first"  height="100vh" style="background-color:lightgray;">
 			<!-- Region Input -->
 			<label for="RegionInput" class="form-label fs-3">地域</label>
