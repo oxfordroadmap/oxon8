@@ -34,7 +34,7 @@ tags:
 
 国际电联ITU不但是重要国际标准制定单位，更是在包括人工智能等应用及治理方面，最主要的数字发展单位及平台，其对数字发展的重要性相当于，WHO世卫组织之于公共卫生，FAO粮食及农业组织之于农业及粮食安全。
 
-![Green_digital_logo_Horizontal_-_Colour.png](Green_digital_logo_Horizontal_-_Colour.png)
+{{< youtube Z4devfnIxbs >}}
 
 互联互通网络的旨趣，在国际发展的行动上，在过去几十年互联网的发展下，主要以[弥合数字鸿沟](https://news.un.org/zh/story/2023/06/1118622)为主，也是 5月17日“世界电信和信息社会日”主角机构。2015-2022年是由中国籍的赵厚麟任秘书长，把中小企业、科研部门、大专院校的参与纳入此国际平台，亦包括发展数字经济和消除数字鸿沟的行动，主要以４个I包括基础建设(Infrastructure)、投资(Investment)、创新(Innovation)、普惠(Inclusiveness)。2023年1月1日起，由[美国籍的多琳·伯格丹-马丁于就任国际电联秘书长](https://www.itu.int/zh/osg//default.aspx)
 ，强调数字化转型的必要性，发展创新伙伴关系以强化技术与可持续发展的统一。
@@ -49,7 +49,6 @@ tags:
 此活动目主要目标是聚焦于数字创新，面对并解决气候问题。
 ![featured](featured.jpg)
 
-{{< youtube Z4devfnIxbs >}}
 
 主要的努力方向有以下：
 
@@ -114,3 +113,5 @@ tags:
 
 ![HTL-GreenDigitalAction.png](HTL-GreenDigitalAction.png)
 ![CLP-GreenDigitalAction.png](CLP-GreenDigitalAction.png)
+
+![Green_digital_logo_Horizontal_-_Colour.png](Green_digital_logo_Horizontal_-_Colour.png)
