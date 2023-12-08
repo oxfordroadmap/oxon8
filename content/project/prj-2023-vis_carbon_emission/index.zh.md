@@ -7,16 +7,23 @@ draft: false
 featured: true
 authors: ["Han-Teng Liao", "Chung-Lien Pan"]
 tags:
-  - 2022ZDJS121
-  - 信息流
-  - 数智平台
-  - 绿色金融科技
-  - 技术路线
-  - 商业模式
-  - 脱碳
+- 2023VISCEADs
+- Carbon management
+- 碳排管理
+- Green Digital Transformation
+- 双化协同  
+- 数智平台
+- 技术路线
+- 商业模式
+- 脱碳
 categories:
-  - roadmapping
-  - decarbonization
+- Input-Output Analysis
+- 投入产出分析
+- Network Mapping
+- 网络图可视化
+tags:
+  
+  
 image:
   filename: photo-precision-archer_statute.webp
   focal_point: Right
