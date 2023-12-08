@@ -4,21 +4,21 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: 📪连络
-    url: '#contact'
-    weight: 6
-  - name: 成员
-    url: 'people'
-    weight: 5
-  - name: 发发
-    url: 'publication'
-    weight: 3
-  - name: 精准脱碳之旅
-    url: 'tour'
-    weight: 2
-  - name: 双化协同发展
+  - name: 双化协同发展♻
     url: 'post'
     weight: 1
-#  - name: event
-#    url: event
-#    weight: 40
+  - name: 精准脱碳之旅🎯
+    url: 'tour'
+    weight: 2
+  - name: 发发✍
+    url: 'publication'
+    weight: 3
+  - name: 项目☑
+    url: 'project'
+    weight: 4
+  - name: 成员👥
+    url: 'people'
+    weight: 5
+  - name: 连络📪
+    url: '#contact'
+    weight: 6

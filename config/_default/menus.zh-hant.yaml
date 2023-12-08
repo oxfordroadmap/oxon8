@@ -4,21 +4,21 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Twin Transition ♻
+  - name: 綠色化數位化轉型發展♻
     url: 'post'
     weight: 1
-  - name:  Precision Decarbonization🎯
+  - name: 精準脫碳之旅🎯
     url: 'tour'
     weight: 2
-  - name: Publications✍
+  - name: 發表✍
     url: 'publication'
     weight: 3
-  - name: Projects☑
+  - name: 項目與產品☑
     url: 'project'
     weight: 4
-  - name: People👥
+  - name: 成員👥
     url: 'people'
     weight: 5
-  - name: Contact📪
+  - name: 聯絡📪
     url: '#contact'
     weight: 6
