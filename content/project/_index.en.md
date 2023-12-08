@@ -1,5 +1,5 @@
 ---
-title: 项目与产品--澳恪森进行中与已完成的项目
+title: Projects and Products 
 
 # Listing view
 view: showcase
@@ -14,8 +14,8 @@ sections:
   - block: collection
     id: 'project'
     content:
-      title: '项目'
-      subtitle: '进行中项目'
+      title: Projects and Products 
+      subtitle: 'Ongoing or finished ...'
       text: 
       # Display content from the `content/project/` folder
       filters:
@@ -28,6 +28,6 @@ sections:
 ---
 
 
-## 产品 <i class="ai ai-dataverse ai-3x fa-spin"></i>
+## Products <i class="ai ai-dataverse ai-3x fa-bounce"></i>
 
-## 已完成项目 <i class="ai fa-solid fa-list-check"></i>
+## Finished Projects <i class="ai fa-solid fa-list-check"></i>
