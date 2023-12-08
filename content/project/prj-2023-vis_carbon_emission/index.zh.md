@@ -17,30 +17,25 @@ draft: false
 featured: true
 authors: ["Han-Teng Liao", "Chung-Lien Pan"]
 tags:
-- 2023VISCEADs
-- Carbon management
-- 碳排管理
-- Green Digital Transformation
-- 双化协同  
-- 数智平台
-- 技术路线
-- 商业模式
-- 脱碳
+  - 2023VISCEADs
+  - Carbon management
+  - 碳排管理
+  - Green Digital Transformation
+  - 双化协同  
+  - 数智平台
+  - 技术路线
+  - 商业模式
+  - 脱碳
 categories:
-- Input-Output Analysis
-- 投入产出分析
-- Network Mapping
-- 网络图可视化
+  - Input-Output Analysis
+  - 投入产出分析
+  - Network Mapping
+  - 网络图可视化
 image:
   filename: photo-precision-archer_statute.webp
   focal_point: Left
   preview_only: false
 ---
-<style>
-.info-vis {
-    width: 100vw;
-    height: 100vh;
-}</style>
 
 
 ### 项目迸度
@@ -63,6 +58,12 @@ image:
 
 
 ### 项目原型成果A展示
+
+<style>
+.info-vis {
+    width: 100vw;
+    height: 100vh;
+}</style>
 
 
 <div class="info-vis alert alert-success d-flex align-items-center" role="alert">
@@ -96,8 +97,7 @@ image:
 
 <!-- Custom javascript for loading Frame -->
 <script>
-    function updateDiv(inputID, formattedStringFilename)
-    { 
+    function updateDiv(inputID, formattedStringFilename){ 
         document.getElementById(inputID).innerHTML = formattedStringFilename ;
     } 
 function loadIframe() {
