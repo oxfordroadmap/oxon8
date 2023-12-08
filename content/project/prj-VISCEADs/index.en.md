@@ -6,7 +6,7 @@ summary: 智能可持续农粮系统创新
 draft: false
 featured: true
 authors: 
-  - Han-Teng LiaoChung-Lien Pan
+  - Han-Teng Liao
   - Chung-Lien Pan
 tags:
   - 2023VISCEADs

@@ -1,13 +1,15 @@
 ---
-title: 照亮产业「精准脱碳」之路  -- 澳恪森中国碳核算数据库可视化项目
-subtitle: Integrating CO2 inventory and input-output data for provinces and industries in China
-date: 2023-12-08T13:59:47.991Z
-summary:  XXXXXXXXXXXX
+title: 照亮产业「精准脱碳」之路--2023VISCEADs
+subtitle: 中国碳核算数据库可视化项目--碳中和数智平台、双碳管服数字平台的骨架、基线、与标杆
+date: 2023-03-24T07:42:52.984Z
+summary:   碳核算数据系统创新，定义、设计并制作碳中和数智平台、双碳管服数字平台的骨架、基线、与标杆
 draft: false
 featured: true
-authors: ["Han-Teng Liao", "Chung-Lien Pan"]
+authors: 
+  - Han-Teng Liao
+  - Chung-Lien Pan
 tags:
-  - 2023VISCEADs
+  - 【2023VISCEADs】
   - Carbon management
   - 碳排管理
   - Green Digital Transformation
@@ -21,8 +23,8 @@ categories:
   - 网络图可视化
   - 精准脱碳
 image:
-  filename: photo-precision-archer_statute.webp
-  focal_point: Right
+  filename: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Vertical_Tower_Aquaponic_System.jpg/617px-Vertical_Tower_Aquaponic_System.jpg
+  focal_point: Smart
   preview_only: false
 ---
 
@@ -51,7 +53,6 @@ image:
 ### 项目负责人
 廖汉腾
 
----
 
 ### 关于澳恪森数智科技
 
@@ -60,4 +61,3 @@ image:
 ![icon.webp](icon.webp)
 
 澳恪森Oxon8为行业﹑智库﹑政府等提供基于专利分析﹑科学计量﹑知识图谱等等数据情报，合作开展集科技研发﹑科技服务﹑成果转化﹑系统集成﹑人才培养﹑等科技创新公共及商业服务，运用前瞻情报连结在地及全球网络。
-
