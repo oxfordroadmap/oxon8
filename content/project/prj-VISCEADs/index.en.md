@@ -7,7 +7,7 @@ authors:
   - Han-Teng Liao
   - Chung-Lien Pan
 tags:
-  - "#CarbonEmissionManagement"
+  - CarbonEmissionManagement
   - GreenDigitalTransformation
   - TechnologyRoadmapping
   - BusinessModel
