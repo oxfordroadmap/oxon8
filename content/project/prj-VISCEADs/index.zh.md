@@ -1,8 +1,8 @@
 ---
 title: 照亮产业「精准脱碳」之路--2023VISCEADs
-date: 2023-12-07T07:42:52.984Z
+date: 2023-12-06T07:42:52.984Z
 draft: false
-featured: false
+featured: true
 authors: 
   - Han-Teng Liao
   - Chung-Lien Pan
@@ -86,8 +86,9 @@ categories:
         * <cite>【碳排清单】引用 Shan, Y., Huang, Q., Guan, D. et al. (2020). China CO2 emission accounts 2016–2017. Sci Data 7, 54.</cite> <br/>
 
 
-> 正确引用是种美德, 更应是负责任的底线
-> <a href="https://oxon8.netlify.app/" class="btn btn-success px-5 py-3">🌐澳恪森数智科技服务</a>
+{{< bs/alert info >}}
+正确引用是种美德, 更应是负责任的底线
+{{< /bs/alert >}}
 
 ---
 
@@ -96,5 +97,7 @@ categories:
 澳恪森数智科技，简称Oxon8，全名为澳恪森数智科技服务（广州）有限公司，创新数智平台与绿色金融科技的设计，助组织与个人的双化协同发展及精准脱碳之旅。
 
 ![icon.webp](icon.webp)
+
+<a href="https://oxon8.netlify.app/" class="btn btn-success px-5 py-3">🌐澳恪森数智科技服务</a>
 
 澳恪森Oxon8为行业﹑智库﹑政府等提供基于专利分析﹑科学计量﹑知识图谱等等数据情报，合作开展集科技研发﹑科技服务﹑成果转化﹑系统集成﹑人才培养﹑等科技创新公共及商业服务，运用前瞻情报连结在地及全球网络。
