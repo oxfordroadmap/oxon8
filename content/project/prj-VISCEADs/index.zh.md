@@ -23,8 +23,8 @@ categories:
   - 投入产出分析
 ---
 <style>
-h1{font-size: 3.75rem;}
-h2{font-size: 2.5rem;}
+h1{font-size: 3.75rem; important!}
+h2{font-size: 2.5rem; important!}
 .article-container {max-width:100vw; !important}
 .info-vis {
     width: 100vw;
@@ -52,7 +52,7 @@ h2{font-size: 2.5rem;}
 
 <div class=".h1 fs-1 bg-success text-center" markdown="1">
 
-# <i class="ai ai-figshare ai-2x fa-spin"></i>visCEADs 中国碳核算数据库可视化项目
+# <i class="ai ai-figshare ai-1x fa-spin"></i>visCEADs 中国碳核算数据库可视化项目
 
 </div>
 
@@ -119,7 +119,7 @@ visCEADs 项目原型成果A展示，可把42部门31省市域间投入产出表
 
 </div>
 
-*基于[L.1470](https://www.itu.int/rec/T-REC-L.1470-202001-I/en) [L.1480](https://www.itu.int/rec/T-REC-L.1480-202212-I) [ITU国际电联绿色数字化转型双标准](https://oxon8.netlify.app/post/2023-02-20-smart-digital-platforms-carbon-neutral-management-services/)
+* 基于[L.1470](https://www.itu.int/rec/T-REC-L.1470-202001-I/en) [L.1480](https://www.itu.int/rec/T-REC-L.1480-202212-I) [ITU国际电联绿色数字化转型双标准](https://oxon8.netlify.app/post/2023-02-20-smart-digital-platforms-carbon-neutral-management-services/)
 * [中国互联网协会发布的“双碳管服数字平台”标准](https://www.isc.org.cn//profile//2023/06/13/60cbc996-47cc-45be-bf0d-06053fbe57de.pdf) 
 * [中国碳核算数据库（CEADS 中国大陆地区2017年31省区市区域间投入产出表(42部门) v.3.5）](https://www.ceads.net.cn/)
     * 注：请引用
