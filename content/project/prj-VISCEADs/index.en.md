@@ -29,7 +29,7 @@ Decarbonization requires voluntary will and participation, and values provide in
 
 Only by providing true values to individuals and organizations, the climate goal of GHG emission reduction can be achieved.  It requires the incorporation of GHG and carbon emission information into the production, distribution, consumption and investment processes of human activities.  
 
-The **dual-carbon management and service platforms**，or simply smart digital platforms of carbon and GHG emission data platforms, aims to introduce such information into the operations and management of enterprises and government organizations at various levels.  They embodies the main task of the "twin transition" or green digital transformation of human activities and interactions with the planet.  
+The **dual-carbon management and service platforms** (carbon peak and carbon neutral)，or simply smart digital platforms of carbon and GHG emission data platforms, aims to introduce such information into the operations and management of enterprises and government organizations at various levels.  They embodies the main task of the "twin transition" or green digital transformation of human activities and interactions with the planet.  
 
 How might we define, design and develop such a platform？
 
@@ -70,20 +70,20 @@ As shown below, the visualization outcomes are interactive! You can also [click 
  
 <iframe class = "info-vis" src="./visualization.en.html" width="100%" style="border:none;"></iframe>
 
-### 项目迸度
+### Progress and Timeline
 
-* 2023/04：项目启动前[《碳中和管理服务数智平台》](https://oxon8.netlify.app/post/2023-02-20-smart-digital-platforms-carbon-neutral-management-services/)获录稿发表，探究平台商业模式与数智平台的机理
+* 2023/04：Preparation: Brief research report ["Smart digital platforms for carbon neutral management and services"](https://oxon8.netlify.app/post/2023-02-20-smart-digital-platforms-carbon-neutral-management-services/) was accepted and indexed after peer-review.  It visualized key elements of digital platforms of / for GHG emission reduction and their enabling mechanisms, which support various platform business model opportunities. 
 
-* 2023/05：项目启动-- 科研与市研确立数据及潜在需求 （如[企业碳盘查SaaS服务](https://www.skyco2.com/ncem/index.html)、[温室气体排放核算标准库](https://www.skyco2.com/)）等等。
+* 2023/05：Launch: Science-mapping and market research was conducted to explore data sources and market demands, including Chinese examples of [Software as a Service (SaaS) for enterprise carbon inventory management ](https://www.skyco2.com/ncem/index.html), [GHG emission auditing standard database](https://www.skyco2.com/）, etc.
 
-* 2023/07：项目需求-- 确立数据来源及潜在需求，对标中国互联网协会发布的“双碳管服数字平台”标准（正式名称《碳达峰碳中和管理与服务平台第1部分：架构规范》）与国际前沿专利及科研，设计中国碳核算数据库可视化技术路线，确立3B框架 (backbone, baseline, and benchmark, ) 来转化数据科学及机器学习技术成为产业脱碳情报的骨架 (backbone)、基线 (baseline)、与标杆 (benchamrk)：
+* 2023/07：Project Requirements Document: Successful identification of key data, standard, and market demand resources, including China's [“Dual-Carbon Management Digital Platform”](https://www.isc.org.cn//profile//2023/06/13/60cbc996-47cc-45be-bf0d-06053fbe57de.pdf) industry standard led by the Internet Society of China, and various international patent applications and scientific findings provide basis for technology roadmapping.  Such technology roadmapping led to the establishment of  "3B" frameworks: backbone, baseline, and benchmark, which describes the approach that integrates data science and industrial ecology knowledge for producing decarbonization intelligence：
 
-    * 骨架 (backbone):
+    * Backbone (of the core network of industrial input-output relationships ):
 
-基本历史与当下的产业投入产出结构，降低产业与地方脱碳转型脱离现实、转错方向、抓错重点等重大策略风险。
+Based on the historical and latest input-output table data, the network visualization can help industrial and local government organizations to manage the risks of industrial reconstruction for decarbonization. Data-driven transformation strategies can be made based on the backbone of industrial structure, preventing major risks such as "out-of-touch" actions that are unviable, misguided pathways that do not face the reality, and misidentified foci for decarbonization efforts. 
 
-    * 基线 (baseline):
+    * Baseline (of the situated regional and sectorial contexts and comparisons):
 
-以地方各省及全中国的碳排数据、进阶碳排强度计量、及产业整体与平均数据作为基线(baseline)，产出并提供产业与地方历史及现实数据作为‘精准脱碳’旅程的基础指标，作为下一步设计一般性KPI、及客制化KPI的基础，以形成按产业及地域特性“量身定制”的碳达峰碳中和管理与服务平台
+Based on the CEADs insight, especially the CO2 emission data and various derived carbon intensity indicators, baseline data can be produced across provinces and sectors as a whole or as a group.  Such data processing outcomes provide baseline indicators for viable journey roadmapping for "precision decarbonization" based on the situational intelligence of the province and/or the sector in question, thereby providing the design of both generalized and custom-made Key Performance Indicators (KPI).  Altogether, these baseline indicators and their designs and methods, provide the evaluative framework of dual carbon (carbon peak and carbon neutral) smart digital platforms that consider industrial and regional differences and characteristics based on data science.  The evaluative framework can be then used to produce product requirement and standardization documents. 
 
 * 2023/12：交付原型成果A--含可交互功能之全套分省/地域之产业结构图
