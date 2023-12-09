@@ -50,7 +50,7 @@ categories:
 
 <div class=".h1 fs-1 bg-success text-center" markdown="1">
 
-# visCEADs 中国碳核算数据库可视化项目
+# <i class="ai ai-figshare ai-5x fa-spin"></i>visCEADs 中国碳核算数据库可视化项目
 
 </div>
 
@@ -60,7 +60,7 @@ visCEADs 项目系统地引入[中国碳核算数据库](https://www.ceads.net.c
 
 <div class=".h2 fs-2 bg-success text-center" markdown="1">
 
-## 项目原型成果A展示
+## 项目原型成果A展示<i class="ai ai-pubpeer ai-4x fa-bounce"></i>
 
 </div>
 
@@ -73,7 +73,7 @@ visCEADs 项目原型成果A展示，可把42部门31省市域间投入产出表
 
 <div class="fs-1 bg-warning text-center" markdown="1">
 
-## 项目迸度
+## 项目迸度<i class="fas fa-tasks fa-bounce"></i>
 
 </div>
 
@@ -102,7 +102,7 @@ visCEADs 项目原型成果A展示，可把42部门31省市域间投入产出表
 
 <div class="fs-1 bg-secondary text-center" markdown="1">
 
-## 项目负责人
+## 项目负责人<i class="ai ai-ieee fa-flip"></i>
 
 </div>
 
@@ -113,7 +113,7 @@ visCEADs 项目原型成果A展示，可把42部门31省市域间投入产出表
 
 <div class="fs-1 bg-primary text-center" markdown="1">
 
-## 铭谢
+## 铭谢<i class="ai ai-inpn fa-beat-fade"></i>
 
 </div>
 
