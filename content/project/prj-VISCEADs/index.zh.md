@@ -29,9 +29,9 @@ categories:
 
 
 
-将<marker>碳排信息</marker>引入生产消费投资各环节，得真对个人及产业带来价值，才能减碳减得甘愿及志愿。
+将**碳排信息**引入生产消费投资各环节，得真对个人及产业带来价值，才能减碳减得甘愿及志愿。
 
-引入碳排信息<marker>双碳管服数字平台</marker>，是双化转型核心，要如何定义、设计并制作？
+引入碳排信息**双碳管服数字平台**，是双化转型核心工作，要如何定义、设计并制作？
 
 <div class="p-3 mb-2 bg-light text-dark" markdown="1">
 
@@ -64,7 +64,7 @@ visCEADs 项目原型成果A展示，可把42部门31省市域间投入产出表
  
 <iframe class = "info-vis" src="./visualization.zh.html" width="100%" style="border:none;"></iframe>
 
-<div class="p-3 mb-2 bg-warning text-white" markdown="1">
+<div class="bg-warning text-white" markdown="1">
 
 ### 项目迸度
 
@@ -75,7 +75,7 @@ visCEADs 项目原型成果A展示，可把42部门31省市域间投入产出表
 * 2023/05：项目启动-- 科研与市研确立数据及潜在需求 （如[企业碳盘查SaaS服务](https://www.skyco2.com/ncem/index.html)、[温室气体排放核算标准库](https://www.skyco2.com/)）等等。
 
 * 2023/07：项目需求 --碳中和数智平台、双碳管服数字平台的骨架、基线、与标杆
- 确立数据来源及潜在需求，对标中国互联网协会发布的“双碳管服数字平台”标准（正式名称《碳达峰碳中和管理与服务平台第1部分：架构规范》）与国际前沿专利及科研，设计中国碳核算数据库可视化技术路线，确立3B框架 (backbone, baseline, and benchmark, ) 来转化数据科学及机器学习技术成为产业脱碳情报的骨架 (backbone)、基线 (baseline)、与标杆 (benchamrk)：
+ 确立数据来源及潜在需求，对标中国互联网协会发布的“双碳管服数字平台”标准（正式名称《碳达峰碳中和管理与服务平台第1部分：架构规范》）与国际前沿专利及科研，设计中国碳核算数据库可视化技术路线，确立3B框架 (backbone, baseline, and benchmark, ) 来转化数据科学及机器学习技术成为产业脱碳情报的骨架 (backbone)、基线 (baseline)、与标杆 (benchmark)：
 
     * 骨架 (backbone):
       * 基本历史与当下的产业投入产出结构，降低产业与地方脱碳转型脱离现实、转错方向、抓错重点等重大策略风险。
@@ -84,7 +84,7 @@ visCEADs 项目原型成果A展示，可把42部门31省市域间投入产出表
       * 以地方各省及全中国的碳排数据、进阶碳排强度计量、及产业整体与平均数据作为基线(baseline)，作为‘精准脱碳’旅程的基础指标。这些基于产业与地方历史及现实数据作为下一步设计一般性KPI、及客制化KPI的基础，以形成按产业及地域特性“量身定制”的碳达峰碳中和管理与服务平台。
 
     * 标杆 (benchamrk):
-      * 以基线为基础（可跨省或跨行业比较）及比对历史改变，<mark>订立科学基础减量目标倡议(SBTi)的标杆计量及演算法</mark>，以数据驱动决策，产出一批<mark>最佳实践标杆</mark>、<mark>行业标兵</mark>企业、<mark>地方标兵</mark>单位等等。
+      * 以基线为基础（可跨省或跨行业比较）及比对历史改变，**订立科学基础减量目标倡议(SBTi)的标杆计量及演算法**，以数据驱动决策，产出一批**最佳实践标杆**、**行业标兵**企业、**地方标兵**单位等等。
 
 * 2023/12：交付原型成果A--含可交互功能之全套分省/地域之产业结构图
 
@@ -93,7 +93,7 @@ visCEADs 项目原型成果A展示，可把42部门31省市域间投入产出表
 
 
 
-<div class="p-3 mb-2 bg-secondary text-white" markdown="1">
+<div class="bg-secondary text-white" markdown="1">
 
 ### 项目负责人
 
@@ -104,7 +104,7 @@ visCEADs 项目原型成果A展示，可把42部门31省市域间投入产出表
 
 ---
 
-<div class="p-3 mb-2 bg-primary text-white" markdown="1">
+<div class="bg-primary text-white" markdown="1">
 
 ### 铭谢
 
@@ -128,6 +128,8 @@ visCEADs 项目原型成果A展示，可把42部门31省市域间投入产出表
 
 ![icon.webp](icon.webp)
 
+<div class="col text-center">
 <a href="https://oxon8.netlify.app/" class="btn btn-success px-5 py-3">🌐澳恪森数智科技服务</a>
+</div>
 
 澳恪森Oxon8为行业﹑智库﹑政府等提供基于专利分析﹑科学计量﹑知识图谱等等数据情报，合作开展集科技研发﹑科技服务﹑成果转化﹑系统集成﹑人才培养﹑等科技创新公共及商业服务，运用前瞻情报连结在地及全球网络。
