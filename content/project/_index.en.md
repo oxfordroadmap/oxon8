@@ -1,33 +1,40 @@
 ---
 title: Projects and Products 
-
-# Listing view
 view: showcase
-
-# Optional banner image (relative to `assets/media/` folder).
 banner:
-  caption: '荔枝_扇面'
-  image: 'Lychees.jpg'
-
-
+  caption: Shedding light on viable decarbonization paths--Project VisCEADs
+  image: prj-visCEADs.webp
 sections:
   - block: collection
-    id: 'project'
+    id: project
     content:
       title: Projects and Products 
       subtitle: 'Ongoing or finished ...'
       text: 
-      # Display content from the `content/project/` folder
       filters:
         folders:
           - project
     design:
-      columns: '2'
+      columns: "2"
       view: showcase
       flip_alt_rows: true
 ---
+<style>
+#top > div.page-body > div:nth-child(3) > div:nth-child(2) {
+    display: block;
+    background-size: 100% 100%;
+    background-image: url(https://oxon8.netlify.app/media/prj-visCEADs.webp);
+}
 
+#top > div.page-body > div:nth-child(3) > div:nth-child(2) > div > div:nth-child(1){
+   background-color: rgba(255, 255, 224, 0.85);
+}
 
-## Products <i class="ai ai-dataverse ai-3x fa-bounce"></i>
+.section-subheading {
+   background-color: rgba(255, 255, 224, 0.98);
+   font-size: 2.5rem !important;
+}
+</style>
 
-## Finished Projects <i class="ai fa-solid fa-list-check"></i>
+<br/> 
+<i class="ai ai-dataverse ai-３x fa-bounce"></i>
