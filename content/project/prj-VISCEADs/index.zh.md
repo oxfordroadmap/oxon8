@@ -29,7 +29,17 @@ categories:
     height: 100vh;
 }</style>
 
-summary: 碳核算数据系统创新，定义、设计并制作碳中和数智平台、双碳管服数字平台的骨架、基线、与标杆
+将碳排信息系统引入各行业生产与民生消费的各环节，不仅是系统工程，更需系统创新，有价值带给个人及产业的，加值但减碳的。
+
+双碳管服数字平台，是双化转型核心，要如何定义、设计并制作？
+
+本项目采用以下最新资源，切合产业实际：
+
+* [中国互联网协会发布的“双碳管服数字平台”标准](https://www.isc.org.cn//profile//2023/06/13/60cbc996-47cc-45be-bf0d-06053fbe57de.pdf) 
+* [中国碳核算数据库（CEADS 中国大陆地区2017年31省区市区域间投入产出表(42部门) v.3.5）](https://www.ceads.net.cn/)
+*基于[L.1470](https://www.itu.int/rec/T-REC-L.1470-202001-I/en) [L.1480](https://www.itu.int/rec/T-REC-L.1480-202212-I) [ITU国际电联绿色数字化转型双标准](https://oxon8.netlify.app/post/2023-02-20-smart-digital-platforms-carbon-neutral-management-services/)发展的《碳中和管理服务数智平台》商业模式
+
+项目原型成果A展示了，3B框架（骨架、基线、与标杆）可把42部门31省市域间投入产出表与碳核算数据洞察价值系统开发出来，使用网络可视化方法，打造出碳中和数智平台、双碳管服数字平台的核心模块。
 
 <!--more-->
 
@@ -61,6 +71,20 @@ summary: 碳核算数据系统创新，定义、设计并制作碳中和数智�
 
 ### 项目负责人
 廖汉腾
+
+---
+
+### 铭谢
+*基于[L.1470](https://www.itu.int/rec/T-REC-L.1470-202001-I/en) [L.1480](https://www.itu.int/rec/T-REC-L.1480-202212-I) [ITU国际电联绿色数字化转型双标准](https://oxon8.netlify.app/post/2023-02-20-smart-digital-platforms-carbon-neutral-management-services/)
+* [中国互联网协会发布的“双碳管服数字平台”标准](https://www.isc.org.cn//profile//2023/06/13/60cbc996-47cc-45be-bf0d-06053fbe57de.pdf) 
+* [中国碳核算数据库（CEADS 中国大陆地区2017年31省区市区域间投入产出表(42部门) v.3.5）](https://www.ceads.net.cn/)
+    * 注：请引用
+        * <cite>【投入产出数据】引用 Zheng, H., Bai, Y., Wei, W. et al. (2021). Chinese provincial multi-regional input-output database for 2012, 2015, and 2017. Sci Data 8, 244.</cite> <br/>
+        * <cite>【碳排清单】引用 Shan, Y., Huang, Q., Guan, D. et al. (2020). China CO2 emission accounts 2016–2017. Sci Data 7, 54.</cite> <br/>
+
+
+> 正确引用是种美德, 更应是负责任的底线
+> <a href="https://oxon8.netlify.app/" class="btn btn-success px-5 py-3">🌐澳恪森数智科技服务</a>
 
 ---
 
