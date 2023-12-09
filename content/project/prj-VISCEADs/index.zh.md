@@ -21,7 +21,7 @@ categories:
   - 投入产出分析
 ---
 <style>
-.article-container{max-width:100vw; !important}
+.article-container {max-width:100vw; !important}
 .info-vis {
     width: 100vw;
     height: 100vh;
