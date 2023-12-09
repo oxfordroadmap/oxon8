@@ -1,12 +1,12 @@
 ---
-title: 项目与产品--澳恪森进行中与已完成的项目
+title: 项目与产品--澳恪森
 
 # Listing view
 view: showcase
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
-  caption: '荔枝_扇面'
+  caption: '项目 prj-visCEADs 「精准脱碳」交互可视化产品A 基于中国碳核算数据库（CEADs）'
   image: 'prj-visCEADs.webp'
 
 
@@ -15,7 +15,7 @@ sections:
     id: 'project'
     content:
       title: '项目'
-      subtitle: '进行中项目'
+      subtitle: '项目与产品－－进行中与已完成的项目'
       text: 
       # Display content from the `content/project/` folder
       filters:
@@ -28,5 +28,5 @@ sections:
 ---
 
 
-# 项目 / 产品 <i class="ai ai-dataverse ai-5x fa-spin"></i>
+# 项目 / 产品 <i class="ai ai-dataverse ai-３x fa-bounce"></i>
 
