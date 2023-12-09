@@ -7,7 +7,7 @@ view: showcase
 # Optional banner image (relative to `assets/media/` folder).
 banner:
   caption: '荔枝_扇面'
-  image: 'prj-visCEADs.png'
+  image: 'prj-visCEADs.webp'
 
 
 sections:

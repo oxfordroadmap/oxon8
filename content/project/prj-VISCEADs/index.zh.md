@@ -2,7 +2,6 @@
 title: 照亮产业「精准脱碳」之路--2023VISCEADs
 subtitle: 中国碳核算数据库可视化项目--碳中和数智平台、双碳管服数字平台的骨架、基线、与标杆
 date: 2023-12-07T07:42:52.984Z
-summary: 碳核算数据系统创新，定义、设计并制作碳中和数智平台、双碳管服数字平台的骨架、基线、与标杆
 draft: false
 featured: true
 featured_image: https://github.com/oxfordroadmap/oxon8/blob/main/prj-visCEADs.png?raw=true
@@ -30,6 +29,9 @@ categories:
     height: 100vh;
 }</style>
 
+summary: 碳核算数据系统创新，定义、设计并制作碳中和数智平台、双碳管服数字平台的骨架、基线、与标杆
+
+<!--more-->
 
 ### 项目原型成果A展示
 
