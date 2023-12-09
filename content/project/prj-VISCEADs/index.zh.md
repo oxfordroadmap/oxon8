@@ -27,23 +27,26 @@ categories:
     height: 100vh;
 }</style>
 
-将碳排信息系统引入各行业生产与民生消费的各环节，不仅是系统工程，更需系统创新，有价值带给个人及产业的，加值但减碳的。
+将<marker>碳排信息</marker>引入生产消费投资各环节，得真对个人及产业带来价值，才能减碳减得甘愿及志愿。
 
-双碳管服数字平台，是双化转型核心，要如何定义、设计并制作？
+引入碳排信息<marker>双碳管服数字平台</marker>，是双化转型核心，要如何定义、设计并制作？
 
-本项目采用以下最新资源，切合产业实际：
+本项目（visCEADs 中国碳核算数据库可视化），采用以下最新资源，切合产业「精准脱碳」实际：
 
-* [中国互联网协会发布的“双碳管服数字平台”标准](https://www.isc.org.cn//profile//2023/06/13/60cbc996-47cc-45be-bf0d-06053fbe57de.pdf) 
-* [中国碳核算数据库（CEADS 中国大陆地区2017年31省区市区域间投入产出表(42部门) v.3.5）](https://www.ceads.net.cn/)
-*基于[L.1470](https://www.itu.int/rec/T-REC-L.1470-202001-I/en) [L.1480](https://www.itu.int/rec/T-REC-L.1480-202212-I) [ITU国际电联绿色数字化转型双标准](https://oxon8.netlify.app/post/2023-02-20-smart-digital-platforms-carbon-neutral-management-services/)发展的《碳中和管理服务数智平台》商业模式
+* [“双碳管服数字平台”标准](https://www.isc.org.cn//profile//2023/06/13/60cbc996-47cc-45be-bf0d-06053fbe57de.pdf) 
+* [中国碳核算数据库](https://www.ceads.net.cn/)
+* ITU国际电联绿色数字化转型双标准 [L.1470](https://www.itu.int/rec/T-REC-L.1470-202001-I/en) [L.1480](https://www.itu.int/rec/T-REC-L.1480-202212-I) [ITU国际电联绿色数字化转型双标准](https://oxon8.netlify.app/post/2023-02-20-smart-digital-platforms-carbon-neutral-management-services/)
+* 基于以上，澳恪森发展的[《碳中和管理服务数智平台》商业模式](https://oxon8.netlify.app/post/2023-02-20-smart-digital-platforms-carbon-neutral-management-services/)
 
-项目原型成果A展示了，3B框架（骨架、基线、与标杆）可把42部门31省市域间投入产出表与碳核算数据洞察价值系统开发出来，使用网络可视化方法，打造出碳中和数智平台、双碳管服数字平台的核心模块。
+visCEADs 项目原型成果A展示，可把42部门31省市域间投入产出表与碳核算数据，有效地把数据洞察价值开发出来。理论上更使用网络可视化方法与3B框架（骨架、基线、与标杆），打造出碳中和数智平台、双碳管服数字平台的核心模块。
 
 <!--more-->
 
 ## 中国碳核算数据库可视化项目
 
-采用 [中国互联网协会“双碳管服数字平台”标准](https://www.isc.org.cn//profile//2023/06/13/60cbc996-47cc-45be-bf0d-06053fbe57de.pdf) 、 [中国碳核算数据库（CEADS 中国大陆地区2017年31省区市区域间投入产出表(42部门) v.3.5）](https://www.ceads.net.cn/)、[L.1470](https://www.itu.int/rec/T-REC-L.1470-202001-I/en) [L.1480](https://www.itu.int/rec/T-REC-L.1480-202212-I) [ITU国际电联绿色数字化转型双标准](https://oxon8.netlify.app/post/2023-02-20-smart-digital-platforms-carbon-neutral-management-services/)发展的《碳中和管理服务数智平台》设计，已产出项目原型成果A。
+visCEADs 项目系统地引入[中国碳核算数据库](https://www.ceads.net.cn/)，利用数据科学清洗转换，再依经[“双碳管服数字平台”标准](https://www.isc.org.cn//profile//2023/06/13/60cbc996-47cc-45be-bf0d-06053fbe57de.pdf) 与[《碳中和管理服务数智平台》商业模式](https://oxon8.netlify.app/post/2023-02-20-smart-digital-platforms-carbon-neutral-management-services/)设计原型。
+
+此原型系统将可引入各行业生产与民生消费的各环节，是系统工程与系统创新，要把合理有加值的减碳，带给个人及产业的。2023年07-12月，澳恪森已产出项目原型成果A。
 
 ### 项目原型成果A展示
 
@@ -71,6 +74,7 @@ categories:
 
 * 2023/12：交付原型成果A--含可交互功能之全套分省/地域之产业结构图
 
+![prj-visCEADs@oxon8.netlify.app](https://oxon8.netlify.app/media/prj-visCEADs.webp)
 
 ### 项目负责人
 廖汉腾
@@ -86,9 +90,7 @@ categories:
         * <cite>【碳排清单】引用 Shan, Y., Huang, Q., Guan, D. et al. (2020). China CO2 emission accounts 2016–2017. Sci Data 7, 54.</cite> <br/>
 
 
-
-> 正确引用是种美德, 更应是负责任的底线
-
+<div class="alert alert-info d-flex" role="alert"><div class="flex-shrink-0"></div><div class="alert-content">正确引用是种美德, 更应是负责任的底线</div></div>
 
 ---
 

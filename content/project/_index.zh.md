@@ -27,8 +27,9 @@ sections:
       flip_alt_rows: true
 ---
 <style>
-#top > div.page-body > div:nth-child(3) > div:nth-child(2) > div > div.col-12.col-md-6.order-first {
-    background-image: src="https://oxfordroadmap.github.io/oxon8/media/prj-visCEADs.webp";
+    #top > div.page-body > div:nth-child(3) > div:nth-child(2) > div > div.col-12.col-md-6.order-first {
+        background-image: url(./media/prj-visCEADs.webp);
+	}
 </style>
 
 # 项目 / 产品 <i class="ai ai-dataverse ai-３x fa-bounce"></i>
