@@ -1,5 +1,5 @@
 ---
-title: <i class="ai ai-dataverse ai-３x fa-bounce"></i>项目与产品--澳恪森
+title: 项目与产品--澳恪森
 view: showcase
 banner:
   caption: 项目 prj-visCEADs 「精准脱碳」交互可视化产品A 基于中国碳核算数据库（CEADs）
@@ -36,5 +36,6 @@ sections:
 }
 </style>
 
- 
+<br/> 
+<i class="ai ai-dataverse ai-３x fa-bounce"></i>
 
