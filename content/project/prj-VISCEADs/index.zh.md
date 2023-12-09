@@ -1,16 +1,18 @@
 ---
-title: 照亮产业「精准脱碳」之路--2023VISCEADs
+title: 照亮产业「精准脱碳」之路--visCEADs
 date: 2023-12-06T07:42:52.984Z
 draft: false
 featured: true
-authors: 
+authors:
   - Han-Teng Liao
   - Chung-Lien Pan
 tags:
   - 【2023VISCEADs】
   - 碳排管理
-  - Green Digital Transformation
-  - 双化协同  
+  - Green
+  - Digital
+  - Transformation
+  - 双化协同
   - 数智平台
   - 技术路线
   - 商业模式

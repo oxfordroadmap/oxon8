@@ -1,5 +1,5 @@
 ---
-title: 「绿色碳链通」＋「负碳」标准探明「数字农粮」双化转型路线--GreenSupplyChainFinTech-AI4A
+title: 「绿色碳链通」＋「负碳」标准探明「数字农粮」双化转型路线--GSCFT_ITU_AI4A
 date: 2023-03-24T07:42:52.984Z
 draft: false
 featured: true
@@ -18,7 +18,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-实现碳中和需要负碳技术，其中，简称BECCS的生物质能碳捕集与封存，针对生物质燃烧或转化过程中的温室气体进行进行捕集和封存，实现负碳成果。相关的技术研发全球仍在起步阶段，从炭素农业到生物炭，具有重大发展潜力，能在智能可持续农粮系统创新的同时，有效达成双碳目标。
+GSCFT_ITU  GreenSupplyChainFinTech ITU AI4A  实现碳中和需要负碳技术，其中，简称BECCS的生物质能碳捕集与封存，针对生物质燃烧或转化过程中的温室气体进行进行捕集和封存，实现负碳成果。相关的技术研发全球仍在起步阶段，从炭素农业到生物炭，具有重大发展潜力，能在智能可持续农粮系统创新的同时，有效达成双碳目标。
 <!--more-->
 ## 负碳技术之一 BECCS  
 BECCS Technology Roadmap for Smart and Sustainable Argo-Food Systems
