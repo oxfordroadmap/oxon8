@@ -1,26 +1,28 @@
 ---
-title: BECCS Technology Roadmap for Smart and Sustainable Argo-Food Systems
-subtitle: 生物质能碳捕集与封存BECSS技术路线图--智能可持续农粮系统创新
+title: 「绿色碳链通」＋「负碳」标准探明「数字农粮」双化转型路线--GreenSupplyChainFinTech-AI4A
 date: 2023-03-24T07:42:52.984Z
-summary: 智能可持续农粮系统创新
 draft: false
 featured: true
 authors:
-  - admin
+  - Han-Teng Liao
+  - Chung-Lien Pan
 tags:
-  - BECCS
+  - 数字农业
+  - 数字化绿色化双转型
+  - 标准化
 categories:
-  - Agro-food
+  - 标准化
+  - 绿色碳链通
 image:
   filename: wikicommons-Vertical_Tower_Aquaponic_System.jpg
   focal_point: Smart
   preview_only: false
 ---
 实现碳中和需要负碳技术，其中，简称BECCS的生物质能碳捕集与封存，针对生物质燃烧或转化过程中的温室气体进行进行捕集和封存，实现负碳成果。相关的技术研发全球仍在起步阶段，从炭素农业到生物炭，具有重大发展潜力，能在智能可持续农粮系统创新的同时，有效达成双碳目标。
-
+<!--more-->
 ## 负碳技术之一 BECCS  
-
-实现碳中和需要负碳技术，其中，简称BECCS的生物质能碳捕集与封存，针对生物质燃烧或转化过程中的温室气体进行进行捕集和封存，实现负碳成果。相关的技术研发全球仍在起步阶段，从炭素农业到生物炭，具有重大发展潜力，能在智能可持续农粮系统创新的同时，有效达成双碳目标。
+BECCS Technology Roadmap for Smart and Sustainable Argo-Food Systems
+实现碳中和需要负碳技术，其中，简称BECCS的***生物质能碳捕集与封存***，针对生物质燃烧或转化过程中的温室气体进行进行捕集和封存，实现负碳成果。相关的技术研发全球仍在起步阶段，从炭素农业到生物炭，具有重大发展潜力，能在智能可持续农粮系统创新的同时，有效达成双碳目标。
 
 ### ＂双碳荔枝＂为例
 

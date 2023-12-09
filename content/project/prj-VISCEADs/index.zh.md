@@ -27,9 +27,13 @@ categories:
     height: 100vh;
 }</style>
 
+
+
 将<marker>碳排信息</marker>引入生产消费投资各环节，得真对个人及产业带来价值，才能减碳减得甘愿及志愿。
 
 引入碳排信息<marker>双碳管服数字平台</marker>，是双化转型核心，要如何定义、设计并制作？
+
+<div class="p-3 mb-2 bg-light text-dark" markdown="1">
 
 本项目（visCEADs 中国碳核算数据库可视化），采用以下最新资源，切合产业「精准脱碳」实际：
 
@@ -38,7 +42,7 @@ categories:
 * ITU国际电联绿色数字化转型双标准 [L.1470](https://www.itu.int/rec/T-REC-L.1470-202001-I/en) [L.1480](https://www.itu.int/rec/T-REC-L.1480-202212-I) [ITU国际电联绿色数字化转型双标准](https://oxon8.netlify.app/post/2023-02-20-smart-digital-platforms-carbon-neutral-management-services/)
 * 基于以上，澳恪森发展的[《碳中和管理服务数智平台》商业模式](https://oxon8.netlify.app/post/2023-02-20-smart-digital-platforms-carbon-neutral-management-services/)
 
-visCEADs 项目原型成果A展示，可把42部门31省市域间投入产出表与碳核算数据，有效地把数据洞察价值开发出来。理论上更使用网络可视化方法与3B框架（骨架、基线、与标杆），打造出碳中和数智平台、双碳管服数字平台的核心模块。
+</div>
 
 <!--more-->
 
@@ -49,6 +53,8 @@ visCEADs 项目系统地引入[中国碳核算数据库](https://www.ceads.net.c
 此原型系统将可引入各行业生产与民生消费的各环节，是系统工程与系统创新，要把合理有加值的减碳，带给个人及产业的。2023年07-12月，澳恪森已产出项目原型成果A。
 
 ### 项目原型成果A展示
+
+visCEADs 项目原型成果A展示，可把42部门31省市域间投入产出表与碳核算数据，有效地把数据洞察价值开发出来。理论上更使用网络可视化方法与3B框架（骨架、基线、与标杆），打造出碳中和数智平台、双碳管服数字平台的核心模块。
 
 [点此可至全画面](./visualization.zh.html)，体验更佳！
  
