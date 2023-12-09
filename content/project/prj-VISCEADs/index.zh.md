@@ -90,7 +90,7 @@ visCEADs 项目原型成果A展示，可把42部门31省市域间投入产出表
     * <i class="fas fa-user-check"></i>　基线 (baseline)：
       * 为各行业及地方各省提供“量身定制”的**精准脱碳**旅程，需要有产业整体与平均等数据作为基线(baseline)，作为科学方法的基础。这些基线必需基于产业与地方历史及现实数据，包括CEADs里的地方各省及全中国的碳排数据、进阶碳排强度计量、及产业整体与平均数据，等等，出**指标**开发基础。此基线方法，以一般性科学原理构出KPI，再按产业及地域特性形成“量身定制”的**碳达峰碳中和管理与服务平台**可视化标准及需求。
 
-    * <i class="fas fa-award"></i>标杆 (benchamrk)：
+    * <i class="fas fa-award"></i>　标杆 (benchamrk)：
       * 以基线为基础（可跨省或跨行业比较）及比对历史改变，**订立[科学基础减量目标倡议(SBTi)](https://sciencebasedtargets.org/about-us)的标杆计量及演算法**，以数据驱动决策，使平可以按数据产出一批**最佳实践标杆**、**行业标兵**企业、**地方标兵**单位等等名单。
 
 此框架为一系列为[中国碳核算数据库](https://www.ceads.net.cn/)数据加值可视化的核心总结，根据数据来源及潜在需求，设计出技术路线图。
@@ -114,16 +114,16 @@ visCEADs 项目原型成果A展示，可把42部门31省市域间投入产出表
 
 <div class="fs-1 bg-warning text-center" markdown="1">
 
-## 开放合作   <i class="fas fa-tasks  ai-2x fa-bounce"></i>
+## 开放合作   <i class="fad fa-hands-helping  ai-2x fa-beat" style="--fa-beat-scale: 2.0;"></i>
 
 </div>
 
 visCEADs 项目于2023-24年征求以下合作机会：
 
-* 平台打造及运营商：面对企业及政府的双碳数智平台运营商，聚焦在**碳排分析与决策引擎**的互通互联 ，提供基于信息平台设计及科技路线图的分析
-* 标准制定及参与者：国际、国家、产业标准的制定参与及起草，聚焦在**碳排分析与决策平台的标准**，提供基于科学图谱及科技路线图的分析
-* 研究者及学者：投入产出表分析、数据科学、以及专门产业领域运用（如金融科技、<i class="far fa-wheat" />数字农业等等），聚焦在双碳分析与决策引擎的**学理及应用需求的调研、论文发表、项目申请、专利合作申请**等合作，提供基于科学图谱及科技路线图的分析
-* 研究生、实习生等：交互可视化产品的（１）技术开发及（２）用户研究、（３）运营服务等任务，提供项目完成及技能应用指导的交换
+* <i class="fas fa-cloud"></i>平台打造及运营商：面对企业及政府的双碳数智平台运营商，聚焦在**碳排分析与决策引擎**的互通互联 ，提供基于信息平台设计及科技路线图的分析
+* <i class="fas fa-industry"></i>标准制定及参与者：国际、国家、产业标准的制定参与及起草，聚焦在**碳排分析与决策平台的标准**，提供基于科学图谱及科技路线图的分析
+* <i class="fas fa-university"></i>研究者及学者：<i class="fas fa-calendar-alt"></i>**投入产出表分析**、<i class="fas fa-brain"></i>**数据科学**、以及**专门产业领域运用**（如<i class="fas fa-hand-holding-usd"></i>**金融科技**、<i class="fas fa-seedling"></i>**数字农业**等等），聚焦在双碳分析与决策引擎的**学理及应用需求的调研、<i class="fas fa-scroll"></i>论文发表、项目申请、专利合作申请**等合作，提供基于科学图谱及科技路线图的分析
+* <i class="fas fa-user-graduate"></i>研究生、实习生等：**交互可视化产品**的（１）<i class="fab fa-python"></i><i class="fab fa-r-project"></i><i class="fab fa-js"></i>技术开发及（２）<i class="fas fa-hand-holding-heart"></i>用户研究、（３）<i class="fas fa-hand-holding-usd"></i>运营服务等任务，提供项目完成及技能应用指导的交换
 
 
 ---
@@ -136,10 +136,9 @@ visCEADs 项目于2023-24年征求以下合作机会：
 
 * ITU国际电联的[绿色化数字行动](../post/2023-11-27-itu-green-digital-action/)，包括其[绿色数字化转型双标准](https://oxon8.netlify.app/post/2023-02-20-smart-digital-platforms-carbon-neutral-management-services/)[L.1470](https://www.itu.int/rec/T-REC-L.1470-202001-I/en) [L.1480](https://www.itu.int/rec/T-REC-L.1480-202212-I)
 * [中国互联网协会发布的“双碳管服数字平台”标准](https://www.isc.org.cn//profile//2023/06/13/60cbc996-47cc-45be-bf0d-06053fbe57de.pdf) 
-* [中国碳核算数据库（CEADS 中国大陆地区2017年31省区市区域间投入产出表(42部门) v.3.5）](https://www.ceads.net.cn/)
-    * 注：请引用
-        * <cite>【投入产出数据】引用 Zheng, H., Bai, Y., Wei, W. et al. (2021). Chinese provincial multi-regional input-output database for 2012, 2015, and 2017. Sci Data 8, 244.</cite> <br/>
-        * <cite>【碳排清单】引用 Shan, Y., Huang, Q., Guan, D. et al. (2020). China CO2 emission accounts 2016–2017. Sci Data 7, 54.</cite> <br/>
+* [中国碳核算数据库（CEADS 中国大陆地区2017年31省区市区域间投入产出表(42部门) v.3.5）](https://www.ceads.net.cn/)请引用
+    * <cite>【投入产出数据】引用 Zheng, H., Bai, Y., Wei, W. et al. (2021). Chinese provincial multi-regional input-output database for 2012, 2015, and 2017. Sci Data 8, 244.</cite> <br/>
+    * <cite>【碳排清单】引用 Shan, Y., Huang, Q., Guan, D. et al. (2020). China CO2 emission accounts 2016–2017. Sci Data 7, 54.</cite> <br/>
 
 
 <div class="alert alert-info d-flex" role="alert"><div class="flex-shrink-0"></div><div class="alert-content">正确引用是种美德, 更应是负责任的底线</div></div>
