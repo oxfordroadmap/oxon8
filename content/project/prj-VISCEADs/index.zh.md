@@ -1,10 +1,8 @@
 ---
 title: 照亮产业「精准脱碳」之路--2023VISCEADs
-subtitle: 中国碳核算数据库可视化项目--碳中和数智平台、双碳管服数字平台的骨架、基线、与标杆
 date: 2023-12-07T07:42:52.984Z
 draft: false
-featured: true
-featured_image: https://github.com/oxfordroadmap/oxon8/blob/main/prj-visCEADs.png?raw=true
+featured: false
 authors: 
   - Han-Teng Liao
   - Chung-Lien Pan
@@ -43,6 +41,10 @@ categories:
 
 <!--more-->
 
+## 中国碳核算数据库可视化项目
+
+采用 [中国互联网协会“双碳管服数字平台”标准](https://www.isc.org.cn//profile//2023/06/13/60cbc996-47cc-45be-bf0d-06053fbe57de.pdf) 、 [中国碳核算数据库（CEADS 中国大陆地区2017年31省区市区域间投入产出表(42部门) v.3.5）](https://www.ceads.net.cn/)、[L.1470](https://www.itu.int/rec/T-REC-L.1470-202001-I/en) [L.1480](https://www.itu.int/rec/T-REC-L.1480-202212-I) [ITU国际电联绿色数字化转型双标准](https://oxon8.netlify.app/post/2023-02-20-smart-digital-platforms-carbon-neutral-management-services/)发展的《碳中和管理服务数智平台》设计，已产出项目原型成果A。
+
 ### 项目原型成果A展示
 
 [点此可至全画面](./visualization.zh.html)，体验更佳！
@@ -55,7 +57,8 @@ categories:
 
 * 2023/05：项目启动-- 科研与市研确立数据及潜在需求 （如[企业碳盘查SaaS服务](https://www.skyco2.com/ncem/index.html)、[温室气体排放核算标准库](https://www.skyco2.com/)）等等。
 
-* 2023/07：项目需求-- 确立数据来源及潜在需求，对标中国互联网协会发布的“双碳管服数字平台”标准（正式名称《碳达峰碳中和管理与服务平台第1部分：架构规范》）与国际前沿专利及科研，设计中国碳核算数据库可视化技术路线，确立3B框架 (backbone, baseline, and benchmark, ) 来转化数据科学及机器学习技术成为产业脱碳情报的骨架 (backbone)、基线 (baseline)、与标杆 (benchamrk)：
+* 2023/07：项目需求 --碳中和数智平台、双碳管服数字平台的骨架、基线、与标杆
+ 确立数据来源及潜在需求，对标中国互联网协会发布的“双碳管服数字平台”标准（正式名称《碳达峰碳中和管理与服务平台第1部分：架构规范》）与国际前沿专利及科研，设计中国碳核算数据库可视化技术路线，确立3B框架 (backbone, baseline, and benchmark, ) 来转化数据科学及机器学习技术成为产业脱碳情报的骨架 (backbone)、基线 (baseline)、与标杆 (benchamrk)：
 
     * 骨架 (backbone):
       * 基本历史与当下的产业投入产出结构，降低产业与地方脱碳转型脱离现实、转错方向、抓错重点等重大策略风险。
