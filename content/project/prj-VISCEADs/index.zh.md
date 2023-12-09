@@ -59,7 +59,7 @@ visCEADs 项目系统地引入[中国碳核算数据库](https://www.ceads.net.c
 
 <div class=".h2 fs-2 bg-success text-center" markdown="1">
 
-## 项目原型成果A展示<i class="ai ai-pubpeer ai-2x fa-bounce"></i>
+## 项目原型成果A展示<i class="ai ai-pubpeer ai-2x fa-shake"></i>
 
 </div>
 
