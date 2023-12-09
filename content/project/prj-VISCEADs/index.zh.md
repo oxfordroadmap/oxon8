@@ -46,14 +46,16 @@ categories:
 
 <!--more-->
 
-<div class="p-3 mb-2 bg-success text-white" markdown="1">
-## 中国碳核算数据库可视化项目
+<div class="bg-success text-white" markdown="1">
+
+# visCEADs 中国碳核算数据库可视化项目
+
+</div>
 
 visCEADs 项目系统地引入[中国碳核算数据库](https://www.ceads.net.cn/)，利用数据科学清洗转换，再依经[“双碳管服数字平台”标准](https://www.isc.org.cn//profile//2023/06/13/60cbc996-47cc-45be-bf0d-06053fbe57de.pdf) 与[《碳中和管理服务数智平台》商业模式](https://oxon8.netlify.app/post/2023-02-20-smart-digital-platforms-carbon-neutral-management-services/)设计原型。
 
 此原型系统将可引入各行业生产与民生消费的各环节，是系统工程与系统创新，要把合理有加值的减碳，带给个人及产业的。2023年07-12月，澳恪森已产出项目原型成果A。
 
-</div>
 ### 项目原型成果A展示
 
 visCEADs 项目原型成果A展示，可把42部门31省市域间投入产出表与碳核算数据，有效地把数据洞察价值开发出来。理论上更使用网络可视化方法与3B框架（骨架、基线、与标杆），打造出碳中和数智平台、双碳管服数字平台的核心模块。
@@ -63,6 +65,7 @@ visCEADs 项目原型成果A展示，可把42部门31省市域间投入产出表
 <iframe class = "info-vis" src="./visualization.zh.html" width="100%" style="border:none;"></iframe>
 
 <div class="p-3 mb-2 bg-warning text-white" markdown="1">
+
 ### 项目迸度
 
 </div>
@@ -91,6 +94,7 @@ visCEADs 项目原型成果A展示，可把42部门31省市域间投入产出表
 
 
 <div class="p-3 mb-2 bg-secondary text-white" markdown="1">
+
 ### 项目负责人
 
 </div>
@@ -101,6 +105,7 @@ visCEADs 项目原型成果A展示，可把42部门31省市域间投入产出表
 ---
 
 <div class="p-3 mb-2 bg-primary text-white" markdown="1">
+
 ### 铭谢
 
 </div>
