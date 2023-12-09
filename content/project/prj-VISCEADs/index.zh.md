@@ -81,7 +81,7 @@ visCEADs 项目原型成果A展示，可把42部门31省市域间投入产出表
 * 2023/05：项目启动-- 科研与市研确立数据及潜在需求 （如[企业碳盘查SaaS服务](https://www.skyco2.com/ncem/index.html)、[温室气体排放核算标准库](https://www.skyco2.com/)）等等。
 
 * 2023/07：项目需求 --碳中和数智平台、双碳管服数字平台的骨架、基线、与标杆
- 确立数据来源及潜在需求，对标中国互联网协会发布的“双碳管服数字平台”标准（正式名称《[碳达峰碳中和管理与服务平台第1部分：架构规范](https://www.isc.org.cn//profile//2023/06/13/60cbc996-47cc-45be-bf0d-06053fbe57de.pdf)》）与国际前沿专利及科研，设计[中国碳核算数据库](https://www.ceads.net.cn/)可视化技术路线，确立3B框架 (backbone, baseline, and benchmark ) 来转化数据科学及机器学习技术成为产业脱碳情报的骨架 (backbone)、基线 (baseline)、与标杆 (benchmark)：
+ 确立数据来源及潜在需求，对标中国互联网协会发布的“双碳管服数字平台”标准（正式名称《[碳达峰碳中和管理与服务平台第1部分：架构规范](https://www.isc.org.cn//profile//2023/06/13/60cbc996-47cc-45be-bf0d-06053fbe57de.pdf)》）与国际前沿专利及科研，设计[中国碳核算数据库](https://www.ceads.net.cn/)可视化技术路线，确立**3B框架 (backbone, baseline, and benchmark ) **：
 
     * <i class="fas fa-project-diagram"></i>骨架 (backbone):
       * 基本历史与当下的产业投入产出结构，降低**产业与地方**脱碳转型**脱离现实、转错方向、抓错重点**等重大策略风险。
@@ -91,6 +91,8 @@ visCEADs 项目原型成果A展示，可把42部门31省市域间投入产出表
 
     * <i class="fas fa-award"></i>标杆 (benchamrk):
       * 以基线为基础（可跨省或跨行业比较）及比对历史改变，**订立[科学基础减量目标倡议(SBTi)](https://sciencebasedtargets.org/about-us)的标杆计量及演算法**，以数据驱动决策，产出一批**最佳实践标杆**、**行业标兵**企业、**地方标兵**单位等等。
+
+3B框架实现方面，则使用数据科学及机器学习技术，把产业实际数据转换成有用、可用的脱碳情报。
 
 * 2023/12：交付原型成果A--含可交互功能之全套分省/地域之产业结构图
 
