@@ -100,53 +100,55 @@ Based on the baseline framework above (comparable framework across provinces and
 
 <div class="fs-1 bg-secondary text-center" markdown="1">
 
-## 项目负责人  <i class="ai ai-ieee ai-2x fa-flip"></i>
+## Project owner  <i class="ai ai-ieee ai-2x fa-flip"></i>
 
 </div>
 
-* [廖汉腾](../author/%E5%BB%96%E6%B1%89%E8%85%BE/)
+* [Liao, Han-Teng](../author/%E5%BB%96%E6%B1%89%E8%85%BE/)
 
 <div class="fs-1 bg-warning text-center" markdown="1">
 
-## 开放合作   <i class="fas fa-hands-helping  ai-2x fa-beat" style="--fa-beat-scale: 2.0;"></i>
+## Open collaboration opportunities   <i class="fas fa-hands-helping  ai-2x fa-beat" style="--fa-beat-scale: 2.0;"></i>
 
 </div>
 
-visCEADs 项目于2023-24年征求以下合作机会：
+The visCEADs project is seeking the following collaboration opportunities in 2023-4:
 
-* <i class="fas fa-cloud"></i>平台打造及运营商：面对企业及政府的双碳数智平台运营商，聚焦在**碳排分析与决策引擎**的互通互联 ，提供基于信息平台设计及科技路线图的分析
-* <i class="fas fa-industry"></i>标准制定及参与者：国际、国家、产业标准的制定参与及起草，聚焦在**碳排分析与决策平台的标准**，提供基于科学图谱及科技路线图的分析
-* <i class="fas fa-university"></i>研究者及学者：<i class="fas fa-calendar-alt"></i>**投入产出表分析**、<i class="fas fa-brain"></i>**数据科学**、以及**专门产业领域运用**（如<i class="fas fa-hand-holding-usd"></i>**金融科技**、<i class="fas fa-seedling"></i>**数字农业**等等），聚焦在双碳分析与决策引擎的**学理及应用需求的调研、<i class="fas fa-scroll"></i>论文发表、项目申请、专利合作申请**等合作，提供基于科学图谱及科技路线图的分析
-* <i class="fas fa-user-graduate"></i>研究生、实习生等：**交互可视化产品**的（１）<i class="fab fa-python"></i><i class="fab fa-r-project"></i><i class="fab fa-js"></i>技术开发及（２）<i class="fas fa-hand-holding-heart"></i>用户研究、（３）<i class="fas fa-hand-holding-usd"></i>运营服务等任务，提供项目完成及技能应用指导的交换
+* <i class="fas fa-cloud"></i>Digital platform operators and platform developers:  Facing the demand of enterprises and government agencies for carbon information and management services, opportunities can be explored and exploited focusing on the interoperability of **carbon accounting, analytics and decision engines**.  The VisCEADs project can provide evidence-based information platform design and technology roadmapping services. 
+* <i class="fas fa-industry"></i>Standard setting organizations and participants:  Drafting international, national and industry standards and participating in the standardization processes, collaborative opportunities can be explored focusing on the standards of **carbon accounting, analytics and decision platforms**.  The VisCEADs project can provide evidence-based science-mapping and technology roadmapping services.* 
+* <i class="fas fa-university"></i>Researchers and think tanks: Researchers and experts of <i class="fas fa-calendar-alt"></i>**input-output table analysis**, <i class="fas fa-brain"></i>**data science**, or **sectoral domain experts** such as<i class="fas fa-hand-holding-usd"></i>**FinTech**, <i class="fas fa-seedling"></i>**digital agriculture**, etc., collaborative opportunities can be discussed, focusing on the mechanisms and market demands for supporting **carbon accounting, analytics and decision platforms**.  For collaborative research projects, <i class="fas fa-scroll"></i> journal paper publications, grant proposals, patents, etc., the VisCEADs project can provide analytics services based on science-mapping (of patents, publications and/or research grants) and technology roadmapping.
+* <i class="fas fa-user-graduate"></i>Graduate students and interns:  Opportunities surrounding **interactive infographic products** are:  (1)<i class="fab fa-python"></i><i class="fab fa-r-project"></i><i class="fab fa-js"></i>technology developer, (2)<i class="fas fa-hand-holding-heart"></i>user research and product design, and (3)<i class="fas fa-hand-holding-usd"></i>operations and services.  The VisCEADs project provide guidance and training. 
 
 
 ---
 
 <div class="fs-1 bg-primary text-center" markdown="1">
 
-## 铭谢  <i class="ai ai-inpn ai-2x fa-beat-fade"></i>
+## Acknowledgement  <i class="ai ai-inpn ai-2x fa-beat-fade"></i>
 
 </div>
 
-* ITU国际电联的[绿色化数字行动](../post/2023-11-27-itu-green-digital-action/)，包括其[绿色数字化转型双标准](https://oxon8.netlify.app/post/2023-02-20-smart-digital-platforms-carbon-neutral-management-services/)[L.1470](https://www.itu.int/rec/T-REC-L.1470-202001-I/en) [L.1480](https://www.itu.int/rec/T-REC-L.1480-202212-I)
-* [中国互联网协会发布的“双碳管服数字平台”标准](https://www.isc.org.cn//profile//2023/06/13/60cbc996-47cc-45be-bf0d-06053fbe57de.pdf) 
-* [中国碳核算数据库（CEADS 中国大陆地区2017年31省区市区域间投入产出表(42部门) v.3.5）](https://www.ceads.net.cn/)请引用
-    * <cite>【投入产出数据】引用 Zheng, H., Bai, Y., Wei, W. et al. (2021). Chinese provincial multi-regional input-output database for 2012, 2015, and 2017. Sci Data 8, 244.</cite> <br/>
-    * <cite>【碳排清单】引用 Shan, Y., Huang, Q., Guan, D. et al. (2020). China CO2 emission accounts 2016–2017. Sci Data 7, 54.</cite> <br/>
+The visCEADs project thanks and acknowledges the work by the following institutions, projects and individual profesionals behind them. 
+
+* ITU [Green Digital Action](../post/2023-11-27-itu-green-digital-action/)，including its [green digital transformation standards](https://oxon8.netlify.app/post/2023-02-20-smart-digital-platforms-carbon-neutral-management-services/)[L.1470](https://www.itu.int/rec/T-REC-L.1470-202001-I/en) [L.1480](https://www.itu.int/rec/T-REC-L.1480-202212-I)
+* [Internet Society of China's Industry Standard on Carbon peak and carbon neutrality management and service platform](https://www.isc.org.cn//profile//2023/06/13/60cbc996-47cc-45be-bf0d-06053fbe57de.pdf) 
+* [CEADs Mainland China Provincial MRIO Table for 31 Provinces(42 sector) v.3.5）](https://www.ceads.net.cn/), with specific reference below
+    * <cite>【Input-Output tables】 Zheng, H., Bai, Y., Wei, W. et al. (2021). Chinese provincial multi-regional input-output database for 2012, 2015, and 2017. Sci Data 8, 244.</cite> <br/>
+    * <cite>【CO2 inventory】 Shan, Y., Huang, Q., Guan, D. et al. (2020). China CO2 emission accounts 2016–2017. Sci Data 7, 54.</cite> <br/>
 
 
-<div class="alert alert-info d-flex" role="alert"><div class="flex-shrink-0"></div><div class="alert-content">正确引用是种美德, 更应是负责任的底线</div></div>
+<div class="alert alert-info d-flex" role="alert"><div class="flex-shrink-0"></div><div class="alert-content">Proper citation is a virtuous act, and it should be a bottom line signally accountability.</div></div>
 
 ---
 
-### 关于澳恪森数智科技
+### About Oxford Roadmapping (Oxon8)
 
-澳恪森数智科技（英文名：Oxford Roadmapping，简称Oxon8）是一家致力于创新数智平台与绿色金融科技发展的公司。旨在利用[数字生态创新](https://www.itu.int/dms_pub/itu-d/opb/inno/D-INNO-TOOLKIT.2-2020-PDF-C.pdf)帮助组织与个人的双化协同发展和精准脱碳。
+Oxford Roadmapping Inc. (Chinese name：澳恪森数智科技，aka Oxon8) dedicates to the development of smart digital platforms and Green FinTech.  Leveraging the power of [digital ecosystem innovations](https://www.itu.int/dms_pub/itu-d/opb/inno/D-INNO-TOOLKIT.2-2020-PDF-C.pdf), Oxford Roadmapping helps organizations and individuals with their green and digital transformation, including precision decarbonization. 
 
 ![icon.webp](icon.webp)
 
 <div class="col text-center">
-<a href="https://oxon8.netlify.app/" class="btn btn-success px-5 py-3">🌐澳恪森数智科技服务</a>
+<a href="https://oxon8.netlify.app/" class="btn btn-success px-5 py-3">🌐Oxford Roadmapping</a>
 </div>
 
-澳恪森Oxon8为行业﹑智库﹑政府等提供基于专利分析﹑科学计量﹑知识图谱等等数据情报，合作开展集科技研发﹑科技服务﹑成果转化﹑系统集成﹑人才培养﹑等科技创新公共及商业服务，运用前瞻情报连结在地及全球网络。
+Providing science-mapping, scientometric analysis, patent analysis that offer critical strategic foresight connecting the local and global networks, Oxford Roadmapping work with industries, thinktanks and other organizations in innovation public and business services, including technology development, technology services, technology transfer, etc. 
