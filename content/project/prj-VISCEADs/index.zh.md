@@ -114,7 +114,7 @@ visCEADs 项目原型成果A展示，可把42部门31省市域间投入产出表
 
 <div class="fs-1 bg-primary text-center" markdown="1">
 
-## 铭谢  <i class="ai ai-inpn ai-3x fa-beat-fade"></i>
+## 铭谢  <i class="ai ai-inpn ai-2x fa-beat-fade"></i>
 
 </div>
 
