@@ -86,10 +86,10 @@ visCEADs 项目原型成果A展示，可把42部门31省市域间投入产出表
     * <i class="fas fa-project-diagram"></i>骨架 (backbone):
       * 基本历史与当下的产业投入产出结构，降低**产业与地方**脱碳转型**脱离现实、转错方向、抓错重点**等重大策略风险。
 
-    * <i class="fas fa-user-check">基线 (baseline):
+    * <i class="fas fa-user-check"></i>基线 (baseline):
       * 以地方各省及全中国的碳排数据、进阶碳排强度计量、及产业整体与平均数据作为基线(baseline)，作为**‘精准脱碳’**旅程的基础**指标**。这些基于产业与地方历史及现实数据作为下一步设计一般性KPI、及客制化KPI的基础，以形成按产业及地域特性“量身定制”的**碳达峰碳中和管理与服务平台**。
 
-    * <i class="fas fa-award">标杆 (benchamrk):
+    * <i class="fas fa-award"></i>标杆 (benchamrk):
       * 以基线为基础（可跨省或跨行业比较）及比对历史改变，**订立[科学基础减量目标倡议(SBTi)](https://sciencebasedtargets.org/about-us)的标杆计量及演算法**，以数据驱动决策，产出一批**最佳实践标杆**、**行业标兵**企业、**地方标兵**单位等等。
 
 * 2023/12：交付原型成果A--含可交互功能之全套分省/地域之产业结构图
