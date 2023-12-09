@@ -86,9 +86,9 @@ categories:
         * <cite>【碳排清单】引用 Shan, Y., Huang, Q., Guan, D. et al. (2020). China CO2 emission accounts 2016–2017. Sci Data 7, 54.</cite> <br/>
 
 
-{{< bs/alert info >}}
-正确引用是种美德, 更应是负责任的底线
-{{< /bs/alert >}}
+
+> 正确引用是种美德, 更应是负责任的底线
+
 
 ---
 
