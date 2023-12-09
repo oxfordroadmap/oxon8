@@ -1,5 +1,5 @@
 ---
-title: 照亮产业「精准脱碳」之路--visCEADs
+title: 照亮产业「精准脱碳」之路--visCEADs项目
 date: 2023-12-06T07:42:52.984Z
 draft: false
 featured: true
@@ -38,7 +38,7 @@ h2{font-size: 2.5rem; important!}
 
 从碳核算数据可视化着手，本项目（visCEADs 中国碳核算数据库可视化）利用以下最新资源，符合产业实际需要实现「精准脱碳」：
 
-* [　“双碳管服数字平台”　标准](https://www.isc.org.cn//profile//2023/06/13/60cbc996-47cc-45be-bf0d-06053fbe57de.pdf) 
+* [　“双碳管服数字平台”　标准](https://www.isc.org.cn//profile//2023/06/13/60cbc996-47cc-45be-bf0d-06053fbe57de.pdf)
 * [中国碳核算数据库（CEADs）](https://www.ceads.net.cn/)
 * ITU国际电联绿色数字化转型双标准 [L.1470](https://www.itu.int/rec/T-REC-L.1470-202001-I/en) [L.1480](https://www.itu.int/rec/T-REC-L.1480-202212-I)
 * 澳恪森数智科技发展的[《碳中和管理服务数智平台》商业模式](https://oxon8.netlify.app/post/2023-02-20-smart-digital-platforms-carbon-neutral-management-services/)（基于以上标准及数据研发）
@@ -49,7 +49,7 @@ h2{font-size: 2.5rem; important!}
 
 <div class=".h1 fs-1 bg-success text-center" markdown="1">
 
-# <i class="ai ai-figshare ai-1x fa-spin"></i>visCEADs 中国碳核算数据库可视化项目
+# <i class="ai ai-figshare ai-1x fa-spin"></i>visCEADs: 中国碳核算数据库可视化项目
 
 </div>
 
