@@ -1,5 +1,5 @@
 ---
-title: 为啥绿色数字行动在标准化得做？国际电联ITU的COP28成果 
+title: 绿色数字行动标准化势在必行？国际电联ITU的COP28成果 
 date: 2023-12-09
 categories:
   - Technology Roadmapping
@@ -57,7 +57,9 @@ categories:
 {{< youtube Z4devfnIxbs >}}
 
 ### 关于国际电工委员会IEC
-![IEC-logo](IEC-logo.jpg  "国际电工委员会IEC logo" class="img-thumbnail")
+{.alert .alert-dark role="alert" }
+
+![IEC-logo](IEC-logo.jpg "国际电工委员会IEC logo" class="img-thumbnail")
 
 **[国际电工委员会IEC](https://www.iec.ch/about-us)**....
 
@@ -76,7 +78,9 @@ categories:
 
 
 ### 关于世界标准合作组织
+
 | ![IEC-logo](IEC-logo.jpg)| ![ISO-logo](ISO-logo.jpg)| ![ITU-logo](ITU-logo.png)| 
+| -------- | ------- | ------- |
 
 **[世界标准合作组织（World Standards Cooperation）](https://www.worldstandardscooperation.org/)**是由IEC（国际电工委员会）、ISO（国际标准化组织）和 ITU（国际电信联盟）之间的高级别合作。在此世界标准合作旗帜下，三个组织加强并推进基于自愿与共识的国际标准体系。
 
