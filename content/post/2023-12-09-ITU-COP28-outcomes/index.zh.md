@@ -27,6 +27,11 @@ categories:
   - 精准脱碳
   - 双化行动
 ---
+<style>
+.icon li.list-group-item img {  
+  max-width: 80px;  
+}
+</style>
 
 可視
 
@@ -49,7 +54,9 @@ categories:
 ## 相关单位简介
 
 ### 关于国际电联ITU
-![ITU-logo](ITU-logo.png)
+* ![ITU-logo](ITU-logo.png)
+{.list-group-item}
+
 国际电联ITU是联合国专门机构，负责信息通信技术（ICT）事务，旨在促进国际上通信网络的互联互通。
 
 国际电联ITU不但是重要国际标准制定单位，更是在包括人工智能等应用及治理方面，最主要的数字发展单位及平台，其对数字发展的重要性相当于，WHO世卫组织之于公共卫生，FAO粮食及农业组织之于农业及粮食安全。
@@ -60,6 +67,7 @@ categories:
 {.alert .alert-dark role="alert" }
 
 ![IEC-logo](IEC-logo.jpg "国际电工委员会IEC logo" class="img-thumbnail")
+{.icon}
 
 **[国际电工委员会IEC](https://www.iec.ch/about-us)**....
 
