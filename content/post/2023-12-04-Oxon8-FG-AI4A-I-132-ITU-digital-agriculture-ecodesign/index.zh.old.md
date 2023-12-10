@@ -1,11 +1,6 @@
 ---
 title:  '碳排污染看得到摸得着：澳恪森数据科学家释出中国各省“减污降碳全景图”'
 date: 2023-12-07
-tags:
-- Carbon management
-- 碳排管理
-- Green Digital Transformation
-- 双化协同
 categories:
 - Input-Output Analysis
 - 投入产出分析
@@ -15,6 +10,11 @@ categories:
 - 精准脱碳
 - Decarbonization Roadmapping
 - 脱碳路线图
+tags:
+- Carbon management
+- 碳排管理
+- Green Digital Transformation
+- 双化协同
 ---
 <style>
 .data {
