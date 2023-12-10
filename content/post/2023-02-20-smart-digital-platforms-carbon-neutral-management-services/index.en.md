@@ -32,7 +32,7 @@ The latest requirements documents by Internet Society of China (ISC) were analyz
 
 Such an analysis, was then used as basis for designing a buisness model using platform canvas, as shown below:
 
-![featured.png](featured.png)
+![featured.png](oxon8/content/post/2023-02-20-smart-digital-platforms-carbon-neutral-management-services/featured.png)
 
 ###  Smart optimization, substitution, induced consumption, information management, and facilitation services 
 

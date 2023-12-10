@@ -1,34 +1,28 @@
 ---
-title: Shedding light on viable decarbonization paths--Project VisCEADs
-date: 2023-12-06T07:42:52.984Z
+title: Mapping Green Digital Opportunities surrounding SPCG--SPCG 
+date: 2023-12-10T07:42:52.984Z
 draft: false
 featured: true
 authors:
   - Han-Teng Liao
   - Chung-Lien Pan
 tags:
-  - 【2023VisCEADs】
-  - CarbonEmissionManagement
   - GreenDigitalTransformation
   - SmartDigitalPlatform
   - TechnologyRoadmapping
+  - CarbonEmissionManagement
   - BusinessModel
 categories:
-  - Precision Decarbonization
-  - Input-Output Analysis
   - Social Network Analysis
   - Green Digital Action
+  - Precision Decarbonization
 ---
-<style>
-h1{font-size: 2.75rem; important!}
-h2{font-size: 2rem; important!}
-.article-container {max-width:100vw; !important}
-.info-vis {
-    width: 100vw;
-    height: 100vh;
-}</style>
-Decarbonization requires voluntary will and participation, and values provide incentives. 
 
+Technology standardization requires innovation-sharing and consensus-building process.  It requires learning from one another in an application plus technology domain. Standards make innovations work.
+
+How might a company, researcher, policy-maker, or student participate in the process?  
+
+Focusing on bringing the values of technology innovations to stakeholders, Oxford Roadmapping focuses on the applications and development of Green Digital Action (e.g. ITU Green Digital Action at COP 28)
 Only by providing true values to individuals and organizations, the climate goal of GHG emission reduction can be achieved.  It requires the incorporation of GHG and carbon emission information into the production, distribution, consumption and investment processes of human activities.  
 
 The **dual-carbon management and service platforms** (carbon peak and carbon neutral)，or simply smart digital platforms of carbon and GHG emission data platforms, aims to introduce such information into the operations and management of enterprises and government organizations at various levels.  They embodies the main task of the "twin transition" or green digital transformation of human activities and interactions with the planet.  

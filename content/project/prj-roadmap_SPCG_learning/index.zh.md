@@ -1,5 +1,5 @@
 ---
-title: 照亮产业「精准脱碳」之路--visCEADs项目
+title: 应用国际标准化合作「双化协同」行动--gdaSPCG项目
 date: 2023-12-06T07:42:52.984Z
 draft: false
 featured: true
@@ -7,27 +7,18 @@ authors:
   - Han-Teng Liao
   - Chung-Lien Pan
 tags:
-  - 【2023VisCEADs】
+  - 【2023gdaSPCG】
   - 碳排管理
   - 双化协同
   - 数智平台
   - 技术路线
   - 商业模式
+  - 脱碳
 categories:
   - 精准脱碳
-  - 投入产出分析
   - 网络图可视化
   - 双化行动
 ---
-<style>
-h1{font-size: 3.75rem; important!}
-h2{font-size: 2.5rem; important!}
-.article-container {max-width:100vw; !important}
-.info-vis {
-    width: 100vw;
-    height: 100vh;
-}</style>
-
 减碳得甘愿及志愿。有价值有动机。
 
 将**碳排放信息**引入生产、消费和投资各环节，只有这样才能给个人和产业带来真正的价值，从而实现减排目标。
@@ -49,7 +40,7 @@ h2{font-size: 2.5rem; important!}
 
 <div class=".h1 fs-1 bg-success text-center" markdown="1">
 
-# <i class="ai ai-figshare ai-1x fa-spin"></i>visCEADs: 中国碳核算数据库可视化项目
+# <i class="ai ai-figshare ai-1x fa-spin"></i>gdaSPCG项目: IEC/ISO/ITU 国际标准化计划协调小组 （SPCG）同侪学习地图
 
 </div>
 
