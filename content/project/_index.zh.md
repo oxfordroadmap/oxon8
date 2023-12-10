@@ -37,5 +37,5 @@ sections:
 </style>
 
 <br/> 
-<i class="ai ai-dataverse ai-３x fa-bounce"></i>
+<i class="ai ai-dataverse ai-3x fa-bounce"></i>
 

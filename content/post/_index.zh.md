@@ -6,8 +6,8 @@ view: showcase
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
-  caption: '荔枝_扇面'
-  image: 'Lychees.jpg'
+  caption: '传统芬兰浴治疗师仪式（2023维基爱活遗产得奖作品）'
+  image: 'wikicommons-Traditional_Finnish_sauna_whisking_and_löyly.jpg'
 
 
 sections:
@@ -28,4 +28,4 @@ sections:
 ---
 
 
-<i class="ai ai-doi ai-3x"></i>
+<span style="color: #cf4a31;"><i class="ai ai-ideas-repec ai-3x fa-bounce"></i></span>

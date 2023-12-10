@@ -49,7 +49,7 @@ categories:
 ## 相关单位简介
 
 ### 关于国际电联ITU
-![ITU-logo](./media/ITU-logo.jpg)
+![ITU-logo](ITU-logo.png)
 国际电联ITU是联合国专门机构，负责信息通信技术（ICT）事务，旨在促进国际上通信网络的互联互通。
 
 国际电联ITU不但是重要国际标准制定单位，更是在包括人工智能等应用及治理方面，最主要的数字发展单位及平台，其对数字发展的重要性相当于，WHO世卫组织之于公共卫生，FAO粮食及农业组织之于农业及粮食安全。
@@ -57,13 +57,13 @@ categories:
 {{< youtube Z4devfnIxbs >}}
 
 ### 关于国际电工委员会IEC
-![IEC-logo](./media/IEC-logo.jpg  "国际电工委员会IEC logo" class="img-thumbnail")
+![IEC-logo](IEC-logo.jpg  "国际电工委员会IEC logo" class="img-thumbnail")
 
 **[国际电工委员会IEC](https://www.iec.ch/about-us)**....
 
 
 ### 关于国际标准组织ISO
-![ISO-logo](./media/ISO-logo.jpg "国际标准组织ISO logo" class="img-thumbnail")
+![ISO-logo](ISO-logo.jpg "国际标准组织ISO logo" class="img-thumbnail")
 
 **[ISO - About us](https://www.iec.ch/about-us)**....
 
@@ -76,7 +76,7 @@ categories:
 
 
 ### 关于世界标准合作组织
-| ![IEC-logo](./media/IEC-logo.jpg)| ![ISO-logo](./media/ISO-logo.jpg)| ![ITU-logo](./media/ITU-logo.jpg)| 
+| ![IEC-logo](IEC-logo.jpg)| ![ISO-logo](ISO-logo.jpg)| ![ITU-logo](ITU-logo.png)| 
 
 **[世界标准合作组织（World Standards Cooperation）](https://www.worldstandardscooperation.org/)**是由IEC（国际电工委员会）、ISO（国际标准化组织）和 ITU（国际电信联盟）之间的高级别合作。在此世界标准合作旗帜下，三个组织加强并推进基于自愿与共识的国际标准体系。
 
