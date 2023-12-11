@@ -50,7 +50,7 @@
 
 {{/* Fit image to container's max width */}}
 
-{{ if ne $image.MediaType.SubType "svg" }}
+{{ if or (eq $image.MediaType.SubType "svg" ) (eq $image.MediaType.SubType "webp" ) }}
   {{ if eq $placement 2}}
     {{ $image_container = "container" }}
     {{ $image = $featured.Fit "1200x2500" }}
