@@ -12,7 +12,7 @@ tags:
 categories:
   - Agro-food
 image:
-  filename: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Vertical_Tower_Aquaponic_System.jpg/617px-Vertical_Tower_Aquaponic_System.jpg
+  filename: wikicommons-Vertical_Tower_Aquaponic_System.jpg
   focal_point: Smart
   preview_only: false
 ---
