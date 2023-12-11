@@ -39,7 +39,7 @@ This project (visCEADs, or visualization of the Carbon Emission Accounts and Dat
 
 * China's [　“Dual-Carbon Management Digital Platform”　Industry Standard](https://www.isc.org.cn//profile//2023/06/13/60cbc996-47cc-45be-bf0d-06053fbe57de.pdf) 
 * China-led international collaboration research network [Carbon Emission Accounts and Datasets (CEADs)](https://www.ceads.net.cn/)
-* The International Telecommunication Union (ITU), the United Nations specialized agency for information and communication technologies (ICTs) recommendations on green digital transformation standards:  [L.1470](https://www.itu.int/rec/T-REC-L.1470-202001-I/en) [L.1480](https://www.itu.int/rec/T-REC-L.1480-202212-I)
+* The International Telecommunication Union (ITU) green digital transformation standards:  [L.1470](https://www.itu.int/rec/T-REC-L.1470-202001-I/en) [L.1480](https://www.itu.int/rec/T-REC-L.1480-202212-I)
 * Oxford Roadmapping's [ platform business model design for smart digital platforms of carbon neutral management and services ](https://oxon8.netlify.app/post/2023-02-20-smart-digital-platforms-carbon-neutral-management-services/)(developed based on the above standard and data resources)
 
 </div>

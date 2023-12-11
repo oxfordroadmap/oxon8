@@ -21,7 +21,11 @@ image:
   preview_only: false
 ---
 
-<span style="color: #cf4a31;"><i class="fas fa-battery-full ai-2x fa-bounce"></i></span>【进度】省级科研项目在**开题报告**时，已**成功发表SCIE Q2 区论文3篇**，成功开题。澳恪森辅导与合作部份已完成。
+<div class="p-3 mb-2 bg-success text-dark  container" markdown="1">
+
+<span style="color: #cf4a31;"><i class="fas fa-battery-full ai-2x fa-bounce"></i></span>【进度】省级科研项目在**开题报告**时，已**成功发表SCIE Q2 区论文3篇**，成功开题。澳恪森辅导与合作部份**已完成**。
+
+</div>
 
 本研究以「精准脱碳」之技术路线图为题，在数字科技达成“双碳”的背景，以E-碳足迹创新概念与实践出发，落实国家有关政策如“数字化绿色化协同转型发展”。
 
