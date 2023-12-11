@@ -1,5 +1,5 @@
 ---
-title: 创新「国际标准」双化协同行动--GDAStandard同行学习项目
+title: 创新「国际标准」双化协同行动--GDAStandard同行学习
 date: 2023-12-06T06:06:66.666Z
 draft: false
 featured: true
@@ -19,7 +19,11 @@ categories:
 image:
   filename: ITU-Thematic_Pillar-4.a-zh-hans_ink.webp
 ---
+<div class="p-3 mb-2 bg-warning text-dark" markdown="1">
+
 <span style="color: #cf4a31;"><i class="fas fa-battery-quarter ai-1x fa-beat"></i></span>【进度】绿色数字行动工具箱－－A. ITU 2023年绿色数字行动@COP28 中文翻译交付
+
+</div>
 
 技术标准化需要创新共享和建立共识的过程。 它需要在应用和技术领域相互学习。标准使创新发挥作用。
 

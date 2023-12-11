@@ -18,8 +18,10 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-<span style="color: #cf4a31;"><i class="fas fa-battery-quarter ai-1x fa-beat"></i></span>【进度】技术文档已成功提交至 ITU-T智能农业焦点组2023年12月例会 (FG-AI4A-I-132).
 
+<div class="p-3 mb-2 bg-warning text-dark" markdown="1">
+<span style="color: #cf4a31;"><i class="fas fa-battery-quarter ai-1x fa-beat"></i></span>【进度】技术文档已成功提交至 ITU-T智能农业焦点组2023年12月例会 (FG-AI4A-I-132).
+</div>
 
 GSCFT_ITU  GreenSupplyChainFinTech ITU AI4A  实现碳中和需要负碳技术，其中，简称BECCS的生物质能碳捕集与封存，针对生物质燃烧或转化过程中的温室气体进行进行捕集和封存，实现负碳成果。相关的技术研发全球仍在起步阶段，从炭素农业到生物炭，具有重大发展潜力，能在智能可持续农粮系统创新的同时，有效达成双碳目标。
 <!--more-->
