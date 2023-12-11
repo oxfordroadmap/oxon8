@@ -25,7 +25,7 @@ image:
 1. 绿色标准：
 	* 1项联合声明，通过设计纳入**技术标准制定**，助世界实现净零，由[世界标准合作组织](https://www.worldstandardscooperation.org/) 会IEC/ISO/ITU领头。
 	* 1项[行动计划](http://www.itu.int/initiatives/green-digital-action-atcop28/wp-content/uploads/sites/4/2023/12/Call-to-Action-Pillar4-Green-standards.pdf)，启动同行学习组，实施**环境可持续性标准**方面的合作，由国际电联及华为领头。
-2. **应急通信/人人享用的早期预警**实现小区广播和基于位置的短信，到2027年保护所有人。鼓励卫星服务提供商加入倡议。
+2. **人人享用的早期预警**倡议实现小区广播和位置短信，到2027年保护所有人。鼓励卫星服务商加入。
 3. **ICT行业温室气体排放**启动一个同行学习工作组，按 1.5°C的轨迹实施温室气体减排
 4. **循环经济**启动[“电子废物管理条例”](https://www.itu.int/hub/2023/12/how-to-reduce-e-waste-and-build-circular-economies/)的联合项目，由沙特阿拉伯王国通信、空间和技术（CST）委员会与国际电联合作推进。
 
@@ -65,11 +65,8 @@ image:
 
 ### 澳恪森数智科技支持 绿色化数字行动@COP28
 
-![HTL-GreenDigitalAction.png](oxon8/content/post/2023-11-27-ITU-green-digital-action/HTL-GreenDigitalAction.png)
-![CLP-GreenDigitalAction.png](oxon8/content/post/2023-11-27-ITU-green-digital-action/CLP-GreenDigitalAction.png)
-
-![Green_digital_logo_Horizontal_-_Colour.png](Green_digital_logo_Horizontal_-_Colour.png)
-
+![HTL-GreenDigitalAction.png](HTL-GreenDigitalAction.png)
+![CLP-GreenDigitalAction.png](CLP-GreenDigitalAction.png)
 
 ### 关于标准化计划协调小组 （SPCG）
 
