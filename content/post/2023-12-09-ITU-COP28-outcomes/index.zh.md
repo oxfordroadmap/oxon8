@@ -1,22 +1,10 @@
 ---
-title: 绿色数字行动标准化势在必行？国际电联ITU的COP28成果 
+title: COP28绿色数字行动成果，国际电联ITU标准化行动有40多家科技公司参与
 date: 2023-12-09
-categories:
-  - Technology Roadmapping
-  - 技术路线图
 tags:
   - COP28
   - 联合国气候大会
-  - Carbon
-  - management
-  - 碳排管理
-  - Green
-  - Digital
-  - Transformation
-  - 双化协同
-  - 数字化绿色化双转型
-tags:
-  - 【2023VisCEADs】
+  - 【2023GDAStandard】
   - 碳排管理
   - 双化协同
   - 数智平台
@@ -26,57 +14,48 @@ tags:
 categories:
   - 精准脱碳
   - 双化行动
+  - 技术路线图
+image:
+  filename: WSC_SPCG-2023.webp
+  preview_only: false
 ---
-<style>
-.icon li.list-group-item img {  
-  max-width: 80px;  
-}
-</style>
 
-可視
+由多家公司及国际组织认领，COP28 上[ 的绿色数字行动成果 ](https://www.itu.int/initiatives/green-digital-action-atcop28/about/outcomes/)有以下：
 
+1. 绿色标准：
+	* 1项联合声明，通过设计纳入**技术标准制定**，助世界实现净零，由[世界标准合作组织](https://www.worldstandardscooperation.org/) 会IEC/ISO/ITU领头。
+	* 1项[行动计划](http://www.itu.int/initiatives/green-digital-action-atcop28/wp-content/uploads/sites/4/2023/12/Call-to-Action-Pillar4-Green-standards.pdf)，启动同行学习组，实施**环境可持续性标准**方面的合作，由国际电联及华为领头。
+2. **应急通信/人人享用的早期预警**实现小区广播和基于位置的短信，到2027年保护所有人。鼓励卫星服务提供商加入倡议。
+3. **ICT行业温室气体排放**启动一个同行学习工作组，按 1.5°C的轨迹实施温室气体减排
+4. **循环经济**启动[“电子废物管理条例”](https://www.itu.int/hub/2023/12/how-to-reduce-e-waste-and-build-circular-economies/)的联合项目，由沙特阿拉伯王国通信、空间和技术（CST）委员会与国际电联合作推进。
+
+
+<!--more-->
 
 ### 国际电联ITU绿色化数字行动@COP28 
 
-#### 信息说明会视频／影片
-稍早于2023年7月，国际电联释出由秘书长开场的信息说明会：
+[世界标准合作组织（World Standards Cooperation）](https://www.worldstandardscooperation.org/)，的[COP28联合声明](https://www.worldstandardscooperation.org/wp-content/uploads/2023/11/WSC_Statement_Standards-Digital_8_Nov_2023.pdf)强调可持续发展。
 
-{{< youtube QhV5th0volo >}}
+![28](WSC_SPCG-2023.webp)
 
-以科学方法确立信息通信产业的环境影响（特别是GHG温室气体排放）及数字创新促进可持续发展，是主要议程。
+如上图所示，世界标准合作组织的SPCG标准化计划协调小组的合作领域从无障碍到人工智能，从电子健康到智能制造，从物网到3D打印，一共28项合作领域，确保IEC/ISO/ITU能协同合作分工，并通过设计纳入**技术标准制定**，以及帮助世界实现净零排放和实现资源节约型循环低碳经济的标准。
 
-在此说明会上，专家亦就讨论出的支柱主题展开细项说明及工作，国际电联并征求有能力有意愿的组织加入分项的支柱主题。
+### 澳恪森GDAStandard项目助力绿色化数字行动扩大参与
 
-#### 澳恪森的翻译工作成果
-为了促进
+澳恪森数智科技以其标准化工作及科技路线图工作的经验，将持续以[【GDAStandard】项目]
+({{< ref "/project/prj-roadmap_GDAStandard" >}})
+结合国际电联ITU的数字生态创新工具箱与自身积累的双化设计教案，推出绿色数字行动工具箱。
 
+廖汉腾表示，「此工具箱将以双创的切入点，来实践双化的设计，来降低学习门槛。」
 
-## 相关单位简介
+「此双创到双化，再从双化创新到双化行动的国际标准化工作，正是我们试过可行的实践路线。」
 
-### 关于国际电联ITU
-* ![ITU-logo](ITU-logo.png)
-{.list-group-item}
-
-国际电联ITU是联合国专门机构，负责信息通信技术（ICT）事务，旨在促进国际上通信网络的互联互通。
-
-国际电联ITU不但是重要国际标准制定单位，更是在包括人工智能等应用及治理方面，最主要的数字发展单位及平台，其对数字发展的重要性相当于，WHO世卫组织之于公共卫生，FAO粮食及农业组织之于农业及粮食安全。
-
-{{< youtube Z4devfnIxbs >}}
-
-### 关于国际电工委员会IEC
-{.alert .alert-dark role="alert" }
-
-![IEC-logo](IEC-logo.jpg "国际电工委员会IEC logo" class="img-thumbnail")
-{.icon}
-
-**[国际电工委员会IEC](https://www.iec.ch/about-us)**....
+与国家工业设计研究院（生态设计）合作，澳恪森GDAStandard项目将于2023年年底，至2024年年初，推出绿色数字行动工具箱，可用来引导双创学生走向双化创新，更可在各学术科研及产业研发活动中，做为「数字生态体系」(digital ecosystems) 设计创新的教材及教案，从而解决自身问题后，提练引领产业及学科的标准化能力。
 
 
-### 关于国际标准组织ISO
-![ISO-logo](ISO-logo.jpg "国际标准组织ISO logo" class="img-thumbnail")
+![](ITU-D-Digital_Inno_Ecosystem.zh.png)
 
-**[ISO - About us](https://www.iec.ch/about-us)**....
-
+图：[国际电联](https://www.itu.int/Pages/VariationRoot.aspx "ITU")>[ITU-D](https://www.itu.int/en/ITU-D/Pages/default.aspx "The site of the Telecommunication Development Sector of the International Telecommunication Union")数字创新生态系统资源
 
 ### 关于标准化计划协调小组 （SPCG）
 
@@ -84,12 +63,9 @@ categories:
 
 {{< youtube ENJiLUzelmU >}}
 
-
 ### 关于世界标准合作组织
-
-| ![IEC-logo](IEC-logo.jpg)| ![ISO-logo](ISO-logo.jpg)| ![ITU-logo](ITU-logo.png)| 
-| -------- | ------- | ------- |
 
 **[世界标准合作组织（World Standards Cooperation）](https://www.worldstandardscooperation.org/)**是由IEC（国际电工委员会）、ISO（国际标准化组织）和 ITU（国际电信联盟）之间的高级别合作。在此世界标准合作旗帜下，三个组织加强并推进基于自愿与共识的国际标准体系。
 
 
+{{< youtube TRWbxSv5noo >}}
