@@ -27,11 +27,10 @@ h2{font-size: 2rem; important!}
     width: 100vw;
     height: 100vh;
 }</style>
-
-<div class="p-3 mb-2 bg-success text-white  container" markdown="1" >
+<div class="p-3 mb-2 bg-warning link-warning text-white  container" markdown="1" >
 <span style="color: #cf4a31;"><i class="fas fa-battery-half ai-1x fa-beat"></i></span>【Progress】Prototype A delivered.  
 
-Try it by [clicking on here](visualization.en.html) !
+Try it by [clicking on here]({{< ref "/project/prj-VisCEADs/visualization.en.html" >}}) !
 
 </div>
 
