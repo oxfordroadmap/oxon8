@@ -1,5 +1,5 @@
-title: 创新「国际标准」双化协同行动--gdaStandard同行学习项目
 ---
+title: 创新「国际标准」双化协同行动--GDAStandard同行学习项目
 date: 2023-12-06T06:06:66.666Z
 draft: false
 featured: true
@@ -7,7 +7,7 @@ authors:
   - Han-Teng Liao
   - Chung-Lien Pan
 tags:
-  - 【2023gdaStandard】
+  - 【2023GDAStandard】
   - 双化协同
   - 数智平台
   - 技术路线

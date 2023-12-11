@@ -1,5 +1,5 @@
 ---
-title: Mapping Green Digital Opportunities surrounding SPCG--SPCG 
+title: Mapping Green Digital Innovations surrounding Green Digital Action Standards-- GDAStandard project 
 date: 2023-12-06T06:06:66.666Z
 draft: false
 featured: true
@@ -7,15 +7,15 @@ authors:
   - Han-Teng Liao
   - Chung-Lien Pan
 tags:
+  - 【2023GDAStandard】
   - GreenDigitalTransformation
   - SmartDigitalPlatform
   - TechnologyRoadmapping
-  - CarbonEmissionManagement
   - BusinessModel
+  - Decarbonization
 categories:
-  - Social Network Analysis
+  - Standardization
   - Green Digital Action
-  - Precision Decarbonization
 ---
 
 <span style="color: #cf4a31;"><i class="fas fa-battery-quarter ai-1x fa-beat"></i></span>【Progress】Green Digital Action Toolkit－－A. ITU 2023 Green Digital Action@COP28 Presention Slide Translated into Chinese (both simplified and orthodox/traditional Chinese).
