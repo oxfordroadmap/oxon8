@@ -29,7 +29,7 @@ function loadIframe() {
   var indicator = '_R69_';
   var perc = 5;
   var locale = 'en';
-  var formattedStringFilename = `./visualization/NetVis-${inputRegID}.${inputYear}-${indicator}.${perc}.${locale}.html`;
+  var formattedStringFilename = `NetVis-${inputRegID}.${inputYear}-${indicator}.${perc}.${locale}.html`;
   updateDiv ('Filename', formattedStringFilename);
   iframe.src = formattedStringFilename;
 }</script>
@@ -45,7 +45,7 @@ function loadIframe() {
 	<div class="info-vis row align-items-left" >
 		<div class="col-10"  height="100vh" >
 			<!-- Iframe Content -->
-			<iframe id="iframeContent" height="100%" width="100%" style="border:none;" src="./visualization/NetVis-GD.2017-_R69_.5.en.html"></iframe>
+			<iframe id="iframeContent" height="100%" width="100%" style="border:none;" src="NetVis-GD.2017-_R69_.5.en.html"></iframe>
 		</div>
 		<div class="col-2 order-first"  height="100vh" style="background-color:lightgray;">
 			<h6>1. Please select region and year</h6>
