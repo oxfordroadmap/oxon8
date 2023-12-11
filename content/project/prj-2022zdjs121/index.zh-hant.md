@@ -1,49 +1,46 @@
 ---
-title: ‘精准脫碳’之路 -- 廣東省重點建設學科科研能力提升
-subtitle: E-碳足跡核算打通地方與行業信息流內外雙循環 -- prj-2022ZDJS121
+title: 「精准脫碳」之路  -- 廣東省重點建設學科科研能力提升　prj-2022ZDJS121
 date: 2023-04-05T13:59:47.991Z
-summary: "本研究以“精准脫碳”之技術路線圖為題，在數字科技達成“雙碳”的背景，以E-碳足跡創新概念與實踐出發，落實國家有關政策如“數字化綠色化協同轉型發展”。
-
-項目負責人：  張媛
-
-項目成員： 廖漢騰、潘仲亷等
-
-### 項目迸度
-* 2023/04：SCIE Q2論文發表 1篇
-    * 潘仲亷、廖漢騰*、張媛。  《[供應鏈彈性和人權知識圖譜：綠色和數字化轉型設計的路線圖分類法](https://oxon8.netlify.app/publication/pan-knowledge-2023/)》
-
-* 2023/03：SCIE Q2論文發表 2篇
-    * 廖漢騰、潘仲亷*、張媛。 《 [雙碳服務及管理平台](https://oxon8.netlify.app/publication/liao-smart-2023/)》
-    * 廖漢騰、潘仲亷*、張媛。  《[ESG教育合作伙伴地圖](https://oxon8.netlify.app/post/2023-02-22-esg-education-partner-maps/)》
-* 2023/04：開題報告
-
-* 2023/02：SCIE Q2論文發表 1篇
-    * 廖漢騰、羅明才*、潘仲亷。  《[智能港口知识图谱分析：面对全球价值链挑战的研究](https://oxon8.netlify.app/publication/liao-knowledge-2023/) 》
-
-"
 draft: false
 featured: true
 authors: ["Han-Teng Liao", "Chung-Lien Pan"]
 tags:
-  - 2022ZDJS121
-  - 信息流
+  - 【2022ZDJS121】
+  - 雙化協同
   - 數智平台
   - 綠色金融科技
   - 技術路線
   - 商業模式
   - 脫碳
 categories:
-  - roadmapping
-  - decarbonization
+  - 科研項目
+  - 綠色碳鏈通
 image:
   filename: photo-precision-archer_statute.webp
   focal_point: Right
   preview_only: false
 ---
 
+<div class="p-3 mb-2 bg-success text-white  container" markdown="1">
 
-### 項目名稱 
-“精准脫碳”之路：E-碳足跡核算打通地方與行業信息流內外雙循環
+<span style="color: white;"><i class="fas fa-battery-full ai-2x fa-bounce"></i></span>【進度】省級科研項目在**開題報告**前，已**成功發表SCIE Q2 區論文4篇**。澳恪森輔導與合作部份包括項目書、論文、數據分析等工作**已全完成**。
+
+</div>
+
+### 項目名稱 --“精准脫碳”之路：E-碳足跡核算打通地方與行業信息流內外雙循環
+
+### 項目迸度與產出
+
+* 2023/02：SCIE Q2論文發表 1篇  （項目相關，非直接資助論文）
+    * 廖漢騰、羅明才*、潘仲亷。  《[智能港口知識圖譜分析：面對全球價值鏈挑戰的研究]({{< ref "/publication/journal-article/liao-knowledge-2023" >}}) 》
+* 2023/03：SCIE Q2論文發表 2篇
+    * 廖漢騰、潘仲亷*、張媛。 《 [雙碳服務及管理平台]({{< ref "/publication/journal-article/liao-smart-2023" >}})》
+    * 廖漢騰、潘仲亷*、張媛。  《[ESG教育合作伙伴地圖]({{< ref "/post/2023-02-22-esg-education-partner-maps" >}})》
+* 2023/04：SCIE Q2論文發表 1篇
+    * 潘仲亷、廖漢騰*、張媛。  《[供應鏈彈性和人權知識圖譜：綠色和數字化轉型設計的路線圖分類法]({{< ref "/publication/journal-article/pan-knowledge-2023" >}})》
+* 2023/04：開題報告
+
+<!--more-->
 
 ### 項目負責人
 張媛
@@ -51,13 +48,9 @@ image:
 ### 項目組織與分工
 廖漢騰、潘仲亷等
 
-### 項目迸度
-
-* 2023/03：SCIE Q2論文發表 2篇：[雙碳服務及管理平台](https://oxon8.netlify.app/publication/liao-smart-2023/)、[ESG教育合作伙伴地圖](https://oxon8.netlify.app/post/2023-02-22-esg-education-partner-maps/)
-* 2023/04：開題報告
-* 2023/02：SCIE Q2論文發表 1篇：[供應鏈彈性和人權知識圖譜分析：設計綠色化和數字化轉型雙化之路線圖分類](https://oxon8.netlify.app/publication/pan-knowledge-2023/)
-
 ### 項目大綱
+
+本研究以「精准脫碳」之技術路線圖為題，在數字科技達成“雙碳”的背景，以E-碳足跡創新概念與實踐出發，落實國家有關政策如“數字化綠色化協同轉型發展”。
 
 > 碳足跡核算助地方及行業將碳排信息納入“精准”脫碳決策
 {.h3 .table-success}
@@ -104,7 +97,15 @@ image:
 * 發展[碳普惠方法學、設計減排項目](https://oxon8.netlify.app/post/2023-04-04-eco-design-carbon-inclusion-scheme/)，並建構能提升為生態環境部[溫室氣體自願減排項目方法學征集](https://www.mee.gov.cn/xxgk2018/xxgk/xxgk06/202303/t20230330_1024693.html)的技術路線圖工具箱。
 
 
-
+### 項目迸度
+* 2023/02：SCIE Q2論文發表 1篇  （项目相关，非直接资助论文）
+    * 廖漢騰、羅明才*、潘仲亷。  《[智能港口知识图谱分析：面对全球价值链挑战的研究](https://oxon8.netlify.app/publication/liao-knowledge-2023/) 》
+* 2023/04：SCIE Q2論文發表 1篇
+    * 潘仲亷、廖漢騰*、張媛。  《[供應鏈彈性和人權知識圖譜：綠色和數字化轉型設計的路線圖分類法](https://oxon8.netlify.app/publication/pan-knowledge-2023/)》
+* 2023/03：SCIE Q2論文發表 2篇
+    * 廖漢騰、潘仲亷*、張媛。 《 [雙碳服務及管理平台](https://oxon8.netlify.app/publication/liao-smart-2023/)》
+    * 廖漢騰、潘仲亷*、張媛。  《[ESG教育合作伙伴地圖](https://oxon8.netlify.app/post/2023-02-22-esg-education-partner-maps/)》
+* 2023/04：開題報告
 
 #### 澳恪森數智角色
 

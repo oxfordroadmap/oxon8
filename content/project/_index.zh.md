@@ -40,7 +40,7 @@ justify-content-around">
 </div>
 
 <div class="card-body text-success  border-success">
-专精<i class="ai ai-pubpeer ai-3x fa-shake"></i>、<i class="fa fa-recycle ai-2x fa-spin"></i>绿色数字转型、<i class="ai ai-ieee ai-2x fa-flip"></i>技术路线图，Oxon8提供<i class="fas fa-cog ai-2x fa-spin"></i>技术创新、<i class="fas fa-lightbulb ai-2x fa-beat-fade"></i>系统创新、以及📏标准化的服务。
+专精<i class="ai ai-pubpeer ai-3x fa-shake"></i>数据科学、<i class="fa fa-recycle ai-2x fa-spin"></i>绿色数字转型、<i class="ai ai-ieee ai-2x fa-flip"></i>技术路线图，Oxon8提供<i class="fas fa-cog ai-2x fa-spin"></i>技术创新、<i class="fas fa-lightbulb ai-2x fa-beat-fade"></i>系统创新、以及<i class="fa-solid fa-code ai-2x fa-shake"></i>标准化的服务。
 </div>
 
 2023年成立后，创建4项目，涵括数据产品原型、科研辅导合作（省级）、及国际标准活动。 

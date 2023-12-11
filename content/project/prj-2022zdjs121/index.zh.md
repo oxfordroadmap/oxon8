@@ -23,7 +23,7 @@ image:
 
 <div class="p-3 mb-2 bg-success text-white  container" markdown="1">
 
-<span style="color: white;"><i class="fas fa-battery-full ai-2x fa-bounce"></i></span>【进度】省级科研项目在**开题报告**前，已**成功发表SCIE Q2 区论文3篇**。澳恪森辅导与合作部份包括项目书、论文、数据分析等工作**已全完成**。
+<span style="color: white;"><i class="fas fa-battery-full ai-2x fa-bounce"></i></span>【进度】省级科研项目在**开题报告**前，已**成功发表SCIE Q2 区论文4篇**。澳恪森辅导与合作部份包括项目书、论文、数据分析等工作**已全完成**。
 
 </div>
 
@@ -31,11 +31,14 @@ image:
 
 ### 项目迸度与产出
 
-* 2023/02：SCIE Q2论文发表 1篇：[供应链知识图谱分析：设计绿色化和数字化转型双化之路线图分类](https://oxon8.netlify.app/publication/journal-article/pan-knowledge-2023/)
-* 2023/03：SCIE Q2论文发表 2篇：[双碳服务及管理平台](https://oxon8.netlify.app/journal-article/publication/liao-smart-2023/)、[ESG教育合作伙伴地图](https://oxon8.netlify.app/post/2023-02-22-esg-education-partner-maps/)
+* 2023/02：SCIE Q2论文发表 1篇  （项目相关，非直接资助论文）
+    * 廖汉腾、罗明才*、潘仲亷。  《[智能港口知识图谱分析：面对全球价值链挑战的研究]({{< ref "/publication/journal-article/liao-knowledge-2023" >}}) 》
+* 2023/03：SCIE Q2论文发表 2篇
+    * 廖汉腾、潘仲亷*、张媛。 《 [双碳服务及管理平台]({{< ref "/publication/journal-article/liao-smart-2023" >}})》
+    * 廖汉腾、潘仲亷*、张媛。  《[ESG教育合作伙伴地图]({{< ref "/post/2023-02-22-esg-education-partner-maps" >}})》
+* 2023/04：SCIE Q2论文发表 1篇
+    * 潘仲亷、廖汉腾*、张媛。  《[供应链弹性和人权知识图谱：绿色和数字化转型设计的路线图分类法]({{< ref "/publication/journal-article/pan-knowledge-2023" >}})》
 * 2023/04：开题报告
-journal-article
-
 
 <!--more-->
 

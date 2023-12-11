@@ -34,10 +34,11 @@ h2{font-size: 2.5rem; important!}
 <div class="p-3 mb-2 bg-warning link-warning text-white  container" markdown="1" >
 
 [点此可至全画面](visualization/index.zh.html) 试试！<span style="color: #cf4a31;"><i class="fas fa-battery-half ai-1x fa-beat"></i></span>【进度】原型A交付
-
 </div>
 
-<br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> 
+减碳得甘愿及志愿。有价值有动机。
+
+要如何将**碳排放信息**引入生产、消费和投资各环节？
 
 **双碳管服数字平台**，目标是引入碳排信息至各企业及地方的营运及管理，是双化转型核心工作，要如何定义、设计并制作此类平台呢？
 
