@@ -1,6 +1,5 @@
 ---
-title: Smart and Sustainable Argo-Food Systems-- A  Technology Roadmap for Digital Agriculture (including BECCS)
-subtitle: 生物质能碳捕集与封存BECSS技术路线图--智能可持续农粮系统创新
+title: Green Supply Chain FinTech for Digital Agriculture-- A  Technology Roadmap--Project GSCFT_ITU_AI4A
 date: 2023-03-24T07:42:52.984Z
 summary: Data-driven innovations for digital agriculture linking Green FinTech, BECSS and net-zero brands
 draft: false
@@ -16,8 +15,22 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+<span style="color: #cf4a31;"><i class="fas fa-battery-quarter ai-1x fa-beat"></i></span>【Progress】Technical Input Document submitted to the ITU-T (FG-AI4A-I-132) in December 2023.
+
+How might we help farmers and agri-food sectors, using both digital technologies and carbon negative technologies?  
+
+The Green Supply Chain FinTech (GSCFT) project for Digital Agriculture aims to provide innovative digital solutions to provide financing and branding services to agri-food products that substantially cut carbon emissions, including the use of carbon negative technologies such as BECCS. 
+
+<!--more-->
+
+
 实现碳中和需要负碳技术，其中，简称BECCS的生物质能碳捕集与封存，针对生物质燃烧或转化过程中的温室气体进行进行捕集和封存，实现负碳成果。相关的技术研发全球仍在起步阶段，从炭素农业到生物炭，具有重大发展潜力，能在智能可持续农粮系统创新的同时，有效达成双碳目标。
 
+
+
+Smart and Sustainable Argo-Food Systems
+
+for  (including BECCS)
 ## 负碳技术之一 BECCS  
 
 实现碳中和需要负碳技术，其中，简称BECCS的生物质能碳捕集与封存，针对生物质燃烧或转化过程中的温室气体进行进行捕集和封存，实现负碳成果。相关的技术研发全球仍在起步阶段，从炭素农业到生物炭，具有重大发展潜力，能在智能可持续农粮系统创新的同时，有效达成双碳目标。
