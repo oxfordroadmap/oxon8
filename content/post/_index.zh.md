@@ -1,15 +1,10 @@
 ---
 title: 双化协同发展--最新消息
-
-# Listing view
 view: showcase
-
 # Optional banner image (relative to `assets/media/` folder).
 banner:
   caption: '传统芬兰浴治疗师仪式（2023维基爱活遗产得奖作品）'
-  image: 'wikicommons-Traditional_Finnish_sauna_whisking_and_löyly.jpg'
-
-
+  image: 'wikicommons-Traditional_Finnish_sauna_whisking.jpg'
 sections:
   - block: collection
     id: 'news'
