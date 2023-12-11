@@ -48,8 +48,9 @@
 {{ $placement := .Params.image.placement | default 1 }}{{/* Default to full column width. */}}
 {{ $image_container := "" }}
 
+{{/* Fit image to container's max width */}}
+
 {{ if ne $image.MediaType.SubType "svg" }}
-  {{/* Fit image to container's max width */}}
   {{ if eq $placement 2}}
     {{ $image_container = "container" }}
     {{ $image = $featured.Fit "1200x2500" }}
@@ -67,18 +68,22 @@
     {{ with $image }}
       {{ $Width := "1200" }}
       {{ $Height := "auto" }}
+    {{end}}
   {{else if eq $placement 3}}
     {{ $image_container = "container-fluid" }}
     {{ with $image }}
       {{ $Width := "2560" }}
       {{ $Height := "auto" }}
+    {{end}}
   {{else}}
     {{ $image_container = "article-container" }}
     {{ with $image }}
       {{ $Width := "720" }}
       {{ $Height := "auto" }}
+    {{end}}
   {{end}}
 {{end}}
+
 <div class="article-container pt-3">
   <h1>{{ $title }}</h1>
 
