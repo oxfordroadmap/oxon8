@@ -14,11 +14,16 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+
+<div class="p-3 mb-2 bg-warning text-dark container" markdown="1">
+
 <span style="color: #cf4a31;"><i class="fas fa-battery-quarter ai-1x fa-beat"></i></span>【Progress】Technical Input Document submitted to the ITU-T (FG-AI4A-I-132) in December 2023.
 
 How might we help farmers and agri-food sectors, using both digital technologies and carbon negative technologies?  
 
-The Green Supply Chain FinTech (GSCFT) project for Digital Agriculture aims to provide innovative digital solutions to provide financing and branding services to agri-food products that substantially cut carbon emissions, including the use of carbon negative technologies such as BECCS. 
+</div>
+
+The Green Supply Chain FinTech (GSCFT) project for Digital Agriculture aims to provide innovative digital solutions to provide financing and branding services to agri-food products that substantially cut carbon emissions, including the use of carbon negative technologies such as BECCS.  The key is to develop inter-linking and inter-operating standards that connect the "green carbon link" supply chian finance instructments with "net-zero/negative carbon" brands. 
 
 <!--more-->
 

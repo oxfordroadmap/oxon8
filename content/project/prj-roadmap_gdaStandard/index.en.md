@@ -1,5 +1,5 @@
 ---
-title: Mapping Green Digital Innovations surrounding Green Digital Action Standards-- GDAStandard project 
+title: Mapping Green Digital Action Standards-- GDAStandard project 
 date: 2023-12-06T06:06:06.666Z
 draft: false
 featured: true
@@ -19,12 +19,17 @@ categories:
 image:
   filename: ITU-Thematic_Pillar-4.a-zh-hans_ink.webp
 ---
+<div class="p-3 mb-2 bg-warning text-dark container" markdown="1">
 
 <span style="color: #cf4a31;"><i class="fas fa-battery-quarter ai-1x fa-beat"></i></span>【Progress】Green Digital Action Toolkit－－A. ITU 2023 Green Digital Action@COP28 Presention Slide Translated into Chinese (both simplified and orthodox/traditional Chinese).
+
+</div>
 
 Technology standardization requires innovation-sharing and consensus-building process.  It requires learning from one another in an application plus technology domain. Standards make innovations work.
 
 How might a company, researcher, policy-maker, or student participate in the process?  
+
+<!--more-->
 
 To realize the values of technology and digital innovations to stakeholders, Oxford Roadmapping focuses on the applications and development of Green Digital Action (e.g. ITU Green Digital Action at COP 28). 
 
@@ -33,7 +38,7 @@ Key to the digital innovation success is the standardization process.
 The **dual-carbon management and service platforms** (carbon peak and carbon neutral), or simply smart digital platforms of carbon and GHG emission data platforms, aims to introduce such information into the operations and management of enterprises and government organizations at various levels.  They embodies the main task of the "twin transition" or green digital transformation of human activities and interactions with the planet.  
 
 
-<!--more-->
+
 
 
 ---

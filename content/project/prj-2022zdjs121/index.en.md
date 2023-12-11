@@ -6,15 +6,15 @@ featured: true
 authors: ["Han-Teng Liao", "Chung-Lien Pan"]
 tags:
   - 【2022ZDJS121】
-  - 双化协同
-  - 数智平台
-  - 绿色金融科技
-  - 技术路线
-  - 商业模式
-  - 脱碳
+  - GreenDigitalTransformation
+  - SmartDigitalPlatform
+  - GreenFinTech
+  - TechnologyRoadmapping
+  - BusinessModel
+  - Decarbonization
 categories:
-  - 科研项目
-  - 绿色碳链通
+  - Research Project
+  - Green Carbon Link
 image:
   filename: photo-precision-archer_statute.webp
   focal_point: Right
@@ -23,9 +23,7 @@ image:
 
 <div class="p-3 mb-2 bg-success text-white  container" markdown="1">
 
-<span style="color: white;"><i class="fas fa-battery-full ai-2x fa-bounce"></i></span>【进度】省级科研项目在**开题报告**前，已**成功发表SCIE Q2 区论文3篇**。澳恪森辅导与合作部份包括项目书、论文、数据分析等工作**已全完成**。
-
-</div>
+<span style="color: white;"><i class="fas fa-battery-full ai-2x fa-bounce"></i></span>【Progress】This Province-level Research Project has successfully pubslihed **three peer-reviewed journal papers (SCIE Q2) **, even before its formal opening reviewed by experts. Tasks such as drafting the research proposal, writing research articles, and conducting data analysis, have been completed by Oxford Roadmapping swiftly and satisfactorily.  </div>
 
 ### 项目名称 --“精准脱碳”之路：E-碳足迹核算打通地方与行业信息流内外双循环
 
