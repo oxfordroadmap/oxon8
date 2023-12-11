@@ -6,6 +6,13 @@ tags:
 - 碳排管理
 - Green Digital Transformation
 - 双化协同
+- COP28
+- 联合国气候大会
+- Carbon management
+- 碳排管理
+- Green Digital Transformation
+- 双化协同
+- 数字化绿色化双转型
 categories:
 - Input-Output Analysis
 - 投入产出分析

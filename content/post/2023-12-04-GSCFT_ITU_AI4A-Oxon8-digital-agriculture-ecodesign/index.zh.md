@@ -1,10 +1,18 @@
 ---
 title:  '数字农业生态设计：联合国粮农数字化转型前沿'
 date: 2023-03-30
+tags:
+  - 【GSCFT_ITU_AI4A】
+  - 【2023GDAStandard】
+  - 乡村振兴
+  - 碳排管理
+  - 双化协同
+  - 数智平台
+  - 技术路线
+  - 商业模式
 categories:
 - 数字化转型
 - DigitialTransformation
-tags:
 - 数字化转型
 - DigitialTransformation
 - 数字化转型
@@ -13,7 +21,18 @@ tags:
 - FinTech
 - 金融科技
 - RuralVitalization
-- 乡村振兴
+
+
+categories:
+  - 精准脱碳
+  - 投入产出分析
+  - 网络图可视化
+  - 双化行动
+categories:
+  - Green Supply Chain FinTech
+  - Precision Decarbonization
+  - Green Digital Action
+
 ---
 
 乡村振兴作为粮食安全战略，「要...积极延伸和拓展**农业产业链**，培育发展农村**新产业新业态**，...」

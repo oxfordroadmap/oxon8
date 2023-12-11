@@ -1,15 +1,33 @@
 ---
 title:  'Precision Decarbonization Roadmapping for Chinese Regions @COP28'
 date: 2023-12-07
+tags:
+- COP28
+- Carbon management
+- Green Digital Transformation
+- COP28
+- 联合国气候大会
+- Carbon management
+- 碳排管理
+- Green Digital Transformation
+- 双化协同
+- 数字化绿色化双转型
 categories:
 - Precision Decarbonization
 - Decarbonization Roadmapping
 - Input-Output Analysis
 - Network Mapping
 tags:
-- COP28
-- Carbon management
-- Green Digital Transformation
+  - 【2023VisCEADs】
+  - CarbonEmissionManagement
+  - GreenDigitalTransformation
+  - SmartDigitalPlatform
+  - TechnologyRoadmapping
+  - BusinessModel
+categories:
+  - Green Supply Chain FinTech
+  - Precision Decarbonization
+  - Green Digital Action
 ---
 
 Making carbon pollution visible, so that the roadmap forwards can be clear.
