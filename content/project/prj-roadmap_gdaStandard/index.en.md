@@ -1,6 +1,6 @@
 ---
 title: Mapping Green Digital Innovations surrounding Green Digital Action Standards-- GDAStandard project 
-date: 2023-12-06T06:06:66.666Z
+date: 2023-12-06T06:06:06.666Z
 draft: false
 featured: true
 authors:

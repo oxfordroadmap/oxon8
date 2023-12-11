@@ -1,6 +1,6 @@
 ---
 title: 创新「国际标准」双化协同行动--GDAStandard同行学习
-date: 2023-12-06T06:06:66.666Z
+date: 2023-12-06T06:06:06.666Z
 draft: false
 featured: true
 authors:

@@ -1,7 +1,6 @@
 ---
 title: Green Supply Chain FinTech for Digital Agriculture-- A  Technology Roadmap--Project GSCFT_ITU_AI4A
-date: 2023-03-24T07:42:52.984Z
-summary: Data-driven innovations for digital agriculture linking Green FinTech, BECSS and net-zero brands
+date: 2023-12-04T10:10:10.000Z
 draft: false
 featured: true
 authors:
@@ -23,6 +22,8 @@ The Green Supply Chain FinTech (GSCFT) project for Digital Agriculture aims to p
 
 <!--more-->
 
+
+summary: Data-driven innovations for digital agriculture linking Green FinTech, BECSS and net-zero brands
 
 实现碳中和需要负碳技术，其中，简称BECCS的生物质能碳捕集与封存，针对生物质燃烧或转化过程中的温室气体进行进行捕集和封存，实现负碳成果。相关的技术研发全球仍在起步阶段，从炭素农业到生物炭，具有重大发展潜力，能在智能可持续农粮系统创新的同时，有效达成双碳目标。
 
