@@ -30,7 +30,7 @@ h2{font-size: 2rem; important!}
 <div class="p-3 mb-2 bg-warning link-warning text-white  container" markdown="1" >
 <span style="color: #cf4a31;"><i class="fas fa-battery-half ai-1x fa-beat"></i></span>【Progress】Prototype A delivered.  
 
-Try it by [clicking on here]({{< ref "/project/prj-VisCEADs/visualization.en.html" >}}) !
+Try it by [clicking on here]({{< ref "/project/prj-VisCEADs/visualization.html" >}}) !
 
 </div>
 
@@ -78,7 +78,7 @@ Since the founding of the company in early 2023, Oxford Roadmapping has produced
 
 The prototype of the visCEADs project showcases one way to extract insights from both the CO2 emission inventory and the input-output table data of 42 industrial sectors and 31 provinces and cities in China.  Conceptually, it combines social network analysis and the 3B framework (backbone, baselines, and benchmarks) to build the core visualization module for  [“dual-carbon management digital platforms”](https://www.isc.org.cn//profile//2023/06/13/60cbc996-47cc-45be-bf0d-06053fbe57de.pdf) or other similar smart digital platforms using similar datasets.
 
-As shown below, the visualization outcomes are interactive! You can also [click on this for full-screen experience](visualization.en.html).
+As shown below, the visualization outcomes are interactive! You can also [click on this for full-screen experience](visualization.html).
  
 <iframe class = "info-vis" src="./visualization.en.html" width="100%" style="border:none;"></iframe>
 
