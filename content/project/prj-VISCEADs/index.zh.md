@@ -27,7 +27,7 @@ h2{font-size: 2.5rem; important!}
     width: 100vw;
     height: 100vh;
 }</style>
-<span style="color: #cf4a31;"><i class="ai fas fa-battery-half ai-1x fa-beat"></i></span>【进度】原型A交付
+<span style="color: #cf4a31;"><i class="fas fa-battery-half ai-1x fa-beat"></i></span>【进度】原型A交付
 
 减碳得甘愿及志愿。有价值有动机。
 
