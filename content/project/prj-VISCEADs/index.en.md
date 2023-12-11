@@ -27,7 +27,7 @@ h2{font-size: 2rem; important!}
     width: 100vw;
     height: 100vh;
 }</style>
-<span style="color: #cf4a31;"><i class="ai fa-icon-progress ai-1x fa-beat"></i></span>【Progress】Prototype A delivered
+<span style="color: #cf4a31;"><i class="ai fas fa-battery-half ai-1x fa-beat"></i></span>【Progress】Prototype A delivered
 
 Decarbonization requires voluntary will and participation, and values provide incentives. 
 

@@ -1,6 +1,6 @@
 ---
 title: Mapping Green Digital Opportunities surrounding SPCG--SPCG 
-date: 2023-12-10T07:42:52.984Z
+date: 2023-12-06T06:06:66.666Z
 draft: false
 featured: true
 authors:
@@ -17,6 +17,8 @@ categories:
   - Green Digital Action
   - Precision Decarbonization
 ---
+
+<span style="color: #cf4a31;"><i class="ai fa-icon-progress ai-1x fa-beat"></i></span>【进度】绿色数字行动工具箱－－A. ITU 2023年绿色数字行动@COP28 翻译交付
 
 Technology standardization requires innovation-sharing and consensus-building process.  It requires learning from one another in an application plus technology domain. Standards make innovations work.
 
