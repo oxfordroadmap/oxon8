@@ -61,7 +61,7 @@ content:
         icon: newspaper
         icon_pack: fas
         text: '最新消息--双化协同发展 📰'
-        url: "/post/
+        url: "/post/"
     - title: '“精准脱碳”路上 Oxon8 邀您同行⛹，'
       content: '✊如 广东省重点建设学科科研能力提升项目☑'
       align: right
