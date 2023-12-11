@@ -76,7 +76,7 @@ image:
 
 ### 关于世界标准合作组织
 
-**[世界标准合作组织（World Standards Cooperation）](https://www.worldstandardscooperation.org/)**是由IEC（国际电工委员会）、ISO（国际标准化组织）和 ITU（国际电信联盟）之间的高级别合作。在此世界标准合作旗帜下，三个组织加强并推进基于自愿与共识的国际标准体系。
+[**世界标准合作组织（World Standards Cooperation）**](https://www.worldstandardscooperation.org/)是由IEC（国际电工委员会）、ISO（国际标准化组织）和 ITU（国际电信联盟）之间的高级别合作。在此世界标准合作旗帜下，三个组织加强并推进基于自愿与共识的国际标准体系。
 
 
 {{< youtube TRWbxSv5noo >}}
