@@ -32,7 +32,7 @@ sections:
 
 .section-subheading {
    background-color: rgba(255, 255, 224, 0.98);
-   font-size: 2.5rem !important;
+   font-size: 1.5rem !important;
 }
 </style>
 
