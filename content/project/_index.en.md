@@ -36,7 +36,7 @@ sections:
 }
 </style>
 
-<div class="p-3 mb-2 bg-info container" markdown="1">
+<div class="p-3 mb-2 bg-light container border border-5 rounded" markdown="1">
 
 Oxford Roadmapping has expertise in <i class="ai ai-pubpeer ai-2x ai-shake"></i>data science, <i class="fa fa-recycle ai-2x fa-spin"></i>green digital transformation, <i class="ai ai-ieee ai-2x fa-flip"></i>technology roadmapping, and their combinations and integrations.  It provides <i class="fas fa-cog ai-2x fa-spin"></i>technology innovations, <i class="fas fa-lightbulb ai-2x fa-beat-fade"></i>system innovations, and 📏standardization services.  
 
