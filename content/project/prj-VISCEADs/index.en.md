@@ -1,6 +1,6 @@
 ---
 title: Shedding light on viable decarbonization paths--Project VisCEADs
-date: 2023-12-06T07:42:52.984Z
+date: 2023-12-08T08:08:08.888Z
 draft: false
 featured: true
 authors:
@@ -27,6 +27,8 @@ h2{font-size: 2rem; important!}
     width: 100vw;
     height: 100vh;
 }</style>
+<span style="color: #cf4a31;"><i class="ai fa-icon-progress ai-1x fa-beat"></i></span>【Progress】Prototype A delivered
+
 Decarbonization requires voluntary will and participation, and values provide incentives. 
 
 Only by providing true values to individuals and organizations, the climate goal of GHG emission reduction can be achieved.  It requires the incorporation of GHG and carbon emission information into the production, distribution, consumption and investment processes of human activities.  

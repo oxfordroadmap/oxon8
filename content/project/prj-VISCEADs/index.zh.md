@@ -1,6 +1,6 @@
 ---
 title: 照亮产业「精准脱碳」之路--visCEADs项目
-date: 2023-12-06T07:42:52.984Z
+date: 2023-12-08T08:08:08.888Z
 draft: false
 featured: true
 authors:
@@ -27,6 +27,7 @@ h2{font-size: 2.5rem; important!}
     width: 100vw;
     height: 100vh;
 }</style>
+<span style="color: #cf4a31;"><i class="ai fa-icon-progress ai-1x fa-beat"></i></span>【进度】原型A交付
 
 减碳得甘愿及志愿。有价值有动机。
 
