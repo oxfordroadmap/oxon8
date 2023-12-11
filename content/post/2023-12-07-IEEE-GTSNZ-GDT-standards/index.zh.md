@@ -1,6 +1,18 @@
 ---
 title:  '碳排污染看得到摸得着：澳恪森数据科学家释出中国各省“减污降碳全景图”'
 date: 2023-12-07
+tags:
+- Carbon management
+- 碳排管理
+- Green Digital Transformation
+- 双化协同
+- COP28
+- 联合国气候大会
+- Carbon management
+- 碳排管理
+- Green Digital Transformation
+- 双化协同
+- 数字化绿色化双转型
 categories:
 - Input-Output Analysis
 - 投入产出分析
@@ -10,11 +22,6 @@ categories:
 - 精准脱碳
 - Decarbonization Roadmapping
 - 脱碳路线图
-tags:
-- Carbon management
-- 碳排管理
-- Green Digital Transformation
-- 双化协同
 ---
 <style>
 .data {
@@ -81,5 +88,5 @@ Shan, Y., Huang, Q., Guan, D. et al. (2020). China CO2 emission accounts 2016–
 
 ### 澳恪森数智科技支持 绿色化数字行动@COP28
 
-![HTL-GreenDigitalAction.png](oxon8/content/post/2023-12-07-precision-decarbonization-roadmapping-china/HTL-GreenDigitalAction.png)
-![CLP-GreenDigitalAction.png](oxon8/content/post/2023-12-07-precision-decarbonization-roadmapping-china/CLP-GreenDigitalAction.png)
+![HTL-GreenDigitalAction.png](oxon8/content/post/2023-12-07-IEEE-GTSNZ-GDT-standards/HTL-GreenDigitalAction.png)
+![CLP-GreenDigitalAction.png](oxon8/content/post/2023-12-07-IEEE-GTSNZ-GDT-standards/CLP-GreenDigitalAction.png)

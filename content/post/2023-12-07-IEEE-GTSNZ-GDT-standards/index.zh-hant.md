@@ -81,5 +81,5 @@ Shan, Y., Huang, Q., Guan, D. et al. (2020). China CO2 emission accounts 2016–
 
 ### 澳恪森數智科技支持 綠色化數字行動@COP28
 
-![HTL-GreenDigitalAction.png](oxon8/content/post/2023-12-07-precision-decarbonization-roadmapping-china/HTL-GreenDigitalAction.png)
-![CLP-GreenDigitalAction.png](oxon8/content/post/2023-12-07-precision-decarbonization-roadmapping-china/CLP-GreenDigitalAction.png)
+![HTL-GreenDigitalAction.png](oxon8/content/post/2023-12-07-IEEE-GTSNZ-GDT-standards/HTL-GreenDigitalAction.png)
+![CLP-GreenDigitalAction.png](oxon8/content/post/2023-12-07-IEEE-GTSNZ-GDT-standards/CLP-GreenDigitalAction.png)

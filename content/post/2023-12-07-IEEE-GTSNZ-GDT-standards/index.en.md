@@ -65,5 +65,5 @@ Oxford Roadmapping Inc. (Oxon 8) focuses on design innovations of smart digital 
 
 ### Oxford Roadmapping supports #GreenDigitalAction @COP28
 
-![HTL-GreenDigitalAction.png](oxon8/content/post/2023-12-07-precision-decarbonization-roadmapping-china/HTL-GreenDigitalAction.png)
-![CLP-GreenDigitalAction.png](oxon8/content/post/2023-12-07-precision-decarbonization-roadmapping-china/CLP-GreenDigitalAction.png)
+![HTL-GreenDigitalAction.png](oxon8/content/post/2023-12-07-IEEE-GTSNZ-GDT-standards/HTL-GreenDigitalAction.png)
+![CLP-GreenDigitalAction.png](oxon8/content/post/2023-12-07-IEEE-GTSNZ-GDT-standards/CLP-GreenDigitalAction.png)
