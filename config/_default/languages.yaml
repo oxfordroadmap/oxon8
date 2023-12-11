@@ -8,13 +8,6 @@ zh:
   title: 澳恪森数智科技服务
   params:
     description: 数智平台与绿色金融科技的创新设计
-  en:
-    params:
-    title: Oxford Roadmapping
-    weight: 2
-  zh-hant:
-    title: 澳恪森數智科技服務
-    weight: 3
 
 # Uncomment the lines below to configure your website in a second language.
 en:
@@ -23,13 +16,6 @@ en:
   title: Oxford Roadmapping  (Oxon8)
   params:
     description: Innovate with Designs of Smart Platforms and Green FinTech, on a mission to reduce gigatones of GHG emissions by transforming how carbon neutrality information flows change business operations and supply chains
-  zh:
-    params:
-    title: 澳恪森数智
-    weight: 1
-  zh-hant:
-    title: 澳恪森數智
-    weight: 3
 
 zh-hant:
   languageCode: zh-hant
@@ -37,10 +23,3 @@ zh-hant:
   title: 澳恪森數智科技服務
   params:
     description: 數智平台與綠色金融科技的創新設計
-  en:
-    params:
-    title: Oxford Roadmapping
-    weight: 2
-  zh:
-    title: 澳恪森数智科技服务
-    weight: 3

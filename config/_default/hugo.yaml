@@ -1,0 +1,109 @@
+# Configuration of Hugo
+# Guide: https://wowchemy.com/docs/getting-started/
+# Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
+# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+
+title: 澳恪森数智科技服务 Oxford Roadmapping  # Website name
+baseURL: 'https://oxon8.netlify.app/' # Website URL
+canonifyURLs: 'false'
+
+
+############################
+## LANGUAGE
+############################
+
+defaultContentLanguage: zh
+defaultContentLanguageInSubdir: false
+languages:
+  zh:
+    disabled: false
+    languageCode: zh
+    languageName: 中文 (簡体)
+    languageDirection: ltr
+    title: 澳恪森数智科技服务
+    weight: 1
+  en:
+    disabled: false
+    languageCode: en-US
+    languageName: English
+    languageDirection: ltr
+    title: Oxford Roadmapping
+    weight: 2
+  zh-hant:
+    disabled: false
+    languageCode: zh-hant
+    languageName: 中文 (正體)
+    languageDirection: ltr
+    title: 澳恪森數智科技服務
+    disabled: false
+    weight: 3
+hasCJKLanguage: true
+removePathAccents: true
+
+##    - path: github.com/hugomods/bootstrap
+
+############################
+## ADVANCED
+############################
+
+enableGitInfo: true
+summaryLength: 30
+paginate: 10
+enableEmoji: true
+enableRobotsTXT: true
+footnotereturnlinkcontents: <sup>^</sup>
+ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
+permalinks:
+  authors: '/author/:slug/'
+  tags: '/tag/:slug/'
+  categories: '/category/:slug/'
+  publication_types: '/publication-type/:slug/'
+disableAliases: true
+outputs:
+  home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
+  section: [HTML, RSS]
+imaging:
+  resampleFilter: lanczos
+  quality: 75
+  anchor: smart
+timeout: 600000
+taxonomies:
+  tag: tags
+  category: categories
+  publication_type: publication_types
+  author: authors
+markup:
+  _merge: deep
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer: true
+    parser:
+      attribute:
+        block: true
+        title: true
+      autoHeadingID: true
+      autoHeadingIDType: github
+    renderer:
+      hardWraps: false
+      unsafe: true
+      xhtml: true 
+related:
+  threshold: 80
+  includeNewer: true
+  toLower: true
+  indices:
+    - name: tags
+      weight: 100
+    - name: categories
+      weight: 70
+security:
+  _merge: deep
+sitemap:
+  _merge: deep
