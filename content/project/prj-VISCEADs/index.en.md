@@ -27,13 +27,9 @@ h2{font-size: 2rem; important!}
     width: 100vw;
     height: 100vh;
 }</style>
-<span style="color: #cf4a31;"><i class="ai fas fa-battery-half ai-1x fa-beat"></i></span>【Progress】Prototype A delivered
+<span style="color: #cf4a31;"><i class="fas fa-battery-half ai-1x fa-beat"></i></span>【Progress】Prototype A delivered
 
-Decarbonization requires voluntary will and participation, and values provide incentives. 
-
-Only by providing true values to individuals and organizations, the climate goal of GHG emission reduction can be achieved.  It requires the incorporation of GHG and carbon emission information into the production, distribution, consumption and investment processes of human activities.  
-
-The **dual-carbon management and service platforms** (carbon peak and carbon neutral)，or simply smart digital platforms of carbon and GHG emission data platforms, aims to introduce such information into the operations and management of enterprises and government organizations at various levels.  They embodies the main task of the "twin transition" or green digital transformation of human activities and interactions with the planet.  
+The **dual-carbon management and service platforms** (carbon peak and carbon neutral), or simply smart digital platforms of carbon and GHG emission data, aims to introduce such information into the operations and management of enterprises and government organizations at various levels.  They embodies the main task of the "twin transition" or green digital transformation of human activities and interactions with the planet.  
 
 How might we define, design and develop such a platform？
 
@@ -49,6 +45,13 @@ This project (visCEADs, or visualization of the Carbon Emission Accounts and Dat
 </div>
 
 <!--more-->
+
+Decarbonization requires voluntary will and participation, and values provide incentives. 
+
+Only by providing true values to individuals and organizations, the climate goal of GHG emission reduction can be achieved.  It requires the incorporation of GHG and carbon emission information into the production, distribution, consumption and investment processes of human activities.  
+
+How might we define, design and develop such a platform of carbon and GHG emission ？
+
 
 <div class=".h1 fs-1 bg-success text-center" markdown="1">
 
