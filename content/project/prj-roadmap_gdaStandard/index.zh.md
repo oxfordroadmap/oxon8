@@ -27,6 +27,10 @@ categories:
 
 数字化创新成功的关键是标准化过程。  
 
+<!--more-->
+
+![ITU-Thematic_Pillar-4.a-zh-hans_ink.webp](ITU-Thematic_Pillar-4.a-zh-hans_ink.webp)
+
 ---
 
 ### 关于澳恪森数智科技
