@@ -16,6 +16,8 @@ tags:
 categories:
   - Standardization
   - Green Digital Action
+image:
+  filename: ITU-Thematic_Pillar-4.a-zh-hans_ink.webp
 ---
 
 <span style="color: #cf4a31;"><i class="fas fa-battery-quarter ai-1x fa-beat"></i></span>【Progress】Green Digital Action Toolkit－－A. ITU 2023 Green Digital Action@COP28 Presention Slide Translated into Chinese (both simplified and orthodox/traditional Chinese).

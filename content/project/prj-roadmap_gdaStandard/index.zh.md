@@ -16,6 +16,8 @@ tags:
 categories:
   - 标准化
   - 双化行动
+image:
+  filename: ITU-Thematic_Pillar-4.a-zh-hans_ink.webp
 ---
 <span style="color: #cf4a31;"><i class="fas fa-battery-quarter ai-1x fa-beat"></i></span>【进度】绿色数字行动工具箱－－A. ITU 2023年绿色数字行动@COP28 中文翻译交付
 
