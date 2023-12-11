@@ -28,6 +28,10 @@ categories:
   - Green Supply Chain FinTech
   - Precision Decarbonization
   - Green Digital Action
+image:
+  filename: FGAI4A-I-132.cover.webp
+  focal_point: Smart
+  preview_only: false
 ---
 
 Making carbon pollution visible, so that the roadmap forwards can be clear.
