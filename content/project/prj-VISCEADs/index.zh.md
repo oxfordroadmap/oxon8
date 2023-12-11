@@ -18,6 +18,9 @@ categories:
   - 投入产出分析
   - 网络图可视化
   - 双化行动
+image:
+  filename: prj-visCEADs.webp
+  preview_only: false
 ---
 <style>
 h1{font-size: 3.75rem; important!}
