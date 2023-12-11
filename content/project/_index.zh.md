@@ -40,11 +40,11 @@ sections:
 }
 </style>
 
-<div class="card bg-success p-2 text-white bg-opacity-75 border border-5 rounded" >
+<div class="card p-2 text-dark bg-light bg-opacity-75 border border-5 rounded border-success" >
 
-<div class="card-header">项目与产品</div>
+<div class="card-header  border-success">项目与产品</div>
 
-<div class="card-body">
+<div class="card-body text-success  border-success">
 
 专精<i class="ai ai-pubpeer ai-3x fa-shake"></i>数据科学、<i class="fa fa-recycle ai-2x fa-spin"></i>绿色数字转型、<i class="ai ai-ieee ai-2x fa-flip"></i>技术路线图的结合，澳恪森Oxford Roadmapping提供<i class="fas fa-cog ai-2x fa-spin"></i>技术创新、<i class="fas fa-lightbulb ai-2x fa-beat-fade"></i>系统创新、以及📏技术标准化的服务。
 

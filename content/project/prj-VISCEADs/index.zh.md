@@ -29,14 +29,12 @@ h2{font-size: 2.5rem; important!}
 }</style>
 
 <div class="p-3 mb-2 bg-warning link-warning text-white  container" markdown="1" >
-<span style="color: #cf4a31;"><i class="fas fa-battery-half ai-1x fa-beat"></i></span>【进度】原型A交付，
-[点此可至全画面](visualization/index.zh.html) 试试！
+
+[点此可至全画面](visualization/index.zh.html) 试试！<span style="color: #cf4a31;"><i class="fas fa-battery-half ai-1x fa-beat"></i></span>【进度】原型A交付
 
 </div>
 
-减碳得甘愿及志愿。有价值有动机。
-
-将**碳排放信息**引入生产、消费和投资各环节，只有这样才能给个人和产业带来真正的价值，从而实现减排目标。
+<br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> 
 
 **双碳管服数字平台**，目标是引入碳排信息至各企业及地方的营运及管理，是双化转型核心工作，要如何定义、设计并制作此类平台呢？
 
@@ -52,6 +50,10 @@ h2{font-size: 2.5rem; important!}
 </div>
 
 <!--more-->
+
+减碳得甘愿及志愿。有价值有动机。
+
+将**碳排放信息**引入生产、消费和投资各环节，只有这样才能给个人和产业带来真正的价值，从而实现减排目标。
 
 <div class=".h1 fs-1 bg-success text-center" markdown="1">
 
