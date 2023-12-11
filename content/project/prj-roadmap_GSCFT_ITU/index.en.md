@@ -10,7 +10,7 @@ tags:
 categories:
   - Agro-food
 image:
-  filename: wikicommons-Vertical_Tower_Aquaponic_System.jpg
+  filename: FGAI4A-I-132.cover.webp
   focal_point: Smart
   preview_only: false
 ---
