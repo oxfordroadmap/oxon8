@@ -31,7 +31,7 @@ h2{font-size: 2.5rem; important!}
 <div class="p-3 mb-2 bg-warning link-warning text-white  container" markdown="1" >
 <span style="color: #cf4a31;"><i class="fas fa-battery-half ai-1x fa-beat"></i></span>【进度】原型A交付，
 
-[点此可至全画面]({{< ref "/project/prj-VisCEADs/visualization.zh.html" >}}) 试试！
+[点此可至全画面]({{< relref "visualization.zh.html" >}}) 试试！
 
 </div>
 
