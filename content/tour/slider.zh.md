@@ -35,7 +35,7 @@ content:
         icon: users
         icon_pack: fas
         text: '我们成员--跨领域团队  💪'
-        url: {{< ref "/people/" >}}  
+        url: "/people/"
     - title: '澳恪森数智 Oxon8 🌏 来自湾区、服务湾区 🔎'
       content: '请同我们分享减排丶脫碳丶可持续发展遇到的问题及知识...'
       align: left
@@ -48,7 +48,7 @@ content:
         icon: thumbs-up
         icon_pack: fas
         text: '发表论文 & 发布报告 --  分享问题及解决方案 💡'
-        url: {{< ref "/publication/" >}}  
+        url: "/publication/"
     - title: '🎁 Oxon8 助您运用世界一流前沿方法，点创新火苗🔥'
       content: '❤️ 「吾生也有涯，而知也无涯」掌握知识及情报...'
       align: right
@@ -61,7 +61,7 @@ content:
         icon: newspaper
         icon_pack: fas
         text: '最新消息--双化协同发展 📰'
-        url: {{< ref "/post/" >}}  
+        url: "/post/
     - title: '“精准脱碳”路上 Oxon8 邀您同行⛹，'
       content: '✊如 广东省重点建设学科科研能力提升项目☑'
       align: right
@@ -74,7 +74,7 @@ content:
         icon: briefcase
         icon_pack: fas
         text: '☑《“精准脱碳”之路》项目迸度'
-        url: {{< ref "/project/prj-2022zdjs121/" >}}  
+        url: "/project/prj-2022zdjs121/"
     - title: '运用創新工具箱🧰 Oxon8 助您成就技术创新火炬💡，'
       content: '🌅照亮人类共同体前路 行道'
       align: right
@@ -87,5 +87,5 @@ content:
         icon: briefcase
         icon_pack: fas
         text: '「天涯若比邻 ... 海内存知己」--连络我们 ✍️'
-        url: {{< ref "/#contact" >}}  
+        url: "/#contact"
 ---
