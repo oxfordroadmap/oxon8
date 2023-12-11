@@ -42,8 +42,7 @@ image:
 
 ### 澳恪森GDAStandard项目助力绿色化数字行动扩大参与
 
-澳恪森数智科技以其标准化工作及科技路线图工作的经验，将持续以[【GDAStandard】项目]
-({{< ref "/project/prj-roadmap_GDAStandard" >}})
+澳恪森数智科技以其标准化工作及科技路线图工作的经验，将持续以[【GDAStandard】项目]({{< ref "/project/prj-roadmap_GDAStandard" >}})
 结合国际电联ITU的数字生态创新工具箱与自身积累的双化设计教案，推出绿色数字行动工具箱。
 
 廖汉腾表示，「此工具箱将以双创的切入点，来实践双化的设计，来降低学习门槛。」
