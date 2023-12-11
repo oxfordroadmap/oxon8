@@ -23,7 +23,9 @@ image:
 
 <div class="p-3 mb-2 bg-success text-white  container" markdown="1">
 
-<span style="color: white;"><i class="fas fa-battery-full ai-2x fa-bounce"></i></span>【Progress】This Province-level Research Project has successfully pubslihed **three peer-reviewed journal papers (SCIE Q2) **, even before its formal opening reviewed by experts. Tasks such as drafting the research proposal, writing research articles, and conducting data analysis, have been completed by Oxford Roadmapping swiftly and satisfactorily.  </div>
+<span style="color: white;"><i class="fas fa-battery-full ai-2x fa-bounce"></i></span>【Progress】This Province-level Research Project has successfully pubslihed **three peer-reviewed journal papers (SCIE Q2) **, even before its formal opening reviewed by experts. Tasks such as drafting the research proposal, writing research articles, and conducting data analysis, have been completed by Oxford Roadmapping swiftly and satisfactorily. 
+
+ </div>
 
 ### 项目名称 --“精准脱碳”之路：E-碳足迹核算打通地方与行业信息流内外双循环
 
