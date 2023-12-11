@@ -29,7 +29,10 @@ h2{font-size: 2rem; important!}
 }</style>
 
 <div class="p-3 mb-2 bg-success text-white  container" markdown="1" >
-<span style="color: #cf4a31;"><i class="fas fa-battery-half ai-1x fa-beat"></i></span>【Progress】Prototype A delivered.  Try by [clicking on here](visualization.en.html) !
+<span style="color: #cf4a31;"><i class="fas fa-battery-half ai-1x fa-beat"></i></span>【Progress】Prototype A delivered.  
+
+Try it by [clicking on here](visualization.en.html) !
+
 </div>
 
 The **dual-carbon management and service platforms** (carbon peak and carbon neutral), or simply smart digital platforms of carbon and GHG emission data, aims to introduce such information into the operations and management of enterprises and government organizations at various levels.  They embodies the main task of the "twin transition" or green digital transformation of human activities and interactions with the planet.  

@@ -36,4 +36,10 @@ sections:
 }
 </style>
 
-Oxford Roadmapping has expertise in <i class="ai ai-pubpeer ai-2x ai-shake"></i>data science, <i class="fa fa-recycle ai-2x fa-spin"></i>green digital transformation, <i class="ai ai-ieee ai-2x fa-flip"></i>technology roadmapping, and their combinations and integrations.  It provides <i class="fas fa-cog ai-2x fa-spin"></i>technology innovations, <i class="fas fa-lightbulb ai-2x fa-beat-fade"></i>system innovations, and 📏standardization services.  Since its launch in early 2023, it has participated in or co-created 4 projects, ranging from data product prototyping, science research, and international standardization activities.
+<div class="p-3 mb-2 bg-info container" markdown="1">
+
+Oxford Roadmapping has expertise in <i class="ai ai-pubpeer ai-2x ai-shake"></i>data science, <i class="fa fa-recycle ai-2x fa-spin"></i>green digital transformation, <i class="ai ai-ieee ai-2x fa-flip"></i>technology roadmapping, and their combinations and integrations.  It provides <i class="fas fa-cog ai-2x fa-spin"></i>technology innovations, <i class="fas fa-lightbulb ai-2x fa-beat-fade"></i>system innovations, and 📏standardization services.  
+
+Since its launch in early 2023, it has participated in or co-created 4 projects, ranging from data product prototyping, science research, and international standardization activities.
+
+</div>
