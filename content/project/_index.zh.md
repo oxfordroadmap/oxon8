@@ -36,6 +36,6 @@ sections:
 }
 </style>
 
-<br/> 
-<i class="ai ai-dataverse ai-3x fa-bounce"></i>
+澳恪森Oxford Roadmapping专精于<i class="ai ai-dataverse ai-3x fa-bounce"></i>数据科学、绿色数字技术路线图的结合，提供技术创新、系统创新、以及关键技术标准化的服务。2023年公司成立后，一共参与或创建4项项目，涵括数据产品原型、科研辅导合作（省级）、及国际标准活动。 
+
 

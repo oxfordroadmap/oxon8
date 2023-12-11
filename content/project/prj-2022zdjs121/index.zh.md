@@ -21,23 +21,20 @@ image:
   preview_only: false
 ---
 
-<div class="p-3 mb-2 bg-success text-dark  container" markdown="1">
+<div class="p-3 mb-2 bg-success text-white  container" markdown="1">
 
-<span style="color: #cf4a31;"><i class="fas fa-battery-full ai-2x fa-bounce"></i></span>【进度】省级科研项目在**开题报告**时，已**成功发表SCIE Q2 区论文3篇**，成功开题。澳恪森辅导与合作部份**已完成**。
+<span style="color: white;"><i class="fas fa-battery-full ai-2x fa-bounce"></i></span>【进度】省级科研项目在**开题报告**前，已**成功发表SCIE Q2 区论文3篇**。澳恪森辅导与合作部份包括项目书、论文、数据分析等工作**已全完成**。
 
 </div>
-
-本研究以「精准脱碳」之技术路线图为题，在数字科技达成“双碳”的背景，以E-碳足迹创新概念与实践出发，落实国家有关政策如“数字化绿色化协同转型发展”。
 
 ### 项目名称 
 “精准脱碳”之路：E-碳足迹核算打通地方与行业信息流内外双循环
 
 ### 项目迸度
 
+* 2023/02：SCIE Q2论文发表 1篇：[供应链知识图谱分析：设计绿色化和数字化转型双化之路线图分类](https://oxon8.netlify.app/publication/pan-knowledge-2023/)
 * 2023/03：SCIE Q2论文发表 2篇：[双碳服务及管理平台](https://oxon8.netlify.app/publication/liao-smart-2023/)、[ESG教育合作伙伴地图](https://oxon8.netlify.app/post/2023-02-22-esg-education-partner-maps/)
 * 2023/04：开题报告
-* 2023/02：SCIE Q2论文发表 1篇：[供应链知识图谱分析：设计绿色化和数字化转型双化之路线图分类](https://oxon8.netlify.app/publication/pan-knowledge-2023/)
-
 <!--more-->
 
 ### 项目负责人
@@ -47,6 +44,9 @@ image:
 廖汉腾、潘仲亷等
 
 ### 项目大纲
+
+本研究以「精准脱碳」之技术路线图为题，在数字科技达成“双碳”的背景，以E-碳足迹创新概念与实践出发，落实国家有关政策如“数字化绿色化协同转型发展”。
+
 
 > 碳足迹核算助地方及行业将碳排信息纳入“精准”脱碳决策
 {.h3 .table-success}
