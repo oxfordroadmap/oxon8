@@ -31,7 +31,7 @@ h2{font-size: 2.5rem; important!}
 <div class="p-3 mb-2 bg-warning link-warning text-white  container" markdown="1" >
 <span style="color: #cf4a31;"><i class="fas fa-battery-half ai-1x fa-beat"></i></span>【进度】原型A交付，
 
-[点此可至全画面]({{< relref "visualization.html" >}}) 试试！
+[点此可至全画面]({{< relref path="visualization/index.html" lang="zh" >}}) 试试！
 
 </div>
 
@@ -74,9 +74,10 @@ h2{font-size: 2.5rem; important!}
 
 visCEADs 项目原型成果A展示，可把42部门31省市域间投入产出表与碳核算数据，有效地把数据洞察价值开发出来。理论上更使用网络可视化方法与3B框架（骨架、基线、与标杆），打造出碳中和数智平台、双碳管服数字平台的核心模块。
 
-[点此可至全画面](visualization.html)，体验更佳！
- 
-<iframe class = "info-vis" src="./visualization.zh.html" width="100%" style="border:none;"></iframe>
+[点此可至全画面]({{< relref path="visualization/index.html" lang="zh" >}}) 试试！
+
+
+<iframe class = "info-vis" src={{< relref path="visualization/index.html" lang="zh" >}} width="100%" style="border:none;"></iframe>
 
 
 <div class="fs-1 bg-warning text-center" markdown="1">
