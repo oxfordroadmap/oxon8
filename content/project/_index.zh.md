@@ -26,20 +26,32 @@ sections:
     background-image: url(https://oxon8.netlify.app/media/prj-visCEADs.webp);
 }
 
+.universal-wrapper > h1 {
+	display:none;
+}
+
 #top > div.page-body > div:nth-child(3) > div:nth-child(2) > div > div:nth-child(1){
    background-color: rgba(255, 255, 224, 0.85);
 }
 
 .section-subheading {
-   background-color: rgba(255, 255, 224, 0.98);
+	--bs-bg-opacity: .5;
    font-size: 1.5rem !important;
 }
 </style>
 
-<div class="p-3 mb-2 bg-light container border border-5 rounded" markdown="1">
+<div class="card bg-success p-2 text-white bg-opacity-75 border border-5 rounded" >
 
-澳恪森Oxford Roadmapping专精于<i class="ai ai-pubpeer ai-2x fa-shake"></i>数据科学、<i class="fa fa-recycle ai-2x fa-spin"></i>绿色数字转型、<i class="ai ai-ieee ai-2x fa-flip"></i>技术路线图的结合，提供<i class="fas fa-cog ai-2x fa-spin"></i>技术创新、<i class="fas fa-lightbulb ai-2x fa-beat-fade"></i>系统创新、以及📏技术标准化的服务。
+<div class="card-header">项目与产品</div>
+
+<div class="card-body">
+
+专精<i class="ai ai-pubpeer ai-3x fa-shake"></i>数据科学、<i class="fa fa-recycle ai-2x fa-spin"></i>绿色数字转型、<i class="ai ai-ieee ai-2x fa-flip"></i>技术路线图的结合，澳恪森Oxford Roadmapping提供<i class="fas fa-cog ai-2x fa-spin"></i>技术创新、<i class="fas fa-lightbulb ai-2x fa-beat-fade"></i>系统创新、以及📏技术标准化的服务。
+
+</div>
 
 2023年公司成立后，一共参与或创建4项项目，涵括数据产品原型、科研辅导合作（省级）、及国际标准活动。 
+
+{{% cta cta_link="mailto:oxon8com@outlook.com" cta_text="留个信✉"  icon_pack="fas" icon="mailbox-flag-up" %}}
 
 </div>
