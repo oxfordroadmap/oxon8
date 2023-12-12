@@ -31,7 +31,7 @@ h2{font-size: 2rem; important!}
 <div class="p-3 mb-2 bg-warning link-warning text-white  container" markdown="1" >
 <span style="color: #cf4a31;"><i class="fas fa-battery-half ai-1x fa-beat"></i></span>【Progress】Prototype A delivered.  
 
-Try it by [clicking on here](visualization/index.en.html) !
+Try it by [clicking on here](/visualization/prj-VisCEADs/index.en.html) !
 
 </div>
 
@@ -41,7 +41,7 @@ How might we define, design and develop such a platform？
 
 <div class="p-3 mb-2 bg-light text-dark" markdown="1">
 
-This project (visCEADs, or visualization of the Carbon Emission Accounts and Datasets) utilizes the following resources released by various organizations.  They provide vital information and best practices for industries and government bodies to achieve "precision decarbonization," by which Oxford Roadmapping means the viable and actionable actions for GHG reduction based on science-based data：
+This project (visCEADs, or /visualization/prj-VisCEADs of the Carbon Emission Accounts and Datasets) utilizes the following resources released by various organizations.  They provide vital information and best practices for industries and government bodies to achieve "precision decarbonization," by which Oxford Roadmapping means the viable and actionable actions for GHG reduction based on science-based data：
 
 * China's [　“Dual-Carbon Management Digital Platform”　Industry Standard](https://www.isc.org.cn//profile//2023/06/13/60cbc996-47cc-45be-bf0d-06053fbe57de.pdf) 
 * China-led international collaboration research network [Carbon Emission Accounts and Datasets (CEADs)](https://www.ceads.net.cn/)
@@ -65,7 +65,7 @@ How might we define, design and develop such a platform of carbon and GHG emissi
 
 </div>
 
-Developed by Oxford Roadmapping (Oxon8), the visCEADs project has systematically incorporates the core Chinese dataset of the [Carbon Emission Accounts and Datasets (CEADs)](https://www.ceads.net.cn/).  For building viable prototypes, the visCEADs project has applied data science for data cleaning and transformation, followed human-centered computing design of network visualization, and considered the standard requirements of China's [“Dual-Carbon Management Digital Platform”](https://www.isc.org.cn//profile//2023/06/13/60cbc996-47cc-45be-bf0d-06053fbe57de.pdf) and [platform business models](https://oxon8.netlify.app/post/2023-02-20-smart-digital-platforms-carbon-neutral-management-services/).
+Developed by Oxford Roadmapping (Oxon8), the visCEADs project has systematically incorporates the core Chinese dataset of the [Carbon Emission Accounts and Datasets (CEADs)](https://www.ceads.net.cn/).  For building viable prototypes, the visCEADs project has applied data science for data cleaning and transformation, followed human-centered computing design of network /visualization/prj-VisCEADs, and considered the standard requirements of China's [“Dual-Carbon Management Digital Platform”](https://www.isc.org.cn//profile//2023/06/13/60cbc996-47cc-45be-bf0d-06053fbe57de.pdf) and [platform business models](https://oxon8.netlify.app/post/2023-02-20-smart-digital-platforms-carbon-neutral-management-services/).
 
 This prototype demonstrates one viable systematic approach in incorporating carbon emission and industrial input-output data at various junctures of operations and management across all industrial sectors, ranging from production to consumption.  It embodies the potential of integration of system engineering and system innovations. With the purpose to encourage scientific and value-added emission reduction efforts, such innovations highlight the science-based on one hand, and the value-added (and thus market-relevant) approach on the other, integrated approach to combine carbon emission and industrial input-output data.  This integrated approach benefits individuals and industries with reasonable carbon emission accounting and reduction regimes that reward values to emission reduction based on data. 
 
@@ -77,11 +77,11 @@ Since the founding of the company in early 2023, Oxford Roadmapping has produced
 
 </div>
 
-The prototype of the visCEADs project showcases one way to extract insights from both the CO2 emission inventory and the input-output table data of 42 industrial sectors and 31 provinces and cities in China.  Conceptually, it combines social network analysis and the 3B framework (backbone, baselines, and benchmarks) to build the core visualization module for  [“dual-carbon management digital platforms”](https://www.isc.org.cn//profile//2023/06/13/60cbc996-47cc-45be-bf0d-06053fbe57de.pdf) or other similar smart digital platforms using similar datasets.
+The prototype of the visCEADs project showcases one way to extract insights from both the CO2 emission inventory and the input-output table data of 42 industrial sectors and 31 provinces and cities in China.  Conceptually, it combines social network analysis and the 3B framework (backbone, baselines, and benchmarks) to build the core /visualization/prj-VisCEADs module for  [“dual-carbon management digital platforms”](https://www.isc.org.cn//profile//2023/06/13/60cbc996-47cc-45be-bf0d-06053fbe57de.pdf) or other similar smart digital platforms using similar datasets.
 
-As shown below, the visualization outcomes are interactive! You can also [click on this for full-screen experience](visualization/index.en.html).
+As shown below, the /visualization/prj-VisCEADs outcomes are interactive! You can also [click on this for full-screen experience](/visualization/prj-VisCEADs/index.en.html).
 
-<iframe class = "info-vis" src="visualization/index.en.html" width="100%" style="border:none;"></iframe>
+<iframe class = "info-vis" src="/visualization/prj-VisCEADs/index.en.html" width="100%" style="border:none;"></iframe>
 
 ### Progress and Timeline
 
@@ -93,7 +93,7 @@ As shown below, the visualization outcomes are interactive! You can also [click 
 
     * Backbone (of the core network of industrial input-output relationships ):
 
-Based on the historical and latest input-output table data, the network visualization can help industrial and local government organizations to manage the risks of industrial reconstruction for decarbonization. Data-driven transformation strategies can be made based on the backbone of industrial structure, preventing major risks such as "out-of-touch" actions that are unviable, misguided pathways that do not face the reality, and misidentified foci for decarbonization efforts. 
+Based on the historical and latest input-output table data, the network /visualization/prj-VisCEADs can help industrial and local government organizations to manage the risks of industrial reconstruction for decarbonization. Data-driven transformation strategies can be made based on the backbone of industrial structure, preventing major risks such as "out-of-touch" actions that are unviable, misguided pathways that do not face the reality, and misidentified foci for decarbonization efforts. 
 
     * Baseline (of the regional and sectorial contexts and comparisons for situtaional awareness):
 

@@ -33,7 +33,7 @@ h2{font-size: 2.5rem; important!}
 
 <div class="p-3 mb-2 bg-warning link-warning text-white  container" markdown="1" >
 
-[點此可至全畫面](visualization/index.zh.html) 試試！<span style="color: #cf4a31;"><i class="fas fa-battery-half ai-1x fa-beat"></i></span>【進度】原型A交付
+[點此可至全畫面](/visualization/prj-VisCEADs/index.zh.html) 試試！<span style="color: #cf4a31;"><i class="fas fa-battery-half ai-1x fa-beat"></i></span>【進度】原型A交付
 </div>
 
 減碳得甘願及志願。有價值有動機。
@@ -79,10 +79,10 @@ h2{font-size: 2.5rem; important!}
 
 visCEADs 項目原型成果A展示，可把42部門31省市域間投入產出表與碳核算數據，有效地把數據洞察價值開發出來。理論上更使用網絡可視化方法與3B框架（骨架、基線、與標杆），打造出碳中和數智平台、雙碳管服數字平台的核心模塊。
 
-[點此可至全畫面](visualization/index.zh.html) 試試！
+[點此可至全畫面](/visualization/prj-VisCEADs/index.zh.html) 試試！
 
 
-<iframe class = "info-vis" src="visualization/index.zh.html" width="100%" style="border:none;"></iframe>
+<iframe class = "info-vis" src="/visualization/prj-VisCEADs/index.zh.html" width="100%" style="border:none;"></iframe>
 
 
 <div class="fs-1 bg-warning text-center" markdown="1">
