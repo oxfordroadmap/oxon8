@@ -1,5 +1,5 @@
 ---
-title: 照亮產業「精准脫碳」之路--visCEADs項目於 IEEE 綠色技術研討會發佈
+title: '照亮產業「精准脫碳」之路--visCEADs項目於 IEEE 綠色技術研討會發佈'
 date: 2023-12-08
 tags:
   - COP28
