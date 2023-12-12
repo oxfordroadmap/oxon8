@@ -15,9 +15,9 @@ categories:
   - Precision Decarbonization
   - Green Digital Action
 image:
-  filename: FGAI4A-I-132.cover.webp
+  filename: FGAI4A-I-132.cover.cropped.webp
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 ---
 
 由澳恪森與國家工業設計研究院（生態設計）等單位合作的《面向數字農業基於碳排計量的供應鏈金融》技術文件 (編號：FG-AI4A-I-132)，已成功提交至 [第 8 屆ITU-T **FG-AI4A** 智能農業焦點組2023年12月例會](https://www.itu.int/en/ITU-T/focusgroups/ai4a/Pages/default.aspx)，並由廖漢騰博士於**2023 年 12 月 1 日**會上報告發言。

@@ -1,5 +1,5 @@
 ---
-title: '[To be translated] 双创加双化@COP28：翻译介绍国际电联ITU的绿色化数字行动'
+title: 'Entrepreneurship and Innovation Acitivies for Green Digital Transformation at COP28: Translation of the ITU Green Digital Action Documents'
 date: 2023-12-02
 categories:
   - Technology Roadmapping
@@ -19,28 +19,62 @@ image:
   filename: ITU-Thematic_Pillar-4.a-zh-hans_ink.webp
 ---
 
-双创加双化的绿色化数字行动@COP28：国际电联ITU主张协调一致行动利用数字技术解决气候问题
-主张协调一致行动利用数字技术解决气候问题
 
-{{< youtube QhV5th0volo >}}
+Green digital action is launched by the ITU at [the  UAE](https://www.cop28.com/).
 
-以科学方法确立信息通信产业的环境影响（特别是GHG温室气体排放）及数字创新促进可持续发展，是主要议程。
+Its core document was translated by Oxford Roadmapping into Chinese: [simplified](Green_Digital_Action_at_COP28.zh-hans.pdf), [orthodox and traditional Chinese](Green_Digital_Action_at_COP28.zh-hant.pdf), as part of its efforts to build green digital action toolkit of the [【GDAStandard】project]({{< ref "/project/prj-roadmap_GDAStandard" >}}). 
 
-在此说明会上，专家亦就讨论出的支柱主题展开细项说明及工作，国际电联并征求有能力有意愿的组织加入分项的支柱主题。
+The main agenda of the six pillars of the green digital action is the momentum-creation for green standard implementation. 
 
-澳恪森同时发布绿色化数字行动@COP28核心文件的中文翻译。
+To reach and engage more organizations and individuals with the green digital action, Oxford Roadmapping has the following two on-going projects: 
 
-基于中国碳核算数据库（CEADs）的[「精准脱碳」交互可视化产品](./project/prj-VisCEADs)成果，以实际产品原型开发，展示**平台**加**标准**的碳排管理，有具大的商业模式及技术路线的发展潜能，是双化协同（绿色化数字化）数智平台核心。
+1. **[Project 【GDAStandard】]({{< ref "/project/prj-roadmap_GDAStandard" >}})**
+2. **[Project 【VisCEADs】]({{< ref "/project/prj-roadmap_GDAStandard" >}})**
 
 <!--more-->
 
+### 六大支柱主题
 
-#### 澳恪森的翻译工作成果
-为了促进
+国际电联ITU发起绿色数字行动有六大支柱主题：
+
+1. 通过开放 环境数据/ 技术支持气候/碳监测 
+2. 减少ICT 行业温室 气体排放 
+3. 过渡至 循环电子 行业 
+4. 为实施“绿色” 标准造时势-- “绿色”主流化 融入标准化工作
+5. 利用ICT 信息通信技术 对气候的积极影响
+6. 利用数字连接能力和技术来支持联合国秘书长“人人享有早期预警 ”倡议实施
+
+
+### 围绕绿色标准造时势、立动力
+
+六大支柱之一，为实施“绿色” 标准造时势，是核心的标准工作。澳恪森简化其图并中译如下：
+
+![ITU-Thematic_Pillar-4.a-zh-hans_ink.webp](ITU-Thematic_Pillar-4.a-zh-hans_ink.webp)
+
+可见在此会议上，将发布一份 **《行动呼吁文件》** ，把近200项 ITU/IEC/ISO/IEEE/IETF 相关标准列出，并识别出缺口。
+
+在COP29大会后 **同行学习工作组** 会发起成立，负责跟进行动计划的 实施情况 。
+
+### 更早的说明会
+
+国际电联ITU主张协调一致行动利用数字技术解决气候问题，在COP28开会之前，有一主要的会前会，说明ITU的2023年行动主张。
+
+{{< youtube QhV5th0volo >}}
+
+在此说明会上，专家亦就讨论出的支柱主题展开细项说明及工作，国际电联并征求有能力有意愿的组织加入分项的支柱主题。
 
 
 ![WSC_SPCG-2023.webp](WSC_SPCG-2023.webp)
+> 世界标准合作组织合作领域
 
+### 澳恪森的绿色数字行动
+
+为了在 **[世界标准合作组织（World Standards Cooperation）](https://www.worldstandardscooperation.org/)** 的全球行动下，协助东亚及东南亚的组织及个人能理解并参与相关的绿色标准行动，澳恪森有两项相关项目：
+
+1. **[【GDAStandard】项目]({{< ref "/project/prj-roadmap_GDAStandard" >}})**：以绿色＋数字创新配合绿色＋数字标准化工作，翻译并学习相关双碳管理平台等标准化及技术转化活动前沿
+2. **[【VisCEADs】项目]({{< ref "/project/prj-roadmap_GDAStandard" >}})**：基于中国碳核算数据库（CEADs）的「精准脱碳」交互可视化产品原型制作，提供各产业各地方“生态系统”创新实践在产业结构的情报分析，作为双碳管理平台核心模块，践行最新的由[中国互联网协会](https://www.isc.org.cn)2023年推出的团体标准 [　“双碳管服数字平台”　标准](https://www.isc.org.cn//profile//2023/06/13/60cbc996-47cc-45be-bf0d-06053fbe57de.pdf)。
+
+有**平台**，有**标准**，以实际产品原型开发，澳恪森廖汉腾表示，将持续在碳排管理平台与标准方面，发展商业模式及技术路线，以实现双化协同（绿色化数字化）数智平台核心功能。
 
 ## 相关单位简介
 
