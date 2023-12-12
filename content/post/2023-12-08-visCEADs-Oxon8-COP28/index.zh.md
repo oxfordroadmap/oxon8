@@ -34,7 +34,7 @@ image:
 此「精准脱碳」交互可视化产品的研发过程及成果，将由澳恪森数智科技纳入[【GDAStandard】项目]({{< ref "/project/prj-roadmap_GDAStandard" >}})
 中的绿色数字行动工具箱，作为用例。
 
-此发布是于[COP 28《联合国气候变化框架公约》第28次缔约方大会](https://www.mee.gov.cn/xxgk/hjyw/202311/t20231101_1044710.shtml)同时同地的[IEEE 绿色技术丶可持续发展和净零政策与实践研讨会 （IEEE GTSNZ） 2023](https://gtsnz.org/)，由澳恪森数智科技廖汉腾报告两篇产业论文支持[绿色化数字行动@COP28]({{< ref "/post/2023-12-02-SPCG-ITU-ISO-progress-Oxon-translated" >})。
+此发布是于[COP 28《联合国气候变化框架公约》第28次缔约方大会](https://www.mee.gov.cn/xxgk/hjyw/202311/t20231101_1044710.shtml)同时同地的[IEEE 绿色技术丶可持续发展和净零政策与实践研讨会 （IEEE GTSNZ） 2023](https://gtsnz.org/)，由澳恪森数智科技廖汉腾报告两篇产业论文支持[绿色化数字行动@COP28]({{< ref "/post/2023-12-02-SPCG-ITU-ISO-progress-Oxon-translated" >}})。
 
 
 <!--more-->
@@ -53,7 +53,7 @@ image:
 澳恪森为<span class="highlight-container highlight-green"><span class="highlight">绿色化</span></span><span class="highlight-container highlight-yellow"><span class="highlight">数字化</span></span>**转型** 
 (双化)前沿发展，贡献实际场景应用丶标准丶技术丶治理通盘考量，向前设计。
 
-「#GreenDigitalAction！双创加双化！利用支持[绿色化数字行动@COP28解决气候问题]({{< ref "/post/2023-11-27-itu-green-digital-action" >})，」廖汉腾表示，「此中国各省 “减污降碳全景图” 方法可用于双碳平台的搭建，提供产业结构脱碳转型决策的精准情报。」
+「#GreenDigitalAction！双创加双化！利用支持[绿色化数字行动@COP28解决气候问题]({{< ref "/post/2023-11-27-itu-green-digital-action" >}})，」廖汉腾表示，「此中国各省 “减污降碳全景图” 方法可用于双碳平台的搭建，提供产业结构脱碳转型决策的精准情报。」
 
 产品原型及说明，请至[「精准脱碳」交互可视化产品]({{< ref "/project/prj-VisCEADs" >}})项目页体验及详阅。
 
