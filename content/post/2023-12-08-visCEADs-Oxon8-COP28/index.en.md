@@ -24,14 +24,12 @@ image:
   preview_only: false
 ---
 
-于[联合国气候大会COP28](https://www.cop28.com/)同时同地的[IEEE 绿色技术丶可持续发展和净零政策与实践研讨会 （IEEE GTSNZ） 2023](https://gtsnz.org/)，澳恪森数智科技发布 **[「精准脱碳」交互可视化产品]({{< ref "/project/prj-VisCEADs" >}})** 成果，以实际产品原型开发，展示基于中国碳核算数据库（CEADs）的创新价值，可运用在两方面：
+Held at the same time and site of the [UN Climate Conference COP 28](https://www.cop28.com/), the [IEEE Green Tech, Sustainable Development and Net-Zero Policies and Practices  2023](https://gtsnz.org/) was held.  There, Oxford Roadmapping released the **["Precision Decarbonization" Interactive Visualization]({{< ref "/project/prj-VisCEADs" >}})** prototype outcomes.  The prototype shows the innovative values of using the Carbon Emission Accounting Datasets (CEADs) in the following two domains:
 
-* 碳管理与服务平台
-* 碳中和丶国际标准组织ISO和国际电联ITU标准发展
+* Carbon management and service platform
+* Carbon neutrality and its international standards and development
 
-此「精准脱碳」交互可视化产品的研发过程及成果，将由澳恪森数智科技纳入[【GDAStandard】项目]({{< ref "/project/prj-roadmap_GDAStandard" >}})
-中的绿色数字行动工具箱，作为用例。
-交互可视化图绿色化数字化双化意义：搭建双碳平台
+The outcomes will be incorporated, as a use-case, into the Green Digital Action Toolkits, to be released by Oxford Roadmapping's free-to-use [【GDAStandard】project]({{< ref "/project/prj-roadmap_GDAStandard" lang="en" >}}).  It will demonstrate the usefulness of green digital action innovation and standardization for green digital transformation via platform-building. 
 
 <!--more-->
 

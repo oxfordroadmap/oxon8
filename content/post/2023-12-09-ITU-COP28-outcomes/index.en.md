@@ -20,16 +20,12 @@ image:
   preview_only: false
 ---
 
-Announced in December 2023 at the COP28, the [outcomes of the Green Digital Action by the International Telecommunication Union (ITU) ](https://www.itu.int/initiatives/green-digital-action-atcop28/about/outcomes/) includes the following:
+At the COP28, [the International Telecommunication Union (ITU) ](https://www.itu.int/initiatives/green-digital-action-atcop28/about/outcomes/) announced the following outcomes of the Green Digital Action:
 
-1. Green standards：
-	* One joint statement on the importance of **sustainability being built into technical standards’ development** by design to achieve net-zero, announced by [World Standards Cooperation](https://www.worldstandardscooperation.org/), led by international standard organizations such as IEC, ISO and ITU.
-	* One [Action Plan](http://www.itu.int/initiatives/green-digital-action-atcop28/wp-content/uploads/sites/4/2023/12/Call-to-Action-Pillar4-Green-standards.pdf) and launch of a peer-learning working group that foster collaboration on **environmental sustainability standards.** implementation。
-2. The UN **Early Warnings for All (EW4all) ** initiative to be implemented by the ICT sector before 2027 that ensure protection for everyone, using cell broadcasts and location-based SMS (Satellite service providers are encouraged to join). 
-3. A peer learning working group on **ICT Sector GHG emissions** is launched to to implement GHG emissions reductions by following ICT 1.5°C trajectories.
-4. A **circular economy** project on [“E-Waste Management Regulations”](https://www.itu.int/hub/2023/12/how-to-reduce-e-waste-and-build-circular-economies/) is  launched by Saudi Arabia, to help  the regulations in Zambia, Rwanda, and Paraguay.
-
-Over 40 tech companies and organizations came together to push for Green Digital Action at COP28, and the Green Standard  [Action Plan](http://www.itu.int/initiatives/green-digital-action-atcop28/wp-content/uploads/sites/4/2023/12/Call-to-Action-Pillar4-Green-standards.pdf)  is co-led by the ITU and Huawei. 
+1. Green standards： One joint statement announced by [World Standards Cooperation](https://www.worldstandardscooperation.org/), on the importance of **sustainability being built into technical standards’ development** by design to achieve net-zero.  One [Action Plan](http://www.itu.int/initiatives/green-digital-action-atcop28/wp-content/uploads/sites/4/2023/12/Call-to-Action-Pillar4-Green-standards.pdf) to  **environmental sustainability standards.** implementation.
+2. The UN **Early Warnings for All (EW4all)**  initiative to be implemented by the ICT sector before 2027 that ensure protection for everyone, using cell broadcasts and location-based SMS (Satellite service providers are encouraged to join). 
+3. **ICT Sector GHG emissions** reduction, following the set ICT 1.5°C trajectories.
+4. A project on **[“E-Waste Management Regulations”](https://www.itu.int/hub/2023/12/how-to-reduce-e-waste-and-build-circular-economies/)** led by Saudi Arabia, to help the regulations in Zambia, Rwanda, and Paraguay.
 
 Marking the roadmap and gaps of standardization, the [Call to Action](https://www.itu.int/initiatives/green-digital-action-atcop28/wp-content/uploads/sites/4/2023/12/Call-to-Action-Pillar4-Green-standards.pdf) document is among the most important technological documents announced by the ITU at COP 28.
 
@@ -41,6 +37,9 @@ to release Green Digital Action toolbox for wider participation in the global ef
 > Requires translation
 
 ### 国际电联ITU绿色化数字行动@COP28 
+
+Over 40 tech companies and organizations came together to push for Green Digital Action at COP28, and the Green Standard  [Action Plan](http://www.itu.int/initiatives/green-digital-action-atcop28/wp-content/uploads/sites/4/2023/12/Call-to-Action-Pillar4-Green-standards.pdf)  is co-led by the ITU and Huawei. 
+
 
 [世界标准合作组织（World Standards Cooperation）](https://www.worldstandardscooperation.org/)，的[COP28联合声明](https://www.worldstandardscooperation.org/wp-content/uploads/2023/11/WSC_Statement_Standards-Digital_8_Nov_2023.pdf)强调可持续发展。
 
