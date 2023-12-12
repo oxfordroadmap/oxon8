@@ -11,7 +11,6 @@ tags:
 - 碳普惠
 - Carbon Accounting
 - 碳核算
-- Supply Chain
 - 供應鏈
 - CCER
 - 國家核證自願減排量

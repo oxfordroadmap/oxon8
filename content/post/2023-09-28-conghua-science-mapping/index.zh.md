@@ -9,7 +9,6 @@ categories:
 tags:
 - Green Digital Transformation
 - 双化协同
-- Supply Chain
 - 供应链
 - FinTech
 - 金融科技
