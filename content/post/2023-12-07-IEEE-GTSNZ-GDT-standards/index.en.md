@@ -10,6 +10,9 @@ tags:
 - COP28
 - Carbon management
 - Green Digital Transformation
+image:
+  filename: Liao-HT-gtsnz.org-ISO_ITU-core-roadmap.png
+  preview_only: true
 ---
 
 Making carbon pollution visible, so that the roadmap forwards can be clear.
@@ -17,7 +20,7 @@ Making carbon pollution visible, so that the roadmap forwards can be clear.
 The interactive infographics, developed by Oxford Roadmapping, have been released , both in [Chinese](https://oxfordroadmap.github.io/vis-carbon/index.zh-hans.html) and [English](https://oxfordroadmap.github.io/vis-carbon/index.en.html)
 versions, based on the [Carbon Emission Accounts and Datasets（CEADs）](https://www.ceads.net.cn/).
 
-For <span class="highlight-container highlight-green"><span class="highlight">green</span></span><span class="highlight-container highlight-yellow"> and <span class="highlight">digital</span></span> **transformation** 
+For <span class="highlight-container highlight-green"><span class="highlight">green</span></span> and <span class="highlight-container highlight-yellow"><span class="highlight">digital</span></span> **transformation** 
 ("twin transition") development, Oxford Roadmapping contributes to the use-case study, scenario forecasting, standardization, governance thinking for designing the next-generation digital solutions.
 
 “#GreenDigitalAction  by combing Innovation & Entrepreneurship and Green & Digital!  Develop [digital solutions for climate actions ](https://oxon8.netlify.app/post/2023-11-27-itu-green-digital-action/)!”

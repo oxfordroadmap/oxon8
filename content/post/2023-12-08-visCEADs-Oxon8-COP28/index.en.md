@@ -1,24 +1,24 @@
 ---
-title: '[To be translated] Shedding light on viable decarbonization paths--Project VisCEADs presented at IEEE GTSNZ'
+title: Shedding light on viable decarbonization paths--Project VisCEADs presented at IEEE GTSNZ
 date: 2023-12-08
 tags:
   - COP28
   - 联合国气候大会
   - 【2023VisCEADs】
   - 【2023GDAStandard】
-  - 双化协同
-  - 数智平台
-  - 技术路线
-  - 商业模式
-  - 碳排管理
+  - GreenDigitalTransformation
+  - SmartDigitalPlatforms
+  - TechnologyRoadmapping
+  - BusinessModel
+  - CarbonManagement
 categories:
-  - 精准脱碳
-  - 投入产出分析
-  - 网络图可视化
-  - 双化行动
-  - 标准化
-  - 脱碳路线图
-  - 技术路线图
+  - Precision Decarbonization
+  - Input-Output Analysis
+  - Social Network Analysis
+  - Green Digital Action
+  - Standardization
+  - Decarbonization Roadmapping
+  - Technology Roadmapping
 image:
   filename: prj-visCEADs.webp
   preview_only: false
