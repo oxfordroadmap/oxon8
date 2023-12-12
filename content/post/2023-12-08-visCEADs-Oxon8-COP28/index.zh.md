@@ -17,6 +17,7 @@ categories:
   - 网络图可视化
   - 双化行动
   - 标准化
+  - 脱碳路线图
   - 技术路线图
 image:
   filename: prj-visCEADs.webp

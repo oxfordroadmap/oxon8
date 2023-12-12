@@ -15,6 +15,7 @@ tags:
   - BusinessModel
 categories:
   - Precision Decarbonization
+  - Decarbonization Roadmapping
   - Input-Output Analysis
   - Social Network Analysis
   - Green Digital Action
