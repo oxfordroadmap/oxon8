@@ -24,16 +24,16 @@ image:
   preview_only: false
 ---
 
-Held at the same time and site of the [UN Climate Conference COP 28](https://www.cop28.com/), the [IEEE Green Tech, Sustainable Development and Net-Zero Policies and Practices  2023](https://gtsnz.org/) was held.  There, Oxford Roadmapping released the **["Precision Decarbonization" Interactive Visualization]({{< ref "/project/prj-VisCEADs" >}})** prototype outcomes.  The prototype shows the innovative values of using the Carbon Emission Accounting Datasets (CEADs) in the following two domains:
+Held at the same time and site of the [UN Climate Conference COP 28](https://www.cop28.com/), the [IEEE Green Tech, Sustainable Development and Net-Zero Policies and Practices  2023](https://gtsnz.org/) was held.  There, Oxford Roadmapping released the **["Precision Decarbonization" Interactive Visualization]({{< ref "/en/project/prj-VisCEADs" >}})** prototype outcomes.  The prototype shows the innovative values of using the Carbon Emission Accounting Datasets (CEADs) in the following two domains:
 
 * Carbon management and service platform
 * Carbon neutrality and its international standards and development
 
-The outcomes will be incorporated, as a use-case, into the Green Digital Action Toolkits, to be released by Oxford Roadmapping's free-to-use [【GDAStandard】project]({{< relref "../project/prj-roadmap_GDAStandard">}}).  It will demonstrate the usefulness of green digital action innovation and standardization for green digital transformation via platform-building. 
+The outcomes will be incorporated, as a use-case, into the Green Digital Action Toolkits, to be released by Oxford Roadmapping's free-to-use [【GDAStandard】project]({{< ref "/en/project/prj-roadmap_GDAStandard">}}).  It will demonstrate the usefulness of green digital action innovation and standardization for green digital transformation via platform-building. 
 
 <!--more-->
 
-对于碳排及产业数据推动绿色化数字化双化行动，此「精准脱碳」交互可视化产品是于[COP 28《联合国气候变化框架公约》第28次缔约方大会](https://www.mee.gov.cn/xxgk/hjyw/202311/t20231101_1044710.shtml)同时同地的[IEEE 绿色技术丶可持续发展和净零政策与实践研讨会 （IEEE GTSNZ） 2023](https://gtsnz.org/)，由澳恪森数智科技廖汉腾报告两篇产业论文支持[绿色化数字行动@COP28]({{< ref "/post/2023-12-02-SPCG-ITU-ISO-progress-Oxon-translated" >}})。
+对于碳排及产业数据推动绿色化数字化双化行动，此「精准脱碳」交互可视化产品是于[COP 28《联合国气候变化框架公约》第28次缔约方大会](https://www.mee.gov.cn/xxgk/hjyw/202311/t20231101_1044710.shtml)同时同地的[IEEE 绿色技术丶可持续发展和净零政策与实践研讨会 （IEEE GTSNZ） 2023](https://gtsnz.org/)，由澳恪森数智科技廖汉腾报告两篇产业论文支持[绿色化数字行动@COP28]({{< ref "/en/post/2023-12-02-SPCG-ITU-ISO-progress-Oxon-translated" >}})。
 
 ## 「精准脱碳」中国各省 “减污降碳全景图”
 
@@ -41,14 +41,14 @@ The outcomes will be incorporated, as a use-case, into the Green Digital Action 
 来检视中国各省 “减污降碳全景图” 。
 
 自行研发的
-**[「精准脱碳」交互可视化产品]({{< ref "/project/prj-VisCEADs" >}})** ，已释出在Github上，分别有 [中文](/visualization/prj-visCEADs/index.zh.html)  及 [英文](/visualization/prj-visCEADs/index.en.html) 两版本。
+**[「精准脱碳」交互可视化产品]({{< ref "/en/project/prj-VisCEADs" >}})** ，已释出在Github上，分别有 [中文](/visualization/prj-visCEADs/index.zh.html)  及 [英文](/visualization/prj-visCEADs/index.en.html) 两版本。
 
 ### 绿色化数字化双化意义：搭建双碳平台
 
 澳恪森为<span class="highlight-container highlight-green"><span class="highlight">绿色化</span></span><span class="highlight-container highlight-yellow"><span class="highlight">数字化</span></span>**转型** 
 (双化)前沿发展，贡献实际场景应用丶标准丶技术丶治理通盘考量，向前设计。
 
-「#GreenDigitalAction！双创加双化！利用支持[绿色化数字行动@COP28解决气候问题]({{< ref "/post/2023-11-27-itu-green-digital-action" >}})，」廖汉腾表示，「此中国各省 “减污降碳全景图” 方法可用于双碳平台的搭建，提供产业结构脱碳转型决策的精准情报。」
+「#GreenDigitalAction！双创加双化！利用支持[绿色化数字行动@COP28解决气候问题]({{< ref "/en/post/2023-11-27-itu-green-digital-action" >}})，」廖汉腾表示，「此中国各省 “减污降碳全景图” 方法可用于双碳平台的搭建，提供产业结构脱碳转型决策的精准情报。」
 
 <figure class="bg-white p-3 rounded mb-0" style="border-left: .25rem solid #002147;">
             <blockquote class="blockquote pb-2">
@@ -62,7 +62,7 @@ The outcomes will be incorporated, as a use-case, into the Green Digital Action 
  </figure>
 
 
-产品原型及说明，请至[「精准脱碳」交互可视化产品]({{< ref "/project/prj-VisCEADs" >}})项目页体验及详阅。
+产品原型及说明，请至[「精准脱碳」交互可视化产品]({{< ref "/en/project/prj-VisCEADs" >}})项目页体验及详阅。
 
 ### 交互可视化图简要说明
 
@@ -80,9 +80,9 @@ The outcomes will be incorporated, as a use-case, into the Green Digital Action 
 
 ### 标准化、商业化双化意义：按技术路线图展望未来商业模式与标准
 
-**澳恪森**表示，[「精准脱碳」交互可视化产品]({{< ref "/project/prj-VisCEADs" >}})项目的商业模式、标准化、技术路线图、等还有不少工作可以推进，同时还有其它可视化产品正规划开发中。
+**澳恪森**表示，[「精准脱碳」交互可视化产品]({{< ref "/en/project/prj-VisCEADs" >}})项目的商业模式、标准化、技术路线图、等还有不少工作可以推进，同时还有其它可视化产品正规划开发中。
 
-「绿色创新必需要能转换成价值，才能支持[绿色化数字行动@COP28解决气候问题]({{< ref "/post/2023-11-27-itu-green-digital-action" >}})，」廖汉腾表示，「此「精准脱碳」交互可视化产品用例可用于双碳平台的标准化、商业化，期待能针与数字平台公司合作，一起参与标准制定，以及服务各省市各行业双化转型，将碳排负资产转为加值新能力。」
+「绿色创新必需要能转换成价值，才能支持[绿色化数字行动@COP28解决气候问题]({{< ref "/en/post/2023-11-27-itu-green-digital-action" >}})，」廖汉腾表示，「此「精准脱碳」交互可视化产品用例可用于双碳平台的标准化、商业化，期待能针与数字平台公司合作，一起参与标准制定，以及服务各省市各行业双化转型，将碳排负资产转为加值新能力。」
 
 <figure class="bg-white p-3 rounded mb-0" style="border-left: .25rem solid #a34e78;">
             <blockquote class="blockquote pb-2">

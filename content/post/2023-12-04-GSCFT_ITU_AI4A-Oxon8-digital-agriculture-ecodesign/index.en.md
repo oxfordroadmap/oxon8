@@ -22,7 +22,7 @@ image:
 
 The collaboration work with **China's National Industrial Institute (Eco-design)** was successfully submitted and presented at [the 8th ITU-T **FG-AI4A** meeting in December 2023](https://www.itu.int/en/ITU-T/focusgroups/ai4a/Pages/default.aspx).  The technical document, "Supply Chain Finance Linking with Carbon Accounting Data for Agriculture Business and Products"  (FG-AI4A-I-132), was presented by Dr. Han-Teng Liao on December 1. 
 
-This document was the outcomes by **Oxford Roadmapping** and China's National Industrial Institute (Eco-design) research and design work on [Conghua conditions and carbon inclusion opportunities]({{< ref "/post/2023-04-04-eco-design-carbon-inclusion-scheme" >}}) and the Greater Bay Area's "Green Carbon Link" financing instruments, resulting in a pilot project called **["Green Supply Chain FinTech for Digital Agriculture"]({{< ref "/project/prj-roadmap_gscft_itu" >}})**.  The collaboration was inspired earlier by the joint conference by the United Nations **International Telecommunication Union (ITU)** and **Food Administration Organization (FAO)** on [Digital Agriculture and digital transformation for food security]({{< ref "/post/2023-03-30-ITU-digital-agriculture-ecodesign" >}}).
+This document was the outcomes by **Oxford Roadmapping** and China's National Industrial Institute (Eco-design) research and design work on [Conghua conditions and carbon inclusion opportunities]({{< ref "/en/post/2023-04-04-eco-design-carbon-inclusion-scheme" >}}) and the Greater Bay Area's "Green Carbon Link" financing instruments, resulting in a pilot project called **["Green Supply Chain FinTech for Digital Agriculture"]({{< ref "/en/project/prj-roadmap_gscft_itu" >}})**.  The collaboration was inspired earlier by the joint conference by the United Nations **International Telecommunication Union (ITU)** and **Food Administration Organization (FAO)** on [Digital Agriculture and digital transformation for food security]({{< ref "/en/post/2023-03-30-ITU-digital-agriculture-ecodesign" >}}).
 
 
 <!--more-->
@@ -72,7 +72,7 @@ This document was the outcomes by **Oxford Roadmapping** and China's National In
 
 ＂实现 **“链式脱碳”丶“链式融资”丶“链式支持”** 是人民银行广州分行总结 “**绿色碳链通**”融资的创新意义，十分值得推向国际，＂潘仲亷博士说明参与**国际电联**的制定标准纳入在地实践的中国现代化意义，＂人民银行及中国金融学会绿色金融专业委员会等的组织，亦对[通过“绿色碳链通”模式进行融资并取得良好经济丶社会丶环境效益的供应链核心企业丶上下游企业进行精准支持采正面期待](http://www.greenfinance.org.cn/displaynews.php?cid=86&id=3537)。＂
 
-＂这是绿色数据及信息流促进社会丶环境丶治理 (ESG) 效益的**精准支持**及数据驱动**精准脱碳**丶**精准减排**的最新理论及实践路径，＂廖汉腾博士总结，＂在**扩大企业碳账户的行业覆盖面**的工作建议之下，农业有不少[生物能源与碳捕获和储存 (BECCS )](https://www.eco.gov.cn/news_info/51244.html)在零碳或负碳的机运，打通绿色品牌丶技术丶地理标志丶等估值的 **高质量发展**，[设计如『双碳荔枝』丶『碳中和玫瑰』品牌之绿色金融科技路线图]({{< ref "/post/2023-03-26-high-quality-development-Conghua-carbon-neutral-brands" >}})。
+＂这是绿色数据及信息流促进社会丶环境丶治理 (ESG) 效益的**精准支持**及数据驱动**精准脱碳**丶**精准减排**的最新理论及实践路径，＂廖汉腾博士总结，＂在**扩大企业碳账户的行业覆盖面**的工作建议之下，农业有不少[生物能源与碳捕获和储存 (BECCS )](https://www.eco.gov.cn/news_info/51244.html)在零碳或负碳的机运，打通绿色品牌丶技术丶地理标志丶等估值的 **高质量发展**，[设计如『双碳荔枝』丶『碳中和玫瑰』品牌之绿色金融科技路线图]({{< ref "/en/post/2023-03-26-high-quality-development-Conghua-carbon-neutral-brands" >}})。
 
 在推动此议题领域的全球机器学习丶数据分析集成平台，**先正达** (Syngenta) 全球数字农业 数据资产管理经理 [R. Andres Ferreyra](https://www.itu.int/en/ITU-T/webinars/DT4CC/20230217/Pages/bios.aspx#Ferreyra)则从国际数据标准的实践需求，提供了智能农业的定义丶标准重要性说明丶以及目前国际标准化组织 ISO 在此领域的 SAG 组织的主要工作产出，就是要产出标准化路线图 (Standardization Roadmap)。
 
