@@ -22,19 +22,23 @@ image:
 
 2023年12月于[联合国气候大会COP28](https://www.mee.gov.cn/xxgk/hjyw/202311/t20231101_1044710.shtml)上，[国际电联ITU发布绿色数字行动成果 ](https://www.itu.int/initiatives/green-digital-action-atcop28/about/outcomes/)有下：
 
-1. 绿色标准：
-	* 1项联合声明，通过设计纳入**技术标准制定**，助世界实现净零，由[世界标准合作组织](https://www.worldstandardscooperation.org/) 会IEC/ISO/ITU领头。
-	* 1项[行动计划](http://www.itu.int/initiatives/green-digital-action-atcop28/wp-content/uploads/sites/4/2023/12/Call-to-Action-Pillar4-Green-standards.pdf)，启动同行学习组，实施**环境可持续性标准**方面的合作。
-2. **人人享用的早期预警**倡议实现小区广播和位置短信，到2027年保护所有人。鼓励卫星服务商加入。
-3. **ICT行业温室气体排放**启动一个同行学习工作组，按 1.5°C的轨迹实施温室气体减排
-4. **循环经济**启动[“电子废物管理条例”](https://www.itu.int/hub/2023/12/how-to-reduce-e-waste-and-build-circular-economies/)的联合项目，由沙特阿拉伯王国与国际电联合作推进发起，旨在帮助赞比亚、卢旺达和巴拉圭制定法规。
-
-有40多家科技公司参与，其中绿色标准[行动计划]由国际电联及华为领头。
+1. **绿色标准**：由[世界标准合作组织](https://www.worldstandardscooperation.org/) 领头联合声明通过设计将可持续性纳入**技术标准制定**，助世界实现净零。由国际电联等展开[行动计划](http://www.itu.int/initiatives/green-digital-action-atcop28/wp-content/uploads/sites/4/2023/12/Call-to-Action-Pillar4-Green-standards.pdf)，启动同行学习组，实施**环境可持续性标准**合作。
+2. **人人享用早期预警**倡议：实现小区广播和位置短信，2027年前保护所有人。鼓励卫星服务商加入。
+3. **ICT行业温室气体排放**启动同行学习工作组，按 1.5°C的轨迹实施温室气体减排。
+4. 启动 **[“电子废物管理条例”](https://www.itu.int/hub/2023/12/how-to-reduce-e-waste-and-build-circular-economies/)** 的循环经济联合项目，由沙特阿拉伯王国与国际电联合作推进发起，帮助赞比亚、卢旺达和巴拉圭制定法规。
 
 标注出标准化地图与空缺的[呼吁采取行动文件](https://www.itu.int/initiatives/green-digital-action-atcop28/wp-content/uploads/sites/4/2023/12/Call-to-Action-Pillar4-Green-standards.pdf)是国际电联发布的最重要的技术文件。澳恪森数智科技将持续以[【GDAStandard】项目]({{< ref "/project/prj-roadmap_GDAStandard" >}})
 推出绿色数字行动工具箱。
 
 <!--more-->
+
+IEC/ISO/ITU
+
+有40多家科技公司参与，其中绿色标准行动计划由国际电联及华为领头。
+
+绿色标准：
+	* 1项联合声明，通过设计纳入**技术标准制定**，助世界实现净零，由[世界标准合作组织](https://www.worldstandardscooperation.org/) 会IEC/ISO/ITU领头。
+	* 1项[行动计划](http://www.itu.int/initiatives/green-digital-action-atcop28/wp-content/uploads/sites/4/2023/12/Call-to-Action-Pillar4-Green-standards.pdf)，启动同行学习组，实施**环境可持续性标准**方面的合作。
 
 ### 国际电联ITU绿色化数字行动@COP28 
 
