@@ -26,7 +26,7 @@ sections:
 <span style="color: #cf4a31;"><i class="ai ai-ideas-repec ai-3x fa-bounce"></i></span>
 
 <style>
-.section-subheading > a {
+.article-title  > a {
   font-size: 1.75rem;
   font-weight: 700;
 }

@@ -20,10 +20,10 @@ image:
   preview_only: true
 ---
 
-由澳恪森与国家工业设计研究院（生态设计）等单位合作的《面向数字农业基於碳排计量的供应链金融》技术文件 (编号：FG-AI4A-I-132)，已成功提交至 [第 8 届ITU-T **FG-AI4A** 智能农业焦点组2023年12月例会](https://www.itu.int/en/ITU-T/focusgroups/ai4a/Pages/default.aspx)，并由廖汉腾博士於**2023 年 12 月 1 日**会上报告发言。
+由澳恪森与国家工业设计研究院（生态设计）等单位合作的《**面向数字农业基於碳排计量的供应链金融**》技术文件 (编号：FG-AI4A-I-132)，已成功提交至 [第 8 届ITU-T **FG-AI4A** 智能农业焦点组2023年12月例会](https://www.itu.int/en/ITU-T/focusgroups/ai4a/Pages/default.aspx)，并由廖汉腾博士於2023 年 12 月 1 日会上报告发言。
 
 在2023年参加了由联合国**国际电信联盟**及**粮农组织**组织的标准[研讨会系列第 21 集《数字农业：为粮食安全驱动数字转型》]({{< ref "/post/2023-03-30-ITU-digital-agriculture-ecodesign" >}})，澳恪森与国家工业设计研究院以[在地从化的农业情况实践碳普惠的机遇]({{< ref "/post/2023-04-04-eco-design-carbon-inclusion-scheme" >}})，以及大湾区
-「绿色碳链通」的使用案例的调研，经技术路线图等设计工作坊创新活动後，展开了合作项目**[《数字农业绿色供应链金融科技（GSCFT）项目》]({{< ref "/project/prj-roadmap_gscft_itu" >}})**
+「绿色碳链通」的使用案例的调研，经技术路线图等设计工作坊创新活动後，展开了合作项目 **[《数字农业绿色供应链金融科技（GSCFT）项目》]({{< ref "/project/prj-roadmap_gscft_itu" >}})** 
 
 
 <!--more-->
