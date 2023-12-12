@@ -31,7 +31,7 @@ h2{font-size: 2rem; important!}
 <div class="p-3 mb-2 bg-warning link-warning text-white  container" markdown="1" >
 <span style="color: #cf4a31;"><i class="fas fa-battery-half ai-1x fa-beat"></i></span>【Progress】Prototype A delivered.  
 
-Try it by [clicking on here]({{< ref path="/en/visualization/prj-VisCEADs/index" lang="en" outputFormat="html" >}}) !
+Try it by [clicking on here]({{< ref path="/en/visualization/prj-VisCEADs/index.en.html" >}}) !
 
 </div>
 
