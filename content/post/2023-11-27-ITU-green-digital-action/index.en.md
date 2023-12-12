@@ -1,5 +1,5 @@
 ---
-title:  '双创加双化的绿色化数字行动@COP28：国际电联ITU主张协调一致行动利用数字技术解决气候问题'
+title:  '[To be translated] 双创加双化的绿色化数字行动@COP28：国际电联ITU主张协调一致行动利用数字技术解决气候问题'
 date: 2023-11-27
 categories:
 - Technology Roadmapping
@@ -111,7 +111,7 @@ tags:
 
 ### 澳恪森数智科技支持 绿色化数字行动@COP28
 
-![HTL-GreenDigitalAction.png](HTL-GreenDigitalAction.png)
-![CLP-GreenDigitalAction.png](CLP-GreenDigitalAction.png)
+![HTL-GreenDigitalAction.png](oxon8/content/post/2023-11-27-ITU-green-digital-action/HTL-GreenDigitalAction.png)
+![CLP-GreenDigitalAction.png](oxon8/content/post/2023-11-27-ITU-green-digital-action/CLP-GreenDigitalAction.png)
 
 ![Green_digital_logo_Horizontal_-_Colour.png](Green_digital_logo_Horizontal_-_Colour.png)

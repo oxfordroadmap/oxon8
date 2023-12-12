@@ -20,7 +20,7 @@ image:
   preview_only: false
 ---
 
-2023年12月于[联合国气候大会COP28](https://www.mee.gov.cn/xxgk/hjyw/202311/t20231101_1044710.shtml)上，[国际电联ITU发布绿色数字行动成果 ](https://www.itu.int/initiatives/green-digital-action-atcop28/about/outcomes/)有下：
+2023年12月于[联合国气候大会 COP28 UAE](https://www.cop28.com/)上，[国际电联ITU发布绿色数字行动成果 ](https://www.itu.int/initiatives/green-digital-action-atcop28/about/outcomes/)有下：
 
 1. **绿色标准**：由[世界标准合作组织](https://www.worldstandardscooperation.org/) 领头联合声明通过设计将可持续性纳入**技术标准制定**，助世界实现净零。由国际电联等展开[行动计划](http://www.itu.int/initiatives/green-digital-action-atcop28/wp-content/uploads/sites/4/2023/12/Call-to-Action-Pillar4-Green-standards.pdf)，启动同行学习组，实施**环境可持续性标准**合作。
 2. **人人享用早期预警**倡议：实现小区广播和位置短信，2027年前保护所有人。鼓励卫星服务商加入。

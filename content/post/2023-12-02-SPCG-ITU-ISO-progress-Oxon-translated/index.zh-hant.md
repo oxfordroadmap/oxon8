@@ -1,113 +1,126 @@
 ---
-title:  '雙創加雙化的綠色化數字行動@COP28：國際電聯ITU主張協調一致行動利用數字技術解決氣候問題'
+title: 雙創加雙化@COP28：翻譯介紹國際電聯ITU的綠色化數字行動
 date: 2023-12-02
-categories:
-- Technology Roadmapping
-- 技術路線圖
 tags:
-- COP28
-- 聯合國氣候大會
-- Carbon management
-- 碳排管理
-- Green Digital Transformation
-- 雙化協同
-- 數字化綠色化雙轉型
+  - 【2023GDAStandard】
+  - 雙化協同
+  - 數智平台
+  - 技術路線
+  - 商業模式
+  - 脫碳
+categories:
+  - 標准化
+  - 雙化行動
+image:
+  filename: ITU-Thematic_Pillar-4.a-zh-hans_ink.webp
 ---
 
-**聯合國氣候大會COP28**致力於解決氣候問題。**國際電聯ITU**負責ICT信息通訊技術，利用數字技術在COP28上號召**綠色數字行動** #GreenDigitalAction。
+2023年12月於[聯合國氣候大會 COP28 UAE](https://www.cop28.com/)上，國際電聯ITU發起綠色數字行動。
 
-〝**雙創+雙化**是最新整合路徑！〞**澳恪森**表示，〝國際電聯ITU在**數字**創新創業 (雙創) 發揮重要作用，倡導用數字創新解決數字鴻溝問題。在國際標准之上，國際電聯[發展部門](https://www.itu.int/en/ITU-D/Pages/default.aspx)
-，更以（數字）生態系統 （ecosystems）概念，
-引領國際
-<span class="highlight-container highlight-green"><span class="highlight">綠色化</span></span><span class="highlight-container highlight-yellow"><span class="highlight">數字化</span></span>**轉型** 
-(雙化)前沿發展。實際場景應用、標准、技術、治理通盤考量設計向前。〞
-
-數據科學家廖漢騰博士表示，中國在綠色
-〝中國在雙化轉型以及大學生**互聯網創新創業** (雙創)教育方面，〞澳恪森數據科學家廖漢騰博士表示，
-〝應該借此世界機遇，從綠色化數字行動@COP28深入瞭解如何協調一致行動利用數字技術解決氣候問題。#GreenDigitalAction 在中國即**雙創加雙化**。〞
+澳恪森發布綠色化數字行動@COP28核心文件的中文翻譯：[簡體中文](Green_Digital_Action_at_COP28.zh-hans.pdf)、[正／繁體中文](Green_Digital_Action_at_COP28.zh-hant.pdf)，作為澳恪森數智科技[【GDAStandard】項目]({{< ref "/project/prj-roadmap_GDAStandard" >}})
+推出綠色數字行動工具箱的一部分。
 
 <!--more-->
 
-### 綠色化數字行動，為何是國際電聯ITU？
+### 六大支柱主題
+
+國際電聯ITU發起綠色數字行動有六大支柱主題：
+
+1. 通過開放 環境數據/ 技術支持氣候/碳監測 
+2. 減少ICT 行業溫室 氣體排放 
+3. 過渡至 循環 電子 行業 
+4. 為實施“綠色” 標准造時勢-- “綠色”主流化 融入標准化工作
+5. 利用ICT 信息通信技術 對氣候的積極影響
+6. 利用數字連接能力和技術來支持聯合國秘書長“人人享有早期預警 ”倡議實施
+
+
+### 圍繞綠色標准造時勢、立動力
+
+六大支柱之一，為實施“綠色” 標准造時勢，是核心的標准工作。澳恪森簡化其圖並中譯如下：
+
+![ITU-Thematic_Pillar-4.a-zh-hans_ink.webp](ITU-Thematic_Pillar-4.a-zh-hans_ink.webp)
+
+可見在此會議上，將發布一份 **《行動呼吁文件》** ，把近200項 ITU/IEC/ISO/IEEE/IETF 相關標准列出，並識別出缺口。
+
+在COP29大會後 **同行學習工作組** 會發起成立，負責跟進行動計劃的 實施情況 。
+
+### 更早的說明會
+
+國際電聯ITU主張協調一致行動利用數字技術解決氣候問題，在COP28開會之前，有一主要的會前會，說明ITU的2023年行動主張。
+
+{{< youtube QhV5th0volo >}}
+
+在此說明會上，專家亦就討論出的支柱主題展開細項說明及工作，國際電聯並征求有能力有意願的組織加入分項的支柱主題。
+
+
+![WSC_SPCG-2023.webp](WSC_SPCG-2023.webp)
+> 世界標准合作組織合作領域
+
+### 澳恪森的綠色數字行動
+
+為了在 **[世界標准合作組織（World Standards Cooperation）](https://www.worldstandardscooperation.org/)** 的全球行動下，協助東亞及東南亞的組織及個人能理解並參與相關的綠色標准行動，澳恪森有兩項相關項目：
+
+1. **[【GDAStandard】項目]({{< ref "/project/prj-roadmap_GDAStandard" >}})**：以綠色＋數字創新配合綠色＋數字標准化工作，翻譯並學習相關雙碳管理平台等標准化及技術轉化活動前沿
+2. **[【VisCEADs】項目]({{< ref "/project/prj-roadmap_GDAStandard" >}})**：基於中國碳核算數據庫（CEADs）的「精准脫碳」交互可視化產品原型制作，提供各產業各地方“生態系統”創新實踐在產業結構的情報分析，作為雙碳管理平台核心模塊，踐行最新的由[中國互聯網協會](https://www.isc.org.cn)2023年推出的團體標准 [　“雙碳管服數字平台”　標准](https://www.isc.org.cn//profile//2023/06/13/60cbc996-47cc-45be-bf0d-06053fbe57de.pdf)。
+
+有**平台**，有**標准**，以實際產品原型開發，澳恪森廖漢騰表示，將持續在碳排管理平台與標准方面，發展商業模式及技術路線，以實現雙化協同（綠色化數字化）數智平台核心功能。
+
+## 相關單位簡介
+
+### 關於國際電聯ITU
+* ![ITU-logo](ITU-logo.png)
+{.list-group-item}
 
 國際電聯ITU是聯合國專門機構，負責信息通信技術（ICT）事務，旨在促進國際上通信網絡的互聯互通。
 
 國際電聯ITU不但是重要國際標准制定單位，更是在包括人工智能等應用及治理方面，最主要的數字發展單位及平台，其對數字發展的重要性相當於，WHO世衛組織之於公共衛生，FAO糧食及農業組織之於農業及糧食安全。
 
-![Green_digital_logo_Horizontal_-_Colour.png](Green_digital_logo_Horizontal_-_Colour.png)
+{{< youtube Z4devfnIxbs >}}
 
-互聯互通網絡的旨趣，在國際發展的行動上，在過去幾十年互聯網的發展下，主要以[彌合數字鴻溝](https://news.un.org/zh/story/2023/06/1118622)為主，也是 5月17日“世界電信和信息社會日”主角機構。2015-2022年是由中國籍的趙厚麟任秘書長，把中小企業、科研部門、大專院校的參與納入此國際平台，亦包括發展數字經濟和消除數字鴻溝的行動，主要以４個I包括基礎建設(Infrastructure)、投資(Investment)、創新(Innovation)、普惠(Inclusiveness)。2023年1月1日起，由[美國籍的多琳·伯格丹-馬丁於就任國際電聯秘書長](https://www.itu.int/zh/osg//default.aspx)
-，強調數字化轉型的必要性，發展創新伙伴關系以強化技術與可持續發展的統一。
+### 關於國際電工委員會IEC
+{.alert .alert-dark role="alert" }
 
-國際電聯ITU近年更推出綠色數字化雙標准，ITU-T L.1470及ITU-T L.180制定，包括 “優化﹑替換﹑消費引導﹑信息管理﹑及協調對接"智能管理的減碳機制。本公司**澳恪森**不但以此標准審視中國互聯網協會（ISC）碳中和管理及服務系統標准發表 [《碳中和管理服務數智平台》( Smart Digital Platforms for Carbon Neutral Management and Services) ](https://oxon8.netlify.app/post/2023-02-20-smart-digital-platforms-carbon-neutral-management-services/)
-的論文，更以此開發工具箱及專利。
+![IEC-logo](IEC-logo.jpg "國際電工委員會IEC logo" class="img-thumbnail")
+{.icon}
 
-### 綠色化數字行動，國際電聯ITU今年的內容是？
+**[國際電工委員會IEC](https://www.iec.ch/about-us)** 是個全球性非營利會員組織，彙集了 170 多個國家，協調全球 20,000 名專家於電氣及電子系統及產品應用的工作，幫助世界成為對人人來說更安全、更環保、聯系更緊密的環境。
 
-針對聯合國氣候大會COP28，國際電聯ITU發起了[綠色化數字行動@COP28](https://www.itu.int/initiatives/green-digital-action-atcop28/)活動。
+{{< youtube mrh3gnHBo9Y >}}
+> IEC簡介
 
-此活動目主要目標是聚焦於數字創新，面對並解決氣候問題。
-![featured](featured.jpg)
+{{< youtube 2FtmFQ65QxI >}}
+> IEC領導於 COP28 討論《可持續數字科技》
 
-主要的努力方向有以下：
+### 關於國際標准組織ISO
+{.alert .alert-dark role="alert" }
 
-* 減少ICT行業排放
-* 培育ICT循環產業
-* 通過開放的環境數據和技術推進氣候解決方案
-* 為實施綠色標准造勢
-* 通過數字技術和技能發展，促進各行各業的綠色轉型
-利* 用數字系統確保根據聯合國秘書長的“人人享有早期預警”倡議發出挽救生命的災害警報
+![ISO-logo](ISO-logo.jpg "國際標准組織ISO logo" class="img-thumbnail"){.icon}
+
+**[國際標准組織ISO](https://www.iec.ch/about-us)** 是一個獨立的非政府國際組織，擁有 169 個國家標准機構的成員。ISO的故事始於1946年，以
+[平等友誼](https://www.iso.org/files/live/sites/isoorg/files/about%20ISO/docs/en/Friendship_among_equals.pdf)原則，發展出2萬則國際標准，涵括科技、管理、制造多領域，目前有825個技術委員會及分會。
+
+{{< youtube yJ_Lfbqov3o >}}
+> ISO 2023 @ COP28 討論《可持續金融和淨零目標：標准的作用》
+
+### 關於標准化計劃協調小組 （SPCG）
+
+**[標准化計劃協調小組 （SPCG）](https://www.worldstandardscooperation.org/what-we-do/spcg/)** 是由推進基於自願共識的國際標准體系的[「世界標准合作組織」（World Standards Cooperation）](https://www.worldstandardscooperation.org/)下的委員會，協調及審查IEC、ISO和ITU-T技術標准化活動。目前已定立下列高新技術合作領域：無障礙、人工智能、增強現實、大數據、生物識別技術、區塊鏈、循環經濟、氣候變化、雲計算、網絡安全、數據管理、數字貨幣、賑災、邊緣計算、電子醫療、能源效率、電子垃圾、智能交通系統、物聯網、機器學習、印刷電子產品、量子計算、機器人技術、智慧城市、智能電網、智能制造、虛擬現實、可穿戴設備、3D打印。
+
+{{< youtube ENJiLUzelmU >}}
 
 
-### 國際電聯ITU在聯合國氣候大會COP28的活動亮點
+### 關於世界標准合作組織
 
-〝2023年12月2日的主要活動是〞廖漢騰博士表示，〝**為淨零未來的產業轉型**是主要核心議程，點出數字科技促進產業轉型及升級的要角。議程預告包括如何使用人工智能、數字孿生等，幫助難以減排的行業找到加速可持續發展的工法。〞
+| ![IEC-logo](IEC-logo.jpg)| ![ISO-logo](ISO-logo.jpg)| ![ITU-logo](ITU-logo.png)| 
+| -------- | ------- | ------- |
 
-產業數字化和脫碳為討論主題，並包括相關的監管及融資議題，來探索數字賦能行業轉型潛力。
+**[世界標准合作組織（World Standards Cooperation）](https://www.worldstandardscooperation.org/)**是由IEC（國際電工委員會）、ISO（國際標准化組織）和 ITU（國際電信聯盟）之間的高級別合作。在此世界標准合作旗幟下，三個組織加強並推進基於自願與共識的國際標准體系。
 
-當天還有〝利用信息通信技術對氣候的積極影響〞、〝眾包人工智能解決方案〞議程。
 
-### 其它活動與澳恪森的發展
+### 國際電聯ITU綠色化數字行動@COP28 
 
-國際電聯ITU在聯合國氣候大會COP28的其它活動還包括以下：
+[世界標准合作組織（World Standards Cooperation）](https://www.worldstandardscooperation.org/)，的[COP28聯合聲明](https://www.worldstandardscooperation.org/wp-content/uploads/2023/11/WSC_Statement_Standards-Digital_8_Nov_2023.pdf)強調可持續發展。
 
-* 減少ICT行業溫室氣體排放
-* 創新、數字化賦能的綠色轉型
-* 圍繞綠色標准造勢
-* WSC關於可持續數字技術國際標准的會議
-* 負責任的數字支付以加速氣候行動
-* 負責任的數字支付，加速促進性別平等的氣候行動
-* 數字連接和技術，用於所有早期預警倡議
-* 宜居星球上的數字化轉型
-* 科技向善：關於新興技術在氣候適應中的作用的圓桌討論
-* 技術盤點——人工智能在哪裡，它如何使我們具有氣候和災害抵御能力？
-* 數字脫碳：企業、科技領導者和政府之間的合作行動如何成為加快全球氣候進展的關鍵
-* 協調環境數據：制定全球環境數據戰略
-* 為電子產品創造循環經濟
-* 全球氣候行動數據
-* 氣候博弈：游戲化、數字素養和行為改變
-* 人工智能在氣候中的應用：從創業公司的角度來看
-* 國家數字戰略和數字公共基礎設施促進氣候行動
-* 淨零數字化之旅：技術人員如何為綠色轉型做出貢獻
+![28](WSC_SPCG-2023.webp)
 
-澳恪森表示，除了專注於產業關系的投入產出數據與碳排數據交叉的可視化，更對[《碳中和管理服務數智平台》( Smart Digital Platforms for Carbon Neutral Management and Services) ](https://oxon8.netlify.app/post/2023-02-20-smart-digital-platforms-carbon-neutral-management-services/)
-的行業、團體標准、核心關鍵智彗財產權開發及協作累積用例、應用場景、工具箱以及產品原型。
-
-澳恪森進一步表示，針對綠色化數字化轉型 （雙化協同）更會於今年底與利益相關方合作，結合國際電聯、省級一流課程內容、以及技術路線圖發布“綠色化數字化雙化轉型生態系統設計工具箱”。
-
-〝歡迎有志對產業前瞻與傳統的知識地圖﹑協作地圖有興趣的行業協會、企業、大學科研人員來使用工具箱參與<span class="highlight-container highlight-green"><span class="highlight">綠色化</span></span><span class="highlight-container highlight-yellow"><span class="highlight">數字化</span></span>創新。〞潘仲亷博士總結。〝我們將把科研成果，以[設計學+信息學的雙創](https://oxon8.netlify.app/post/2023-03-27-design-science-plus-information-science/)
-設計工作坊工具，和有志之士一起利用數字技術共創綠色可持續價值。〞
-
-〝中國在**綠色化數字化雙化轉型**前沿以及**互聯網創新創業**大學生教育方面，雖已有不少成果，但在協同合作、數字發展、以及ICT信息通訊技術的綠色化方面，存在不少重大短板，應該借此世界機遇，從綠色化數字行動@COP28深入瞭解如何協調一致行動利用數字技術解決氣候問題。〞，澳恪森數據科學家廖漢騰博士表示
-
-〝國際電聯ITU在標准之外的[發展部門](https://www.itu.int/en/ITU-D/Pages/default.aspx)，更是倡導用數字創新來解決數字鴻溝的問題，更提出（數字）生態系統 （ecosystems）概念，將標准一方面往實際場景應用更緊密連結，一方面往技術治理更符合以人為中心的發展目標。這方面對用戶體驗、技術治理等多方面協作的生態系統觀，是中國大學**互聯網創新創業**比較少發展的，需要更好地結合雙創教育與可持續發展教育 (ESD) ，這是個人6年以來在中國高校打造一流人工智能課程的經驗與觀察的結果。〞
-
-### 關於澳恪森數智科技
-澳恪森數智科技，簡稱Oxon8，全名為澳恪森數智科技服務（廣州）有限公司，創新數智平台與綠色金融科技的設計，助組織與個人的雙化協同發展及精准脫碳之旅。
-![icon.png](icon.png)
-澳恪森Oxon8為行業﹑智庫﹑政府等提供基於專利分析﹑科學計量﹑知識圖譜等等數據情報，合作開展集科技研發﹑科技服務﹑成果轉化﹑系統集成﹑人才培養﹑等科技創新公共及商業服務，運用前瞻情報連結在地及全球網絡。
-
-### 澳恪森數智科技支持 綠色化數字行動@COP28
-
-![HTL-GreenDigitalAction.png](oxon8/content/post/2023-12-02-ITU-ISO-progress/HTL-GreenDigitalAction.png)
-![CLP-GreenDigitalAction.png](oxon8/content/post/2023-12-02-ITU-ISO-progress/CLP-GreenDigitalAction.png)
+如上圖所示，世界標准合作組織的SPCG標准化計劃協調小組的合作領域從無障礙到人工智能，從電子健康到智能制造，從物網到3D打印，一共28項合作領域，確保IEC/ISO/ITU能協同合作分工，並通過設計納入**技術標准制定**，以及幫助世界實現淨零排放和實現資源節約型循環低碳經濟的標准。

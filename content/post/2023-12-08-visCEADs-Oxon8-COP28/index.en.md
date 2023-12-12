@@ -1,5 +1,5 @@
 ---
-title: Shedding light on viable decarbonization paths--Project VisCEADs presented at IEEE GTSNZ [To be translated]
+title: [To be translated] Shedding light on viable decarbonization paths--Project VisCEADs presented at IEEE GTSNZ 
 date: 2023-12-08
 tags:
   - COP28
