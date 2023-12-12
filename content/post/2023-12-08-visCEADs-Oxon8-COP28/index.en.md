@@ -29,7 +29,7 @@ Held at the same time and site of the [UN Climate Conference COP 28](https://www
 * Carbon management and service platform
 * Carbon neutrality and its international standards and development
 
-The outcomes will be incorporated, as a use-case, into the Green Digital Action Toolkits, to be released by Oxford Roadmapping's free-to-use [【GDAStandard】project]({{< ref "/project/prj-roadmap_GDAStandard" lang="en" >}}).  It will demonstrate the usefulness of green digital action innovation and standardization for green digital transformation via platform-building. 
+The outcomes will be incorporated, as a use-case, into the Green Digital Action Toolkits, to be released by Oxford Roadmapping's free-to-use [【GDAStandard】project]({{< ref path="/project/prj-roadmap_GDAStandard" lang="en" >}}).  It will demonstrate the usefulness of green digital action innovation and standardization for green digital transformation via platform-building. 
 
 <!--more-->
 
