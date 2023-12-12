@@ -48,7 +48,7 @@
   {{ $bg_img := resources.Get (printf "media/%s" $bg.image) }}
   {{ if $bg_img }}
     {{/* Exception for SVG/webp as Hugo doesn't yet support image processing on SVG. */}}
-    {{ if and (ne $image.MediaType.SubType "svg" ) (ne $image.MediaType.SubType "webp" ) }}
+    {{ if and (ne $bg_img.MediaType.SubType "svg" ) (ne $bg_img.MediaType.SubType "webp" ) }}
       {{ $bg_img = $bg_img.Fit "1920x1920 webp" }}
     {{ end }}
     {{ $style_bg = printf "%sbackground-image: url('%s');" $style_bg $bg_img.Permalink }}
