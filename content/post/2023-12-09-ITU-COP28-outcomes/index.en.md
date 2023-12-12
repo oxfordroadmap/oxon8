@@ -3,37 +3,39 @@ title: COP28绿色数字行动成果，聚焦绿色标准、减排、电子废�
 date: 2023-12-09
 tags:
   - COP28
-  - 联合国气候大会
   - 【2023GDAStandard】
-  - 双化协同
-  - 数智平台
-  - 技术路线
-  - 商业模式
+  - GreenDigitalTransformation
+  - SmartDigitalPlatform
+  - TechnologyRoadmapping
+  - BusinessModel
   - 脱碳
-  - 碳排管理
+  - CarbonEmissionManagement
 categories:
-  - 标准化
-  - 双化行动
-  - 技术路线图
+  - Standardization
+  - Green Digital Action
+  - Technology Roadmapping
+categories:
 image:
   filename: WSC_SPCG-2023.webp
   preview_only: false
 ---
 
-2023年12月于联合国气候大会COP28上[国际电联ITU的绿色数字行动成果 ](https://www.itu.int/initiatives/green-digital-action-atcop28/about/outcomes/)有下：
+Announced in December 2023 at the COP28, the [outcomes of the Green Digital Action by the International Telecommunication Union (ITU) ](https://www.itu.int/initiatives/green-digital-action-atcop28/about/outcomes/) includes the following:
 
-1. 绿色标准：
-	* 1项联合声明，通过设计纳入**技术标准制定**，助世界实现净零，由[世界标准合作组织](https://www.worldstandardscooperation.org/) 会IEC/ISO/ITU领头。
-	* 1项[行动计划](http://www.itu.int/initiatives/green-digital-action-atcop28/wp-content/uploads/sites/4/2023/12/Call-to-Action-Pillar4-Green-standards.pdf)，启动同行学习组，实施**环境可持续性标准**方面的合作。
-2. **人人享用的早期预警**倡议实现小区广播和位置短信，到2027年保护所有人。鼓励卫星服务商加入。
-3. **ICT行业温室气体排放**启动一个同行学习工作组，按 1.5°C的轨迹实施温室气体减排
-4. **循环经济**启动[“电子废物管理条例”](https://www.itu.int/hub/2023/12/how-to-reduce-e-waste-and-build-circular-economies/)的联合项目，由沙特阿拉伯王国与国际电联合作推进发起，旨在帮助赞比亚、卢旺达和巴拉圭制定法规。
+1. Green standards：
+	* One joint statement on the importance of **sustainability being built into technical standards’ development** by design to achieve net-zero, announced by [World Standards Cooperation](https://www.worldstandardscooperation.org/), led by international standard organizations such as IEC, ISO and ITU.
+	* One [Action Plan](http://www.itu.int/initiatives/green-digital-action-atcop28/wp-content/uploads/sites/4/2023/12/Call-to-Action-Pillar4-Green-standards.pdf) and launch of a peer-learning working group that foster collaboration on **environmental sustainability standards.** implementation。
+2. The UN **Early Warnings for All (EW4all) ** initiative to be implemented by the ICT sector before 2027 that ensure protection for everyone, using cell broadcasts and location-based SMS (Satellite service providers are encouraged to join). 
+3. A peer learning working group on **ICT Sector GHG emissions** is launched to to implement GHG emissions reductions by following ICT 1.5°C trajectories.
+4. A **circular economy** project on [“E-Waste Management Regulations”](https://www.itu.int/hub/2023/12/how-to-reduce-e-waste-and-build-circular-economies/) is  launched by Saudi Arabia, to help  the regulations in Zambia, Rwanda, and Paraguay.
 
-有40多家科技公司参与，其中绿色标准[行动计划]由国际电联及华为领头。
+Over 40 tech companies and organizations came together to push for Green Digital Action at COP28, and the Green Standard  [Action Plan](http://www.itu.int/initiatives/green-digital-action-atcop28/wp-content/uploads/sites/4/2023/12/Call-to-Action-Pillar4-Green-standards.pdf)  is co-led by the ITU and Huawei. 
 
-标注出标准化地图与空缺的[呼吁采取行动文件](https://www.itu.int/initiatives/green-digital-action-atcop28/wp-content/uploads/sites/4/2023/12/Call-to-Action-Pillar4-Green-standards.pdf)是国际电联发布的最重要的技术文件。
+Marking the roadmap and gaps of standardization, the [Call to Action](https://www.itu.int/initiatives/green-digital-action-atcop28/wp-content/uploads/sites/4/2023/12/Call-to-Action-Pillar4-Green-standards.pdf) document is among the most important technological documents announced by the ITU at COP 28.
 
 <!--more-->
+
+> Requires translation
 
 ### 国际电联ITU绿色化数字行动@COP28 
 
@@ -46,6 +48,11 @@ image:
 {{< youtube lC7xGx8dOuc >}}
 
 > 华为与会代表说明为何参加国际标准
+
+![](https://www.itu.int/initiatives/green-digital-action-atcop28/wp-content/uploads/sites/4/2023/12/huawei-and-itu.png)
+
+> 国际电联与华为推动环保可持续标准践行
+
 
 ### 澳恪森GDAStandard项目助力绿色化数字行动扩大参与
 
