@@ -1,5 +1,5 @@
 ---
-title: COP28绿色数字行动成果，聚焦绿色标准、减排、电子废物管理
+title: Green Digital Action @ COP28 Outcomes Focus on Green Standards, GHG emissions, E-waste, etc.
 date: 2023-12-09
 tags:
   - COP28
