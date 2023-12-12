@@ -20,7 +20,7 @@ image:
   preview_only: false
 ---
 
-2023年12月于联合国气候大会COP28上[国际电联ITU的绿色数字行动成果 ](https://www.itu.int/initiatives/green-digital-action-atcop28/about/outcomes/)有下：
+2023年12月于[联合国气候大会COP28](https://www.mee.gov.cn/xxgk/hjyw/202311/t20231101_1044710.shtml)上，[国际电联ITU发布绿色数字行动成果 ](https://www.itu.int/initiatives/green-digital-action-atcop28/about/outcomes/)有下：
 
 1. 绿色标准：
 	* 1项联合声明，通过设计纳入**技术标准制定**，助世界实现净零，由[世界标准合作组织](https://www.worldstandardscooperation.org/) 会IEC/ISO/ITU领头。
@@ -31,7 +31,8 @@ image:
 
 有40多家科技公司参与，其中绿色标准[行动计划]由国际电联及华为领头。
 
-标注出标准化地图与空缺的[呼吁采取行动文件](https://www.itu.int/initiatives/green-digital-action-atcop28/wp-content/uploads/sites/4/2023/12/Call-to-Action-Pillar4-Green-standards.pdf)是国际电联发布的最重要的技术文件。
+标注出标准化地图与空缺的[呼吁采取行动文件](https://www.itu.int/initiatives/green-digital-action-atcop28/wp-content/uploads/sites/4/2023/12/Call-to-Action-Pillar4-Green-standards.pdf)是国际电联发布的最重要的技术文件。澳恪森数智科技将持续以[【GDAStandard】项目]({{< ref "/project/prj-roadmap_GDAStandard" >}})
+推出绿色数字行动工具箱。
 
 <!--more-->
 

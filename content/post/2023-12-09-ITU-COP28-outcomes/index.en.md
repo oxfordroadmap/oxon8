@@ -33,6 +33,9 @@ Over 40 tech companies and organizations came together to push for Green Digital
 
 Marking the roadmap and gaps of standardization, the [Call to Action](https://www.itu.int/initiatives/green-digital-action-atcop28/wp-content/uploads/sites/4/2023/12/Call-to-Action-Pillar4-Green-standards.pdf) document is among the most important technological documents announced by the ITU at COP 28.
 
+Oxford Roadmapping will continue its [【GDAStandard】project]({{< ref "/project/prj-roadmap_GDAStandard" >}})
+to release Green Digital Action toolbox for wider participation in the global efforts。
+
 <!--more-->
 
 > Requires translation
