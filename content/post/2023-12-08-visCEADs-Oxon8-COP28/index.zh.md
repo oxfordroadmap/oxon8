@@ -46,7 +46,7 @@ image:
 
 自行研发的
 **[「精准脱碳」交互可视化产品]({{< ref "/project/prj-VisCEADs" >}})**
- ，已释出在Github上，分别<!--有[中文]({{< ref "/media/visualization/index.zh.html" >}})  及[英文]({{< ref "/media/visualization/index.en.html" >}})两版本。-->
+ ，已释出在Github上，分别有 [中文](/visualization/prj-visCEADs/index.zh.html)  及 [英文](/visualization/prj-visCEADs/index.en.html) 两版本。
 
 ### 交互可视化图绿色化数字化双化意义：搭建双碳平台
 
