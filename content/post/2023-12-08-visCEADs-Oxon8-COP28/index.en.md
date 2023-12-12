@@ -1,5 +1,5 @@
 ---
-title: 照亮产业「精准脱碳」之路--visCEADs项目于 IEEE 绿色技术研讨会发布
+title: Shedding light on viable decarbonization paths--Project VisCEADs presented at IEEE GTSNZ [To be translated]
 date: 2023-12-08
 tags:
   - COP28

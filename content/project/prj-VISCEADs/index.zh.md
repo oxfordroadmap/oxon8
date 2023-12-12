@@ -120,7 +120,7 @@ visCEADs 项目原型成果A展示，可把42部门31省市域间投入产出表
 
 <div class="fs-1 bg-secondary text-center" markdown="1">
 
-## 项目负责人  <i class="ai ai-ieee ai-2x fa-flip"></i>
+## 项目负责人   <i class="ai ai-ieee ai-2x fa-flip"></i>
 
 </div>
 
@@ -128,7 +128,7 @@ visCEADs 项目原型成果A展示，可把42部门31省市域间投入产出表
 
 <div class="fs-1 bg-warning text-center" markdown="1">
 
-## 开放合作   <i class="fas fa-hands-helping  ai-2x fa-beat" style="--fa-beat-scale: 2.0;"></i>
+## 开放合作  <i class="fas fa-hands-helping ai-2x fa-shake" style="--fa-beat-scale:2.0;"></i>
 
 </div>
 
