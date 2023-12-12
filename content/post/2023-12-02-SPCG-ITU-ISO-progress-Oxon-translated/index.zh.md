@@ -20,6 +20,13 @@ image:
 澳恪森发布绿色化数字行动@COP28核心文件的中文翻译：[简体中文](Green_Digital_Action_at_COP28.zh-hans.pdf)、[正／繁体中文](Green_Digital_Action_at_COP28.zh-hant.pdf)，作为澳恪森数智科技[【GDAStandard】项目]({{< ref "/project/prj-roadmap_GDAStandard" >}})
 推出绿色数字行动工具箱的一部分。
 
+六大支柱之一，为实施“绿色” 标准造时势，是核心的标准工作。
+
+为协助更多组织及个人能理解并参与，澳恪森有两项相关项目：
+
+1. **[【GDAStandard】项目]({{< ref "/project/prj-roadmap_GDAStandard" >}})**
+2. **[【VisCEADs】项目]({{< ref "/project/prj-roadmap_GDAStandard" >}})**
+
 <!--more-->
 
 ### 六大支柱主题
@@ -28,7 +35,7 @@ image:
 
 1. 通过开放 环境数据/ 技术支持气候/碳监测 
 2. 减少ICT 行业温室 气体排放 
-3. 过渡至 循环 电子 行业 
+3. 过渡至 循环电子 行业 
 4. 为实施“绿色” 标准造时势-- “绿色”主流化 融入标准化工作
 5. 利用ICT 信息通信技术 对气候的积极影响
 6. 利用数字连接能力和技术来支持联合国秘书长“人人享有早期预警 ”倡议实施
