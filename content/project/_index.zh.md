@@ -51,14 +51,13 @@ sections:
 }
 </style>
 
-<div class="card p-2 text-dark bg-light bg-opacity-75 border border-25 rounded border-success" >
-
-<div class="card-header  border-success d-flex flex-row  justify-content-around">        
+<div class="card p-2 text-dark bg-light bg-opacity-75 border rounded rounded-6 border-success" >
+<div class="card-header p-0 border-success">        
 
 ## 澳恪森项目与产品
 
 [留个信✉](mailto:oxon8com@outlook.com) 
-{.btn .btn-primary .px-3 .py-3}">
+{.btn .btn-primary .btn-outline-primary .btn-lg .col-6 .mx-auto }">
 
 </div>
 

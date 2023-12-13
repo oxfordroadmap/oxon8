@@ -31,7 +31,7 @@ header:
 [世界标准合作组织](https://www.worldstandardscooperation.org) COP28 [联合宣言](https://www.worldstandardscooperation.org/wp-content/uploads/2023/11/WSC_Statement_Standards-Digital_8_Nov_2023.pdf)
 {class="blockquote-footer mb-0 font-italic"}
 
-{{< figure src="IEC_ISO_ITU_IEEE.png" title="绿色数字行动标准工作的主要国际组织" >}}{class="object-fit-fill" id="IEC_ISO_ITU_IEEE" style="max-width:320px;"}
+{{< figure src="IEC_ISO_ITU_IEEE.png" title="绿色数字行动标准工作的主要国际组织" width="320px" >}}{class="object-fit-fill" id="IEC_ISO_ITU_IEEE" style="max-;"}
 
 {{% /callout  %}}
 {style="border-left: .25rem solid #a34e78;"}
