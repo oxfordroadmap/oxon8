@@ -24,7 +24,9 @@ h1{font-size: 3.75rem; important!}
 h2{font-size: 2.5rem; important!}
 </style>
 
+
 <div class="p-3 mt-2 mb-2 bg-warning text-dark container rounded" markdown="1">
+
 <span style="color: #cf4a31;"><i class="fas fa-battery-quarter ai-1x fa-beat"></i></span>
 【进度】**数字农业生态设计** 技术文档已[成功提交至 ITU-T智能农业焦点组2023年12月例会 (FG-AI4A-I-132)]({{< ref "/post/2023-12-04-GSCFT_ITU_AI4A-Oxon8-digital-agriculture-ecodesign" >}})
 

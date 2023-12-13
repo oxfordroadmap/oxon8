@@ -23,32 +23,30 @@ header:
   image: ""
   caption: ""
 ---
-<style>
-h1{font-size: 2.75rem; important!}
-h2{font-size: 2rem; important!;background-color: lightgreen;}
-</style>
-<div class="container py-5 h-100">
-
 {{% callout note %}}
 
-<blockquote class="blockquote pb-2">
-  ... 我们承诺坚持，通过设计将可持续性原则融入标准发展，并交付具有商业和环境意义的标准 :seedling:
-</blockquote>
+> ... 我们承诺坚持，通过**设计**将**可持续性原则**融入标准发展，并交付具有商业和环境意义的标准 :seedling:
+{class="blockquote pb-2"}
 
-* [世界标准合作组织](https://www.worldstandardscooperation.org) COP28 [联合宣言](https://www.worldstandardscooperation.org/wp-content/uploads/2023/11/WSC_Statement_Standards-Digital_8_Nov_2023.pdf)
+[世界标准合作组织](https://www.worldstandardscooperation.org) COP28 [联合宣言](https://www.worldstandardscooperation.org/wp-content/uploads/2023/11/WSC_Statement_Standards-Digital_8_Nov_2023.pdf)
 {class="blockquote-footer mb-0 font-italic"}
+
+{{< figure src="IEC_ISO_ITU_IEEE.png" title="绿色数字行动标准工作的主要国际组织" >}}{class="object-fit-fill" id="IEC_ISO_ITU_IEEE" style="max-width:320px;"}
 
 {{% /callout  %}}
 {style="border-left: .25rem solid #a34e78;"}
-
-{{< figure src="IEC_ISO_ITU_IEEE.png" title="绿色数字行动标准工作的主要国际组织" >}}
-{class="object-fit-fill" id="IEC_ISO_ITU_IEEE" style="max-width:320px;"}
 
 技术标准化需要创新共享和建立共识的过程。 它需要在应用和技术领域相互学习。标准使创新发挥作用。
 
 公司、研究人员、政策制定者或学生如何参与这一过程？ 
 
 <!--more-->
+<style>
+h1{font-size: 2.75rem; important!}
+h2{font-size: 2rem; important!;background-color: lightgreen;}
+</style>
+<div class="container py-5 h-100">
+
 <div class="p-3 mb-2 bg-warning text-dark container" markdown="1">
 <span style="color: #cf4a31;"><i class="fas fa-battery-quarter ai-1x fa-beat"></i></span>【进度】绿色数字行动工具箱－A. ITU 2023年绿色数字行动@COP28 中文翻译交付
 </div>

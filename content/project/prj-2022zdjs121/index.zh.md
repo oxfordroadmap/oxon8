@@ -20,11 +20,6 @@ image:
   focal_point: Right
   preview_only: true
 ---
-<style>
-h1{font-size: 3.75rem; important!}
-h2{font-size: 2.5rem; important!}
-</style>
-
 <div class="p-3 mb-2 bg-success text-white-50  container" markdown="1">
 
 <span style="color: white;"><i class="fas fa-battery-full ai-2x fa-bounce"></i></span>
@@ -53,6 +48,11 @@ h2{font-size: 2.5rem; important!}
 </div>
 
 <!--more-->
+<style>
+h1{font-size: 3.75rem; important!}
+h2{font-size: 2.5rem; important!}
+</style>
+
 
 {{< toc >}}
 
