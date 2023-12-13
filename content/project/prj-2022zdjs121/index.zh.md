@@ -28,9 +28,10 @@ h2{font-size: 2.5rem; important!}
 <div class="p-3 mb-2 bg-success text-white  container" markdown="1">
 
 <span style="color: white;"><i class="fas fa-battery-full ai-2x fa-bounce"></i></span>
-【进度】省级科研项目在**开题报告**前，已 **[成功发表SCIE Q2 区论文4篇](/tag/2022zdjs121)** 。澳恪森辅导与合作部份包括项目书、论文、数据分析等工作**已全完成**。
+【进度】4篇论文-- [成功发表SCIE Q2 区论文](/tag/2022zdjs121)**
 
 </div>
+
 
 ### 项目名称 --“精准脱碳”之路：E-碳足迹核算打通地方与行业信息流内外双循环
 
