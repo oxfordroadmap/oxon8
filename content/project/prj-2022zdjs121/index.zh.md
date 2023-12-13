@@ -23,11 +23,11 @@ image:
 项目名称 --“精准脱碳”之路：E-碳足迹核算打通地方与行业信息流内外双循环
 {.h3}
 
-<div class="p-3 mb-2 bg-light text-dark-75 rounded rounded-7" markdown="1">
+<div class="p-3 mb-2 bg-warning bg-gradient rounded rounded-7" markdown="1">
 
-<div class="p-3 mb-2 h5 link-info bg-success text-white-75  rounded rounded-6" markdown="1">
+<div class="p-3 mb-2 h4 bg-light text-white-75  rounded rounded-6" markdown="1">
 
-<span style="color: white;"><i class="fas fa-battery-full ai-2x fa-bounce"></i></span>
+<span class="text-warning"><i class="fas fa-battery-full ai-2x fa-bounce"></i></span>
 【进度】产出[4篇SCIE Q2 区论文](/tag/2022zdjs121)
 
 </div>

@@ -20,6 +20,20 @@ sections:
       flip_alt_rows: true
 ---
 <style>
+.article-style a {
+  color:darkgreen !important;
+  border-bottom: dotted 1px darkolivegreen;
+}
+.article-style a:hover {
+  color:darkgreen !important;
+  background-color: yellowgreen;
+  border-bottom: solid 2px red;
+}
+.view-showcase a:hover  {
+  color:darkgreen !important;
+  background-color: yellowgreen;
+  border-bottom: dotted 2px darkolivegreen;
+}
 .view-showcase {
   background-color: #A9BA9D;
   border:  0px solid #A9BA9D !important;
@@ -31,14 +45,6 @@ sections:
   display:none;
 }
 .card-header > div {
-   font-size: 2rem !important;
-}
-.article-title:hover {
-   background-color: #002147;
-}
-.article-title:hover a {
-   color: white;
-   font-style: bold;
    font-size: 2rem !important;
 }
 .article-title {
