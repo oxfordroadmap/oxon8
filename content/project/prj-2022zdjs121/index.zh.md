@@ -20,6 +20,10 @@ image:
   focal_point: Right
   preview_only: false
 ---
+<style>
+h1{font-size: 3.75rem; important!}
+h2{font-size: 2.5rem; important!}
+</style>
 
 <div class="p-3 mb-2 bg-success text-white  container" markdown="1">
 

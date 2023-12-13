@@ -1,5 +1,5 @@
 ---
-title: 绘制国际标准「绿色数字行动」--GDAStandard同行学习
+title: 绘制标准「绿色数字行动」- GDAStandard同行学习
 date: 2023-12-06T06:06:06.666Z
 draft: false
 featured: true
@@ -23,6 +23,11 @@ header:
   image: ""
   caption: ""
 ---
+<style>
+h1{font-size: 3.75rem; important!}
+h2{font-size: 2.5rem; important!}
+</style>
+
   <div class="container py-5 h-100">
         <figure class="bg-white p-3 rounded" style="border-left: .25rem solid #a34e78;">
           <blockquote class="blockquote pb-2">
@@ -47,29 +52,33 @@ header:
 <span style="color: #cf4a31;"><i class="fas fa-battery-quarter ai-1x fa-beat"></i></span>【进度】绿色数字行动工具箱－A. ITU 2023年绿色数字行动@COP28 中文翻译交付
 </div>
 
+# 这和我做的创新或标准有关吗？绿色数字行动？
+
+数字化方面，**[世界标准合作组织](https://www.worldstandardscooperation.org)** 在数字领域目前一共有28项合作领域，从无障碍到人工智能，从电子健康到智能制造，从物网到3D打印，并通过设计纳入**技术标准制定**，如下图所示：
+
+![28项合作领域](WSC_SPCG-2023.webp)
+
+绿色化方面，世界标准合作组织 [COP28 联合宣言](https://www.worldstandardscooperation.org/wp-content/uploads/2023/11/WSC_Statement_Standards-Digital_8_Nov_2023.pdf) 坚持「通过设计将***可持续性***原则融入标准发展」，这就是绿色数字行动之一！
+
+所以若您已在**绿色化**或**数字化**想要交付「具有商业和环境意义的标准」，并同时瞭解全世界**创新**或标准的前沿机遇及空缺，那么和我们一同学习！
+
 # 澳恪森的GDAStandard同行学习项目
 
 澳恪森数智科技（英文名：Oxford Roadmapping，简称Oxon8）以收集并绘制「国际标准」的 **绿色数字** 前沿发展和需求，来同合作夥伴参与国际标准绿色化数字化双化协同行动。
 
 从做中学，澳恪森在此同行学习项目GDAStandard (Green Digital Action Standard)，以分享自身学习及实做的绿色数字标准及创新，来介绍并说明在哪做、怎么做、如何交付等实践知识。
 
-由于标准化过程是数字化创新成功的关键之一，理论与实践的焦点之一是**实现技术和数字创新对利益相关者的价值**。
+## 数字化创新出发
+
+由于标准化过程是 **数字化创新** 成功的关键之一，理论与实践的焦点之一是**实现技术和数字创新对利益相关者的价值**。
 
 这一点我们按 **[世界标准合作组织](https://www.worldstandardscooperation.org/)** 及其 ISO ITU IEC IEEE 国际网络资源，打造**绿色数字行动工具箱**，帮助组织与个人利用 **[数字生态创新](https://www.itu.int/dms_pub/itu-d/opb/inno/D-INNO-TOOLKIT.2-2020-PDF-C.pdf)** 。
 
-特别是在**双碳管理平台**，澳恪森数智科技发展精准脱碳以双化协同的深度工作，是此 **从做中学** 的案例之一。
+## 从做中学的双碳管理平台
+
+特别是在 **双碳管理平台** ，澳恪森数智科技发展精准脱碳以双化协同的深度工作，是此 **从做中学** 的案例之一。
 
 公司、研究人员、政策制定者或学生都能关注并订阅澳恪森数智科技GDAStandard同行学习项目释出的公共免费资源，在设计与交付绿色数字标准上一同前行。
-
-## 这和我做的创新或标准有关吗？绿色数字行动？
-
-目前一共有28项合作领域，从无障碍到人工智能，从电子健康到智能制造，从物网到3D打印，**世界标准合作组织** 确保IEC/ISO/ITU能协同合作分工，并通过设计纳入**技术标准制定**，如下图所示：
-
-![28项合作领域](WSC_SPCG-2023.webp)
-
-世界标准合作组织 [COP28 联合宣言](https://www.worldstandardscooperation.org/wp-content/uploads/2023/11/WSC_Statement_Standards-Digital_8_Nov_2023.pdf) 坚持「通过设计将可持续性原则融入标准发展」，这就是绿色数字行动之一！
-
-所以若您已在绿色化或数字化创新想要交付「具有商业和环境意义的标准」，并同时瞭解全世界创新或标准的前沿机遇及空缺，那么和我们一同学习！
 
 ## 绿色数字行动工具箱简介
 
@@ -117,7 +126,7 @@ header:
 
 ## 关于世界标准合作组织
 
-** [世界标准合作组织（World Standards Cooperation）] (https://www.worldstandardscooperation.org/)** 是由IEC（国际电工委员会）、ISO（国际标准化组织）和 ITU（国际电信联盟）之间的高级别合作。在此世界标准合作旗帜下，三个组织加强并推进基于自愿与共识的国际标准体系。
+** [世界标准合作组织（World Standards Cooperation）](https://www.worldstandardscooperation.org/)** 是由 **IEC**（国际电工委员会）、**ISO**（国际标准化组织）和 **ITU**（国际电信联盟）之间的高级别合作，加强并推进基于自愿与共识的国际标准体系。
 
 {{< youtube TRWbxSv5noo >}}
 
@@ -135,5 +144,17 @@ header:
 
 ### 澳恪森数智科技支持 绿色化数字行动@COP28
 
+<div class="d-flex justify-content-center flex-row">
+<div class="p-1">
+
 ![HTL-GreenDigitalAction.png](HTL-GreenDigitalAction.png)
+
+</div>
+<div class="p-2">
+
 ![CLP-GreenDigitalAction.png](CLP-GreenDigitalAction.png)
+
+</div>
+</div>
+
+
