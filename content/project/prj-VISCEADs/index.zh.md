@@ -21,7 +21,7 @@ categories:
   - 双化行动
 image:
   filename: prj-visCEADs.webp
-  preview_only: false
+  preview_only: true
 ---
 <style>
 h1{font-size: 3.75rem; important!}

@@ -18,11 +18,11 @@ categories:
   - 双化行动
 image:
   filename: ITU-Thematic_Pillar-4.a-zh-hans_ink.webp
+  preview_only: true
+header:
+  image: ""
+  caption: ""
 ---
-
-![](IEC_ISO_ITU_IEEE.png)
-
-<section class="vh-100" style="background-color: #eee;">
   <div class="container py-5 h-100">
         <figure class="bg-white p-3 rounded" style="border-left: .25rem solid #a34e78;">
           <blockquote class="blockquote pb-2">
@@ -30,24 +30,22 @@ image:
               ... 我们承诺坚持，通过设计将可持续性原则融入标准发展，并交付具有商业和环境意义的标准
             </p>
           </blockquote>
-          <figcaption class="blockquote-footer mb-0 font-italic">
+          <figcaption class="blockquote-footer mb-0 font-italic" markdown="1">
             ** [世界标准合作组织] (https://www.worldstandardscooperation.org/)**  [COP28 联合宣言](https://www.worldstandardscooperation.org/wp-content/uploads/2023/11/WSC_Statement_Standards-Digital_8_Nov_2023.pdf)
           </figcaption>
         </figure>
   </div>
 
-<div class="p-3 mb-2 bg-warning text-dark container" markdown="1">
-
-<span style="color: #cf4a31;"><i class="fas fa-battery-quarter ai-1x fa-beat"></i></span>【进度】绿色数字行动工具箱－A. ITU 2023年绿色数字行动@COP28 中文翻译交付
-
-</div>
-
+![IEC_ISO_ITU_IEEE.png](IEC_ISO_ITU_IEEE.png)
 
 技术标准化需要创新共享和建立共识的过程。 它需要在应用和技术领域相互学习。标准使创新发挥作用。
 
 公司、研究人员、政策制定者或学生如何参与这一过程？ 
 
 <!--more-->
+<div class="p-3 mb-2 bg-warning text-dark container" markdown="1">
+<span style="color: #cf4a31;"><i class="fas fa-battery-quarter ai-1x fa-beat"></i></span>【进度】绿色数字行动工具箱－A. ITU 2023年绿色数字行动@COP28 中文翻译交付
+</div>
 
 ## 澳恪森的GDAStandard同行学习项目
 
