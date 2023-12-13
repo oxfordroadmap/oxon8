@@ -22,7 +22,7 @@ sections:
 <style>
 .view-showcase {
   background-color: #A9A9A9;
-  border: gray 1px solid solid !important;
+  border:  0px solid gray !important;
   border-radius: 25px;
   overflow: hidden;
   padding: 12px;
@@ -43,7 +43,7 @@ sections:
 }
 .article-title {
    background-color: rgba(255,255,255,.5);
-   border: gray 1px solid solid !important;
+   border:  0px solid gray !important;
    border-radius: 25px;
    overflow: hidden;
    font-size: 1.75rem !important;
