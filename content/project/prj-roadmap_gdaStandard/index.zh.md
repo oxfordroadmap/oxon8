@@ -29,7 +29,7 @@ h2{font-size: 2rem; important!;background-color: lightgreen;}
 </style>
 <div class="container py-5 h-100">
 
-{{% callout warning %}}
+{{% callout note %}}
 
 <blockquote class="blockquote pb-2">
   ... 我们承诺坚持，通过设计将可持续性原则融入标准发展，并交付具有商业和环境意义的标准 :seedling:
@@ -38,7 +38,7 @@ h2{font-size: 2rem; important!;background-color: lightgreen;}
 * [世界标准合作组织](https://www.worldstandardscooperation.org) COP28 [联合宣言](https://www.worldstandardscooperation.org/wp-content/uploads/2023/11/WSC_Statement_Standards-Digital_8_Nov_2023.pdf)
 {class="blockquote-footer mb-0 font-italic"}
 
-{{% /callout note %}}
+{{% /callout  %}}
 {style="border-left: .25rem solid #a34e78;"}
 
 {{< figure src="IEC_ISO_ITU_IEEE.png" title="绿色数字行动标准工作的主要国际组织" >}}
