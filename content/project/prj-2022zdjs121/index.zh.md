@@ -23,7 +23,7 @@ image:
 项目名称 --“精准脱碳”之路：E-碳足迹核算打通地方与行业信息流内外双循环
 {.h3}
 
-<div class="p-3 mb-2 bg-warning bg-gradient rounded rounded-7" markdown="1">
+<div class="p-3 mb-2 bg-warning bg-gradient text-dark rounded rounded-7" markdown="1">
 
 <div class="p-3 mb-2 h4 bg-light text-white-75  rounded rounded-6" markdown="1">
 

@@ -60,7 +60,7 @@ sections:
 <div class="card p-2 text-dark bg-light bg-opacity-75 border rounded rounded-6 border-success" >
 <div class="card-header p-0 border-success">        
 
-## 澳恪森项目与产品　　　　<a class="btn btn-outline-primary btn-lg col-3 mx-auto" href="mailto:oxon8com@outlook.com">留个信✉</a>
+<h2 class="text-dark"> 澳恪森项目与产品　　　　<a class="btn btn-outline-primary btn-lg col-3 mx-auto" href="mailto:oxon8com@outlook.com">留个信✉</a></h2>
 
 </div>
 
