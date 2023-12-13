@@ -23,16 +23,16 @@ sections:
 .universal-wrapper > h1 {
 	display:none;
 }
-
 .section-subheading {
-   background-color: rgba(0,0,0,0.5);;
-   font-size: 2.5rem !important;
+   background-color: rgba(255,255,255,.5);
+   font-size: 2rem !important;
 }
-
 .section-subheading:hover {
+    background-color: #002147;
+}
+.section-subheading:hover a {
     color: white;
     font-style: bold;
-    background-color: #002147;
 }
 </style>
 

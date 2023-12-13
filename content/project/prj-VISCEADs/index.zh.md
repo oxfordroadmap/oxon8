@@ -34,9 +34,9 @@ h2{font-size: 2.5rem; important!}
 
 <div class="p-3 mb-2 bg-warning link-warning text-white  container" markdown="1" >
 
-<span style="color: #cf4a31;"><i class="fas fa-battery-half ai-1x fa-beat"></i></span>【进度】原型A交付 -- 
+<span style="color: #cf4a31;"><i class="fas fa-battery-half ai-1x fa-beat"></i></span>
 
-[点此可至全画面](/visualization/prj-VisCEADs/index.zh.html) 试试！
+【进度】原型A交付 -- [点此可至全画面](/visualization/prj-VisCEADs/index.zh.html) 试试！
 
 </div>
 
@@ -44,16 +44,16 @@ h2{font-size: 2.5rem; important!}
 
 要如何将**碳排放信息**引入生产、消费和投资各环节？
 
-**双碳管服数字平台**，目标是引入碳排信息至各企业及地方的营运及管理，是双化转型核心工作，要如何定义、设计并制作此类平台呢？
+以引入碳排信息至各企业及地方的营运及管理为目标，**双碳管服数字平台**是双化转型核心工作，要如何设计并制作此平台？
 
 <div class="p-3 mb-2 bg-light text-dark" markdown="1">
 
-从碳核算数据可视化着手，本项目（visCEADs 中国碳核算数据库可视化）利用以下最新资源，符合产业实际需要实现「精准脱碳」：
+从碳核算数据可视化着手，本项目利用以下最新资源，助产业实现「精准脱碳」：
 
-* [　“双碳管服数字平台”　标准](https://www.isc.org.cn//profile//2023/06/13/60cbc996-47cc-45be-bf0d-06053fbe57de.pdf)
+* [“双碳管服数字平台”　标准](https://www.isc.org.cn//profile//2023/06/13/60cbc996-47cc-45be-bf0d-06053fbe57de.pdf)
 * [中国碳核算数据库（CEADs）](https://www.ceads.net.cn/)
 * ITU国际电联绿色数字化转型双标准 [L.1470](https://www.itu.int/rec/T-REC-L.1470-202001-I/en) [L.1480](https://www.itu.int/rec/T-REC-L.1480-202212-I)
-* 澳恪森数智科技发展的[《碳中和管理服务数智平台》商业模式](https://oxon8.netlify.app/post/2023-02-20-smart-digital-platforms-carbon-neutral-management-services/)（基于以上标准及数据研发）
+* [《碳中和管理服务数智平台》商业模式](https://oxon8.netlify.app/post/2023-02-20-smart-digital-platforms-carbon-neutral-management-services/)
 
 </div>
 
