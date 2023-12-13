@@ -29,7 +29,7 @@ image:
 
 <span style="color: white;"><i class="fas fa-battery-full ai-2x fa-bounce"></i></span>
 【进度】产出[4篇SCIE Q2 区论文](/tag/2022zdjs121)
-{.h3}
+{.h3 .link-info}
 
 </div>
 
