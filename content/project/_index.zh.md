@@ -20,19 +20,26 @@ sections:
       flip_alt_rows: true
 ---
 <style>
+.view-showcase {
+	background-color: #ADFF2F;
+}
 .universal-wrapper > h1 {
 	display:none;
 }
-.section-subheading {
-   background-color: rgba(255,255,255,.5);
+.card-header > div {
    font-size: 2rem !important;
 }
-.section-subheading:hover {
+.article-title:hover {
     background-color: #002147;
 }
-.section-subheading:hover a {
+.article-title:hover a {
     color: white;
     font-style: bold;
+    font-size: 2rem !important;
+}
+.article-title {
+   background-color: rgba(255,255,255,.5);
+   font-size: 1.75rem !important;
 }
 </style>
 
@@ -40,9 +47,9 @@ sections:
 
 <div class="card-header  border-success d-flex flex-row 
 justify-content-around">         
-  <div class="align-self-center">项目与产品</div>
   <div class="align-self-center">澳恪森Oxford Roadmapping (Oxon8)</div>
   <div class="align-self-center"><a href="mailto:oxon8com@outlook.com" class="btn btn-primary px-3 py-3">留个信✉</a></div>
+  <div class="align-self-center">项目与产品</div>
 </div>
 
 <div class="card-body text-success  border-success">
