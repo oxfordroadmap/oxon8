@@ -10,7 +10,7 @@ tags:
 - Carbon management
 - 碳排管理
 - Green Digital Transformation
-- 双化协同
+- 双化协同（数字化绿色化协同转型）
 ---
 
 广东产业要如何低碳发展？如何“双化协同”或“数字化绿色化协同发展”？

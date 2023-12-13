@@ -6,7 +6,7 @@ categories:
 - 网络图可视化
 tags:
 - Green Digital Transformation
-- 双化协同
+- 双化协同（数字化绿色化协同转型）
 ---
 
 猜猜95%以上全球互联网信息流动在哪？在[海底光缆](https://www.thepaper.cn/newsDetail_forward_23582699)！

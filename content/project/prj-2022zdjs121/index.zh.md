@@ -6,7 +6,7 @@ featured: true
 authors: ["Han-Teng Liao", "Chung-Lien Pan"]
 tags:
   - 【2022ZDJS121】
-  - 双化协同
+  - 双化协同（数字化绿色化协同转型）
   - 数智平台
   - 绿色金融科技
   - 技术路线

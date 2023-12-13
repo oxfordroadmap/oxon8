@@ -8,7 +8,7 @@ tags:
 - Carbon management
 - 碳排管理
 - Green Digital Transformation
-- 双化协同
+- 双化协同（数字化绿色化协同转型）
 ---
 
 全球足迹网络之产业分析简介

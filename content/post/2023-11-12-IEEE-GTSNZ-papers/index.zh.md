@@ -10,7 +10,7 @@ tags:
 - Carbon management
 - 碳排管理
 - Green Digital Transformation
-- 双化协同
+- 双化协同（数字化绿色化协同转型）
 ---
 
 澳恪森2篇具产业实践意义的论文，将于[IEEE 绿色技术丶可持续发展和净零政策与实践研讨会 （IEEE GTSNZ） 2023](https://gtsnz.org/)

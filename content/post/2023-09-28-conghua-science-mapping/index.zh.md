@@ -8,7 +8,7 @@ categories:
 - 科学知识图谱
 tags:
 - Green Digital Transformation
-- 双化协同
+- 双化协同（数字化绿色化协同转型）
 - 供应链
 - FinTech
 - 金融科技

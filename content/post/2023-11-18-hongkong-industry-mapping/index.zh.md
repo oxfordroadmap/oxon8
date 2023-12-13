@@ -10,8 +10,7 @@ categories:
 - 社交网络分析
 tags:
 - Green Digital Transformation
-- 双化协同
-
+- 双化协同（数字化绿色化协同转型）
 ---
 
 数字化绿色化双转型的香港？

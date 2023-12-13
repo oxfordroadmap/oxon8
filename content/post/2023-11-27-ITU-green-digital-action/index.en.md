@@ -1,17 +1,18 @@
 ---
-title:  '[To be translated] 双创加双化的绿色化数字行动@COP28：国际电联ITU主张协调一致行动利用数字技术解决气候问题'
+title: "[To be translated] 双创加双化的绿色化数字行动@COP28：国际电联ITU主张协调一致行动利用数字技术解决气候问题"
 date: 2023-11-27
 categories:
-- Technology Roadmapping
-- 技术路线图
+  - Technology Roadmapping
+  - 技术路线图
 tags:
-- COP28
-- 联合国气候大会
-- Carbon management
-- 碳排管理
-- Green Digital Transformation
-- 双化协同
-- 数字化绿色化双转型
+  - COP28
+  - 联合国气候大会
+  - Carbon
+  - management
+  - 碳排管理
+  - Green
+  - 双化协同
+  - GreenDigitalTransformation
 ---
 
 **联合国气候大会COP28**致力于解决气候问题。**国际电联ITU**负责ICT信息通讯技术，利用数字技术在COP28上号召**绿色数字行动** #GreenDigitalAction。

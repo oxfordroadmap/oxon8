@@ -1,12 +1,12 @@
 ---
-title:  'Eco-Design for Digital Agriculture: Successful submission and presentation of an "Green Carbon Link" use-case input document to the ITU FG-AI4A'
+title: 'Eco-Design for Digital Agriculture: Successful submission and presentation of an "Green Carbon Link" use-case input document to the ITU FG-AI4A'
 date: 2023-12-04
 tags:
   - 【GSCFT_ITU_AI4A】
   - 【2023GDAStandard】
   - 乡村振兴
   - 碳排管理
-  - 双化协同
+  - GreenDigitalTransformation
   - 数智平台
   - 技术路线
   - 商业模式

@@ -10,8 +10,8 @@ categories:
 - 社交网络分析
 tags:
 - Green Digital Transformation
-- 數碼化綠色化雙轉型
-- 双化协同
+- 數碼綠色雙轉型
+- 双化协同（数字化绿色化协同转型）
 - 数字化绿色化双转型
 ---
 

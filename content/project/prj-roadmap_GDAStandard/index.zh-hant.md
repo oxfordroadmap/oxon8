@@ -8,7 +8,7 @@ authors:
   - Chung-Lien Pan
 tags:
   - 【2023GDAStandard】
-  - 双化协同
+  - 双化协同（数字化绿色化协同转型）
   - 数智平台
   - 技术路线
   - 商业模式

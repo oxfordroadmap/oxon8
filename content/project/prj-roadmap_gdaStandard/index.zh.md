@@ -8,7 +8,7 @@ authors:
   - Chung-Lien Pan
 tags:
   - 【2023GDAStandard】
-  - 双化协同
+  - 双化协同（数字化绿色化协同转型）
   - 数智平台
   - 技术路线
   - 商业模式
@@ -40,7 +40,9 @@ h2{font-size: 2rem; important!;background-color: lightgreen;}
         </figure>
   </div>
   
-![IEC_ISO_ITU_IEEE.png](IEC_ISO_ITU_IEEE.png)
+{{< figure src="IEC_ISO_ITU_IEEE.png" title="绿色数字行动标准工作的主要国际组织" >}}
+{class="object-fit-fill" id="IEC_ISO_ITU_IEEE" style="max-width:320px;"}
+
 
 技术标准化需要创新共享和建立共识的过程。 它需要在应用和技术领域相互学习。标准使创新发挥作用。
 

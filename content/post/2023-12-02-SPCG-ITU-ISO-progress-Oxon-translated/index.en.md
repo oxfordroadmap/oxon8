@@ -1,5 +1,5 @@
 ---
-title: 'Entrepreneurship and Innovation Acitivies for Green Digital Transformation at COP28: Translation of the ITU Green Digital Action Documents'
+title: "Entrepreneurship and Innovation Acitivies for Green Digital Transformation at COP28: Translation of the ITU Green Digital Action Documents"
 date: 2023-12-02
 categories:
   - Technology Roadmapping
@@ -10,11 +10,8 @@ tags:
   - Carbon
   - management
   - 碳排管理
-  - Green
-  - Digital
-  - Transformation
   - 双化协同
-  - 数字化绿色化双转型
+  - GreenDigitalTransformation
 image:
   filename: ITU-Thematic_Pillar-4.a-zh-hans_ink.webp
 ---
