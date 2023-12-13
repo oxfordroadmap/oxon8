@@ -27,22 +27,22 @@ header:
 h1{font-size: 2.75rem; important!}
 h2{font-size: 2rem; important!;background-color: lightgreen;}
 </style>
-  <div class="container py-5 h-100">
-        <figure class="bg-white p-3 rounded" style="border-left: .25rem solid #a34e78;">
-          <blockquote class="blockquote pb-2">
-            <p>
-              ... 我们承诺坚持，通过设计将可持续性原则融入标准发展，并交付具有商业和环境意义的标准
-            </p>
-          </blockquote>
-          <figcaption class="blockquote-footer mb-0 font-italic" >
-            <a href="https://www.worldstandardscooperation.org">世界标准合作组织</a> COP28 <a href="https://www.worldstandardscooperation.org/wp-content/uploads/2023/11/WSC_Statement_Standards-Digital_8_Nov_2023.pdf">联合宣言</a> 
-          </figcaption>
-        </figure>
-  </div>
-  
+<div class="container py-5 h-100">
+
+{{% callout warning %}}
+
+<blockquote class="blockquote pb-2">
+  ... 我们承诺坚持，通过设计将可持续性原则融入标准发展，并交付具有商业和环境意义的标准 :seedling:
+</blockquote>
+
+* [世界标准合作组织](https://www.worldstandardscooperation.org) COP28 [联合宣言](https://www.worldstandardscooperation.org/wp-content/uploads/2023/11/WSC_Statement_Standards-Digital_8_Nov_2023.pdf)
+{class="blockquote-footer mb-0 font-italic"}
+
+{{% /callout note %}}
+{style="border-left: .25rem solid #a34e78;"}
+
 {{< figure src="IEC_ISO_ITU_IEEE.png" title="绿色数字行动标准工作的主要国际组织" >}}
 {class="object-fit-fill" id="IEC_ISO_ITU_IEEE" style="max-width:320px;"}
-
 
 技术标准化需要创新共享和建立共识的过程。 它需要在应用和技术领域相互学习。标准使创新发挥作用。
 

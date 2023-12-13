@@ -32,11 +32,13 @@ h2{font-size: 2.5rem; important!}
 
 </div>
 
+项目名称 --“精准脱碳”之路：E-碳足迹核算打通地方与行业信息流内外双循环
+{.fs-3}
 
-### 项目名称 --“精准脱碳”之路：E-碳足迹核算打通地方与行业信息流内外双循环
+项目迸度与产出
+{.fs-3}
 
-### 项目迸度与产出
-
+{{% callout info %}}
 * 2023/02：SCIE Q2论文发表 1篇  （项目相关，非直接资助论文）
     * 廖汉腾、罗明才*、潘仲亷。  《[智能港口知识图谱分析：面对全球价值链挑战的研究]({{< ref "/publication/journal-article/liao-knowledge-2023" >}}) 》
 * 2023/03：SCIE Q2论文发表 2篇
@@ -45,8 +47,15 @@ h2{font-size: 2.5rem; important!}
 * 2023/04：SCIE Q2论文发表 1篇
     * 潘仲亷、廖汉腾*、张媛。  《[供应链弹性和人权知识图谱：绿色和数字化转型设计的路线图分类法]({{< ref "/publication/journal-article/pan-knowledge-2023" >}})》
 * 2023/04：开题报告
+{{% /callout %}}
+{class="p-3 mb-2  text-dark rounded bg-light"}
+
+</div>
 
 <!--more-->
+
+{{< toc >}}
+
 
 ### 项目负责人
 张媛

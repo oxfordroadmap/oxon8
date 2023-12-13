@@ -1,5 +1,5 @@
 ---
-title: 照亮产业「精准脱碳」之路 - visCEADs项目
+title: 照亮产业「精准脱碳」路 - visCEADs
 date: 2023-12-08T08:08:08.888Z
 draft: false
 featured: true
@@ -34,7 +34,7 @@ h2{font-size: 2.5rem; important!}
 
 减碳得甘愿及志愿。有价值有动机。
 
-<div class="p-3 mb-2 bg-warning link-warning text-white-50  container" markdown="1" >
+<div class="p-3 mt-2 mb-2 bg-warning text-dark-50 container rounded" markdown="1">
 
 <span style="color: #cf4a31;"><i class="fas fa-battery-half ai-1x fa-beat"></i></span>
 【进度】原型A交付 -- [点此](/visualization/prj-VisCEADs/index.zh.html) 可试全画面！
@@ -45,7 +45,7 @@ h2{font-size: 2.5rem; important!}
 
 以引入碳排信息至各企业及地方营运管理为目标，**双碳管服数字平台**是双化转型核心工作，要如何设计并制作此平台？
 
-<div class="p-3 mb-2 bg-light text-dark" markdown="1">
+<div class="p-3 mb-2 bg-light text-dark rounded" markdown="1">
 
 从碳核算数据可视化着手，本项目利用以下最新资源，助产业实现「精准脱碳」：
 
