@@ -32,14 +32,14 @@ h2{font-size: 2.5rem; important!}
     height: 100vh;
 }</style>
 
-减碳得甘愿及志愿。有价值有动机。
-
 <div class="p-3 mt-2 mb-2 bg-warning text-dark-50 container rounded" markdown="1">
 
 <span style="color: #cf4a31;"><i class="fas fa-battery-half ai-1x fa-beat"></i></span>
 【进度】原型A交付 -- [点此](/visualization/prj-VisCEADs/index.zh.html) 可试全画面！
 
 </div>
+
+减碳得甘愿及志愿。有价值有动机。
 
 要如何将**碳排放信息**引入生产、消费和投资环节？
 

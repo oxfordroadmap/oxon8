@@ -19,12 +19,6 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-<style>
-h1{font-size: 3.75rem; important!}
-h2{font-size: 2.5rem; important!}
-</style>
-
-
 <div class="p-3 mt-2 mb-2 bg-warning text-dark container rounded rounded-7" markdown="1">
 
 <span style="color: #cf4a31;"><i class="fas fa-battery-quarter ai-1x fa-beat"></i></span>
@@ -36,17 +30,21 @@ h2{font-size: 2.5rem; important!}
 
 数字农业绿色供应链金融科技（GSCFT）项目旨在提供创新的数字解决方案，为大幅减少碳排放的农业食品提供融资和品牌服务（绿色碳链通与净零/负碳品牌的互连互通标准），包括使用BECCS等负碳技术。
 
-### 项目迸度与产出
+项目迸度与产出
+{.h4}
 
 * 2023/03-04：参加联合国**国际电信联盟**及**粮农组织**组织的标准[研讨会]({{< ref "/post/2023-03-30-ITU-digital-agriculture-ecodesign" >}})，调研[从化农业实践碳普惠的机遇]({{< ref "/post/2023-04-04-eco-design-carbon-inclusion-scheme" >}})，以及大湾区「绿色碳链通」
 * 2023/12：《面向数字农业基於碳排计量的供应链金融》技术文件 (编号：FG-AI4A-I-132) 1份：成功提交并至报告发言 [第 8 届ITU-T **FG-AI4A** 智能农业焦点组2023年12月例会](https://www.itu.int/en/ITU-T/focusgroups/ai4a/Pages/default.aspx)，由澳恪森与国家工业设计研究院（生态设计）等单位合作
 
-### 项目参考文件
-
+项目参考文件
+{.h4}
 * 德国Fraunhofer HHI，《面向农业的智能与物联网标准化路线图--标准化的趋势及空缺》技术文件 (编号：FG-AI4A-I-133) “Standardization Roadmap on AI and IoT for Agriculture:  Trends and Gaps in Standardization” 
 
 <!--more-->
-
+<style>
+h1{font-size: 3.75rem; important!}
+h2{font-size: 2.5rem; important!}
+</style>
 
 此次 [第 8 届ITU-T **FG-AI4A** 智能农业焦点组2023年12月例会](https://www.itu.int/en/ITU-T/focusgroups/ai4a/Pages/default.aspx)，召开後，已有由单位主导的科技标准化路线图成果 。
 
