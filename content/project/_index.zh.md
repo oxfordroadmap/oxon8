@@ -23,6 +23,7 @@ sections:
 .view-showcase {
   background-color: #A9A9A9;
   border-radius: 25px;
+  overflow: hidden;
   padding: 12px;
 }
 .universal-wrapper > h1 {
@@ -41,6 +42,7 @@ sections:
 }
 .article-title {
    border-radius: 25px;
+   overflow: hidden;
    background-color: rgba(255,255,255,.5);
    font-size: 1.75rem !important;
    padding: 12px;
