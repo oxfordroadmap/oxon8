@@ -21,8 +21,8 @@ sections:
 ---
 <style>
 .view-showcase {
-  background-color: #A9A9A9;
-  border:  0px solid #A9A9A9 !important;
+  background-color: #A9BA9D;
+  border:  0px solid #A9BA9D !important;
   border-radius:25px 25px 25px 25px;
   overflow: hidden;
   padding: 12px;
