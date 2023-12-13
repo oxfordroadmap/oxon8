@@ -21,25 +21,29 @@ sections:
 ---
 <style>
 .view-showcase {
-	background-color: #ADFF2F;
+  background-color: #A9A9A9;
+  border-radius: 25px;
+  padding: 12px;
 }
 .universal-wrapper > h1 {
-	display:none;
+  display:none;
 }
 .card-header > div {
    font-size: 2rem !important;
 }
 .article-title:hover {
-    background-color: #002147;
+   background-color: #002147;
 }
 .article-title:hover a {
-    color: white;
-    font-style: bold;
-    font-size: 2rem !important;
+   color: white;
+   font-style: bold;
+   font-size: 2rem !important;
 }
 .article-title {
+   border-radius: 25px;
    background-color: rgba(255,255,255,.5);
    font-size: 1.75rem !important;
+   padding: 12px;
 }
 </style>
 
@@ -47,17 +51,17 @@ sections:
 
 <div class="card-header  border-success d-flex flex-row 
 justify-content-around">         
+  <div class="align-self-center">项目与产品</div>
   <div class="align-self-center">澳恪森Oxford Roadmapping (Oxon8)</div>
   <div class="align-self-center"><a href="mailto:oxon8com@outlook.com" class="btn btn-primary px-3 py-3">留个信✉</a></div>
-  <div class="align-self-center">项目与产品</div>
 </div>
 
 <div class="card-body text-success  border-success">
 专精<i class="ai ai-pubpeer ai-3x fa-shake"></i>数据科学、<i class="fa fa-recycle ai-2x fa-spin"></i>绿色数字转型、<i class="ai ai-ieee ai-2x fa-flip"></i>技术路线图，Oxon8提供<i class="fas fa-cog ai-2x fa-spin"></i>技术创新、<i class="fas fa-lightbulb ai-2x fa-beat-fade"></i>系统创新、以及<i class="fa-solid fa-code ai-2x fa-shake"></i>标准化的服务。
-</div>
 
 2023年成立后，创建4项目，涵括数据产品原型、科研辅导合作（省级）、及国际标准活动。 
 
+</div>
 </div>
 
 

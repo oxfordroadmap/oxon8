@@ -26,10 +26,8 @@ h2{font-size: 2.5rem; important!}
 </style>
 
 <div class="p-3 mb-2 bg-success text-white  container" markdown="1">
-
 <span style="color: white;"><i class="fas fa-battery-full ai-2x fa-bounce"></i></span>
-
-【进度】省级科研项目在**开题报告**前，已**[成功发表SCIE Q2 区论文4篇](/tag/2022zdjs121)** 。澳恪森辅导与合作部份包括项目书、论文、数据分析等工作**已全完成**。
+【进度】省级科研项目在**开题报告**前，已 **[成功发表SCIE Q2 区论文4篇](/tag/2022zdjs121)** 。澳恪森辅导与合作部份包括项目书、论文、数据分析等工作**已全完成**。
 
 </div>
 
