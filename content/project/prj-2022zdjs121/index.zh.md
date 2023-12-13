@@ -25,11 +25,10 @@ image:
 
 <div class="p-3 mb-2 bg-light text-dark-75 rounded rounded-7" markdown="1">
 
-<div class="p-3 mb-2 bg-success text-white-75  rounded rounded-6" markdown="1">
+<div class="p-3 mb-2 h5 link-info bg-success text-white-75  rounded rounded-6" markdown="1">
 
 <span style="color: white;"><i class="fas fa-battery-full ai-2x fa-bounce"></i></span>
 【进度】产出[4篇SCIE Q2 区论文](/tag/2022zdjs121)
-{.h3 .link-info}
 
 </div>
 

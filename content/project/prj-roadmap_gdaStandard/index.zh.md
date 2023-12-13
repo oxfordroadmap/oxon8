@@ -23,7 +23,7 @@ header:
   image: ""
   caption: ""
 ---
-<div class="p-3 mb-2 bg-warning text-dark container" markdown="1">
+<div class="p-3 mt-2 mb-2 bg-warning text-dark rounded rounded-7" markdown="1">
 <span style="color: #cf4a31;"><i class="fas fa-battery-quarter ai-1x fa-beat"></i></span>
 【进度】「绿色数字行动」工具箱－A. ITU 绿色数字行动 中文翻译交付
 
