@@ -23,9 +23,9 @@ image:
 项目名称 --“精准脱碳”之路：E-碳足迹核算打通地方与行业信息流内外双循环
 {.h3}
 
-<div class="p-3 mb-2 bg-light text-dark rounded" markdown="1">
+<div class="p-3 mb-2 bg-light text-dark-75 rounded rounded-7" markdown="1">
 
-<div class="p-3 mb-2 bg-success text-white-50  container" markdown="1">
+<div class="p-3 mb-2 bg-success text-white-75  rounded rounded-6" markdown="1">
 
 <span style="color: white;"><i class="fas fa-battery-full ai-2x fa-bounce"></i></span>
 【进度】产出[4篇SCIE Q2 区论文](/tag/2022zdjs121)
@@ -48,13 +48,12 @@ h2{font-size: 2.5rem; important!}
 
 {{< toc >}}
 
-＃＃
-
-### 项目负责人
-张媛
-
-### 项目组织与分工
-廖汉腾、潘仲亷等
+## 项目信息 
+* 名称-- *“精准脱碳”之路：E-碳足迹核算打通地方与行业信息流内外双循环
+* 项目编号：prj-2022ZDJS121
+* 项目层次：省级－ 广东省重点建设学科科研能力提升
+* 项目负责人-- 张媛
+* 项目组织与分工-- 廖汉腾、潘仲亷等
 
 ## 项目内容
 
