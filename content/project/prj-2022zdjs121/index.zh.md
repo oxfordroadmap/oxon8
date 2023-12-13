@@ -18,7 +18,7 @@ categories:
 image:
   filename: photo-precision-archer_statute.webp
   focal_point: Right
-  preview_only: false
+  preview_only: true
 ---
 <style>
 h1{font-size: 3.75rem; important!}
@@ -77,7 +77,8 @@ h2{font-size: 2.5rem; important!}
  * **E-碳足迹**定义为：从业务营运的源头开始核算，以助力营运及下游服务及产品的采买方能把相关的碳排信息，特别是隐含碳，以符合科学减碳倡议 (Science Based Targets initiative，SBTi) 的标准，产出能基于营运实际的数据科学流程，构建出能将碳信息融入生产消费活动的互联网平台科学管理及系统创新。
  * **E-碳足迹**核算结合碳核算、营运实际、互联网平台、及系统创新等跨学科前沿的能力，因此需要能整合会计学、运筹学、管理学、数据科学、信息学、信息设计、技术管理等学科知识。这能力及知识最终应能助力地方与行业的碳排相关信息流进行系统及有效整理，协助地方及行业将碳排信息纳入“精准”脱碳决策。
  
- 
+![photo-precision-archer_statute.webp](photo-precision-archer_statute.webp) 
+
 #### 信息流促“精准”脱碳决策：港口/海关、供应链金融、绿色数字化转型
 
   表 1 本课题研究内容对映表
