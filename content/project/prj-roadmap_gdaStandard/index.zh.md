@@ -26,9 +26,7 @@ header:
 <style>
 h1{font-size: 2.75rem; important!}
 h2{font-size: 2rem; important!;background-color: lightgreen;}
-
 </style>
-
   <div class="container py-5 h-100">
         <figure class="bg-white p-3 rounded" style="border-left: .25rem solid #a34e78;">
           <blockquote class="blockquote pb-2">
@@ -41,7 +39,7 @@ h2{font-size: 2rem; important!;background-color: lightgreen;}
           </figcaption>
         </figure>
   </div>
-
+  
 ![IEC_ISO_ITU_IEEE.png](IEC_ISO_ITU_IEEE.png)
 
 技术标准化需要创新共享和建立共识的过程。 它需要在应用和技术领域相互学习。标准使创新发挥作用。

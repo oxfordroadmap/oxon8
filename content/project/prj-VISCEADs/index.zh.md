@@ -32,18 +32,18 @@ h2{font-size: 2.5rem; important!}
     height: 100vh;
 }</style>
 
+减碳得甘愿及志愿。有价值有动机。
+
 <div class="p-3 mb-2 bg-warning link-warning text-white-50  container" markdown="1" >
 
 <span style="color: #cf4a31;"><i class="fas fa-battery-half ai-1x fa-beat"></i></span>
-【进度】原型A交付 -- [点此可至全画面](/visualization/prj-VisCEADs/index.zh.html) 试试！
+【进度】原型A交付 -- [点此](/visualization/prj-VisCEADs/index.zh.html) 可试全画面！
 
 </div>
 
-减碳得甘愿及志愿。有价值有动机。
+要如何将**碳排放信息**引入生产、消费和投资环节？
 
-要如何将**碳排放信息**引入生产、消费和投资各环节？
-
-以引入碳排信息至各企业及地方的营运及管理为目标，**双碳管服数字平台**是双化转型核心工作，要如何设计并制作此平台？
+以引入碳排信息至各企业及地方营运管理为目标，**双碳管服数字平台**是双化转型核心工作，要如何设计并制作此平台？
 
 <div class="p-3 mb-2 bg-light text-dark" markdown="1">
 
