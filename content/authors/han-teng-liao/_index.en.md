@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Han-Teng Liao 廖汉腾
+title: Han-Teng Liao (廖汉腾)
 role: Lead Data Scientist
 avatar_filename: avatar_HTL.png
 # Username (this should match the folder name)

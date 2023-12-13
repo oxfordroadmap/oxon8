@@ -1,5 +1,5 @@
 ---
-title:  'Two conference papers on carbon neutrality standards were presented : IEEE GreenTech, Sustainability, and Net Zero Policies & Practices Symposium'
+title:  'Two conference papers on carbon neutrality standards were presented: IEEE GreenTech, Sustainability, and Net Zero Policies & Practices Symposium'
 date: 2023-12-07
 categories:
 - Precision Decarbonization
@@ -15,14 +15,14 @@ image:
   preview_only: true
 ---
 
-澳恪森于[IEEE 绿色技术丶可持续发展和净零政策与实践研讨会 （IEEE GTSNZ） 2023](https://gtsnz.org/)成功报告2篇具产业论文：
+Two conference papers by Oxford Roadmapping and its collaborators were successfully presented at the [IEEE Green Tech, Sustainable Development and Net-Zero Policies and Practices  2023](https://gtsnz.org/): 
 
-* 碳管理与服务平台
-* 碳中和丶国际标准组织ISO和国际电联ITU标准
+* Carbon Management and Service Platforms
+* Carbon Neutrality, ISO and ITU Standards
 
-此IEEE GTSNZ 绿色会议与 [COP 28《联合国气候变化框架公约》第28次缔约方大会](https://www.cop28.com/) 同地同步展开。
+This [IEEE GTSNZ green conference （IEEE GTSNZ 2023, IEEE GreenTech, Sustainability, and Net Zero Policies & Practices Symposium）](https://gtsnz.org/) was held at the same time and site of the [UN Climate Conference COP 28](https://www.cop28.com/). 
 
-澳恪森同时发布[「精准脱碳」交互可视化产品](./project/prj-VisCEADs)成果，以实际产品原型开发，展示**平台**加**标准**的碳排管理，有具大的商业模式及技术路线的发展潜能，是双化协同（绿色化数字化）数智平台核心。
+Also released at the conference during presentation was the ["Precision Decarbonization" interactive infographic prototype](./project/prj-VisCEADs) that can be further developed into carbon management and service platform as one of the main dashboards. Demonstrating the proof-of-the-concept that combines platform and standard thinking, the prototype demonstrated the potentials of business model and technology roadmap for its use in green digital transformation development, as the core of smart digital platforms. 
 
 <!--more-->
 

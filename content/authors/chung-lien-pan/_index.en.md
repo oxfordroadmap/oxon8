@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 潘仲亷
+title: Chung-Lien Pan (潘仲亷)
 role:  CFO/COO
 avatar_filename: avatar.png
 
