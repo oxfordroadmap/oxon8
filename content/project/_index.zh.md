@@ -25,8 +25,14 @@ sections:
 }
 
 .section-subheading {
-	--bs-bg-opacity: .5;
-   font-size: 1.5rem !important;
+   background-color: rgba(0,0,0,0.5);;
+   font-size: 2.5rem !important;
+}
+
+.section-subheading:hover {
+    color: white;
+    font-style: bold;
+    background-color: #002147;
 }
 </style>
 
