@@ -25,10 +25,10 @@ h1{font-size: 3.75rem; important!}
 h2{font-size: 2.5rem; important!}
 </style>
 
-<div class="p-3 mb-2 bg-success text-white  container" markdown="1">
+<div class="p-3 mb-2 bg-success text-white-50  container" markdown="1">
 
 <span style="color: white;"><i class="fas fa-battery-full ai-2x fa-bounce"></i></span>
-【进度】4篇论文-- [成功发表SCIE Q2 区论文](/tag/2022zdjs121)**
+【进度】4篇论文-- [成功发表SCIE Q2 区论文](/tag/2022zdjs121)
 
 </div>
 
