@@ -8,14 +8,21 @@ zh:
   title: 澳恪森数智科技服务
   params:
     description: 数智平台与绿色金融科技的创新设计
+  staticDir:
+  - staticDir
+  - static_zh-hans
 
 # Uncomment the lines below to configure your website in a second language.
 en:
   languageCode: en-us
+  languageName: English
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   title: Oxford Roadmapping  (Oxon8)
   params:
     description: Innovate with Designs of Smart Platforms and Green FinTech, on a mission to reduce gigatones of GHG emissions by transforming how carbon neutrality information flows change business operations and supply chains
+  staticDir:
+  - staticDir
+  - static_en
 
 zh-hant:
   languageCode: zh-hant
@@ -23,3 +30,9 @@ zh-hant:
   title: 澳恪森數智科技服務
   params:
     description: 數智平台與綠色金融科技的創新設計
+  staticDir:
+  - staticDir
+  - static_zh-hant
+
+staticDir:
+- static
