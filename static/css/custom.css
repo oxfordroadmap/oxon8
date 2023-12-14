@@ -1,14 +1,26 @@
-.article-style a {
+/* Imag Border */
+/* https://i.pinimg.com/736x/29/21/e0/2921e048c32cef538d5d8b5d3cc32cee.jpg
+    Dark Olive Green          #556b2f 	  85,107,47      https://www.colorhexa.com/556b2f
+    Laurel Green                  #a9ba9d 169,186,157   https://www.colorhexa.com/a9ba9d
+	Alloy orange / #c46210
+    #FEFAE0	
+
+ */
+.wg-collection img, .hero-media img, article-container img {
+    border-radius: 28px;
+	-webkit-filter: drop-shadow(0px 16px 10px rgba(85,107,47,0.6));
+	-moz-filter: drop-shadow(0px 16px 10px rgba(85,107,47,0.6));
+	-ms-filter: drop-shadow(0px 16px 10px rgba(85,107,47,0.6)); 
+	-o-filter: drop-shadow(0px 16px 10px rgba(85,107,47,0.6));
+	 filter: drop-shadow(0px 16px 10px rgba(85,107,47,0.6)); 
+}
+
+.page-body a, .article a  {
   color:darkgreen !important;
   border-bottom: dotted 1px darkolivegreen;
 }
-.article-style a:hover {
+.page-body:hover a, .article a:hover, .navbar a:hover {
   color:darkgreen !important;
   background-color: yellowgreen;
-  border-bottom: solid 2px red;
-}
-.view-showcase a:hover  {
-  color:darkgreen !important;
-  background-color: yellowgreen;
-  border-bottom: dotted 2px darkolivegreen;
+  border-bottom: dotted 2px #c46210;
 }
