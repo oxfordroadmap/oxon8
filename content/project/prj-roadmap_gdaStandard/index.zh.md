@@ -56,11 +56,11 @@ h2{font-size: 2rem; important!;background-color: lightgreen;}
 
 # 这和我做的创新或标准有关吗？绿色数字行动？
 
-数字化方面，**[世界标准合作组织](https://www.worldstandardscooperation.org)** 在数字领域目前一共有28项合作领域，从无障碍到人工智能，从电子健康到智能制造，从物网到3D打印，并通过设计纳入**技术标准制定**，如下图所示：
+数字化方面，**[世界标准合作组织](https://www.worldstandardscooperation.org)** 在数字领域目前一共有28项合作领域，从无障碍到人工智能，从电子健康到智能制造，从物网到3D打印，以「通过**设计**将**可持续性原则**融入标准发展，并交付具有商业和环境意义的标准」，如下图所示：
 
 ![28项合作领域](WSC_SPCG-2023.webp)
 
-绿色化方面，世界标准合作组织 [COP28 联合宣言](https://www.worldstandardscooperation.org/wp-content/uploads/2023/11/WSC_Statement_Standards-Digital_8_Nov_2023.pdf) 坚持「通过设计将***可持续性***原则融入标准发展」，这就是绿色数字行动之一！
+绿色化方面，世界标准合作组织 [COP28 联合宣言](https://www.worldstandardscooperation.org/wp-content/uploads/2023/11/WSC_Statement_Standards-Digital_8_Nov_2023.pdf) 坚持「通过**设计**将**可持续性原则**融入标准发展」，这就是绿色数字行动之一！
 
 所以若您已在**绿色化**或**数字化**想要交付「具有商业和环境意义的标准」，并同时瞭解全世界**创新**或标准的前沿机遇及空缺，那么和我们一同学习！
 
