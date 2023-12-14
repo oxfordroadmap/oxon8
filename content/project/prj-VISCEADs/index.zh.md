@@ -47,6 +47,7 @@ image:
 
 </div>
 
+<!--more-->
 <style>
 h1{font-size: 3.75rem; important!}
 h2{font-size: 2.5rem; important!}
