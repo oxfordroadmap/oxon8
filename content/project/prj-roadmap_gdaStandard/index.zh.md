@@ -126,7 +126,7 @@ h2{font-size: 2rem; important!;background-color: lightgreen;}
 
 ### A. ITU 2023绿色数字行动@COP28 翻译交付
 
-国际电联ITU绿色化数字行动@COP28 已绘出时间流程图，我们将其中译如下：[简体中文]({{< ref "/Green_Digital_Action_at_COP28.zh-hans.pdf" >}})、[正／繁体中文]({{< ref "/Green_Digital_Action_at_COP28.zh-hant.pdf" >}})
+国际电联ITU绿色化数字行动@COP28 已绘出时间流程图，我们将其中译如下：[简体中文]("/Green_Digital_Action_at_COP28.zh-hans.pdf" >)、[正／繁体中文](/Green_Digital_Action_at_COP28.zh-hant.pdf)
 
 
 
