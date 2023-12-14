@@ -1,6 +1,6 @@
 [zh]
 languageCode = "zh"
-title = "　　　澳恪森数智"
+title = "澳恪森数智"
 staticDir = [ "static", "static_zh-hans" ]
 
   [zh.params]
@@ -9,7 +9,7 @@ staticDir = [ "static", "static_zh-hans" ]
 [en]
 languageCode = "en-us"
 languageName = "English"
-title = "　　　Oxford Roadmapping  (Oxon8)"
+title = "Oxford Roadmapping  (Oxon8)"
 staticDir = [ "static", "static_en" ]
 
   [en.params]
@@ -18,7 +18,7 @@ staticDir = [ "static", "static_en" ]
 [zh-hant]
 languageCode = "zh-hant"
 languageName = "中文 (正體)"
-title = "　　　澳恪森數智"
+title = "澳恪森數智"
 staticDir = [ "static", "static_zh-hant" ]
 
   [zh-hant.params]
