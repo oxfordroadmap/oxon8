@@ -17,10 +17,10 @@
 
 .page-body a, .article a  {
   color:darkgreen !important;
-  border-bottom: dotted 1px darkolivegreen;
+  border-bottom: dotted 1px darkolivegreen !important;
 }
-.page-body:hover a, .article a:hover, .navbar a:hover {
+.page-body a:hover, .article a:hover, .navbar a:hover {
   color:darkgreen !important;
   background-color: yellowgreen;
-  border-bottom: dotted 2px #c46210;
+  border-bottom: dotted 2px #c46210 !important;
 }
