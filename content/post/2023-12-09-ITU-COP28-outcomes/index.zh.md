@@ -97,6 +97,3 @@ IEC/ISO/ITU
 
 {{% readfile file ="/md/brand/aboutOxon8.md" %}}
 
-test
-
-{{% readfile "/reuse/a.md" %}}
