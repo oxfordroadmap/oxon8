@@ -1,8 +1,10 @@
 <div class="row d-flex justify-content-center flex-row">
 <div class="m-3">
+
 ![HTL-GreenDigitalAction.png](HTL-GreenDigitalAction.png)
 </div>
 <div class="m-5">
+
 ![CLP-GreenDigitalAction.png](CLP-GreenDigitalAction.png)
 </div>
 </div>
