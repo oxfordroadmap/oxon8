@@ -17,7 +17,7 @@ categories:
   - 技术路线图
 image:
   filename: WSC_SPCG-2023.webp
-  preview_only: false
+  preview_only: true
 ---
 
 2023年12月于[联合国气候大会 COP28 UAE](https://www.cop28.com/)上，[国际电联ITU发布绿色数字行动成果 ](https://www.itu.int/initiatives/green-digital-action-atcop28/about/outcomes/)有下：
