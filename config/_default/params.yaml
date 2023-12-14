@@ -8,7 +8,7 @@
 appearance:
   theme_day: Forest
   theme_night: Dark
-  font: Native_Noto
+  font: native_noto
   font_size: m
 
 # SEO

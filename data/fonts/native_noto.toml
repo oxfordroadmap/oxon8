@@ -2,7 +2,7 @@
 # Note that the native font families are automatically populated by Academic.
 
 # Font style metadata
-name = "Native_Noto"
+name = "native_noto"
 
 # Optional Google font URL
 google_fonts = ""
