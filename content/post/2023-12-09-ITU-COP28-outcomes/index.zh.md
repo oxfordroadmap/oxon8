@@ -95,5 +95,6 @@ IEC/ISO/ITU
 
 {{< readfile file ="/md/brand/GDACOP28.md" >}}
 
-{{< readfile file ="/md/brand/aboutOxon8.md" >}}
+{{% readfile file ="/md/brand/aboutOxon8.md" %}}
 
+test
