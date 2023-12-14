@@ -1,9 +1,7 @@
-staticDir = [ "static", "staticPDF" ]
-
 [zh]
 languageCode = "zh"
 title = "澳恪森数智科技服务"
-staticDir = [ "staticDir", "static_zh-hans" ]
+staticDir = [ "static", "static_zh-hans" ]
 
   [zh.params]
   description = "数智平台与绿色金融科技的创新设计"
@@ -12,7 +10,7 @@ staticDir = [ "staticDir", "static_zh-hans" ]
 languageCode = "en-us"
 languageName = "English"
 title = "Oxford Roadmapping  (Oxon8)"
-staticDir = [ "staticDir", "static_en" ]
+staticDir = [ "static", "static_en" ]
 
   [en.params]
   description = "Innovate with Designs of Smart Platforms and Green FinTech, on a mission to reduce gigatones of GHG emissions by transforming how carbon neutrality information flows change business operations and supply chains"
@@ -21,7 +19,7 @@ staticDir = [ "staticDir", "static_en" ]
 languageCode = "zh-hant"
 languageName = "中文 (正體)"
 title = "澳恪森數智科技服務"
-staticDir = [ "staticDir", "static_zh-hant" ]
+staticDir = [ "static", "static_zh-hant" ]
 
   [zh-hant.params]
   description = "數智平台與綠色金融科技的創新設計"
