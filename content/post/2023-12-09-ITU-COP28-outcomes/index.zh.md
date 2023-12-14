@@ -32,14 +32,6 @@ image:
 
 <!--more-->
 
-IEC/ISO/ITU
-
-有40多家科技公司参与，其中绿色标准行动计划由国际电联及华为领头。
-
-绿色标准：
-	* 1项联合声明，通过设计纳入**技术标准制定**，助世界实现净零，由[世界标准合作组织](https://www.worldstandardscooperation.org/) 会IEC/ISO/ITU领头。
-	* 1项[行动计划](http://www.itu.int/initiatives/green-digital-action-atcop28/wp-content/uploads/sites/4/2023/12/Call-to-Action-Pillar4-Green-standards.pdf)，启动同行学习组，实施**环境可持续性标准**方面的合作。
-
 ### 国际电联ITU绿色化数字行动@COP28 
 
 [世界标准合作组织（World Standards Cooperation）](https://www.worldstandardscooperation.org/)，的[COP28联合声明](https://www.worldstandardscooperation.org/wp-content/uploads/2023/11/WSC_Statement_Standards-Digital_8_Nov_2023.pdf)强调可持续发展。
@@ -51,6 +43,13 @@ IEC/ISO/ITU
 {{< youtube lC7xGx8dOuc >}}
 
 > 华为与会代表说明为何参加国际标准
+
+### 绿色标准行动由国际电联及华为领头
+
+有40多家科技公司参与，其中绿色标准行动计划由国际电联及华为领头：
+	* 1项联合声明，通过设计纳入**技术标准制定**，助世界实现净零，由[世界标准合作组织](https://www.worldstandardscooperation.org/) 会IEC/ISO/ITU领头。
+	* 1项[行动计划](http://www.itu.int/initiatives/green-digital-action-atcop28/wp-content/uploads/sites/4/2023/12/Call-to-Action-Pillar4-Green-standards.pdf)，启动同行学习组，实施**环境可持续性标准**方面的合作。
+
 
 ### 澳恪森GDAStandard项目助力绿色化数字行动扩大参与
 
