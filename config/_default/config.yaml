@@ -52,6 +52,14 @@ module:
 ##    - path: github.com/hugomods/bootstrap
 
 ############################
+## Customized CSS JS
+############################
+
+custom_css: ["css/custom.css"]
+custom_js: ["js/custom.js"]
+
+
+############################
 ## ADVANCED
 ############################
 

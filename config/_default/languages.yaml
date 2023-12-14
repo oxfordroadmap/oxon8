@@ -36,3 +36,4 @@ zh-hant:
 
 staticDir:
 - static
+- staticPDF
