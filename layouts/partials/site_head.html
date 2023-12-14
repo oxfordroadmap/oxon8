@@ -40,6 +40,7 @@
   {{ $js := site.Data.assets.js }}
 
   {{/* Custom CSS JS */}}
+  <link rel="stylesheet" href="https://oxon8.netlify.app/css/custom.css">
   {{ range site.Params.custom_css -}}
       <link rel="stylesheet" href="{{ . | absURL }}">
   {{- end }}
