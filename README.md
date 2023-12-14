@@ -34,5 +34,15 @@
 
 
 -----
+### Useful Resources for Blogging with Hugo
+
+* Hugo Blo 
+	* [Format content with Markdown, LaTeX, and Shortcodes](https://docs.hugoblox.com/reference/markdown/)
+		*  [Emoji cheat sheet](http://www.webpagefx.com/tools/emoji-cheat-sheet/)
+		* 
+* Hugo Doc
+	* [Static files | Hugo (gohugo.io)](https://gohugo.io/content-management/static-files/)
+	* 
+
 
 ### 最新消息
