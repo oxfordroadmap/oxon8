@@ -1,20 +1,14 @@
-
-
-<a href="https://oxon8.netlify.app/post/2023-12-09-itu-cop28-outcomes/" class="btn btn-outline-success px-5 py-3">
-
-###  🌐澳恪森数智科技服务
-{.h1 .text-center}
-
-</a>
-
-
 <div class="row d-flex justify-content-center flex-row">
-<div class="col-4 m-3">
+<div class="col-4">
 
 ![icon.svg](icon.svg)
 
+<a href="https://oxon8.netlify.app" class=" h1 text-center btn btn-outline-success px-5 py-3">
+###  🌐澳恪森数智
+</a>
+
 </div>
-<div class="col-8 m-5">
+<div class="col-8">
 
 澳恪森数智科技（英文名：Oxford Roadmapping，简称Oxon8）是一家致力于创新 **数智平台** 与 **绿色金融科技** 发展的公司。利用 **[数字生态创新](https://www.itu.int/dms_pub/itu-d/opb/inno/D-INNO-TOOLKIT.2-2020-PDF-C.pdf)** 帮助组织与个人的双化协同发展和精准脱碳。
 

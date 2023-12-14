@@ -1,7 +1,7 @@
 <div class="h3 col text-center">
-<a href="https://oxon8.netlify.app/" class="btn btn-outline-success px-5 py-3">
+<a href="https://oxon8.netlify.app/post/2023-12-09-itu-cop28-outcomes" class="btn btn-outline-success px-5 py-3">
 
-# 澳恪森数智支持[ITU绿色化数字行动](https://oxon8.netlify.app/post/2023-12-09-itu-cop28-outcomes/))
+# 澳恪森数智支持ITU绿色化数字行动())
 
 </a>
 </div>
