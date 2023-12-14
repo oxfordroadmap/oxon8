@@ -83,20 +83,7 @@ IEC/ISO/ITU
 ![icon.png](icon.png)
 澳恪森Oxon8为行业﹑智库﹑政府等提供基于专利分析﹑科学计量﹑知识图谱等等数据情报，合作开展集科技研发﹑科技服务﹑成果转化﹑系统集成﹑人才培养﹑等科技创新公共及商业服务，运用前瞻情报连结在地及全球网络。
 
-### 澳恪森数智科技支持 绿色化数字行动@COP28
-
-<div class="d-flex justify-content-center flex-row">
-<div class="p-1">
-
-![HTL-GreenDigitalAction.png](HTL-GreenDigitalAction.png)
-
-</div>
-<div class="p-2">
-
-![CLP-GreenDigitalAction.png](CLP-GreenDigitalAction.png)
-
-</div>
-</div>
+{{< brand/GDACOP28 >}}
 
 ### 关于标准化计划协调小组 （SPCG）
 
