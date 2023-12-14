@@ -89,16 +89,19 @@ h2{font-size: 2rem; important!;background-color: lightgreen;}
 助力绿色化数字行动扩大参与，澳恪森数智科技以其标准化工作及科技路线图工作的经验，结合国际电联ITU的数字生态创新工具箱与自身积累的双化设计教案，推出绿色数字行动工具箱。
 
 
-# 绿色数字行动工具箱
+# <i class="fa fa-briefcase text_success"></i> 绿色数字行动工具箱
 
 
-## A. **已完成**： ITU 2023年绿色数字行动@COP28 中文翻译交付 
+## {{< icon name="check-square" pack="fas" >}}已完成
+
+### A. ITU 2023绿色数字行动@COP28 翻译交付
 
 国际电联ITU绿色化数字行动@COP28 已绘出时间流程图，我们将其中译如下：[简体中文](Green_Digital_Action_at_COP28.zh-hans.pdf)、[正／繁体中文](Green_Digital_Action_at_COP28.zh-hant.pdf)
 
 ![ITU-Thematic_Pillar-4.a-zh-hans_ink.webp](ITU-Thematic_Pillar-4.a-zh-hans_ink.webp)
 
-## B. ***进行中***：ITU 数字生态体系设计工具箱
+## <i class="fas fa-spinner fa-pulse"></i>进行中
+### B. ITU 数字生态体系设计工具箱
 
 与国家工业设计研究院（生态设计）合作，澳恪森GDAStandard项目将于2023年年底，至2024年年初，推出绿色数字行动工具箱，可用来引导双创学生走向双化创新，更可在各学术科研及产业研发活动中，做为「数字生态体系」(digital ecosystems) 设计创新的教材及教案，从而解决自身问题后，提练引领产业及学科的标准化能力。
 
