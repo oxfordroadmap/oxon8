@@ -24,3 +24,11 @@
   background-color: yellowgreen;
   border-bottom: dotted 2px #c46210 !important;
 }
+
+.navbar {
+    padding: 1rem 1rem;
+    background-image: url(https://oxon8.netlify.app/icon.svg);
+    background-repeat: no-repeat;
+    background-size: auto 75%;
+    background-position: 50px center;
+}

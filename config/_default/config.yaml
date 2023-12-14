@@ -20,7 +20,7 @@ languages:
     languageCode: zh
     languageName: 中文 (簡体)
     languageDirection: ltr
-    title: 澳恪森数智科技服务
+    title: 澳恪森数智
     weight: 1
   en:
     disabled: false
@@ -34,7 +34,7 @@ languages:
     languageCode: zh-hant
     languageName: 中文 (正體)
     languageDirection: ltr
-    title: 澳恪森數智科技服務
+    title: 澳恪森數智
     disabled: false
     weight: 3
 hasCJKLanguage: true
