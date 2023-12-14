@@ -28,4 +28,4 @@ that aligns **industrial chain** collaborative innovations.
 *   <span class="highlight-container highlight-yellow"><span class="highlight"><a href="#footnotes"> smart digital platforms¹</a></span></span> 
 that advances **regional economy** + **rural revitalization** sustainable development.
 
-Explore our [projects]() with digital and socio-technical innovations
+Explore our [projects](/project) with digital and socio-technical innovations

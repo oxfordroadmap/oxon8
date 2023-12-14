@@ -9,7 +9,7 @@ google_fonts = ""
 
 # Custom CSS fonts
 # Font families
-heading_font = ["Noto Sans SC", "sans-serif"]
-body_font = ["Noto Serif SC", "serif"]
-nav_font = ["Noto Sans SC", "sans-serif"]
-mono_font = ["Source Code Pro", "Roboto Slab"]
+heading_font = "Noto Sans SC"
+body_font = "Noto Serif SC"
+nav_font = "Noto Sans SC"
+mono_font = "Source Code Pro"
