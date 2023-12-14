@@ -78,15 +78,6 @@ IEC/ISO/ITU
 
 > 欧洲光纤到户委员会（FTTH Fiber to the Home Council Europe）说明ICT行业的绿色责任
 
-### 关于澳恪森数智科技
-澳恪森数智科技，简称Oxon8，全名为澳恪森数智科技服务（广州）有限公司，创新数智平台与绿色金融科技的设计，助组织与个人的双化协同发展及精准脱碳之旅。
-![icon.png](icon.png)
-澳恪森Oxon8为行业﹑智库﹑政府等提供基于专利分析﹑科学计量﹑知识图谱等等数据情报，合作开展集科技研发﹑科技服务﹑成果转化﹑系统集成﹑人才培养﹑等科技创新公共及商业服务，运用前瞻情报连结在地及全球网络。
-
-{{< readfile file ="/md/brand/GDACOP28.md" >}}
-
-{{< readfile file ="/md/brand/aboutOxon8.md" >}}
-
 ### 关于标准化计划协调小组 （SPCG）
 
 **[标准化计划协调小组 （SPCG）](https://www.worldstandardscooperation.org/what-we-do/spcg/)** 是由推进基于自愿共识的国际标准体系的[「世界标准合作组织」（World Standards Cooperation）](https://www.worldstandardscooperation.org/)下的委员会，协调及审查IEC、ISO和ITU-T技术标准化活动。目前已定立下列高新技术合作领域：无障碍、人工智能、增强现实、大数据、生物识别技术、区块链、循环经济、气候变化、云计算、网络安全、数据管理、数字货币、赈灾、边缘计算、电子医疗、能源效率、电子垃圾、智能交通系统、物联网、机器学习、印刷电子产品、量子计算、机器人技术、智慧城市、智能电网、智能制造、虚拟现实、可穿戴设备、3D打印。
@@ -99,3 +90,10 @@ IEC/ISO/ITU
 
 
 {{< youtube TRWbxSv5noo >}}
+
+
+
+{{< readfile file ="/md/brand/GDACOP28.md" >}}
+
+{{< readfile file ="/md/brand/aboutOxon8.md" >}}
+
