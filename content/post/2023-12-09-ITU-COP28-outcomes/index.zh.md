@@ -85,8 +85,18 @@ IEC/ISO/ITU
 
 ### 澳恪森数智科技支持 绿色化数字行动@COP28
 
+<div class="d-flex justify-content-center flex-row">
+<div class="p-1">
+
 ![HTL-GreenDigitalAction.png](HTL-GreenDigitalAction.png)
+
+</div>
+<div class="p-2">
+
 ![CLP-GreenDigitalAction.png](CLP-GreenDigitalAction.png)
+
+</div>
+</div>
 
 ### 关于标准化计划协调小组 （SPCG）
 

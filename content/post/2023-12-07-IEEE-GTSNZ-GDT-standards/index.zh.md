@@ -94,6 +94,15 @@ IEEE GTSNZ 由 [IEEE TEMS技术和工程管理协会](https://www.ieee-tems.org)
 
 ### 澳恪森数智科技支持 绿色化数字行动@COP28
 
+<div class="d-flex justify-content-center flex-row">
+<div class="p-1">
+
 ![HTL-GreenDigitalAction.png](HTL-GreenDigitalAction.png)
+
+</div>
+<div class="p-2">
+
 ![CLP-GreenDigitalAction.png](CLP-GreenDigitalAction.png)
 
+</div>
+</div>

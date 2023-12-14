@@ -111,7 +111,15 @@ tags:
 
 ### 澳恪森数智科技支持 绿色化数字行动@COP28
 
+<div class="d-flex justify-content-center flex-row">
+<div class="p-1">
+
 ![HTL-GreenDigitalAction.png](HTL-GreenDigitalAction.png)
+
+</div>
+<div class="p-2">
+
 ![CLP-GreenDigitalAction.png](CLP-GreenDigitalAction.png)
 
-![Green_digital_logo_Horizontal_-_Colour.png](Green_digital_logo_Horizontal_-_Colour.png)
+</div>
+</div>
