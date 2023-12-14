@@ -46,6 +46,8 @@ h1{font-size: 3.75rem; important!}
 h2{font-size: 2.5rem; important!}
 </style>
 
+{{< toc >}}
+
 此次 [第 8 届ITU-T **FG-AI4A** 智能农业焦点组2023年12月例会](https://www.itu.int/en/ITU-T/focusgroups/ai4a/Pages/default.aspx)，召开後，已有由单位主导的科技标准化路线图成果 。
 
 廖汉腾博士表示，会上专家对於明年交付标准文件成果十分有信心，也对标准化路线图成果的方法提出对国际电联另一关於元宇宙的焦点组的最新成果的参考建议。经研究，此文件和澳恪森熟用的文献计量软件（Bibliometrix）及方法一致。

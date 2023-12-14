@@ -45,6 +45,16 @@ h1{font-size: 3.75rem; important!}
 h2{font-size: 2.5rem; important!}
 </style>
 
+{{% callout note %}}
+
+> ... 通过文献与专家参与的**知识图谱**将**可持续性相关数据**（如碳排 :footprints: 及ESG）融入产业发展（如智能港口、供应链、ESG实践与教育），并交付具有底线思维（[The Triple Bottom Line](https://online.hbs.edu/blog/post/what-is-the-triple-bottom-line)：3P's Profit, People, and the Planet :people_hugging: :chart: :earth_asia: )的知识及策略 
+{class="blockquote pb-2"}
+
+澳恪森数智
+{class="blockquote-footer mb-0 font-italic"}
+{{% /callout  %}}
+{style="border-left: .25rem solid #A41034;"}
+
 {{< toc >}}
 
 ## 项目信息 

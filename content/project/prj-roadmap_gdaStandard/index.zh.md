@@ -54,6 +54,10 @@ h1{font-size: 2.75rem; important!}
 h2{font-size: 2rem; important!;background-color: lightgreen;}
 </style>
 
+
+{{< toc >}}
+
+
 # 这和我做的创新或标准有关吗？绿色数字行动？
 
 数字化方面，**[世界标准合作组织](https://www.worldstandardscooperation.org)** 在数字领域目前一共有28项合作领域，从无障碍到人工智能，从电子健康到智能制造，从物网到3D打印，以「通过**设计**将**可持续性原则**融入标准发展，并交付具有商业和环境意义的标准」，如下图所示：

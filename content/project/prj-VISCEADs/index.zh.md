@@ -23,15 +23,6 @@ image:
   filename: prj-visCEADs.webp
   preview_only: true
 ---
-<style>
-h1{font-size: 3.75rem; important!}
-h2{font-size: 2.5rem; important!}
-.article-container {max-width:100vw; !important}
-.info-vis {
-    width: 100vw;
-    height: 100vh;
-}</style>
-
 <div class="p-3 mt-2 mb-2 bg-warning text-dark-50 container rounded" markdown="1">
 
 <span style="color: #cf4a31;"><i class="fas fa-battery-half ai-1x fa-beat"></i></span>
@@ -56,7 +47,16 @@ h2{font-size: 2.5rem; important!}
 
 </div>
 
-<!--more-->
+<style>
+h1{font-size: 3.75rem; important!}
+h2{font-size: 2.5rem; important!}
+.article-container {max-width:100vw; !important}
+.info-vis {
+    width: 100vw;
+    height: 100vh;
+}</style>
+
+{{< toc >}}
 
 减碳得甘愿及志愿。有价值有动机。
 
