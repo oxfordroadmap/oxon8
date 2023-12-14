@@ -36,13 +36,16 @@
 -----
 ### Useful Resources for Blogging with Hugo
 
-* Hugo Blo 
+![2921e048c32cef538d5d8b5d3cc32cee.jpg (736×1280) (pinimg.com)](https://i.pinimg.com/736x/29/21/e0/2921e048c32cef538d5d8b5d3cc32cee.jpg))
+
+* Hugo Blox
+	* Source code: [Github](https://github.com/HugoBlox/hugo-blox-builder/blob/main)
 	* [Format content with Markdown, LaTeX, and Shortcodes](https://docs.hugoblox.com/reference/markdown/)
 		*  [Emoji cheat sheet](http://www.webpagefx.com/tools/emoji-cheat-sheet/)
-		* 
+	* [➕ Extend Hugo Blox | Hugo Blox Docs](https://docs.hugoblox.com/reference/extend/#override-a-component)
 * Hugo Doc
 	* [Static files | Hugo (gohugo.io)](https://gohugo.io/content-management/static-files/)
 	* 
 
-
+[Create your own shortcodes | Hugo (gohugo.io)](https://gohugo.io/templates/shortcode-templates/)
 ### 最新消息
