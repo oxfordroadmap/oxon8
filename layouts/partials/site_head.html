@@ -39,6 +39,15 @@
   {{ $css := site.Data.assets.css }}
   {{ $js := site.Data.assets.js }}
 
+  {{/* Custom CSS JS */}}
+  {{ range .Site.Params.custom_css -}}
+      <link rel="stylesheet" href="{{ . | absURL }}">
+  {{- end }}
+
+  {{ range .Site.Params.custom_js -}}
+      <script type="text/javascript" src="{{ . | absURL }}"></script>
+  {{- end }}
+
   {{/* Config LaTeX math rendering. */}}
   {{ if or .Params.math site.Params.features.math.enable }}
     {{ $mathjax_config := resources.Get "js/mathjax-config.js" }}
@@ -178,17 +187,6 @@
     {{- end -}}
     <link rel="stylesheet" href="{{ $wc_block_styles.RelPermalink }}" />
   {{ end }}
-
-  {{/* Custom CSS JS */}}
-  // css
-  {{ range .Site.Params.custom_css -}}
-      <link rel="stylesheet" href="{{ . | absURL }}">
-  {{- end }}
-
-  // javascript
-  {{ range .Site.Params.custom_js -}}
-      <script type="text/javascript" src="{{ . | absURL }}"></script>
-  {{- end }}
 
   {{/* Hugo Chroma Syntax Highlighter Initialization */}}
   {{/* TODO: optimize to only include the Chroma CSS themes when the page has code blocks. */}}
