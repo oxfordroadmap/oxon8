@@ -88,3 +88,9 @@ tags:
 **澳恪森**在2023年后半将以《联合国气候变化框架公约》第二十八届缔约方大会（COP 28）的外围相关会议如[IEEE 绿色科技、可持续发展和净零政策与实践研讨会(IEEE GTSNZ 2023)](https://gtsnz.org/)，持续对数字化绿色化协同（简称“双化协同”）发展及绿色数字化转型(Green Digital Transformation) 进行科研创新。
 
 ![IEEE_gtsnz.org.png](./IEEE_gtsnz.org.png)
+
+---
+
+{{< readfile file ="/static/md/brand/GDACOP28.md" >}}
+
+{{< readfile file ="/static/md/brand/aboutOxon8.md" >}}

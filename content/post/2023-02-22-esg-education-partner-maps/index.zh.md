@@ -48,8 +48,8 @@ Given the rising demand for environmental, social, and governance (ESG) talents,
 
 
 
-### 关于澳恪森数智科技
-澳恪森数智科技，简称Oxon8，全名为澳恪森数智科技服务（广州）有限公司，创新数智平台与绿色金融科技的设计，助组织与个人的双化协同发展及精准脱碳之旅。
-![icon.webp](icon.webp)
-澳恪森Oxon8为行业﹑智库﹑政府等提供基于专利分析﹑科学计量﹑知识图谱等等数据情报，合作开展集科技研发﹑科技服务﹑成果转化﹑系统集成﹑人才培养﹑等科技创新公共及商业服务，运用前瞻情报连结在地及全球网络。
+---
 
+{{< readfile file ="/static/md/brand/GDACOP28.md" >}}
+
+{{< readfile file ="/static/md/brand/aboutOxon8.md" >}}

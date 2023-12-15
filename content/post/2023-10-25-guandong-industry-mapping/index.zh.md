@@ -138,3 +138,9 @@ Shan, Y., Huang, Q., Guan, D. et al. (2020). China CO2 emission accounts 2016–
 
 **澳恪森**表示，在投入产出分析（Input-Output Analysis） 结合 网络图可视化 （Network Mapping）及分析方面，有具大应用于 碳排管理（Carbon management）双化协同（Green Digital Transformation）的空间，欢迎来信 h.liao@ieee.org 问询各式合作机会。
 
+
+---
+
+{{< readfile file ="/static/md/brand/GDACOP28.md" >}}
+
+{{< readfile file ="/static/md/brand/aboutOxon8.md" >}}

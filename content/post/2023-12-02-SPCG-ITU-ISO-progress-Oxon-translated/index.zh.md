@@ -131,3 +131,10 @@ image:
 ![28](WSC_SPCG-2023.webp)
 
 如上图所示，世界标准合作组织的SPCG标准化计划协调小组的合作领域从无障碍到人工智能，从电子健康到智能制造，从物网到3D打印，一共28项合作领域，确保IEC/ISO/ITU能协同合作分工，并通过设计纳入**技术标准制定**，以及帮助世界实现净零排放和实现资源节约型循环低碳经济的标准。
+
+
+---
+
+{{< readfile file ="/static/md/brand/GDACOP28.md" >}}
+
+{{< readfile file ="/static/md/brand/aboutOxon8.md" >}}

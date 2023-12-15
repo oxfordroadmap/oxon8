@@ -158,3 +158,9 @@ tags:
 > 注：此图将发表，在发表前请勿正式引用。
 
 
+
+---
+
+{{< readfile file ="/static/md/brand/GDACOP28.md" >}}
+
+{{< readfile file ="/static/md/brand/aboutOxon8.md" >}}

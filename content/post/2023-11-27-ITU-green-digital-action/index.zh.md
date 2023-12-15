@@ -104,22 +104,8 @@ tags:
 
 〝国际电联ITU在标准之外的[发展部门](https://www.itu.int/en/ITU-D/Pages/default.aspx)，更是倡导用数字创新来解决数字鸿沟的问题，更提出（数字）生态系统 （ecosystems）概念，将标准一方面往实际场景应用更紧密连结，一方面往技术治理更符合以人为中心的发展目标。这方面对用户体验、技术治理等多方面协作的生态系统观，是中国大学**互联网创新创业**比较少发展的，需要更好地结合双创教育与可持续发展教育 (ESD) ，这是个人6年以来在中国高校打造一流人工智能课程的经验与观察的结果。〞
 
-### 关于澳恪森数智科技
-澳恪森数智科技，简称Oxon8，全名为澳恪森数智科技服务（广州）有限公司，创新数智平台与绿色金融科技的设计，助组织与个人的双化协同发展及精准脱碳之旅。
-![icon.png](icon.png)
-澳恪森Oxon8为行业﹑智库﹑政府等提供基于专利分析﹑科学计量﹑知识图谱等等数据情报，合作开展集科技研发﹑科技服务﹑成果转化﹑系统集成﹑人才培养﹑等科技创新公共及商业服务，运用前瞻情报连结在地及全球网络。
+---
 
-### 澳恪森数智科技支持 绿色化数字行动@COP28
+{{< readfile file ="/static/md/brand/GDACOP28.md" >}}
 
-<div class="d-flex justify-content-center flex-row">
-<div class="p-1">
-
-![HTL-GreenDigitalAction.png](HTL-GreenDigitalAction.png)
-
-</div>
-<div class="p-2">
-
-![CLP-GreenDigitalAction.png](CLP-GreenDigitalAction.png)
-
-</div>
-</div>
+{{< readfile file ="/static/md/brand/aboutOxon8.md" >}}

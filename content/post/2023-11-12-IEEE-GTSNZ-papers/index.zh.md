@@ -45,3 +45,10 @@ IEEE GTSNZ 由 [IEEE TEMS技术和工程管理协会](https://www.ieee-tems.org)
 **澳恪森**表示，在探讨[联合国气候变化框架公约](https://unfccc.int/sites/default/files/convchin.pdf)
 下的中国“[双化协同（Green Digital Transformation）](https://m.gmw.cn/2023-02/26/content_1303295710.htm)
 ”应用，特别是 “碳排管理（Carbon management）”平台解决方案开发，符合如[工业领域碳达峰实施方案](https://www.gov.cn/gongbao/content/2022/content_5717004.htm)及[碳排放管理体系实施](http://bzh.scjgj.beijing.gov.cn/bzh/apifile/file/2021/20210325/f4451779-29b3-491d-ac72-cfe29b5f53b2.PDF)的发展。欢迎来信 h.liao@ieee.org 问询各式合作机会。
+
+
+---
+
+{{< readfile file ="/static/md/brand/GDACOP28.md" >}}
+
+{{< readfile file ="/static/md/brand/aboutOxon8.md" >}}

@@ -49,3 +49,9 @@ tags:
 
 **澳恪森**表示，在探讨[中国碳核算数据库（CEADs）](https://www.ceads.net.cn/)如何 能和“国家足迹与生物承截力核算”结合，应用于 碳排管理（Carbon management）及双化协同（Green Digital Transformation）的解决方案，欢迎来信 h.liao@ieee.org 问询各式合作机会。
 
+
+---
+
+{{< readfile file ="/static/md/brand/GDACOP28.md" >}}
+
+{{< readfile file ="/static/md/brand/aboutOxon8.md" >}}
