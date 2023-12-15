@@ -1,16 +1,19 @@
 ---
-title:  '广东产业结构系列可视化－数智创新驱动低碳发展'
+title: 广东产业结构系列可视化－数智创新驱动低碳发展
 date: 2023-10-25
-categories:
-- Input-Output Analysis
-- 投入产出分析
-- Network Mapping
-- 网络图可视化
 tags:
-- Carbon management
-- 碳排管理
-- Green Digital Transformation
-- 双化协同（数字化绿色化协同转型）
+  - 【2023VisCEADs】
+  - 碳排管理
+  - 數碼綠色雙轉型（雙化協同）
+  - 數智平台
+  - 技術路線
+  - 商業模式
+categories:
+  - 精准脫碳
+  - 脫碳路線圖
+  - 投入產出分析
+  - 網絡圖可視化
+  - 雙化行動
 ---
 
 广东产业要如何低碳发展？如何“双化协同”或“数字化绿色化协同发展”？
@@ -133,13 +136,13 @@ Shan, Y., Huang, Q., Guan, D. et al. (2020). China CO2 emission accounts 2016–
 > 注：此图文将正式发表，在发表前请勿引用。
 
 
-## 展望未来：机构合作、议题设定
-
-
-**澳恪森**表示，在投入产出分析（Input-Output Analysis） 结合 网络图可视化 （Network Mapping）及分析方面，有具大应用于 碳排管理（Carbon management）双化协同（Green Digital Transformation）的空间，欢迎来信 h.liao@ieee.org 问询各式合作机会。
-
+---
 
 ---
+
+---
+
+{{< readfile file ="/static/md/brand/Oxon8Goals_carbonmanagement.md" >}}
 
 {{< readfile file ="/static/md/brand/GDACOP28.md" >}}
 

@@ -1,16 +1,19 @@
 ---
 title:  '中国香港主要产业结构：趋势与网路图分析'
 date: 2023-11-18
-categories:
-- Input-Output Analysis
-- 投入产出分析
-- 投入产出分析
-- Social Network Analysis
-- 社交网络分析
-- 社交网络分析
 tags:
-- Green Digital Transformation
-- 双化协同（数字化绿色化协同转型）
+  - 【2023VisCEADs】
+  - 碳排管理
+  - 双化协同（数字化绿色化协同转型）
+  - 数智平台
+  - 技术路线
+  - 商业模式
+categories:
+  - 精准脱碳
+  - 脱碳路线图
+  - 投入产出分析
+  - 网络图可视化
+  - 双化行动
 ---
 
 数字化绿色化双转型的香港？

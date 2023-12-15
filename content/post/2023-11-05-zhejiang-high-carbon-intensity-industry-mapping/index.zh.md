@@ -1,16 +1,19 @@
 ---
 title:  '浙江精准脱碳：高碳排主要产业及其关系网'
 date: 2023-11-05
-categories:
-- Input-Output Analysis
-- 投入产出分析
-- Network Mapping
-- 网络图可视化
 tags:
-- Carbon management
-- 碳排管理
-- Green Digital Transformation
-- 双化协同（数字化绿色化协同转型）
+  - 【2023VisCEADs】
+  - 碳排管理
+  - 双化协同（数字化绿色化协同转型）
+  - 数智平台
+  - 技术路线
+  - 商业模式
+categories:
+  - 精准脱碳
+  - 脱碳路线图
+  - 投入产出分析
+  - 网络图可视化
+  - 双化行动
 ---
 <style>
 .data {
@@ -162,12 +165,13 @@ Shan, Y., Huang, Q., Guan, D. et al. (2020). China CO2 emission accounts 2016–
 > 注：此图文将正式发表，在发表前请勿引用。
 
 
-## 展望未来：机构合作、议题设定
-
-
-**澳恪森**表示，在投入产出分析（Input-Output Analysis） 结合 网络图可视化 （Network Mapping）及分析方面，有具大应用于 碳排管理（Carbon management）双化协同（Green Digital Transformation）的空间，欢迎来信 h.liao@ieee.org 问询各式合作机会。
+---
 
 ---
+
+---
+
+{{< readfile file ="/static/md/brand/Oxon8Goals_carbonmanagement.md" >}}
 
 {{< readfile file ="/static/md/brand/GDACOP28.md" >}}
 

@@ -1,19 +1,19 @@
 ---
-title:  '台湾主要产业结构：趋势与网路图分析'
+title: 台湾主要产业结构：趋势与网路图分析
 date: 2023-11-20
-categories:
-- Input-Output Analysis
-- 投入產出分析
-- 投入产出分析
-- Social Network Analysis
-- 社交網絡分析
-- 社交網络分析
 tags:
-- Green Digital Transformation
-- Twin Transition
-- 數碼綠色雙轉型
-- 双化协同（数字化绿色化协同转型）
-- 数字化绿色化双转型
+  - 【2023VisCEADs】
+  - 碳排管理
+  - 双化协同（数字化绿色化协同转型）
+  - 数智平台
+  - 技术路线
+  - 商业模式
+categories:
+  - 精准脱碳
+  - 脱碳路线图
+  - 投入产出分析
+  - 网络图可视化
+  - 双化行动
 ---
 
 

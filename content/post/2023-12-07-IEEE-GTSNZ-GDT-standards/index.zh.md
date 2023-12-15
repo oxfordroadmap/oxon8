@@ -15,13 +15,7 @@ categories:
   - 精准脱碳
   - 投入产出分析
   - 网络图可视化
-  - 双化行动
-  - 标准化
-  - 技术路线图
-categories:
-  - Precision Decarbonization
-  - Input-Output Analysis
-  - Network Mapping
+  - 社交网络分析
 image:
   filename: Liao-HT-gtsnz.org-ISO_ITU-core-roadmap.png
   preview_only: true
