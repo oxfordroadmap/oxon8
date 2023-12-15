@@ -92,3 +92,10 @@ BECCS Technology Roadmap for Smart and Sustainable Argo-Food Systems
 
 ## 请连络我们一同前行
 
+
+
+
+{{< readfile file ="/static/md/brand/GDACOP28.md" >}}
+
+{{< readfile file ="/static/md/brand/aboutOxon8.md" >}}
+

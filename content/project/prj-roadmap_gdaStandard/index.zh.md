@@ -180,19 +180,8 @@ h2{font-size: 2rem; important!;background-color: lightgreen;}
 {{< youtube TRWbxSv5noo >}}
 
 
-### 澳恪森数智科技支持 绿色化数字行动@COP28
 
-<div class="d-flex justify-content-center flex-row">
-<div class="p-1">
+{{< readfile file ="/static/md/brand/GDACOP28.md" >}}
 
-![HTL-GreenDigitalAction.png](HTL-GreenDigitalAction.png)
-
-</div>
-<div class="p-2">
-
-![CLP-GreenDigitalAction.png](CLP-GreenDigitalAction.png)
-
-</div>
-</div>
-
+{{< readfile file ="/static/md/brand/aboutOxon8.md" >}}
 
