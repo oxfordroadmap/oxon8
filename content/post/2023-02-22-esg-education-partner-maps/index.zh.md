@@ -50,6 +50,6 @@ Given the rising demand for environmental, social, and governance (ESG) talents,
 
 ---
 
-{{< readfile file ="/static/md/brand/GDACOP28.md" >}}
+{{< readfile file ="/static/md/brand/GDACOP28" >}}
 
-{{< readfile file ="/static/md/brand/aboutOxon8.md" >}}
+{{< readfile file ="/static/md/brand/aboutOxon8" >}}

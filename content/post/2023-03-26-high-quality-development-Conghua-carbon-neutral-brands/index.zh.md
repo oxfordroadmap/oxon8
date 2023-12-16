@@ -141,6 +141,6 @@ date: 2023-03-26
 
 ---
 
-{{< readfile file ="/static/md/brand/GDACOP28.md" >}}
+{{< readfile file ="/static/md/brand/GDACOP28" >}}
 
-{{< readfile file ="/static/md/brand/aboutOxon8.md" >}}
+{{< readfile file ="/static/md/brand/aboutOxon8" >}}

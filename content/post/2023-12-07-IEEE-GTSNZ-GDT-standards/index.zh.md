@@ -83,6 +83,6 @@ IEEE GTSNZ 由 [IEEE TEMS技术和工程管理协会](https://www.ieee-tems.org)
 
 ---
 
-{{< readfile file ="/static/md/brand/GDACOP28.md" >}}
+{{< readfile file ="/static/md/brand/GDACOP28" >}}
 
-{{< readfile file ="/static/md/brand/aboutOxon8.md" >}}
+{{< readfile file ="/static/md/brand/aboutOxon8" >}}

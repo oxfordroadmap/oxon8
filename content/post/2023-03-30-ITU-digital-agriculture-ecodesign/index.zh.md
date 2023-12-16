@@ -176,6 +176,6 @@ R. Andres Ferreyrag 配合图表进行报告，并指出目前的难点有以下
 
 ---
 
-{{< readfile file ="/static/md/brand/GDACOP28.md" >}}
+{{< readfile file ="/static/md/brand/GDACOP28" >}}
 
-{{< readfile file ="/static/md/brand/aboutOxon8.md" >}}
+{{< readfile file ="/static/md/brand/aboutOxon8" >}}

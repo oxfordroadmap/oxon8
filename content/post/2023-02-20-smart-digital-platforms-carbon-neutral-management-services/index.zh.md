@@ -57,6 +57,6 @@ This brief research report focuses on the effects of artificial intelligence (AI
 
 ---
 
-{{< readfile file ="/static/md/brand/GDACOP28.md" >}}
+{{< readfile file ="/static/md/brand/GDACOP28" >}}
 
-{{< readfile file ="/static/md/brand/aboutOxon8.md" >}}
+{{< readfile file ="/static/md/brand/aboutOxon8" >}}

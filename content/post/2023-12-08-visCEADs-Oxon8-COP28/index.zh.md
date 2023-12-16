@@ -103,10 +103,10 @@ image:
 
 ---
 
-{{< readfile file ="/static/md/brand/Oxon8Goals_carbonmanagement.md" >}}
+{{< readfile file ="/static/md/brand/Oxon8Goals_carbonmanagement" >}}
 
 ---
 
-{{< readfile file ="/static/md/brand/GDACOP28.md" >}}
+{{< readfile file ="/static/md/brand/GDACOP28" >}}
 
-{{< readfile file ="/static/md/brand/aboutOxon8.md" >}}
+{{< readfile file ="/static/md/brand/aboutOxon8" >}}

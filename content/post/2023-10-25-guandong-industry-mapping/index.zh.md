@@ -142,8 +142,8 @@ Shan, Y., Huang, Q., Guan, D. et al. (2020). China CO2 emission accounts 2016–
 
 ---
 
-{{< readfile file ="/static/md/brand/Oxon8Goals_carbonmanagement.md" >}}
+{{< readfile file ="/static/md/brand/Oxon8Goals_carbonmanagement" >}}
 
-{{< readfile file ="/static/md/brand/GDACOP28.md" >}}
+{{< readfile file ="/static/md/brand/GDACOP28" >}}
 
-{{< readfile file ="/static/md/brand/aboutOxon8.md" >}}
+{{< readfile file ="/static/md/brand/aboutOxon8" >}}

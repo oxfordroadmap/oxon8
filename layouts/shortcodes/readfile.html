@@ -25,6 +25,10 @@ path */}}
   {{ $.Scratch.Add "filepath" ($.Scratch.Get "fparameter") }}
 {{ end }}
 
+{{ $.Scratch.Add "filepath" "." }}
+{{ $.Scratch.Add "filepath" .Site.Language.Lang }}
+{{ $.Scratch.Add "filepath" ".md" }}
+
 
 {{/* If the file exists, read it and highlight it if it's code.
 Throw a compile error or print an error on the page if the file is not found */}}
