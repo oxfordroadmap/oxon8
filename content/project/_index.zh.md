@@ -20,26 +20,8 @@ sections:
       flip_alt_rows: true
 ---
 <style>
-.view-showcase {
-  background-color: #A9BA9D;
-  border:  0px solid #A9BA9D !important;
-  border-radius:25px 25px 25px 25px;
-  overflow: hidden;
-  padding: 12px;
-}
 .universal-wrapper > h1 {
   display:none;
-}
-.card-header > div {
-   font-size: 2rem !important;
-}
-.article-title {
-   background-color: rgba(255,255,255,.5);
-   border:  0px solid #A9A9A9 !important;
-   border-radius:25px 25px 25px 25px;
-   overflow: hidden;
-   font-size: 1.75rem !important;
-   padding: 12px;
 }
 </style>
 

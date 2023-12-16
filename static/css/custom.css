@@ -40,6 +40,29 @@
     white-space: wrap;
 }
 
+.view-showcase {
+  background-color: #A9BA9D;
+  border:  0px solid #A9BA9D !important;
+  border-radius:25px 25px 25px 25px;
+  overflow: hidden;
+  padding: 12px;
+}
+.card-header > div {
+   font-size: 2rem !important;
+}
+.article-title {
+	font-size: 2.25rem !important;
+}
+
+.article-title {
+   background-color: rgba(255,255,255,.5);
+   border:  0px solid #A9A9A9 !important;
+   border-radius:25px 25px 25px 25px;
+   overflow: hidden;
+   font-size: 1.75rem ;
+   padding: 12px;
+}
+
 /* https://kinsta.com/blog/web-safe-fonts/ */
 /* https://huangxin.dev/partly-technical/webfont-from-beginner-to-sans-serif/#75CDN-%E5%89%8D%E7%AB%AF%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90%E5%BA%93 */
 /* https://gwfh.mranftl.com/fonts/noto-sans-sc?subsets=chinese-simplified,latin */
