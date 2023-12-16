@@ -48,4 +48,8 @@
 	* 
 
 [Create your own shortcodes | Hugo (gohugo.io)](https://gohugo.io/templates/shortcode-templates/)
+
+* [中文 WebFont 小指南 - 从入门到 sans-serif - 惶心博客 (huangxin.dev)](https://huangxin.dev/partly-technical/webfont-from-beginner-to-sans-serif/#75CDN-%E5%89%8D%E7%AB%AF%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90%E5%BA%93)
+* [hugo-blox-builder/modules/blox-bootstrap/data/fonts/classic.toml at main · HugoBlox/hugo-blox-builder · GitHub](https://github.com/HugoBlox/hugo-blox-builder/blob/main/modules/blox-bootstrap/data/fonts/classic.toml)
+
 ### 最新消息
