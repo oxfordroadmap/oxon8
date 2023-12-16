@@ -9,6 +9,6 @@
 
 <a href="https://oxon8.netlify.app/post/2023-12-09-itu-cop28-outcomes" class=" h1 text-center">
 
-###  澳恪森数智支持ITU绿色化数字化行动
+###  Oxford Roadmapping supports #GreenDigitalAction
 {class="h3 d-flex justify-content-center btn btn-outline-success px-1 py-3"}
 ![CLP-GreenDigitalAction.png](CLP-GreenDigitalAction.png)</a></div></div>

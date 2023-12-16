@@ -7,10 +7,13 @@ aliases:
 tags:
   - 碳排管理
   - 人工智能
+  - 数字创新生态
+  - 国际电联
+  - 绿色数字行动
 categories:
   - 【澳恪森】顶层概念
 image:
-  filename: prj-visCEADs.webp
+  filename: ITU-Thematic_Pillar-4.a-zh-hans_ink.webp
   preview_only: false
 ---
 

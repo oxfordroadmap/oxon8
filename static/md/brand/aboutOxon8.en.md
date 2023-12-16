@@ -13,9 +13,9 @@
 </div>
 <div class="col-8">
 
-澳恪森数智科技（英文名：Oxford Roadmapping，简称Oxon8）是一家致力于创新 **数智平台** 与 **绿色金融科技** 发展的公司。利用 **[数字生态创新](https://www.itu.int/dms_pub/itu-d/opb/inno/D-INNO-TOOLKIT.2-2020-PDF-C.pdf)** 帮助组织与个人的双化协同发展和精准脱碳。
+Oxford Roadmapping（Chinese name：澳恪森数智科技，aka Oxon8）specializes in **smart digital platforms** 与 **green FinTech**, leveraging **digital innovations](https://www.itu.int/dms_pub/itu-d/opb/inno/D-INNO-TOOLKIT.2-2020-PDF-C.pdf)** to help stakeholder organizations and individuals with green digital transformation and precision decarbonization. 
 
-澳恪森Oxon8为行业﹑智库﹑政府等提供基于专利分析﹑科学计量﹑知识图谱等等数据情报，合作开展集科技研发﹑科技服务﹑成果转化﹑系统集成﹑人才培养﹑等科技创新公共及商业服务，运用前瞻情报连结在地及全球网络。
+Providing science-mapping, scientometric analysis, patent analysis that offer critical strategic foresight connecting the local and global networks, Oxford Roadmapping work with industries, thinktanks and other organizations in digital innovations for public and business services, including technology development, technology services, technology transfer, etc. 
 
 </div>
 </div>
