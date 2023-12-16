@@ -10,10 +10,12 @@ categories:
   - 【澳恪森】顶层概念
 image:
   filename: 2023-Liao-smart_platform_canvas.png
-  preview_only: false
+  preview_only: true
 ---
 
 **双碳管服平台** 指产业、政府、企业等组织利用数字平台技术及数字化转型项目，将碳排管理作为中长期运营关键表现指标 (KPI) 的管理与服务平台作法，是一种绿色化及数字化协同发展的例子。
+
+<!-- more -->
 
 ![](2023-Liao-smart_platform_canvas.png)
 > 澳恪森设计的**双碳管服平台**，基于国际电联及中国团体标准的设计成果。[参见发表文章说明](/post/2023-02-20-smart-digital-platforms-carbon-neutral-management-services)。

@@ -6,12 +6,12 @@ banner:
   image: 'Lychee via Flickr2Commons'
 sections:
   - block: collection
-    id: 'about'
+    id: about
     content:
       title: '关于'
       subtitle: '基本名词（或术语）简介与导航'
       text: 
-      # Display content from the `content/post/` folder
+      # Display content from the `content/about/` folder
       filters:
         folders:
           - about
@@ -20,5 +20,3 @@ sections:
       view: showcase
       flip_alt_rows: true
 ---
-
-
