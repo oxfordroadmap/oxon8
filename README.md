@@ -45,7 +45,10 @@
 	* [➕ Extend Hugo Blox | Hugo Blox Docs](https://docs.hugoblox.com/reference/extend/#override-a-component)
 * Hugo Doc
 	* [Static files | Hugo (gohugo.io)](https://gohugo.io/content-management/static-files/)
-	* 
+	* [Emojis | Hugo (gohugo.io)](https://gohugo.io/quick-reference/emojis/)
+* Speed optimization
+	* [Improving Google Pagespeed Score with Hugo's Academic Theme | Mitch McLachlan](https://mitchmclachlan.com/post/improving-google-pagespeed-hugo-academic/)
+
 
 [Create your own shortcodes | Hugo (gohugo.io)](https://gohugo.io/templates/shortcode-templates/)
 
