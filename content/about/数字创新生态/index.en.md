@@ -1,51 +1,43 @@
- ---
-title: 数字创新生态　 
+---
+title: Digital Innovation Ecosystems　 
 date: 2023-12-12
 aliases:
-  - "#数字创新生态"
-  - "#数字双创生态"
-  - "#数字创新"
+  - "#DigitalInnovationEcosystems"
+  - "#DigitalI&EEcosystems"
 tags:
-  - 数字创新生态
-  - 国际电联
+  - DigitalInnovationEcosystems
+  - ITU
 categories:
-  - 【澳恪森】顶层概念
+  - 【Oxon8】Top-level Concepts
 image:
   filename: ITU-D-Digital_Inno_Ecosystem.zh.png
   preview_only: false
 ---
 
-**数字创新生态** 指「以信息通信技术为中心的创新和生态系统」，国际电联ITU-D以此词为[专题优先事项](https://www.itu.int/itu-d/sites/innovation/)，旨在加速社会数字化转型。
-
-这概念已有至少七年以上的经验和知识积累，被用来做为各国战略政策和实践的基础，已有一套知识体系、工具箱、学习课程、以及涵括各国的及地区，如[亚太](https://www.itu.int/pub/D-INNO-GOOD_PRACT.01-2021)到[欧洲](https://www.itu.int/pub/D-INNO-GOOD_PRACT.03-2021)，[非洲](https://www.itu.int/pub/D-INNO-GOOD_PRACT.02-2021)到[阿拉伯国家](https://www.itu.int/pub/D-INNO-GOOD_PRACT.02-2021)的最佳作法实践总结，也有如[阿曼](https://www.itu.int/dms_pub/itu-d/opb/inno/D-INNO-PROFILE.OMAN-2023-PDF-E.pdf)到[北马其顿](https://www.itu.int/dms_pub/itu-d/opb/inno/D-INNO-PROFILE.NORTHMACEDONIA-2023-PDF-E.pdf)的数字创新国别侧写，发布对各国数字创新的成熟度。这类文件多以D-INNO-开头。
-
-由于国际电联是联合国主导信息通信技术（ICT）事务的专门机构，其对数字创新框架的概述，以ICT为中心的创新有两大特点：
+**Digital Innovation Ecosystems** 指「以信息通信技术为中心的创新和生态系统」，按国际电联ITU对数字创新框架的概述，以ICT为中心的创新有两大特点：
 
 1. 它侧重于信息通信技术行业本 身的创新和发展。
 2. 它强调信息通信技术创新在社会中发挥的跨行业作用
-
 
 <!-- more -->
 
 {{toc}}
 
-澳恪森认为，**从ICT产业部门，跨其它产业行业部门**，是国际电联其数字创新最重要也是本质的视野。因此，在各产业部门在追求数字化转型（包括绿色化数字化双转），以及各ICT及互联网行业从消费、分销、等扩大走向金融、工业4.0、供应链等行业部门，这方面的数字创新意谓着更多的新业务及新职缺。
 
 根据[国际电联ITU历年的发展工作](https://www.itu.int/zh/ITU-D/Innovation/Pages/background-approach.aspx)，包括其 [生态系统学习课程](https://www.itu.int/zh/ITU-D/Innovation/Pages/Digital-Innovation-Ecosystem-Courses.aspx) 及 [生态系统表现和良好做法](https://www.itu.int/zh/ITU-D/Innovation/Pages/Ecosystem-Performance-and-Good-Practices.aspx)，以ICT信息通信技术为中心的**数字创新生态**有以下核心概念：
 
-## 定义：什么是生态系统？
+## 什么是生态系统？
 
 国际电联将一个生态系统定义为**由互联互通的和彼此互动的组织与利益攸关方组成的一个系统或网络**，来自多个产业及部门，它们汇聚一堂共同解决面临的问题。
 
-### 什么是数字化转型？
+### 为哈要生态系统？
 
-数字化转型是一个可能对许多利益攸关方造成困惑的术语。围绕数字化转型的大多 数叙述来自私营部门。传统上涉及政府，但许多人关注的是政府转型（例如，建立电子政务服务）。 
+生态系统概念对创新的好处，在于指出如何在**全球连接**的生态系统和**开放经济体**，取得强大创新才能主导价值链地位。要达成价值链主导创新，需要有适当的治理、联系、能力及聚焦：
 
-数字化转型 (Digital Transformation) 是指在使用信息通信技术和电信进行创新时发生的变化，它用于解决问题。其对一个国家及其人民的好处是巨大的：生产力显著提高、经济增长和就业机会增 加。
-
-其范围可以从数码化（digitization 指的是将手动执行的服务转变为计算机化的服务（例如，编码模拟过程）到数字化（digitalization 这意味着对基础过程的更本质性地往数字调整）。
-
-数字化转型的成功程度取决于以信息通信技术为中心的创新生态系统的能力。这需 要各利益攸关方了解其责任以及履行其责任的能力
+1. **治理**生态系统协作，以***敏捷的、响应性强***的治理模型让利益攸关方交换资源以交互成果。传统过于***刚性、未连接到演进的全球生态系统***的治理，创新难且有限。
+2. **联系**生态系统协作，以促进各参与者的相互作用，能指导、促进和推动创新项目和计划，以建立有利于加速数字化转型的联系。
+3. **能力**建设使生态系统能连接、对齐利益攸关方协作和解决问题的焦点。历史上以资金充裕的大学和公司内的实验室已发展成开放式创新模式来创建和捕获价值，而此种依托全球互连互通的开放式创新平台能力及价值变得越来越重要。
+4. **聚焦**生态系统协作创新：允许创新以非传统的方式重塑价值链，那些无法聚焦生态系统协作的头部企业则将无法应对竞争威。
 
 ### 什么是利益攸关方 stakeholders？
 
@@ -58,54 +50,28 @@ image:
 * **私营部门**：该部门包括大型的和成熟的公司、已在市场上站稳脚跟的中小 企业（SME）和代表私营部门利益的团体（如商会）。通常，这些公司参与创 新生态系统，以探讨颠覆传统商业模式或为其他企业提供服务的机会。 
 * **公共部门**：该利益攸关方群体的成员包括在创新生态系统中十分活跃的政 策制定者和监管机构，以及诸如国际组织和民间社会团体等其他参与者。鉴于 信息通信技术的跨行业性质，公共部门参与者代表众多不同领域，例如，金融、 贸易、通信和技术，也代表可能受到以信息通信技术为中心的创新影响的其他 垂直领域。
 
+### 什么是数字化转型？
 
-## 开发与分析工具：可持续 (数字创新) 生态系统
+数字化转型是一个可能对许多利益攸关方造成困惑的术语。围绕数字化转型的大多 数叙述来自私营部门。传统上涉及政府，但许多人关注的是政府转型（例如，建立电子政务服务）。 
+
+数字化转型 (Digital Transformation) 是指在使用信息通信技术和电信进行创新时发生的变化，它用于解决问题。其对一个国家及其人民的好处是巨大的：生产力显著提高、经济增长和就业机会增 加。
+
+其范围可以从数码化（digitization 指的是将手动执行的服务转变为计算机化的服务（例如，编码模拟过程）到数字化（digitalization 这意味着对基础过程的更本质性地往数字调整）。
+
+数字化转型的成功程度取决于以信息通信技术为中心的创新生态系统的能力。这需 要各利益攸关方了解其责任以及履行其责任的能力
+
+### 开发可持续 (数字创新) 生态系统
 
 **国际电联ITU**在建立一套常用词汇（生态系统、利益攸关方、数字化转型）后，以 (数字创新) 生态系统项目开发为需求目标，提供生态系统建立的系统方法。此方法包括一分析架构及一套工具箱。
 
-### 分析框架工具
+#### 分析框架
 
 分析框架的原则是对创新精英（或潜在的创新明日之星）赋能，对其提供工具开发自己的生态系统。
 
-此生态系统发展路线图分五个阶段，正是此创新生态系统框架以下五个阶段，并分别有不同的十种设计思维工具可用于开发项目：
+此生态系统发展路线图分五个阶段，正是此创新生态系统框架以下五个阶段，并分别有不同的设计思维工具：
 
-![ITU-D-innov-Five_stages.zh.webp](ITU-D-innov-Five_stages.zh.webp)
+1. 
 
-![ITU-D-innov-Five_stages.en.webp](ITU-D-innov-Five_stages.en.webp)
-
-1. 探讨背景：可用**利益攸关方参与工具画布**和**定性访谈工具**，产出***生态系统景况（含攸关方面临的挑战及问题）***
-2. 界定生态系统：用**生态系统评估画布**，是最困难的阶段，需要至少整天的工作坊，以***检查产出的议题及需求各利益攸关方是否认同***，该阶段侧重生态系统关键推动者瞭解，及数字创新项目的共同议程提出。
-3. 评估差距：可用**生态系统成熟度图**和**产业部门开发画布（可选）**，产出可实践的***生态系统焦点系统问题***，第三阶段侧重于待完成工作的差距评估，以范围缩小到生态系统建设项目，基于设计约束条件确定优先级。（生态系统成熟度图工作坊开发需至少半天，产业部门开发画布需至少半天。）
-4. 定义项目：可用**服务设计工具**，产出可具体行动的项目骨架，包括***潜在KPI、初步资源和利益攸关方的图***、基于的***良好做法***等前置资源及成果。
-5. 推销项目：可用**讲故事工具**，产出***开发完成的、出色的生态系统项目***，能针对资源所有者包装已开发的具体项目，提出能获得认同的共识，以成功交付生态系统项目故事，进行销售。（讲故事工作坊需要与半天与参与者一起讲习实作确认故事。）
-
-
-* 1. 探讨背景--**利益攸关方参与工具画布** (主，图13)
-* 1. 探讨背景--定性访谈工具 (图A1)
-* 2. 界定生态系统--**生态系统评估画布** (主，图14)
-* 2. 界定生态系统--愿景设计工具画布 (图A2)
-* 2-4. 良好做法框架画布 (图A3)
-* 3. 评估差距--**生态系统成熟度图画布** (主，图15)
-* 3. 评估差距--产业部门开发画布 (图A4)
-* 4. 定义项目--**服务设计工具画布** (主，图16)
-* 5.推销项目--**讲故事画布**  (主，图17)
-* 5.推销项目--故事结构 (有起有伏)
-
-
-图18：Nancy Duarte有说服力的故事模式
-
-图19：案例1生态系统成熟度图
-
-图20：案例2生态系统成熟度图
-
-：
-
-
-
-画布（可选）
-图A4：￼
-
-以收集并整理加值，具体情报及信息在此创新生态系统框架的五个阶段的逻辑结构是对关键产业部门及数字创新情报进行融合总结。此逻辑虽有其线性模式结构，但实践时因创新是个复杂系统工程，不一定要固守此线性模式。
 
 ####  建议作法
 
@@ -161,7 +127,7 @@ Preparing a workshop requires drafting a brief or concept note for participants.
 The concept note resulting from the design brief should be shared in advance to ensure stakeholder engagement. Special attention should be paid to finding multiple relevant parties to co-sponsor the workshop.
 
 
-## 开发工具
+
 
 
 ### 数字化转型的三个增长引擎
@@ -172,11 +138,9 @@ The concept note resulting from the design brief should be shared in advance to 
 * **创业生态系统**：它包括创业者以及从企业成立之初便为其提供支撑并在后续将之培 育成为中小企业（SME）的支撑系统和组织。由于市场不足或缺乏高增长的商业模式， 有潜力成为高增长的科技型初创企业常常无法发挥其潜能。 
 * **技术生态系统**：技术生态系统包括高增长的技术公司以及支撑它们的生态系统。这 些包括高科技公司、其原始设备制造商、系统集成商、信息通信技术领域的公司以及支 持中小企业的企业对企业（B2B）技术平台。这些公司及其生态系统融入了当地或全球 价值链。该生态系统的发展对国家利用技术创新、打造高增长产业和创造就业的能力而 言至关重要。
 
+## Acknowledgments
 
-## 致谢
-
-感谢ITU国际电信联盟（国际电联）电信发展局（the Telecommunication Development Bureau, BDT）数字生态系统集群（Digital Ecosystem Cluster）编制的[工具箱报告"Bridging the digital innovation divide: A toolkit for developing sustainable ICT-centric ecosystem projects (ISBN: 978-92-61-31051-6) "](http://handle.itu.int/11.1002/pub/816bc8cc-en)。
-
+Special thanks to the report  prepared by the Telecommunication Development Bureau (BDT) Digital Ecosystem Cluster of the International Telecommunication Union (ITU): ["Bridging the digital innovation divide: A toolkit for developing sustainable ICT-centric ecosystem projects（ISBN: 978-92-61-31051-6）"](http://handle.itu.int/11.1002/pub/816bc8cc-en)
 
 
 
@@ -186,6 +150,11 @@ The concept note resulting from the design brief should be shared in advance to 
 
 参考文献：参与者需要哪些实质性的参考文献、工具包、参考故事、愿景或战略文 件，以便理解背景？
 
+### 产业部门开发画布
+
+
+
+### 生态系统
 
 根据澳恪森双碳双化双创的经验，对国际电联的数字化转型三个增长引擎添加2项如下：
 
