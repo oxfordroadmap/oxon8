@@ -3,13 +3,6 @@
   {{ .Page.Store.Add "Ordinal" 1 }}
 {{ end }}
 
-{{/* Handle the "markdown" named parameter or a single unnamed parameter as the markdown */}}
-{{ if .IsNamedParams }}
-	{{ $.Scratch.Set "mdparameter" ( .Get "markdown" ) }}
-{{ else }}
-	{{ $.Scratch.Set "mdparameter" ( .Get 0 ) }}
-{{ end }}
-
 <span class="highlight-container highlight-yellow"><span class="highlight">
-{{- $.Scratch.Get "mdparameter" | .Page.RenderString | safeHTML -}}
+{{- .Inner | safeHTML -}}
 </span></span>
