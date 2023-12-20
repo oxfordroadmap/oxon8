@@ -11,6 +11,16 @@ design:
   css_style: 
   css_class: 
 ---
+<style>
+.hero-title {
+  font-size: 1.5rem !important;
+  font-color: grey;
+  margin-top: 0;
+}
+.hero-lead{
+  font-size: 1.2rem !important;
+}
+</style>
 
 聚焦 {{< inline_highlight color="indigo">}}**[数字创新生态](about/数字创新生态)**{{< /inline_highlight >}}提供 {{< inline_highlight color="cyan">}}**[数字化绿色化协同转型](about/数字化绿色化协同转型)**{{< /inline_highlight >}}咨询服务
 
