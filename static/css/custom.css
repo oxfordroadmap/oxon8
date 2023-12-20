@@ -105,7 +105,8 @@ footer > p:nth-child(3) { display: none; }
 }
 
 .navbar-brand {
-    font-size: 1.6rem;
+    margin-left: 75px !important;
+    font-size: 1.25rem;
     white-space: wrap;
 }
 
