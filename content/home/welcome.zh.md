@@ -30,4 +30,4 @@ design:
 *  <span class="highlight-container highlight-blue"><span class="highlight">信息流</span></span> 驱动  **循环经济** + **数字经济** 的 组织创新 及 社会技术系统创新，特别是[双化协同](/tag/双化协同数字化绿色化协同转型/)的技术及组织[标准化](/category/标准化/)。
 *   <span class="highlight-container highlight-yellow"><span class="highlight"><a href="#脚注"> 数智平台¹</a></span></span> 促进 **区域经济** + **乡村振兴** 的 可持续发展创新
 
-{{% inline_highlight %}} 数智平台¹ {{% /inline_highlight %}}
+{{% inline_highlight color="yellow"%}} 数智平台¹ {{% /inline_highlight %}}

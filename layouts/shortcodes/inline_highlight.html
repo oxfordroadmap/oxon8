@@ -3,6 +3,11 @@
   {{ .Page.Store.Add "Ordinal" 1 }}
 {{ end }}
 
-<span class="highlight-container highlight-yellow"><span class="highlight">
+{{ if .IsNamedParams }}
+	{{ $.Scratch.Set "cparameter" ( .Get "color" ) }}
+{{ else }}
+	{{ $.Scratch.Set "cparameter" ( .Get 0 ) }}
+{{ end }} 
+<span class="highlight-container highlight-{{ $.Scratch.Get "cparameter" }}"><span class="highlight">
 {{- .Inner | safeHTML -}}
 </span></span>
