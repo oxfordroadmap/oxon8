@@ -21,7 +21,7 @@ design:
     gradient_end: '#FFFFFF'
     gradient_angle: 180
 ---
-<div class="row  align-items-center"><div class="col-3">{{% cta cta_link="mailto:oxon8com@outlook.com" cta_text="留个信✉"  icon_pack="fas" icon="mailbox-flag-up" %}}</div><div class="col-6 h4 text-center">{{% cta cta_link="#contact/" cta_text="连络 (更多) " %}} 澳恪森数智科技服务<br/><span class="highlight-container highlight-blue"><span class="highlight">Oxford Roadmapping</span></span></div><div class="col-3">{{% cta cta_link="./people/" cta_text="团队成员 →" %}}</div></div>
+<div class="row  align-items-center"><div class="col-3">{{% cta cta_link="mailto:oxon8com@outlook.com" cta_text="留个信✉"  icon_pack="fas" icon="mailbox-flag-up" %}}</div><div class="col-6 h4 text-center"><!--{{% cta cta_link="#contact/" cta_text="连络 (更多) " %}} -->澳恪森数智科技服务<br/><span class="highlight-container highlight-blue"><span class="highlight">Oxford Roadmapping</span></span></div><div class="col-3">{{% cta cta_link="./people/" cta_text="团队成员 →" %}}</div></div>
 
 <div class="row align-items-center">
 <div class="col-12 small text-left">
