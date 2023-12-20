@@ -1,3 +1,73 @@
+
+
+/* https://bioinfohippo.rbind.io/tutorials/r_tutorials/2020_05_20_0847-r_blogdown_academictheme */
+
+/* https://github.com/gcushen/hugo-academic/issues/1151 */
+/* changes navbar font size */
+.dropdown-menu,
+nav#navbar-main li.nav-item {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+/* custom heading font size, weight
+   from /themes/hugo-academic/assets/scss/academic/_root.scss */
+h2 {
+  font-weight: 600;
+  margin-top: 1rem;
+  font-size: 2.75rem;
+}
+h3 {
+  font-weight: 600;
+  margin-top: 1.5rem;
+  font-size: 2.25rem;
+}
+
+/* body font size
+   from /themes/hugo-academic/assets/scss/academic/_root.scss */
+
+body {
+  font-size: 0.9rem;
+}
+
+
+/* html {
+    font-family: "Noto Serif SC", "Noto Serif", sans-serif;
+}
+*/
+
+
+
+
+
+
+// Make page header alignment consistent with widget page header alignment
+.universal-wrapper h1 {
+  text-align: center;
+}
+
+img {
+  margin: auto;
+}
+
+// Center the CTA shortcode button
+.cta-group {
+  justify-content: center;
+}
+
+img[alt=drawing] { width: 200px; }
+
+
+// containcer more compact
+.container { padding: 6px !important;}
+
+
+
+.home-section  { padding: 24px 0 !important;}
+
+footer > p:nth-child(3) { display: none; }
+
+
 /* Imag Border */
 /* https://i.pinimg.com/736x/29/21/e0/2921e048c32cef538d5d8b5d3cc32cee.jpg
     Dark Olive Green          #556b2f 	  85,107,47      https://www.colorhexa.com/556b2f
@@ -35,9 +105,15 @@
 }
 
 .navbar-brand {
-    margin-left: 1rem;
     font-size: 1.6rem;
     white-space: wrap;
+}
+
+.navbar-brand-mobile-wrapper{
+	 position: relative;
+    left: auto;
+    right: auto;
+    text-align: right;
 }
 
 

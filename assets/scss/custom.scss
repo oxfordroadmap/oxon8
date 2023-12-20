@@ -1,44 +1,4 @@
 /* custom scss file */
-
-/* https://bioinfohippo.rbind.io/tutorials/r_tutorials/2020_05_20_0847-r_blogdown_academictheme */
-
-/* https://github.com/gcushen/hugo-academic/issues/1151 */
-/* changes navbar font size */
-.dropdown-menu,
-nav#navbar-main li.nav-item {
-  font-size: 1.6rem;
-  font-weight: bold;
-}
-
-/* custom heading font size, weight
-   from /themes/hugo-academic/assets/scss/academic/_root.scss */
-h2 {
-  font-weight: 600;
-  margin-top: 1rem;
-  font-size: 2.75rem;
-}
-h3 {
-  font-weight: 600;
-  margin-top: 1.5rem;
-  font-size: 2.25rem;
-}
-
-/* body font size
-   from /themes/hugo-academic/assets/scss/academic/_root.scss */
-
-body {
-  font-size: 0.9rem;
-}
-
-
-/* html {
-    font-family: "Noto Serif SC", "Noto Serif", sans-serif;
-}
-*/
-
-
-
-
 // highlight-coloring
 
 .highlight-container, .highlight {
