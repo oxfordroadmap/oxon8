@@ -7,6 +7,4 @@
 {{ else }}
 	{{ $.Scratch.Set "cparameter" ( .Get 0 ) }}
 {{ end }} 
-<span class="highlight-container highlight-{{ $.Scratch.Get "cparameter" }}"><span class="highlight">
-{{- .Inner | safeHTML -}}
-</span></span>
+{{- .Inner | replaceRE '<p>((.|\n)+)</p>' '<span class="highlight-container highlight-{{ $.Scratch.Get "cparameter" }}"><span class="highlight">${1}</span></span>'| safeHTML -}}
