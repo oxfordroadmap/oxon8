@@ -12,7 +12,7 @@ design:
   css_class: 
 ---
 
-聚焦 {{% inline_highlight color="indigo"%}}**[数字创新生态](about/数字创新生态)**{{% /inline_highlight %}}，提供 {{% inline_highlight color="cyan"%}}**[数字化绿色化协同转型](about/数字化绿色化协同转型)**{{% /inline_highlight %}} 科技及咨询服务，2023-4年以 {{% inline_highlight color="orange"%}}**[精准脱碳、智能脱碳](about/精准脱碳)**{{% /inline_highlight %}} 为旗舰项目，开发 {{% inline_highlight color="purple"%}}**[双碳管服平台](about/双碳管服平台)**{{% /inline_highlight %}}核心可视化数智产品原型，以及**国际标准**的{{% inline_highlight color="teal"%}}**[绿色数字化行动](about/绿色数字化行动)**{{% /inline_highlight %}} 路线图。
+聚焦 {{< inline_highlight color="indigo">}}**[数字创新生态](about/数字创新生态)**{{< /inline_highlight >}}，提供 {{% inline_highlight color="cyan"%}}**[数字化绿色化协同转型](about/数字化绿色化协同转型)**{{% /inline_highlight %}} 科技及咨询服务，2023-4年以 {{% inline_highlight color="orange"%}}**[精准脱碳、智能脱碳](about/精准脱碳)**{{% /inline_highlight %}} 为旗舰项目，开发 {{% inline_highlight color="purple"%}}**[双碳管服平台](about/双碳管服平台)**{{% /inline_highlight %}}核心可视化数智产品原型，以及**国际标准**的{{% inline_highlight color="teal"%}}**[绿色数字行动](about/绿色数字行动)**{{% /inline_highlight %}} 路线图。
 
 <!--
 <small class="text-muted">聚焦</small>
