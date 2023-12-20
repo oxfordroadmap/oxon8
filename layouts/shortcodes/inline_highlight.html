@@ -7,4 +7,4 @@
 {{ else }}
 	{{ $.Scratch.Set "cparameter" ( .Get 0 ) }}
 {{ end }} 
-<span class="highlight-container highlight-{{ $.Scratch.Get "cparameter" }}"><span class="highlight">{{- .Inner | safeHTML -}}</span></span>
+<span class="highlight-container highlight-{{ $.Scratch.Get "cparameter" }}"><span class="highlight">{{- .Inner | markdownify | safeHTML -}}</span></span>
