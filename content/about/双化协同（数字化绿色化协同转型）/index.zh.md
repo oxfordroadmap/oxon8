@@ -11,7 +11,7 @@ categories:
   - 【澳恪森】顶层概念
 image:
   filename: WSC_SPCG-2023.webp
-  preview_only: false
+  preview_only: true
 ---
 
 **数字化绿色化协同转型** 指产业及消费结构转型升级，以绿色化及数字化协同发展。

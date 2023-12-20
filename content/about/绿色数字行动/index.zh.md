@@ -14,7 +14,7 @@ categories:
   - 【澳恪森】顶层概念
 image:
   filename: ITU-Thematic_Pillar-4.a-zh-hans_ink.webp
-  preview_only: false
+  preview_only: true
 ---
 
 **精准脱碳** 指产业及消费结构转型升级，以绿色化及数字化协同发展。

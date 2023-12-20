@@ -12,7 +12,7 @@ categories:
   - 【澳恪森】顶层概念
 image:
   filename: ITU-D-Digital_Inno_Ecosystem.zh.png
-  preview_only: false
+  preview_only: true
 ---
 
 **数字创新生态** 指「以信息通信技术为中心的创新和生态系统」，国际电联ITU-D以此词为[专题优先事项](https://www.itu.int/itu-d/sites/innovation/)，旨在加速社会数字化转型。
