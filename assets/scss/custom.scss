@@ -15,12 +15,12 @@ nav#navbar-main li.nav-item {
 h2 {
   font-weight: 600;
   margin-top: 1rem;
-  font-size: 1.5rem;
+  font-size: 2.75rem;
 }
 h3 {
   font-weight: 600;
   margin-top: 1.5rem;
-  font-size: 1.25rem;
+  font-size: 2.25rem;
 }
 
 /* body font size
@@ -35,3 +35,53 @@ body {
     font-family: "Noto Serif SC", "Noto Serif", sans-serif;
 }
 */
+
+
+
+
+// highlight-coloring
+
+.highlight-container, .highlight {
+  position: relative;
+}
+
+.highlight-container {
+  display: inline-block;
+}
+.highlight-container:before {
+  content: " ";
+  display: block;
+  height: 110%;
+  width: 105%;
+  margin-left: -3px;
+  margin-right: -3px;
+  position: absolute;
+  background: #ffd500;
+  transform: rotate(2deg);
+  top: -1px;
+  left: -1px;
+  border-radius: 20% 25% 20% 24%;
+  padding: 10px 3px 3px 10px;
+}
+
+.highlight-blue:before {
+  background: #30C5FF88;
+}
+
+.highlight-yellow:before {
+  background: #FFDC7488;
+}
+
+.highlight-green:before {
+  background: #E2EC9688;
+}
+
+.highlight-fushia:before {
+  background: #E0AACC88;
+}
+
+.alpha { color: $purple; }
+.beta {
+  color: $yellow-300;
+  background-color: $indigo-900;
+}
