@@ -110,12 +110,11 @@ footer > p:nth-child(3) { display: none; }
 }
 
 .navbar-brand-mobile-wrapper{
-	 position: relative;
-    left: auto;
-    right: auto;
-    text-align: right;
+    position: relative;
+    margin-left: 18% !important;
+    margin-right: 0;
+    text-align: center;
 }
-
 
 .view-showcase {
   background-color: #A9BA9D;

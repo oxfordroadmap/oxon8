@@ -79,10 +79,10 @@
 }
 
 #navbar-main > div{
-	@extend align-items-center;
+	@extend .align-items-center;
     @extend .align-self-center;
 }
 
 .container-xl  {
-	@extend align-items-center;
+	@extend .align-items-center;
 }
