@@ -110,3 +110,10 @@ body {
 .highlight-cyan:before {
   background: rgba($cyan, 0.25);
 }
+
+/* Import bootstrap-sass so that we have access to all of its selectors */
+/* @import "bootstrap";*/
+
+.navbar-brand-mobile-wrapper {
+    @extend .align-self-center;
+}
