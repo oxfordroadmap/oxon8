@@ -80,8 +80,33 @@ body {
   background: #E0AACC88;
 }
 
-.alpha { color: $purple; }
-.beta {
-  color: $yellow-300;
-  background-color: $indigo-900;
+/* https://getbootstrap.com/docs/4.6/getting-started/theming/#color-contrast */
+/* https://stackoverflow.com/questions/25536103/background-opacity-no-rgba-for-sass#:~:text=You%20can%20use%20Sass%20functions%20to%20add%20transparency,for%20manipulating%20colors%2C%20strings%2C%20numbers%2C%20selectors%2C%20and%20more. */
+
+.highlight-purple:before {
+  background: rgba($purple, 0.25);
+}
+
+.highlight-indigo:before {
+  background: rgba($indigo, 0.25);
+}
+
+.highlight-pink:before {
+  background: rgba($pink, 0.25);
+}
+
+.highlight-red:before {
+  background: rgba($red, 0.25);
+}
+
+.highlight-orange:before {
+  background: rgba($orange, 0.25);
+}
+
+.highlight-teal:before {
+  background: rgba($teal, 0.25);
+}
+
+.highlight-cyan:before {
+  background: rgba($cyan, 0.25);
 }
