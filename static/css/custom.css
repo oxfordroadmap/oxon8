@@ -35,10 +35,11 @@
 }
 
 .navbar-brand {
-    margin-left: 100px;
+    margin-left: 50px;
     font-size: 1.6rem;
     white-space: wrap;
 }
+
 
 .view-showcase {
   background-color: #A9BA9D;
