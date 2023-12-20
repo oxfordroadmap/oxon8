@@ -2,7 +2,6 @@
 {{ if ge hugo.Version "0.93.0" }}
   {{ .Page.Store.Add "Ordinal" 1 }}
 {{ end }}
-
 {{ if .IsNamedParams }}
 	{{ $.Scratch.Set "cparameter" ( .Get "color" ) }}
 {{ else }}
