@@ -3,23 +3,21 @@ title: 廖汉腾
 role: 负责人﹑数据科学家 Lead Data Scientist
 avatar_filename: avatar_HTL.png
 organizations:
-  - name: 澳恪森数智科技服务 Oxford Roadmapping 
-    url: 'https://oxon8.com/'
+  - name: 澳恪森数智科技服务 Oxford Roadmapping
+    url: https://oxon8.com/
 superuser: true
 authors:
-  - 
-authors:
   - Han-Teng Liao
-bio: 澳恪森数智科技服务公司负责人﹑数据科学家。牛津大学博士，台湾大学电气工程及外文双学士﹑计算机科学与信息工程及新闻双硕士。曾任开源软件平台项目经理，博士后先后于美国乔治城大学﹑德国亚历山大·冯·洪堡大学﹑联合国大学﹑等智库，迸行循证互联网政策研究。自 2017 年到 2023 年初创建澳恪森数智之前，他先后担任广州南方学院（前身为中山大学南方学院）的副教授、网络与新媒体专业主任等职位，完成《2019年世界生态设计大会：互联网生态设计向善》报告﹑成功建设省级一流课程﹑校级研究中心及校级实验室ESG数据驱动决策等成果。研发兴趣包括 数字化绿色化双化转型﹑碳中和数智平台﹑及人工智能科技向善。创建澳恪森目的是推进生态设计﹑商业生态系统两者的产学合作，集成﹑可审计和负责任的数据驱动决策产出正面社经及环境影响。
-
+bio: 澳恪森数智科技服务公司负责人﹑数据科学家。牛津大学博士，台湾大学电气工程及外文双学士﹑计算机科学与信息工程及新闻双硕士。曾任开源软件平台项目经理，博士后先后于美国乔治城大学﹑德国亚历山大·冯·洪堡大学﹑联合国大学﹑等智库，迸行循证网络数据科学(Network and Data Science)互联网政策(Internet Development Policy)研究。自 2017 年到 2023 年初创建澳恪森数智之前，他先后担任广州南方学院（前身为中山大学南方学院）的副教授、网络与新媒体专业主任、系副主任等职位，培育出5位能协同贯穿互联网产品经理的数据科学+设计思维+系统思维的人才培养方案及课程，并在民办二本院校三年内取得包括如省级一流课程、国家级学科竞赛一等奖零突破成果。除了有3位指导学生提前毕业，1位取得顶尖EIT欧洲创新与技术研究院硕士生(在读)学习成果之外，在课余更指导学生及同僚发表英文论文写作工作坊近百次并建立已近百篇论文发表的学习旅程及教案。在高校产学研用科研创新领域，完成《2019年世界生态设计大会：互联网生态设计向善》报告﹑成功建设校级研究中心及校级实验室ESG数据驱动决策等成果。研发兴趣包括 数字化绿色化双化转型﹑碳中和数智平台﹑及人工智能科技向善。创建澳恪森目的是推进生态设计﹑商业生态系统两者的产学合作，集成﹑可审计和负责任的数据驱动决策产出正面社经及环境影响。
 interests:
+  - 数智平台
+  - 双碳管服平台
+  - 数字化绿色化协同转型
   - 技术路线图
-  - 技术采用路线图
   - 双化协同发展
   - 碳中和
-  - 人工智能向善技术向善
+  - 人工智能向善(AI4good)
   - 技术向善
-
 education:
   courses:
     - course: 信息﹑传播和社会 科学博士学位
@@ -31,11 +29,10 @@ education:
     - course: 电气工程学士 及 外国语言文学学士
       institution: 台湾大学
       year: 2000
-
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:h.liao@ieee.org'
+    link: mailto:h.liao@ieee.org
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/oxoneight
@@ -45,20 +42,8 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/oxfordroadmap
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
+email: ""
 highlight_name: true
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Founders
   - Affiliated Principal Investigators
@@ -67,11 +52,11 @@ user_groups:
 # 廖汉腾 Liao, Han-Teng
 
 - ORCID: [0000-0003-1081-5599](https://orcid.org/0000-0003-1081-5599)
-- [WoS](https://www.webofscience.com/wos/author/rid/AAC-5793-2019) 收录：18 | WOS 核心合集引用：34 | H 因子：4
-  - ResearcherID: [AAC-5793-2019](https://www.webofscience.com/wos/author/rid/AAC-5793-2019) | 论文： 58 篇 | 合作者：22 | H 因子：4
-- [SCOPUS](https://www.scopus.com/authid/detail.uri?authorId=57193528319)收录：44 | SCOPUS 核心合集引用：113 | 合作者：45 | H 因子：6
-- [Google Scholar](https://scholar.google.com/citations?user=NAeKcO4AAAAJ)：77 | Google Scholar 引用：336 | H 因子：9
-- [Loop Profile](https://loop.frontiersin.org/people/1440943/overview)：58 | Views：[13,000+](https://loop.frontiersin.org/people/1440943/impact) | Downloads：2,600+
+- [WoS](https://www.webofscience.com/wos/author/rid/AAC-5793-2019) 收录：18 | WOS 核心合集引用：39 | H 因子：4
+  - 作者排序：第一(56%) 通讯(56%) 最后(17%) ResearcherID: [AAC-5793-2019](https://www.webofscience.com/wos/author/rid/AAC-5793-2019) | 论文： 58 篇 | 合作者：22
+- [SCOPUS](https://www.scopus.com/authid/detail.uri?authorId=57193528319)收录：44 | SCOPUS 核心合集引用：121 | 合作者：45 | H 因子：6
+- [Google Scholar](https://scholar.google.com/citations?user=NAeKcO4AAAAJ)：76 | Google Scholar 引用：362 | H 因子：9
+- [Loop Profile](https://loop.frontiersin.org/people/1440943/overview)：58 | Views：[16,000+](https://loop.frontiersin.org/people/1440943/impact) | Downloads：3,300+
 - CNKI 收录：4 (北大核心 1 CSSCI 1 )
 
 ## 个人简介：[澳恪森数智科技服务](https://oxon8.com/) 负责人﹑数据科学家
@@ -94,4 +79,6 @@ user_groups:
 
 他目前的研究社会服务目的是推进生态设计﹑商业生态系统两者的产学合作，特别是关于云计算（例如软件即服务）﹑人工智能（AI）和大数据等平台如何通过监测﹑分析﹑评估和设计关键指标指标来推进可持续发展目标（主要是与碳中和相关的气候目标），这些计量指标需经〝可行共识机制〞方法，定义和具体化新兴的未来技术，如何以集成﹑可审计和负责任的方式应用，产出正面社经及环境影响。
 
+<!--
 ## 科研与技术
+-->
