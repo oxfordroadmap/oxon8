@@ -1,29 +1,23 @@
 ---
-# Display name
-title: Han-Teng Liao (廖汉腾)
+title: Han-Teng Liao
 role: Lead Data Scientist
 avatar_filename: avatar_HTL.png
-# Username (this should match the folder name)
 authors:
   - Han-Teng Liao
-
-# Is this the primary user of the site?
+aliases:
+  - HTL
+  - hanteng
+  - hanteng.liao
 superuser: true
-
-# Organizations/Affiliations
 organizations:
-  - name: Oxford Roadmapping 澳恪森数智科技服务 
-    url: 'https://oxon8.netlify.app/'
-
-# Short bio (displayed in user profile at end of posts)
+  - name: Oxford Roadmapping 澳恪森数智科技服务
+    url: https://oxon8.netlify.app/
 bio: 研发兴趣包括 [数字化绿色化双化转型](https://joint-research-centre.ec.europa.eu/jrc-news/twin-green-digital-transition-how-sustainable-digital-technologies-could-enable-carbon-neutral-eu-2022-06-29_en)﹑[碳中和](https://www.frontiersin.org/articles/10.3389/fenvs.2023.1119011/abstract) 数智平台﹑及 [人工智能科技向善](https://aiforgood.itu.int/)。     My research interests include [twin green digital transition](https://joint-research-centre.ec.europa.eu/jrc-news/twin-green-digital-transition-how-sustainable-digital-technologies-could-enable-carbon-neutral-eu-2022-06-29_en), [carbon neutrality](https://www.frontiersin.org/articles/10.3389/fenvs.2023.1119011/abstract), and [Artificial Intelligence for Good](https://aiforgood.itu.int/).
-
 interests:
   - Twin Green Digital Transition
   - Carbon Neutrality
   - Artificial Intelligence for Good (AI4Good)
   - Technology Roadmapping
-
 education:
   courses:
     - course: PhD in Information, Communication and Social Sciences
@@ -35,11 +29,10 @@ education:
     - course: BEng in Electrical Engineering, BSc in Foreign Languages and Literatures
       institution: National Taiwan University
       year: 2000
-
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:h.liao@ieee.org'
+    link: mailto:h.liao@ieee.org
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/oxoneight
@@ -49,33 +42,21 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/oxfordroadmap
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
+email: h.liao@ieee.org
 highlight_name: true
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Founders
   - Affiliated Principal Investigators
 ---
 
-### 廖汉腾  Liao, Han-Teng 
-* ORCID: [0000-0003-1081-5599](https://orcid.org/0000-0003-1081-5599)
-* WOS收录：15  |  WOS核心合集引用：24  |  H 因子：4
-	* ResearcherID: [AAC-5793-2019](https://www.webofscience.com/wos/author/rid/AAC-5793-2019)  |  论文： 54 篇 |  合作者：22  |  H 因子：4
-* [SCOPUS](https://www.scopus.com/authid/detail.uri?authorId=57193528319)收录：41  |  SCOPUS核心合集引用：85  |  合作者：45  |  H 因子：5 
-* [Google Scholar](https://scholar.google.com/citations?user=NAeKcO4AAAAJ)：77  |  Google Scholar引用：288   |  H 因子：8
-* [Loop Profile](https://loop.frontiersin.org/people/1440943/overview)：54 |  引用：31  |  Views：[7,000+](https://loop.frontiersin.org/people/1440943/impact)    |  Downloads：1,200+ 
-* CNKI收录：3  (北大核心 1 CSSCI 1 )
+### Liao, Han-Teng (廖汉腾) 
+
+- ORCID: [0000-0003-1081-5599](https://orcid.org/0000-0003-1081-5599)
+- [WoS](https://www.webofscience.com/wos/author/rid/AAC-5793-2019) indexed：18 | citations received：39 | H-index：4
+  - Author Positions：First (56%) Correspondence (56%) Last(17%) ResearcherID: [AAC-5793-2019](https://www.webofscience.com/wos/author/rid/AAC-5793-2019) | Documents： 58  | Co-authors：22
+- [SCOPUS](https://www.scopus.com/authid/detail.uri?authorId=57193528319) indexed：44 | citations received：121 | Co-authors：45 | H-index：6
+- [Google Scholar](https://scholar.google.com/citations?user=NAeKcO4AAAAJ): 76 | Citations received: 362 | H-index: 9
+- [Loop Profile](https://loop.frontiersin.org/people/1440943/overview)：58 | Views：[16,000+](https://loop.frontiersin.org/people/1440943/impact) | Downloads：3,300+
 
 ### [澳恪森数智科技服务](https://oxon8.com/) 负责人、数据科学家
 

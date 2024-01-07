@@ -49,7 +49,7 @@ user_groups:
   - Affiliated Principal Investigators
 ---
 
-# 廖汉腾 Liao, Han-Teng
+# 廖汉腾 (Liao, Han-Teng)
 
 - ORCID: [0000-0003-1081-5599](https://orcid.org/0000-0003-1081-5599)
 - [WoS](https://www.webofscience.com/wos/author/rid/AAC-5793-2019) 收录：18 | WOS 核心合集引用：39 | H 因子：4
