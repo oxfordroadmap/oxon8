@@ -58,22 +58,27 @@ user_groups:
 - [Google Scholar](https://scholar.google.com/citations?user=NAeKcO4AAAAJ): 76 | Citations received: 362 | H-index: 9
 - [Loop Profile](https://loop.frontiersin.org/people/1440943/overview)：58 | Views：[16,000+](https://loop.frontiersin.org/people/1440943/impact) | Downloads：3,300+
 
-### [澳恪森数智科技服务](https://oxon8.com/) 负责人、数据科学家
+### [Oxford Roadmapping](https://oxon8.com/) Data Scientist
 
-廖汉腾 (IEEE会员; 牛津博士) 1976年生于台湾台北。他于2000年获得台湾大学电气工程 ([NTUEE](https://web.ee.ntu.edu.tw/eng/about1.php)) 学士学位及外国语言文学学士学位。他于2004年获同一所大学计算机科学与信息工程 ([NTUCSIE](https://www.csie.ntu.edu.tw/)) 硕士学位及新闻学硕士学位。
+Han-Teng Liao works across disciplines to contribute to the better managing by data-driven design for climate and sustainable development challenges, inspired by [managing by design](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=5626&context=lkcsb_research).  His journey across disciplines and with the open source software, open content, open data, open science, and open innovations around the world has strengthened his belief that evidence-based policies can make a difference through the divergent and convergent thinking processes of problem-solving and story-telling. 
+## Biography
 
-在台湾台北中央研究院信息科学研究所担任开源软件平台Open Source Software Foundry的项目经理，再担任营级政战官和代理连长（台湾义务兵役）后，他于2014年获得**英国牛津大学**信息，传播和社会科学博士学位。博士论文研究跨越不同国家、地区和语言边界的**开放合作**的治理和绩效。
+Han-Teng Liao (IEEE member; DPhil. Oxon.) was born in Taipei, Taiwan, in 1976. He received a bachelor's degree in electrical engineering ([NTUEE](https://web.ee.ntu.edu.tw/eng/about1.php)) and a bachelor's degree in foreign languages and literature from National Taiwan University in 2000. He received a master's degree in Computer Science and Information Engineering ([NTUCSIE](https://www.csie.ntu.edu.tw/)) and a master's degree in Journalism ([NTUJournalism](http://www.journalism.ntu.edu.tw/Journalism/Default.html))
+from the same university in 2004. After working in open source and open content movement in Taiwan, he pursued and received a DPhil. (Ph.D.) degree (Oxford Internet Institute, [OII](https://www.oii.ox.ac.uk/people/profiles/han-teng-liao)) from the University of Oxford in the United Kingdom in Information, Communication and Social Sciences.
 
-博士后工作，以循证政策研究(evidence-based policy research)工作为主。2015年至2016年，为联合国大学计算与社会研究所（UNU-CS）的第一位研究员，之前他还在位于美国华盛顿特区的**乔治城大学**外交学院担任雅虎研究员和位于德国柏林的**亚历山大·冯·洪堡大学**互联网与社会研究所的暑期研究员做与互联网相关的智库型研究。自2017年以来，他一直担任广州南方学院（前身为中山大学南方学院）的副教授。
+After serving as a project manager for the open source software platform Open Source Software Foundry at the Information Science Institute of Academia Sinica in Taipei, Taiwan, and then as a battalion-level political warfare officer and acting company commander (Taiwan compulsory military service), he received a diploma from Oxford University in the United Kingdom in 2014 **Ph.D. in Information, Communication and Social Sciences. The doctoral thesis examines the governance and performance of **open collaboration** across different national, regional and linguistic borders.
 
-他目前的研究兴趣包括绿色数字化转型、人工智能向善、技术向善、碳中和、社会技术转型、可持续供应链和未来技术的前瞻/思辨设计。
+Postdoctoral work mainly focuses on evidence-based policy research. From 2015 to 2016, he was the first researcher at the United Nations University Institute for Computing and Society (UNU-CS). Before that, he also served as a Yahoo researcher at Georgetown University School of Foreign Service in Washington, DC, and a researcher at the School of Foreign Service in Berlin, Germany. Summer fellows at the **Alexander von Humboldt University** Institute for Internet and Society do think tank-type research related to the Internet. Since 2017, he has been an associate professor at Guangzhou Southern College (formerly Sun Yat-sen University Southern College).
 
-他担任高等教育影响评估中心（也称为_GDT 促 绿色数字化转型_）的主任，一直通过基于云端、API的人工智能项目管理和产品设计课程和工作坊来推进可持续发展的创新教学和研究。
+His current research interests include green digital transformation, artificial intelligence for good, technology for good, carbon neutrality, socio-technical transformation, sustainable supply chains and foresight/speculative design of future technologies.
 
-他担任过在中国广州从化举行的_2019年世界生态设计大会：可持续发展创新设计与互联网生态_的会议主席，并编辑名为“**互联网生态设计向善**”报告。 他担任过在美国华盛顿特区举行的_2011年中国互联网研究会议_（**互联网发展的中国因素：全球公共产品，国家政策和私人利益**）的会议组织者。
+He serves as the Director of the Higher Education Impact Assessment Center (also known as _GDT for Green Digital Transformation_) and has been advancing innovative teaching and research on sustainable development through cloud-based, API-based artificial intelligence project management and product design courses and workshops .
 
-他持续致力于人工智能向善和技术向善领域，包括与广州南方学院校级_GDT绿色和数字化转型_和_ESG数据驱动决策实验室_的团队成员一起，在绿色数字化转型领域开展跨学科工作。
+He served as the conference chairman of the 2019 World Ecological Design Conference: Sustainable Development Innovation Design and Internet Ecology held in Conghua, Guangzhou, China, and edited the report titled "**Internet Ecological Design for Good**". He served as the conference organizer of the 2011 China Internet Research Conference (**Chinese Factors in Internet Development: Global Public Goods, National Policies, and Private Interests**) held in Washington, DC, USA.
 
-他最近在 2021 年 IEEE TEMSMET 会议上获得了优异证书，以表彰他在 **CSR（企业社会责任）**和 **ESG（环境、社会和治理）报告**研究工作中发挥的引领作用。他是IEEE TEMS的成员和该大学的IEEE学生分会顾问。
+He continues to work in the field of artificial intelligence for good and technology for good, including working with team members of Guangzhou Nanfang University's school-level GDT Green and Digital Transformation and ESG Data-Driven Decision Lab to carry out interdisciplinary work in the field of green digital transformation. Work.
 
-他目前的研究社会服务目的是推进生态设计、商业生态系统两者的产学合作，特别是关于云计算（例如软件即服务）、人工智能（AI）和大数据等平台如何通过监测、分析、评估和设计关键指标指标来推进可持续发展目标（主要是与碳中和相关的气候目标），这些计量指标需经〝可行共识机制〞方法，定义和具体化新兴的未来技术，如何以集成、可审计和负责任的方式应用，产出正面社经及环境影响。
+He recently received a Certificate of Merit at the 2021 IEEE TEMSMET Conference in recognition of his leadership in research efforts on **CSR (Corporate Social Responsibility)** and **ESG (Environmental, Social and Governance) Reporting**. He is a member of IEEE TEMS and the university's IEEE student chapter advisor.
+
+The purpose of his current research on social services is to promote industry-university cooperation in ecological design and business ecosystems, especially on how platforms such as cloud computing (such as software as a service), artificial intelligence (AI) and big data can use monitoring, analysis, Evaluate and design key indicators to promote sustainable development goals (mainly climate goals related to carbon neutrality). These measurement indicators need to be defined and concreted through the "feasible consensus mechanism" method to define and specify emerging future technologies and how to integrate, Applied in an auditable and responsible manner, it produces positive socio-economic and environmental impacts.
+
