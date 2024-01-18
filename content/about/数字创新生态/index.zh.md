@@ -15,27 +15,41 @@ image:
   preview_only: true
 ---
 
-**数字创新生态** 指「以信息通信技术为中心的创新和生态系统」，国际电联ITU-D以此词为[专题优先事项](https://www.itu.int/itu-d/sites/innovation/)，旨在加速社会数字化转型。
+**数字创新生态** 指「以信息通信技术为中心的创新和生态系统」，旨在利用数字科技手段透过创新创业加速数字化转型。
 
-这概念已有至少七年以上的经验和知识积累，被用来做为各国战略政策和实践的基础，已有一套知识体系、工具箱、学习课程、以及涵括各国的及地区，如[亚太](https://www.itu.int/pub/D-INNO-GOOD_PRACT.01-2021)到[欧洲](https://www.itu.int/pub/D-INNO-GOOD_PRACT.03-2021)，[非洲](https://www.itu.int/pub/D-INNO-GOOD_PRACT.02-2021)到[阿拉伯国家](https://www.itu.int/pub/D-INNO-GOOD_PRACT.02-2021)的最佳作法实践总结，也有如[阿曼](https://www.itu.int/dms_pub/itu-d/opb/inno/D-INNO-PROFILE.OMAN-2023-PDF-E.pdf)到[北马其顿](https://www.itu.int/dms_pub/itu-d/opb/inno/D-INNO-PROFILE.NORTHMACEDONIA-2023-PDF-E.pdf)的数字创新国别侧写，发布对各国数字创新的成熟度。这类文件多以D-INNO-开头。
-
-由于国际电联是联合国主导信息通信技术（ICT）事务的专门机构，其对数字创新框架的概述，以ICT为中心的创新有两大特点：
-
-1. 它侧重于信息通信技术行业本 身的创新和发展。
-2. 它强调信息通信技术创新在社会中发挥的跨行业作用
-
+由于国际电联（ITU）是联合国主导信息通信技术（ICT）事务的专门机构，ITU提出**数字创新生态** 标志着ITU不只是技术国际標準單位 (以其ITU-T为代表)的传统基建，更是国际发展单位 (以其ITU-D为代表)的新基建，还意谓着超越新基建的数字创新与创业的活力源泉打造，以人为本的技术创新及社会创新。
 
 <!-- more -->
 
-{{toc}}
+
+## 简短说明
+
+在数十年克服**数字鸿沟** (指信息和通信技术的全球发展和应用的落差或不平等) 的旅程上，国际电联ITU除了以传统国际標準的角色促进全球信息通信技术作为**基础建设**(基建)，以改进人们生活与生计，更进一步以**标准促创新**、以**数字生态促创新**等理路，将技术标准和创新创业同时共创共融成一”质量工程“。
+
+**数字创新生态** 有以下特色：
+
+1. 以创新优先解决在地问题：国际电联ITU提供一套知识体系、工具箱、学习课程，供各国自行评估并采取提升数字创新生态**成熟度**的系统方法，此方法大量利用设计思维及系统思维，适合跨领域跨行业解决具体问题，而非为建基建而建基建。
+2. 以自组织互联互通形成共识：国际电联将一个生态系统定义为**由互联互通的和彼此互动的组织与利益攸关方组成的一个系统或网络**。它们来自多个产业及部门，汇聚一堂共同解决面临的问题，如脱贫脱碳。
+3. ICT促进创新不但侧重于ICT行业本身的创新和发展，且强调ICT创新在社会中发挥的跨行业作用，如工业4.0，工业5.0，绿色化数字化转型。
 
 澳恪森认为，**从ICT产业部门，跨其它产业行业部门**，是国际电联其数字创新最重要也是本质的视野。因此，在各产业部门在追求数字化转型（包括绿色化数字化双转），以及各ICT及互联网行业从消费、分销、等扩大走向金融、工业4.0、供应链等行业部门，这方面的数字创新意谓着更多的新业务及新职缺。
+
+## 详细说明
+
+国际电联ITU-D以此词为[专题优先事项](https://www.itu.int/itu-d/sites/innovation/)，
+这概念已有至少七年以上的经验和知识积累，被用来做为各国战略政策和实践的基础，已有一套知识体系、工具箱、学习课程、以及涵括各国的及地区，如[亚太](https://www.itu.int/pub/D-INNO-GOOD_PRACT.01-2021)到[欧洲](https://www.itu.int/pub/D-INNO-GOOD_PRACT.03-2021)，[非洲](https://www.itu.int/pub/D-INNO-GOOD_PRACT.02-2021)到[阿拉伯国家](https://www.itu.int/pub/D-INNO-GOOD_PRACT.02-2021)的最佳作法实践总结，也有如[阿曼](https://www.itu.int/dms_pub/itu-d/opb/inno/D-INNO-PROFILE.OMAN-2023-PDF-E.pdf)到[北马其顿](https://www.itu.int/dms_pub/itu-d/opb/inno/D-INNO-PROFILE.NORTHMACEDONIA-2023-PDF-E.pdf)的数字创新国别侧写，发布对各国数字创新的成熟度。这类文件多以D-INNO-开头。
+
 
 根据[国际电联ITU历年的发展工作](https://www.itu.int/zh/ITU-D/Innovation/Pages/background-approach.aspx)，包括其 [生态系统学习课程](https://www.itu.int/zh/ITU-D/Innovation/Pages/Digital-Innovation-Ecosystem-Courses.aspx) 及 [生态系统表现和良好做法](https://www.itu.int/zh/ITU-D/Innovation/Pages/Ecosystem-Performance-and-Good-Practices.aspx)，以ICT信息通信技术为中心的**数字创新生态**有以下核心概念：
 
 ## 定义：什么是生态系统？
 
 国际电联将一个生态系统定义为**由互联互通的和彼此互动的组织与利益攸关方组成的一个系统或网络**，来自多个产业及部门，它们汇聚一堂共同解决面临的问题。
+
+由于国际电联是联合国主导信息通信技术（ICT）事务的专门机构，其对数字创新框架的概述，以ICT为中心的创新有两大特点：
+
+1. 它侧重于信息通信技术行业本 身的创新和发展。
+2. 它强调信息通信技术创新在社会中发挥的跨行业作用
 
 ### 什么是数字化转型？
 
@@ -80,6 +94,8 @@ image:
 5. 推销项目：可用**讲故事工具**，产出***开发完成的、出色的生态系统项目***，能针对资源所有者包装已开发的具体项目，提出能获得认同的共识，以成功交付生态系统项目故事，进行销售。（讲故事工作坊需要与半天与参与者一起讲习实作确认故事。）
 
 
+<!--
+
 * 1. 探讨背景--**利益攸关方参与工具画布** (主，图13)
 * 1. 探讨背景--定性访谈工具 (图A1)
 * 2. 界定生态系统--**生态系统评估画布** (主，图14)
@@ -91,19 +107,12 @@ image:
 * 5.推销项目--**讲故事画布**  (主，图17)
 * 5.推销项目--故事结构 (有起有伏)
 
-
 图18：Nancy Duarte有说服力的故事模式
 
 图19：案例1生态系统成熟度图
 
 图20：案例2生态系统成熟度图
 
-：
-
-
-
-画布（可选）
-图A4：￼
 
 以收集并整理加值，具体情报及信息在此创新生态系统框架的五个阶段的逻辑结构是对关键产业部门及数字创新情报进行融合总结。此逻辑虽有其线性模式结构，但实践时因创新是个复杂系统工程，不一定要固守此线性模式。
 
@@ -116,6 +125,8 @@ It is advisable to start with basic tools, such as the desktop research,14 and q
 当用户对问题有 一基本了解并对问题驱动的解决方案、包容性、共鸣、共同创造、无我和驱动等拥有一 个增长的心态时，讲习班会更有效
 
 Workshops are more effective when a user has a basic understanding of the issues and embraces a growth mindset of the problem-driven solution, inclusiveness, empathy, co-creation, egoless and driven.
+
+
 
 #### 筹备工作坊
 利益攸关方群体
@@ -196,3 +207,5 @@ The concept note resulting from the design brief should be shared in advance to 
 * **环境生态服务系统**：指在 (自然)生态系统中，人类直接或间接谋取的所有福利，如空气和水。
 
 添加的主要理据是来自创新学的四重和五重创新螺旋框架（quadruple and quintuple innovation helix framework）以及从生态学的**生态系统服务**(ecosystem services)
+
+-->
