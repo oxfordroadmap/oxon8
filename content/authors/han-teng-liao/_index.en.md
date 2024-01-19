@@ -52,10 +52,10 @@ user_groups:
 ### Liao, Han-Teng (廖汉腾) 
 
 - ORCID: [0000-0003-1081-5599](https://orcid.org/0000-0003-1081-5599)
+- [Google Scholar](https://scholar.google.com/citations?user=NAeKcO4AAAAJ): 76 | Citations received: 368 | H-index: 10
 - [WoS](https://www.webofscience.com/wos/author/rid/AAC-5793-2019) indexed：18 | citations received：39 | H-index：4
   - Author Positions：First (56%) Correspondence (56%) Last(17%) ResearcherID: [AAC-5793-2019](https://www.webofscience.com/wos/author/rid/AAC-5793-2019) | Documents： 58  | Co-authors：22
 - [SCOPUS](https://www.scopus.com/authid/detail.uri?authorId=57193528319) indexed：44 | citations received：121 | Co-authors：45 | H-index：6
-- [Google Scholar](https://scholar.google.com/citations?user=NAeKcO4AAAAJ): 76 | Citations received: 362 | H-index: 9
 - [Loop Profile](https://loop.frontiersin.org/people/1440943/overview)：58 | Views：[16,000+](https://loop.frontiersin.org/people/1440943/impact) | Downloads：3,300+
 
 ### [Oxford Roadmapping](https://oxon8.com/) Data Scientist

@@ -48,11 +48,11 @@ user_groups:
 ---
 
 # 廖漢騰  Liao, Han-Teng 
+* [Google Scholar](https://scholar.google.com/citations?user=NAeKcO4AAAAJ)：76  |  Google Scholar引用：368   |  H 因子：10
 * ORCID: [0000-0003-1081-5599](https://orcid.org/0000-0003-1081-5599)
 * WOS收錄：15  |  WOS核心合集引用：24  |  H 因子：4
 	* ResearcherID: [AAC-5793-2019](https://www.webofscience.com/wos/author/rid/AAC-5793-2019)  |  論文： 54 篇 |  合作者：22  |  H 因子：4
 * [SCOPUS](https://www.scopus.com/authid/detail.uri?authorId=57193528319)收錄：41  |  SCOPUS核心合集引用：121  |  合作者：45  |  H 因子：6 
-* [Google Scholar](https://scholar.google.com/citations?user=NAeKcO4AAAAJ)：76  |  Google Scholar引用：356   |  H 因子：9
 * [Loop Profile](https://loop.frontiersin.org/people/1440943/overview)：58 |  引用：31  |  Views：[14,700+](https://loop.frontiersin.org/people/1440943/impact)    |  Downloads：1,200+ 
 * CNKI收錄：3  (北大核心 1 CSSCI 1 )
 

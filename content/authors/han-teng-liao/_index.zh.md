@@ -52,10 +52,10 @@ user_groups:
 # 廖汉腾 (Liao, Han-Teng)
 
 - ORCID: [0000-0003-1081-5599](https://orcid.org/0000-0003-1081-5599)
+- [Google Scholar](https://scholar.google.com/citations?user=NAeKcO4AAAAJ)：76 | Google Scholar 引用：368 | H 因子：10
 - [WoS](https://www.webofscience.com/wos/author/rid/AAC-5793-2019) 收录：18 | WOS 核心合集引用：39 | H 因子：4
   - 作者排序：第一(56%) 通讯(56%) 最后(17%) ResearcherID: [AAC-5793-2019](https://www.webofscience.com/wos/author/rid/AAC-5793-2019) | 论文： 58 篇 | 合作者：22
 - [SCOPUS](https://www.scopus.com/authid/detail.uri?authorId=57193528319)收录：44 | SCOPUS 核心合集引用：121 | 合作者：45 | H 因子：6
-- [Google Scholar](https://scholar.google.com/citations?user=NAeKcO4AAAAJ)：76 | Google Scholar 引用：362 | H 因子：9
 - [Loop Profile](https://loop.frontiersin.org/people/1440943/overview)：58 | Views：[16,000+](https://loop.frontiersin.org/people/1440943/impact) | Downloads：3,300+
 - CNKI 收录：4 (北大核心 1 CSSCI 1 )
 
