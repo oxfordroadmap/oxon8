@@ -1,106 +1,90 @@
 ---
-title: Green Digital Action @ COP28 Outcomes Focus on Green Standards, GHG emissions, E-waste, etc.
+title: Celebration the World Environment Day--Project Net Zero Dataset Released 
 date: 2023-12-09
 tags:
-  - COP28
-  - 【2023GDAStandard】
   - GreenDigitalTransformation
   - SmartDigitalPlatform
-  - TechnologyRoadmapping
-  - BusinessModel
-  - 脱碳
+  - Decarbonization
   - CarbonEmissionManagement
 categories:
-  - Standardization
   - Green Digital Action
-  - Technology Roadmapping
 categories:
 image:
   filename: WSC_SPCG-2023.webp
   preview_only: false
 ---
 
-At the COP28, [the International Telecommunication Union (ITU) ](https://www.itu.int/initiatives/green-digital-action-atcop28/about/outcomes/) announced the following outcomes of the Green Digital Action:
-
-1. Green standards： One joint statement announced by [World Standards Cooperation](https://www.worldstandardscooperation.org/), on the importance of **sustainability being built into technical standards’ development** by design to achieve net-zero.  One [Action Plan](http://www.itu.int/initiatives/green-digital-action-atcop28/wp-content/uploads/sites/4/2023/12/Call-to-Action-Pillar4-Green-standards.pdf) to  **environmental sustainability standards.** implementation.
-2. The UN **Early Warnings for All (EW4all)**  initiative to be implemented by the ICT sector before 2027 that ensure protection for everyone, using cell broadcasts and location-based SMS (Satellite service providers are encouraged to join). 
-3. **ICT Sector GHG emissions** reduction, following the set ICT 1.5°C trajectories.
-4. A project on **[“E-Waste Management Regulations”](https://www.itu.int/hub/2023/12/how-to-reduce-e-waste-and-build-circular-economies/)** led by Saudi Arabia, to help the regulations in Zambia, Rwanda, and Paraguay.
-
-Marking the roadmap and gaps of standardization, the [Call to Action](https://www.itu.int/initiatives/green-digital-action-atcop28/wp-content/uploads/sites/4/2023/12/Call-to-Action-Pillar4-Green-standards.pdf) document is among the most important technological documents announced by the ITU at COP 28.
-
-Oxford Roadmapping will continue its [【GDAStandard】project]({{< ref "/project/prj-roadmap_GDAStandard" >}})
-to release Green Digital Action toolbox for wider participation in the global efforts。
+2024年6月5日，庆祝[世界环境日](https://www.un.org/zh/observances/environment-day)上，澳恪森释出[零碳经济最新数据可视化成果](https://oxon8.netlify.app/visualization/prj-visNetZero/index.en)，研究结果发现，**全球脫碳率（碳排强度年度环比降幅）**須**年减19%**，至2030年須 **年减19%** ，至2040年須**年减10-13%** ，方能將升溫幅度控制在1.5°C以內，才能[达成《巴黎协定》的1.5℃目标](https://www.unep.org/interactives/emissions-gap-report/2023/zh/)。
 
 <!--more-->
 
-> Requires translation
+### 碳排强度: 追踪净零排放成效的联合国指标
 
-### 国际电联ITU绿色化数字行动@COP28 
+> _**要如何追踪净零排放成效？**_
 
-Over 40 tech companies and organizations came together to push for Green Digital Action at COP28, and the Green Standard  [Action Plan](http://www.itu.int/initiatives/green-digital-action-atcop28/wp-content/uploads/sites/4/2023/12/Call-to-Action-Pillar4-Green-standards.pdf)  is co-led by the ITU and Huawei. 
+回答此问题，联合国与各国政府及组织（包括中国），使用 **碳排强度** 具体测**碳排**与**经济**的关系。
 
+**碳排强度 (经济)** 数量愈小代表两者脱钩（decoupling），断开经济增长与环境污染之联系，是**碳排放(经济)脱钩**主要指标，亦是可持续发展目标的[具体指标9.4.1](https://w3.unece.org/SDG/en/Indicator?id=28)。
 
-[世界标准合作组织（World Standards Cooperation）](https://www.worldstandardscooperation.org/)，的[COP28联合声明](https://www.worldstandardscooperation.org/wp-content/uploads/2023/11/WSC_Statement_Standards-Digital_8_Nov_2023.pdf)强调可持续发展。
+世界各国各组织如[联合国](https://w3.unece.org/SDG/en/Indicator?id=28)、[IEA 国际能源署](https://www.iea.org/data-and-statistics/charts/co2-emissions-intensity-of-gdp-1990-2021)、[美国能源部](https://www.energy.gov/articles/interactive-energy-intensity-and-carbon-intensity-numbers)、[PwC](https://www.pwc.co.uk/services/sustainability-climate-change/insights/net-zero-economy-index.html)等都提供此数据及可视化。
 
-![28](WSC_SPCG-2023.webp)
+### 例子１：中国指标及行动方案要年减3.9%
+2024年5月23日[中国印发《2024—2025年节能降碳行动方案》](https://www.gov.cn/zhengce/content/202405/content_6954322.htm)，明定2024年目标：
 
-如上图所示，世界标准合作组织的SPCG标准化计划协调小组的合作领域从无障碍到人工智能，从电子健康到智能制造，从物网到3D打印，一共28项合作领域，确保IEC/ISO/ITU能协同合作分工，并通过设计纳入**技术标准制定**，以及帮助世界实现净零排放和实现资源节约型循环低碳经济的标准。
+> 单位国内生产总值能源消耗和二氧化碳排放分别降低2.5%左右、3.9%左右
 
-{{< youtube lC7xGx8dOuc >}}
+其中，国内生产总值二氧化碳排放，指的就是CO2/GDP的**碳排强度 (每产值单位碳排放量)** 。国内生产总值能源消耗，指的就是Energy/GDP的**能耗强度 (每产值单位初级能源消耗)**
 
-> 华为与会代表说明为何参加国际标准
+### 例子２：PwC净零经济指数发现全球脱碳进度落后需**年均减17.2%**
+2023年**PwC**《ch》（Net Zeronomy Index 2023）](https://www.pwc.tw/zh/news/press-release/press-20231011.html)发现**全球脫碳率**（碳排强度每年降幅）需**年均减17.2%**，[，才能[达成《巴黎协定》的1.5℃目标](https://www.unep.org/interactives/emissions-gap-report/2023/zh/)。
 
-![](https://www.itu.int/initiatives/green-digital-action-atcop28/wp-content/uploads/sites/4/2023/12/huawei-and-itu.png)
+### 🅭澳恪森独立研究发现需**年均减19%**（今年减9%）　
+全球脫碳率需**年均减少19%**，[**🅭澳恪森 (Oxford Roadmapping)** 独立研究发现](https://oxon8.netlify.app/visualization/prj-visNetZero/index.zh)，才能达标。其利用IEA目标数据建模推算出每年年均需有 **-9%** 至 **-10%**（2030年前）， **-10%** 至 **-13%**（2040年前）的进展。
 
-> 国际电联与华为推动环保可持续标准践行
+![NZED](NZED-0.1.png)
 
+针对21个经济体，包G7、E7、GE7(亚洲四小龙加3)、研究发现：
+* **E7需4倍努力**：作为工业与经济正发达的经济体代表，若按乐观地最佳表现的2021年相比，需4倍努力。
+* **G7需加倍努力**：作为工业与经济已发达的经济体代表，若乐观地按最佳表现的2020年需加倍努力。
+* **GE7需1.5倍努力**：GE7发展介于G7及E7之间，历年排放都低于**G7及E7**，減排向下(线性)，但要达1.5℃目标需加速(指数)，2030年前**每年需减9.8-10.3%**，但过去5年间实际数据在-0.121%至-7.093%之间。若按最佳表现的2019年相比，需1.5倍努力（10/7约为1.4）。
 
-### 澳恪森GDAStandard项目助力绿色化数字行动扩大参与
+![CO2pG_World-E7-G7-GE7.zh](CO2pG_World-E7-G7-GE7.zh.png)
 
-澳恪森数智科技以其标准化工作及科技路线图工作的经验，将持续以[【GDAStandard】项目]({{< ref "/project/prj-roadmap_GDAStandard" >}})
-结合国际电联ITU的数字生态创新工具箱与自身积累的双化设计教案，推出绿色数字行动工具箱。
+### 2022年表现最优的经济体
+2022年21个经济体之中分组表现**脫碳率**（碳排强度每年降幅）**最优**的分别是土耳其(-8.8% E7)、英国(-11.9% G7)、新加坡(-8% GE7)，这些经济体除了英国有达成预测所需的全球脱碳每年降幅比例，离所需的全球每年降幅-9%（2030年前）差距不大，显见此脱碳降幅标准的可行性。
 
-廖汉腾表示，「此工具箱将以双创的切入点，来实践双化的设计，来降低学习门槛。」
+脫碳率（碳排强度每年降幅）**最差**的分别是印尼(+12.4% E7)、加拿大(-1.3% G7)、西班牙(+1.1% GE7)，这些经济体除印尼因相对发展水平仍低之外，离所需的全球每年降幅-9%（2030年前）差距大。
 
-「此双创到双化，再从双化创新到双化行动的国际标准化工作，正是我们试过可行的实践路线。」
+### 其它数据：碳排强度分解式数据（分省分产业）落实行动
 
-与国家工业设计研究院（生态设计）合作，澳恪森GDAStandard项目将于2023年年底，至2024年年初，推出绿色数字行动工具箱，可用来引导双创学生走向双化创新，更可在各学术科研及产业研发活动中，做为「数字生态体系」(digital ecosystems) 设计创新的教材及教案，从而解决自身问题后，提练引领产业及学科的标准化能力。
+此碳排强度数据指标，可以进一步利用如基于中国碳核算数据库（CEADs）的**[「精准脱碳」交互可视化产品]({{< ref "/project/prj-VisCEADs" >}})** 针对分解式数据（分省分产业）来精准节能降碳行动方案。
 
+![浙江碳排放强度前7行业](浙江碳排放强度前7行业.svg)
 
-![](ITU-D-Digital_Inno_Ecosystem.zh.png)
+澳恪森表示，在碳管理与服务平台开发方面，将结合碳排强度的各阶层数据可视化及建模、产业投入产出网络可视化及建模、以及**产业脱碳法 SDA** 的人工智能助手，来提供经济数据及产业文本方法持续开发智能交互可视化产品及知识产权，以促如中国《节能降碳行动方案》可有数据及可行方案的依据。
 
-图：[国际电联](https://www.itu.int/Pages/VariationRoot.aspx "ITU")>[ITU-D](https://www.itu.int/en/ITU-D/Pages/default.aspx "The site of the Telecommunication Development Sector of the International Telecommunication Union")数字创新生态系统资源
+![广东碳排放强度前7行业](广东碳排放强度前7行业.svg)
 
-### 标准化地图与空缺
+### 其它指标：人均碳排数据（分组或分地区）确保绿色转型正义
 
-[呼吁采取行动文件](https://www.itu.int/initiatives/green-digital-action-atcop28/wp-content/uploads/sites/4/2023/12/Call-to-Action-Pillar4-Green-standards.pdf)中标注出各相关标准的范围（城市、公司组织、网络、设备、服务等）。
+此外，本次释出的可视化产品原型还包括人均碳排数据，点出各经济体分组中，相对人均碳排数据水平较高的有：
 
-澳恪森数智科技表示，此份文件展示最新的绿色数字标准路线发展，是可以用来展开创新创业、科研、产品开发、以及标准化等活动，是国际电联2023年12月于COP28发布的最重要的技术文件。
+* E7：俄罗斯11.263、中国8.131 (c.f. 组平均5.066)
+* G7:  美国15.174、加拿大14.164  (c.f. 组平均8.642)
+* GE7（亚洲四小龙加3）:  台湾11.835 、韩国11.618  (c.f. 组平均7.957)
 
-{{< youtube ha_VFhnoh-4 >}}
+上述经济体需要花更大心力，回应以下绿色转型正义：
 
-> 欧洲光纤到户委员会（FTTH Fiber to the Home Council Europe）说明ICT行业的绿色责任
-
-### 关于澳恪森数智科技
-澳恪森数智科技，简称Oxon8，全名为澳恪森数智科技服务（广州）有限公司，创新数智平台与绿色金融科技的设计，助组织与个人的双化协同发展及精准脱碳之旅。
-![icon.png](icon.png)
-澳恪森Oxon8为行业﹑智库﹑政府等提供基于专利分析﹑科学计量﹑知识图谱等等数据情报，合作开展集科技研发﹑科技服务﹑成果转化﹑系统集成﹑人才培养﹑等科技创新公共及商业服务，运用前瞻情报连结在地及全球网络。
-
-### 澳恪森数智科技支持 绿色化数字行动@COP28
-
-![HTL-GreenDigitalAction.png](HTL-GreenDigitalAction.png)
-![CLP-GreenDigitalAction.png](CLP-GreenDigitalAction.png)
-
-### 关于标准化计划协调小组 （SPCG）
-
-**[标准化计划协调小组 （SPCG）](https://www.worldstandardscooperation.org/what-we-do/spcg/)** 是由推进基于自愿共识的国际标准体系的[「世界标准合作组织」（World Standards Cooperation）](https://www.worldstandardscooperation.org/)下的委员会，协调及审查IEC、ISO和ITU-T技术标准化活动。目前已定立下列高新技术合作领域：无障碍、人工智能、增强现实、大数据、生物识别技术、区块链、循环经济、气候变化、云计算、网络安全、数据管理、数字货币、赈灾、边缘计算、电子医疗、能源效率、电子垃圾、智能交通系统、物联网、机器学习、印刷电子产品、量子计算、机器人技术、智慧城市、智能电网、智能制造、虚拟现实、可穿戴设备、3D打印。
-
-{{< youtube ENJiLUzelmU >}}
-
-### 关于世界标准合作组织
-
-[**世界标准合作组织（World Standards Cooperation）**](https://www.worldstandardscooperation.org/)是由IEC（国际电工委员会）、ISO（国际标准化组织）和 ITU（国际电信联盟）之间的高级别合作。在此世界标准合作旗帜下，三个组织加强并推进基于自愿与共识的国际标准体系。
+> _**要如何追踪净零排放能有转型正义，确保人类发展公平？**_
 
 
-{{< youtube TRWbxSv5noo >}}
+特别像是亚洲四小龙的 台湾 、韩国，其人均碳排数据指标高于能源输出大国俄罗斯，需要投资更多以数据为驱动，以科学为基础的行业脱碳法SDA，一方面引领绿色创新，另一方面确保其区域的绿色转型正义。
+
+![CO2pC_GE7_Taiwan-Korea](CO2pC_GE7_Taiwan-Korea.png)
+
+澳恪森表示，在碳管理与服务平台开发方面，将结合亚洲银行、[中国碳核算数据库（CEADs）](https://www.ceads.net/))等数据及报告，在合成数据及人工智能方面研发关键模型及分析工具。
+
+---
+
+
+{{< readfile file ="/static/md/brand/aboutOxon8" >}}
