@@ -14,7 +14,7 @@ image:
   preview_only: false
 ---
 
-2024年6月5日，庆祝[世界环境日](https://www.un.org/zh/observances/environment-day)上，澳恪森释出[零碳经济最新数据可视化成果](https://oxon8.netlify.app/visualization/prj-visNetZero/index.en)，研究结果发现，**全球脫碳率（碳排强度年度环比降幅）**須**年减19%**，至2030年須 **年减19%** ，至2040年須**年减10-13%** ，方能將升溫幅度控制在1.5°C以內，才能[达成《巴黎协定》的1.5℃目标](https://www.unep.org/interactives/emissions-gap-report/2023/zh/)。
+Celebrating [World Environment Day](https://www.un.org/zh/observances/environment-day), Oxford Roadmapping (Oxon8) shared the latest findings of [Net Zero Economy Dataset Visualization]({{< ref "/visualization/prj-visNetZero" >}}), revealing that the **world decarbonization rate (the year-on-year carbon intensity percentage change)** needs to be at **19%** on average by 2050,  **9%** by 2030, and **10-13%** by 2040, so as to meet [the 1.5°C target of the Paris Agreement](https://www.unep.org/interactives/emissions-gap-report/2023/zh/)。
 
 <!--more-->
 
