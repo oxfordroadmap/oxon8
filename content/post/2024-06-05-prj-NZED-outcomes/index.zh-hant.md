@@ -13,7 +13,7 @@ image:
   preview_only: true
 ---
 
-2024年6月5日，慶祝[世界環境日](https://www.un.org/zh/observances/environment-day)上，澳恪森釋出[零碳經濟最新數據可視化成果]({{< ref "/visualization/prj-visNetZero" >}})，研究結果發現，**全球脫碳率（碳排強度年度環比降幅）**須**年減19%**，至2030年須 **年減19%** ，至2040年須**年減10-13%** ，方能將升溫幅度控制在1.5°C以內，才能[達成《巴黎協定》的1.5℃目標](https://www.unep.org/interactives/emissions-gap-report/2023/zh/)。
+2024年6月5日，慶祝[世界環境日](https://www.un.org/zh/observances/environment-day)上，澳恪森釋出[零碳經濟最新數據可視化成果]({{< ref "/project/prj-VisCEADs" >}})，研究結果發現，**全球脫碳率（碳排強度年度環比降幅）**須**年減19%**，至2030年須 **年減19%** ，至2040年須**年減10-13%** ，方能將升溫幅度控制在1.5°C以內，才能[達成《巴黎協定》的1.5℃目標](https://www.unep.org/interactives/emissions-gap-report/2023/zh/)。
 
 <!--more-->
 

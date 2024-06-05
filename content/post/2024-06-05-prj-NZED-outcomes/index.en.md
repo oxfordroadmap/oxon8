@@ -14,7 +14,7 @@ image:
   preview_only: false
 ---
 
-Celebrating [World Environment Day](https://www.un.org/zh/observances/environment-day), Oxford Roadmapping (Oxon8) shared the latest findings of [Net Zero Economy Dataset Visualization]({{< ref "/visualization/prj-visNetZero" >}}), revealing that the **world decarbonization rate (the year-on-year carbon intensity percentage change)** needs to be at **19%** on average by 2050,  **9%** by 2030, and **10-13%** by 2040, so as to meet [the 1.5°C target of the Paris Agreement](https://www.unep.org/interactives/emissions-gap-report/2023/zh/)。
+Celebrating [World Environment Day](https://www.un.org/zh/observances/environment-day), Oxford Roadmapping (Oxon8) shared the latest findings of [Net Zero Economy Dataset Visualization]({{< ref "/project/prj-VisNetZero" >}}), revealing that the **world decarbonization rate (the year-on-year carbon intensity percentage change)** needs to be at **19%** on average by 2050,  **9%** by 2030, and **10-13%** by 2040, so as to meet [the 1.5°C target of the Paris Agreement](https://www.unep.org/interactives/emissions-gap-report/2023/zh/)。
 
 <!--more-->
 
