@@ -18,3 +18,7 @@ Celebrating [World Environment Day](https://www.un.org/zh/observances/environmen
 
 <!--more-->
 
+Updating what PwC has done with the Net Zero Economy Index, our research findings provide further details regarding G7, E7, and other Asian Dragon economies.
+
+Have a try with the interactive visualization: 
+https://oxon8.netlify.app/en/visualization/prj-visnetzero/index.en
