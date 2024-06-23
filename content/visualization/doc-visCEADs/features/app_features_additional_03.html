@@ -1,0 +1,694 @@
+
+
+<!DOCTYPE html>
+
+
+<html lang="zh" data-content_root="" data-theme="dark">
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
+    <title>3.4. 📉分页3历史走势 &#8212; VisCEADs 使用指南</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "dark";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "dark";
+  </script>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../_static/styles/theme.css?digest=3ee479438cf8b5e0d341" rel="stylesheet" />
+<link href="../_static/styles/bootstrap.css?digest=3ee479438cf8b5e0d341" rel="stylesheet" />
+<link href="../_static/styles/pydata-sphinx-theme.css?digest=3ee479438cf8b5e0d341" rel="stylesheet" />
+
+  
+  <link href="../_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=3ee479438cf8b5e0d341" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/sphinx-book-theme.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/copybutton.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-design.5ea377869091fd0449014c60fc090103.min.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/css/custom.css" />
+  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=3ee479438cf8b5e0d341" />
+<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=3ee479438cf8b5e0d341" />
+  <script src="../_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=3ee479438cf8b5e0d341"></script>
+
+    <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/_sphinx_javascript_frameworks_compat.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/clipboard.min.js"></script>
+    <script src="../_static/copybutton.js"></script>
+    <script src="../_static/scripts/sphinx-book-theme.js"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="../_static/togglebutton.js"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script src="../_static/design-tabs.js"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script async="async" src="../_static/sphinx-thebe.js"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'features/app_features_additional_03';</script>
+    <script src="https://cdn.holoviz.org/panel/1.4.2/dist/bundled/react@17/umd/react.production.min.js"></script>
+    <script src="https://cdn.holoviz.org/panel/1.4.2/dist/bundled/react-dom@17/umd/react-dom.production.min.js"></script>
+    <script src="https://cdn.holoviz.org/panel/1.4.2/dist/bundled/babel-standalone@latest/babel.min.js"></script>
+    <script src="https://cdn.holoviz.org/panel/1.4.2/dist/bundled/echarts/echarts@5.4.1/dist/echarts.min.js"></script>
+    <script src="https://cdn.holoviz.org/panel/1.4.2/dist/bundled/echarts/echarts-gl@2.0.9/dist/echarts-gl.min.js"></script>
+    <script src="https://cdn.holoviz.org/panel/1.4.2/dist/bundled/datatabulator/tabulator-tables@5.5.0/dist/js/tabulator.min.js"></script>
+    <script src="https://cdn.holoviz.org/panel/1.4.2/dist/bundled/datatabulator/luxon/build/global/luxon.min.js"></script>
+    <script src="https://cdn.bokeh.org/bokeh/release/bokeh-3.4.0.min.js"></script>
+    <script src="https://cdn.bokeh.org/bokeh/release/bokeh-gl-3.4.0.min.js"></script>
+    <script src="https://cdn.bokeh.org/bokeh/release/bokeh-tables-3.4.0.min.js"></script>
+    <script src="https://cdn.bokeh.org/bokeh/release/bokeh-widgets-3.4.0.min.js"></script>
+    <script src="https://cdn.holoviz.org/panel/1.4.2/dist/panel.min.js"></script>
+    <link rel="index" title="索引" href="../genindex.html" />
+    <link rel="search" title="搜索" href="../search.html" />
+    <link rel="next" title="3.5. 🔀分页4桑基图" href="app_features_additional_04.html" />
+    <link rel="prev" title="3.2. 💹分页2投入产出表" href="app_features_additional_02.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="zh"/>
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="dark">
+
+  
+  
+  <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">跳至主内容</a></div>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>导航回顶部</button>
+
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-primary-sidebar-checkbox"/>
+  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-secondary-sidebar-checkbox"/>
+  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="../search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search this book..."
+         aria-label="Search this book..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+
+  <div class="pst-async-banner-revealer d-none">
+  <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="版本警告"></aside>
+</div>
+
+  
+    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+    </header>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      
+      
+      <div class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+
+  
+
+<a class="navbar-brand logo" href="../index.zh.html">
+  
+  
+  
+  
+  
+    
+    
+    
+    <img src="../_static/logo.svg" class="logo__image only-dark" alt="VisCEADs 使用指南 - Home"/>
+    <script>document.write(`<img src="../_static/logo.svg" class="logo__image only-light" alt="VisCEADs 使用指南 - Home"/>`);</script>
+  
+  
+</a></div>
+        <div class="sidebar-primary-item">
+
+ <script>
+ document.write(`
+   <button class="btn navbar-btn search-button-field search-button__button" title="搜索" aria-label="搜索" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+    <span class="search-button__default-text">搜索</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script></div>
+        <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="../index.zh.html">
+                    VisCEADs：投入产出网络
+                </a>
+            </li>
+        </ul>
+        <ul class="current nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../chapters/01.VisCEADs.html">1. ℹ️ 基本信息</a></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../chapters/02.Main.html">2. 📉主图</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="app_features_main_01.html">2.1. 💡网络图可供情报</a></li>
+<li class="toctree-l2"><a class="reference internal" href="app_features_main_02.html">2.2. 🖱网络图可供控件</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 current active has-children"><a class="reference internal" href="../chapters/03.Additional.html">3. 📅副图表</a><details open="open"><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="app_features_additional_01.html">3.1. 🏭分页1行业表</a></li>
+<li class="toctree-l2"><a class="reference internal" href="app_features_additional_02.html">3.2. 💹分页2投入产出表</a></li>
+
+<li class="toctree-l2 current active"><a class="current reference internal" href="#">3.4. 📉分页3历史走势</a></li>
+<li class="toctree-l2"><a class="reference internal" href="app_features_additional_04.html">3.5. 🔀分页4桑基图</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1"><a class="reference internal" href="../chapters/04.Data.html">4. 🗃️CEADs 数据库</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../chapters/05.Roadmapping.html">5. 🧭发展路线</a></li>
+</ul>
+
+    </div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main" role="main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article d-print-none">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><button class="sidebar-toggle primary-toggle btn btn-sm" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</button></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-source-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Source repositories">
+    <i class="fab fa-github"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="https://github.com/oxon8/VisCEADs_jupyter_book" target="_blank"
+   class="btn btn-sm btn-source-repository-button dropdown-item"
+   title="源码库"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fab fa-github"></i>
+  </span>
+<span class="btn__text-container">Repository</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li><a href="https://github.com/oxon8/VisCEADs_jupyter_book/edit/master/html/features/app_features_additional_03.ipynb" target="_blank"
+   class="btn btn-sm btn-source-edit-button dropdown-item"
+   title="Suggest edit"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-pencil-alt"></i>
+  </span>
+<span class="btn__text-container">Suggest edit</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li><a href="https://github.com/oxon8/VisCEADs_jupyter_book/issues/new?title=Issue%20on%20page%20%2Ffeatures/app_features_additional_03.html&body=Your%20issue%20content%20here." target="_blank"
+   class="btn btn-sm btn-source-issues-button dropdown-item"
+   title="创建议题"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-lightbulb"></i>
+  </span>
+<span class="btn__text-container">Open issue</span>
+</a>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="下载此页面">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="../_sources/features/app_features_additional_03.ipynb" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="下载源文件"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="btn__text-container">.ipynb</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="列印成 PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="全屏模式"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm navbar-btn theme-switch-button" title="亮屏/黑暗模式" aria-label="亮屏/黑暗模式" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="theme-switch nav-link" data-mode="light"><i class="fa-solid fa-sun fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="dark"><i class="fa-solid fa-moon fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="auto"><i class="fa-solid fa-circle-half-stroke fa-lg"></i></span>
+  </button>
+`);
+</script>
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm navbar-btn search-button search-button__button" title="搜索" aria-label="搜索" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+  </button>
+`);
+</script>
+<button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</button>
+</div></div>
+      
+    </div>
+  
+</div>
+</div>
+              
+              
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>📉分页3历史走势</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+            <div>
+                <h2> 目录 </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id2">3.4.1. 示意展示图</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id3">3.4.2. 📜 <code class="docutils literal notranslate"><span class="pre">任选</span></code> 指标</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id4">3.4.3. ❓要降多少？主要指标<code class="docutils literal notranslate"><span class="pre">碳排強度</span></code></a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#i">3.4.4. ℹ️此表的交互功能</a><ul class="visible nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id5">3.4.4.1. 选择器：地区 及 指标</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id6">3.4.4.2. 图说文字：高亮 设置/取消</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#ceads">3.4.5. 🎯CEADs 指标信息 （含延伸指标）</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id7">3.4.6. 🎁客制化</a></li>
+</ul>
+            </nav>
+        </div>
+    </div>
+</div>
+
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                  
+  <script type="module" src="https://cdn.holoviz.org/panel/1.4.2/dist/bundled/@microsoft/fast-components@2.30.6/dist/fast-components.js"></script>
+<script type="module" src="https://cdn.holoviz.org/panel/1.4.2/dist/bundled/fast/js/fast_design.js"></script>
+<section id="id1">
+<h1><span class="section-number">3.4. </span>📉分页3历史走势<a class="headerlink" href="#id1" title="Permalink to this heading">#</a></h1>
+<p><code class="docutils literal notranslate"><span class="pre">分页3历史走势</span></code>提供图表，供用户比较节点行业部门间的<code class="docutils literal notranslate"><span class="pre">指标信息</span></code> 的 <code class="docutils literal notranslate"><span class="pre">历史走势</span></code>。</p>
+<section id="id2">
+<h2><span class="section-number">3.4.1. </span>示意展示图<a class="headerlink" href="#id2" title="Permalink to this heading">#</a></h2>
+<p>下图仅为展示，完整交互功能见<a class="reference external" href="https://oxon8.netlify.app/visualization/prj-VisCEADs/index.zh">VisCEADs仪表盘</a>。</p>
+<div class="cell tag_remove-input tag_full-height docutils container">
+<div class="cell_output docutils container">
+<div class="output text_html"><div id='9355bf0d-4460-4a32-8654-f169f5ea1b14'>
+  <div id="bf361780-945e-4bef-9621-d549931d2286" data-root-id="9355bf0d-4460-4a32-8654-f169f5ea1b14" style="display: contents;"></div>
+</div>
+<script type="application/javascript">(function(root) {
+  var docs_json = {"84a0a2ba-50b0-4175-aa2c-e097722965df":{"version":"3.4.0","title":"Bokeh Application","roots":[{"type":"object","name":"panel.models.reactive_html.ReactiveHTML","id":"9355bf0d-4460-4a32-8654-f169f5ea1b14","attributes":{"subscribed_events":{"type":"set","entries":["dom_event"]},"stylesheets":["\n:host(.pn-loading):before, .pn-loading:before {\n  background-color: #c3c3c3;\n  mask-size: auto calc(min(50%, 400px));\n  -webkit-mask-size: auto calc(min(50%, 400px));\n}",{"type":"object","name":"ImportedStyleSheet","id":"04642196-7e0f-4db6-b993-ed3f95d980c5","attributes":{"url":"https://cdn.holoviz.org/panel/1.4.2/dist/css/loading.css"}},{"type":"object","name":"ImportedStyleSheet","id":"e118ef18-1ddf-4508-84e6-750fbd803d3d","attributes":{"url":"https://cdn.holoviz.org/panel/1.4.2/dist/bundled/theme/dark.css"}},{"type":"object","name":"ImportedStyleSheet","id":"0a115604-bd79-4066-956e-52fa6ce15025","attributes":{"url":"https://cdn.holoviz.org/panel/1.4.2/dist/bundled/theme/native.css"}}],"margin":0,"align":"start","children":{"type":"map","entries":[["fast-wrapper",[{"type":"object","name":"Row","id":"5b4f1b5b-d714-42df-88f2-4dbf543babe4","attributes":{"name":"Row02969","stylesheets":["\n:host(.pn-loading):before, .pn-loading:before {\n  background-color: #c3c3c3;\n  mask-size: auto calc(min(50%, 400px));\n  -webkit-mask-size: auto calc(min(50%, 400px));\n}",{"id":"04642196-7e0f-4db6-b993-ed3f95d980c5"},{"type":"object","name":"ImportedStyleSheet","id":"f0faedee-93bd-420e-947f-de511e8eb541","attributes":{"url":"https://cdn.holoviz.org/panel/1.4.2/dist/css/listpanel.css"}},{"id":"e118ef18-1ddf-4508-84e6-750fbd803d3d"},{"type":"object","name":"ImportedStyleSheet","id":"b09eccbc-6a00-46a4-8d0d-a82e1a928471","attributes":{"url":"https://cdn.holoviz.org/panel/1.4.2/dist/bundled/theme/fast.css"}}],"width":800,"height":540,"margin":0,"sizing_mode":"fixed","align":"start","children":[{"type":"object","name":"panel.models.layout.Column","id":"5f04b2a0-5278-4eb5-bc25-e5edafe1d429","attributes":{"name":"Column02943","stylesheets":["\n:host(.pn-loading):before, .pn-loading:before {\n  background-color: #c3c3c3;\n  mask-size: auto calc(min(50%, 400px));\n  -webkit-mask-size: auto calc(min(50%, 400px));\n}",{"id":"04642196-7e0f-4db6-b993-ed3f95d980c5"},{"id":"f0faedee-93bd-420e-947f-de511e8eb541"},{"id":"e118ef18-1ddf-4508-84e6-750fbd803d3d"},{"id":"b09eccbc-6a00-46a4-8d0d-a82e1a928471"}],"margin":0,"sizing_mode":"stretch_height","align":"start","children":[{"type":"object","name":"Row","id":"6acef9ec-e5cd-49ef-b9e8-100ec2981ba5","attributes":{"name":"Row01021","stylesheets":["\n:host(.pn-loading):before, .pn-loading:before {\n  background-color: #c3c3c3;\n  mask-size: auto calc(min(50%, 400px));\n  -webkit-mask-size: auto calc(min(50%, 400px));\n}",{"id":"04642196-7e0f-4db6-b993-ed3f95d980c5"},{"id":"f0faedee-93bd-420e-947f-de511e8eb541"},{"id":"e118ef18-1ddf-4508-84e6-750fbd803d3d"},{"id":"b09eccbc-6a00-46a4-8d0d-a82e1a928471"}],"margin":0,"align":"start","children":[{"type":"object","name":"panel.models.widgets.CustomSelect","id":"be6326c0-c4d0-4eda-840b-ffbf7840ae1f","attributes":{"stylesheets":["\n:host(.pn-loading):before, .pn-loading:before {\n  background-color: #c3c3c3;\n  mask-size: auto calc(min(50%, 400px));\n  -webkit-mask-size: auto calc(min(50%, 400px));\n}",{"id":"04642196-7e0f-4db6-b993-ed3f95d980c5"},{"type":"object","name":"ImportedStyleSheet","id":"d761fc6f-3cdc-4a8a-9c87-0edf4380e8e5","attributes":{"url":"https://cdn.holoviz.org/panel/1.4.2/dist/css/select.css"}},{"id":"e118ef18-1ddf-4508-84e6-750fbd803d3d"},{"id":"b09eccbc-6a00-46a4-8d0d-a82e1a928471"}],"width":200,"min_width":200,"margin":[5,10],"align":"start","title":"\u9009\u62e9\u5730\u533a","options":[["BJ:\u5317\u4eac","BJ:\u5317\u4eac"],["TJ:\u5929\u6d25","TJ:\u5929\u6d25"],["HE:\u6cb3\u5317","HE:\u6cb3\u5317"],["SX:\u5c71\u897f","SX:\u5c71\u897f"],["NM:\u5185\u8499\u53e4","NM:\u5185\u8499\u53e4"],["LN:\u8fbd\u5b81","LN:\u8fbd\u5b81"],["JL:\u5409\u6797","JL:\u5409\u6797"],["HL:\u9ed1\u9f99\u6c5f","HL:\u9ed1\u9f99\u6c5f"],["SH:\u4e0a\u6d77","SH:\u4e0a\u6d77"],["JS:\u6c5f\u82cf","JS:\u6c5f\u82cf"],["ZJ:\u6d59\u6c5f","ZJ:\u6d59\u6c5f"],["AH:\u5b89\u5fbd","AH:\u5b89\u5fbd"],["FJ:\u798f\u5efa","FJ:\u798f\u5efa"],["JX:\u6c5f\u897f","JX:\u6c5f\u897f"],["SD:\u5c71\u4e1c","SD:\u5c71\u4e1c"],["HA:\u6cb3\u5357","HA:\u6cb3\u5357"],["HB:\u6e56\u5317","HB:\u6e56\u5317"],["HN:\u6e56\u5357","HN:\u6e56\u5357"],["GD:\u5e7f\u4e1c","GD:\u5e7f\u4e1c"],["GX:\u5e7f\u897f","GX:\u5e7f\u897f"],["HI:\u6d77\u5357","HI:\u6d77\u5357"],["CQ:\u91cd\u5e86","CQ:\u91cd\u5e86"],["SC:\u56db\u5ddd","SC:\u56db\u5ddd"],["GZ:\u8d35\u5dde","GZ:\u8d35\u5dde"],["YN:\u4e91\u5357","YN:\u4e91\u5357"],["XZ:\u897f\u85cf","XZ:\u897f\u85cf"],["SN:\u9655\u897f","SN:\u9655\u897f"],["GS:\u7518\u8083","GS:\u7518\u8083"],["QH:\u9752\u6d77","QH:\u9752\u6d77"],["NX:\u5b81\u590f","NX:\u5b81\u590f"],["XJ:\u65b0\u7586","XJ:\u65b0\u7586"]],"value":"BJ:\u5317\u4eac"}},{"type":"object","name":"panel.models.widgets.CustomSelect","id":"84e2c28e-0fc5-4580-a024-ae543e99cb22","attributes":{"stylesheets":["\n:host(.pn-loading):before, .pn-loading:before {\n  background-color: #c3c3c3;\n  mask-size: auto calc(min(50%, 400px));\n  -webkit-mask-size: auto calc(min(50%, 400px));\n}",{"id":"04642196-7e0f-4db6-b993-ed3f95d980c5"},{"id":"d761fc6f-3cdc-4a8a-9c87-0edf4380e8e5"},{"id":"e118ef18-1ddf-4508-84e6-750fbd803d3d"},{"id":"b09eccbc-6a00-46a4-8d0d-a82e1a928471"}],"width":200,"min_width":200,"margin":[5,10],"align":"start","title":"\u9009\u62e9\u6307\u6807\uff08\u4efb\u9009\uff09","options":[["\u603b\u6295\u5165","\u603b\u6295\u5165"],["\u603b\u4ea7\u51fa","\u603b\u4ea7\u51fa"],["CO2\u6392\u653e","CO2\u6392\u653e"],["\u8fdb\u53e3","\u8fdb\u53e3"],["\u603b\u4e2d\u95f4\u6295\u5165","\u603b\u4e2d\u95f4\u6295\u5165"],["\u589e\u52a0\u503c","\u589e\u52a0\u503c"],["\u603b\u4ea7\u51fa2","\u603b\u4ea7\u51fa2"],["\u51fa\u53e3","\u51fa\u53e3"],["\u6700\u7ec8\u4f7f\u7528","\u6700\u7ec8\u4f7f\u7528"],["\u78b3\u6392\u5f3a\u5ea6","\u78b3\u6392\u5f3a\u5ea6"],["\u6295\u5165\u548c","\u6295\u5165\u548c"],["\u4ea7\u51fa\u5408","\u4ea7\u51fa\u5408"],["\u4ea7\u4e1a\u5185","\u4ea7\u4e1a\u5185"],["\u7279\u5f81\u5411\u91cf\u4e2d\u5fc3\u6027","\u7279\u5f81\u5411\u91cf\u4e2d\u5fc3\u6027"],["\u5165\u5ea6\u4e2d\u5fc3\u6027","\u5165\u5ea6\u4e2d\u5fc3\u6027"],["\u51fa\u5ea6\u4e2d\u5fc3\u6027","\u51fa\u5ea6\u4e2d\u5fc3\u6027"]],"value":"\u78b3\u6392\u5f3a\u5ea6"}}]}},{"type":"object","name":"Row","id":"bc600638-c96d-42f5-8d7b-086b7b07c9fe","attributes":{"name":"Row02942","stylesheets":["\n:host(.pn-loading):before, .pn-loading:before {\n  background-color: #c3c3c3;\n  mask-size: auto calc(min(50%, 400px));\n  -webkit-mask-size: auto calc(min(50%, 400px));\n}",{"id":"04642196-7e0f-4db6-b993-ed3f95d980c5"},{"id":"f0faedee-93bd-420e-947f-de511e8eb541"},{"id":"e118ef18-1ddf-4508-84e6-750fbd803d3d"},{"id":"b09eccbc-6a00-46a4-8d0d-a82e1a928471"}],"margin":0,"align":"start","children":[{"type":"object","name":"panel.models.layout.Column","id":"5eda39e2-15ee-438f-966e-f661254b81c2","attributes":{"name":"Column01026","stylesheets":["\n:host(.pn-loading):before, .pn-loading:before {\n  background-color: #c3c3c3;\n  mask-size: auto calc(min(50%, 400px));\n  -webkit-mask-size: auto calc(min(50%, 400px));\n}",{"id":"04642196-7e0f-4db6-b993-ed3f95d980c5"},{"id":"f0faedee-93bd-420e-947f-de511e8eb541"},{"id":"e118ef18-1ddf-4508-84e6-750fbd803d3d"},{"id":"b09eccbc-6a00-46a4-8d0d-a82e1a928471"}],"margin":0,"sizing_mode":"fixed","align":"start","children":[{"type":"object","name":"Figure","id":"f6a15794-7599-4dc4-b4ea-386b9f9a3bd4","attributes":{"name":"ParamFunction01022","width":800,"height":480,"margin":[5,10],"sizing_mode":"fixed","align":"start","x_range":{"type":"object","name":"Range1d","id":"6966d896-2f35-459a-a443-d194fd5ca316","attributes":{"tags":[[["year","year",null]],[]],"start":2011.5,"end":2017.5,"reset_start":2011.5,"reset_end":2017.5}},"y_range":{"type":"object","name":"Range1d","id":"b42539f4-3c6c-4916-b445-714a63077ced","attributes":{"tags":[[["value","value",null]],{"type":"map","entries":[["invert_yaxis",false],["autorange",false]]}],"start":16514394.112550596,"end":135258717.47560865,"reset_start":16514394.112550596,"reset_end":135258717.47560865}},"x_scale":{"type":"object","name":"LinearScale","id":"ba0ea15d-6de6-4cbe-a4b0-27bcf0b45edc"},"y_scale":{"type":"object","name":"LinearScale","id":"4be63a2a-bce8-4026-8039-7243e34b654f"},"title":{"type":"object","name":"Title","id":"0dda24cf-55ea-4f60-95ee-52c935d9c8bc","attributes":{"text":"\u524d7\u884c\u4e1a\uff1a\n\u79d1\u5b66\u7814\u7a76\u6280\u672f\u670d\u52a1, \u91d1\u878d, \u4fe1\u901a\u8f6f\u4ef6\u6280\u672f, \u5efa\u7b51, \u79df\u8d41\u5546\u52a1, \u6279\u53d1\u96f6\u552e, \u4ea7\u4f9b\u7535\u70ed\u529b","text_color":"#e5e5e5","text_font":"Open Sans, sans-serif","text_font_size":"16pt"}},"outline_line_color":"#717171","outline_line_alpha":0.5,"outline_line_width":1,"renderers":[{"type":"object","name":"GlyphRenderer","id":"9fd6eb29-f4ff-4aeb-abf4-9de25d472a55","attributes":{"name":"\u79d1\u5b66\u7814\u7a76\u6280\u672f\u670d\u52a1","data_source":{"type":"object","name":"ColumnDataSource","id":"96857c09-a781-4e51-8846-bf8979835963","attributes":{"selected":{"type":"object","name":"Selection","id":"53510309-4963-4df4-9f5b-7585a8ee73bb","attributes":{"indices":[],"line_indices":[]}},"selection_policy":{"type":"object","name":"UnionRenderers","id":"750a9500-dc41-4989-adcd-381872455804"},"data":{"type":"map","entries":[["year",{"type":"ndarray","array":{"type":"bytes","data":"3AcAAN8HAADhBwAA"},"shape":[3],"dtype":"int32","order":"little"}],["value",{"type":"ndarray","array":{"type":"bytes","data":"9WbnTYjYiUGuV+y7vxqOQdQKyHSS451B"},"shape":[3],"dtype":"float64","order":"little"}]]}}},"view":{"type":"object","name":"CDSView","id":"73ce99d0-bfbc-4bfd-9db8-309256d8bd4e","attributes":{"filter":{"type":"object","name":"AllIndices","id":"53dc51b8-b837-4c0e-a609-8a2317e846db"}}},"glyph":{"type":"object","name":"Line","id":"dcd79189-5987-468d-a87b-b27ee394c545","attributes":{"tags":["apply_ranges"],"x":{"type":"field","field":"year"},"y":{"type":"field","field":"value"},"line_color":"#30a2da","line_width":2}},"selection_glyph":{"type":"object","name":"Line","id":"14e9b3de-1874-4af1-925b-f6b25c0b9968","attributes":{"tags":["apply_ranges"],"x":{"type":"field","field":"year"},"y":{"type":"field","field":"value"},"line_color":"#30a2da","line_width":2}},"nonselection_glyph":{"type":"object","name":"Line","id":"26868384-bfef-4670-ac2b-9b874c3d7725","attributes":{"tags":["apply_ranges"],"x":{"type":"field","field":"year"},"y":{"type":"field","field":"value"},"line_color":"#30a2da","line_alpha":0.1,"line_width":2}},"muted_glyph":{"type":"object","name":"Line","id":"dac3f71b-a99d-49fc-b35f-63e6a4b35c5c","attributes":{"tags":["apply_ranges"],"x":{"type":"field","field":"year"},"y":{"type":"field","field":"value"},"line_color":"#30a2da","line_alpha":0.2,"line_width":2}}}},{"type":"object","name":"GlyphRenderer","id":"ec0c4ebe-5409-4a2e-9a2a-77cbc629c94d","attributes":{"name":"\u91d1\u878d","data_source":{"type":"object","name":"ColumnDataSource","id":"5be143c3-bb3b-408f-bd05-579a8ba481d8","attributes":{"selected":{"type":"object","name":"Selection","id":"b0748dbc-26a2-4cc4-9fb7-aaec11c6dbca","attributes":{"indices":[],"line_indices":[]}},"selection_policy":{"type":"object","name":"UnionRenderers","id":"80d07554-e4ed-42e6-a5f8-48ca4976c090"},"data":{"type":"map","entries":[["year",{"type":"ndarray","array":{"type":"bytes","data":"3AcAAN8HAADhBwAA"},"shape":[3],"dtype":"int32","order":"little"}],["value",{"type":"ndarray","array":{"type":"bytes","data":"RqPEcP3qhEFOc/qZRAGPQbQHv07+I5NB"},"shape":[3],"dtype":"float64","order":"little"}]]}}},"view":{"type":"object","name":"CDSView","id":"abe14ae2-fb9d-47d0-914d-7a24966347c6","attributes":{"filter":{"type":"object","name":"AllIndices","id":"c0839363-2d58-4a59-95e0-b24140897c16"}}},"glyph":{"type":"object","name":"Line","id":"c02e1817-7975-47fa-b8e6-8a17b4be6481","attributes":{"tags":["apply_ranges"],"x":{"type":"field","field":"year"},"y":{"type":"field","field":"value"},"line_color":"#fc4f30","line_width":2,"line_dash":[6]}},"selection_glyph":{"type":"object","name":"Line","id":"daf03466-19d0-432b-a9bb-9c4060094643","attributes":{"tags":["apply_ranges"],"x":{"type":"field","field":"year"},"y":{"type":"field","field":"value"},"line_color":"#fc4f30","line_width":2,"line_dash":[6]}},"nonselection_glyph":{"type":"object","name":"Line","id":"c99386bb-b658-4461-b066-46bdc8cd60aa","attributes":{"tags":["apply_ranges"],"x":{"type":"field","field":"year"},"y":{"type":"field","field":"value"},"line_color":"#fc4f30","line_alpha":0.1,"line_width":2,"line_dash":[6]}},"muted_glyph":{"type":"object","name":"Line","id":"e5c247cc-25ba-4235-ac8d-46719a728b47","attributes":{"tags":["apply_ranges"],"x":{"type":"field","field":"year"},"y":{"type":"field","field":"value"},"line_color":"#fc4f30","line_alpha":0.2,"line_width":2,"line_dash":[6]}}}},{"type":"object","name":"GlyphRenderer","id":"5938b1d8-268d-4c47-bc95-f00f5bd0c93f","attributes":{"name":"\u4fe1\u901a\u8f6f\u4ef6\u6280\u672f","data_source":{"type":"object","name":"ColumnDataSource","id":"df5c7b38-b225-44d5-b9bb-5660beb6a2d7","attributes":{"selected":{"type":"object","name":"Selection","id":"ab8a9686-0f04-4b51-a474-0fa47ab9afbb","attributes":{"indices":[],"line_indices":[]}},"selection_policy":{"type":"object","name":"UnionRenderers","id":"57507406-c2c5-4e81-b7d2-d89ae72b6c37"},"data":{"type":"map","entries":[["year",{"type":"ndarray","array":{"type":"bytes","data":"3AcAAN8HAADhBwAA"},"shape":[3],"dtype":"int32","order":"little"}],["value",{"type":"ndarray","array":{"type":"bytes","data":"82pCjqvMfkEl94I0nbyFQUygid4b3pVB"},"shape":[3],"dtype":"float64","order":"little"}]]}}},"view":{"type":"object","name":"CDSView","id":"28fa35be-a508-4151-b9b0-46de41bee6d6","attributes":{"filter":{"type":"object","name":"AllIndices","id":"ef443580-2fff-45f8-9d6a-161362076ba2"}}},"glyph":{"type":"object","name":"Line","id":"9e831d0d-0126-48ea-8c1e-d166ca4ca99a","attributes":{"tags":["apply_ranges"],"x":{"type":"field","field":"year"},"y":{"type":"field","field":"value"},"line_color":"#e5ae38","line_width":2,"line_dash":[2,4]}},"selection_glyph":{"type":"object","name":"Line","id":"f0b380fb-aa57-4c28-8724-d48e8da5ef9f","attributes":{"tags":["apply_ranges"],"x":{"type":"field","field":"year"},"y":{"type":"field","field":"value"},"line_color":"#e5ae38","line_width":2,"line_dash":[2,4]}},"nonselection_glyph":{"type":"object","name":"Line","id":"af59a33a-ab34-45e0-9af8-cb6aecd85364","attributes":{"tags":["apply_ranges"],"x":{"type":"field","field":"year"},"y":{"type":"field","field":"value"},"line_color":"#e5ae38","line_alpha":0.1,"line_width":2,"line_dash":[2,4]}},"muted_glyph":{"type":"object","name":"Line","id":"3e6304df-ba15-4d54-affb-c5fbf50882d6","attributes":{"tags":["apply_ranges"],"x":{"type":"field","field":"year"},"y":{"type":"field","field":"value"},"line_color":"#e5ae38","line_alpha":0.2,"line_width":2,"line_dash":[2,4]}}}},{"type":"object","name":"GlyphRenderer","id":"d250eb6c-73d3-4bc7-8e8f-4a87e4360878","attributes":{"name":"\u5efa\u7b51","data_source":{"type":"object","name":"ColumnDataSource","id":"60a11030-d7df-463a-8475-c754cfa5e7f4","attributes":{"selected":{"type":"object","name":"Selection","id":"d69a6e48-3917-47fe-b6bc-d559cc71e99f","attributes":{"indices":[],"line_indices":[]}},"selection_policy":{"type":"object","name":"UnionRenderers","id":"bf0fba47-8a71-4344-9060-73fe0840f254"},"data":{"type":"map","entries":[["year",{"type":"ndarray","array":{"type":"bytes","data":"3AcAAN8HAADhBwAA"},"shape":[3],"dtype":"int32","order":"little"}],["value",{"type":"ndarray","array":{"type":"bytes","data":"01fF2H44g0FYSBklonOKQX6EJ+Auh5BB"},"shape":[3],"dtype":"float64","order":"little"}]]}}},"view":{"type":"object","name":"CDSView","id":"fbf14382-da2c-4fe5-a165-2f1c7ec581af","attributes":{"filter":{"type":"object","name":"AllIndices","id":"96da5e80-8382-4f28-a354-d584e2debf67"}}},"glyph":{"type":"object","name":"Line","id":"a2913e37-d88f-4fcf-89eb-197930184525","attributes":{"tags":["apply_ranges"],"x":{"type":"field","field":"year"},"y":{"type":"field","field":"value"},"line_color":"#6d904f","line_width":2}},"selection_glyph":{"type":"object","name":"Line","id":"44af69b5-397f-4597-912e-6b4fa62e2e9c","attributes":{"tags":["apply_ranges"],"x":{"type":"field","field":"year"},"y":{"type":"field","field":"value"},"line_color":"#6d904f","line_width":2}},"nonselection_glyph":{"type":"object","name":"Line","id":"00dca4c2-0e88-46fd-9bd1-050470996186","attributes":{"tags":["apply_ranges"],"x":{"type":"field","field":"year"},"y":{"type":"field","field":"value"},"line_color":"#6d904f","line_alpha":0.1,"line_width":2}},"muted_glyph":{"type":"object","name":"Line","id":"265bd8b4-fda4-4508-8752-5d677609c60d","attributes":{"tags":["apply_ranges"],"x":{"type":"field","field":"year"},"y":{"type":"field","field":"value"},"line_color":"#6d904f","line_alpha":0.2,"line_width":2}}}},{"type":"object","name":"GlyphRenderer","id":"a0beabb7-b139-4004-99bf-944ead5c0276","attributes":{"name":"\u79df\u8d41\u5546\u52a1","data_source":{"type":"object","name":"ColumnDataSource","id":"1a9abdbf-7ae3-42c3-b654-f59a5f01c092","attributes":{"selected":{"type":"object","name":"Selection","id":"aba2ce86-b287-478c-b2aa-5042198d1815","attributes":{"indices":[],"line_indices":[]}},"selection_policy":{"type":"object","name":"UnionRenderers","id":"84b900e5-f74f-4242-8a7a-6e7f70372678"},"data":{"type":"map","entries":[["year",{"type":"ndarray","array":{"type":"bytes","data":"3AcAAN8HAADhBwAA"},"shape":[3],"dtype":"int32","order":"little"}],["value",{"type":"ndarray","array":{"type":"bytes","data":"Wu5IprEveUGlGzLEsOiBQYWeyw4qnZFB"},"shape":[3],"dtype":"float64","order":"little"}]]}}},"view":{"type":"object","name":"CDSView","id":"a641c6a4-7901-4147-8e51-aba5fb08684e","attributes":{"filter":{"type":"object","name":"AllIndices","id":"0ba216c0-8524-4557-ba06-37c8228b0e8b"}}},"glyph":{"type":"object","name":"Line","id":"3f98d9b5-0825-4e4f-81ee-61fb76ff7371","attributes":{"tags":["apply_ranges"],"x":{"type":"field","field":"year"},"y":{"type":"field","field":"value"},"line_color":"#8b8b8b","line_width":2,"line_dash":[6]}},"selection_glyph":{"type":"object","name":"Line","id":"9a1ad6b8-4ada-413b-acea-153700383571","attributes":{"tags":["apply_ranges"],"x":{"type":"field","field":"year"},"y":{"type":"field","field":"value"},"line_color":"#8b8b8b","line_width":2,"line_dash":[6]}},"nonselection_glyph":{"type":"object","name":"Line","id":"c9eb71e8-2fdf-46e8-b3b3-d13202f67824","attributes":{"tags":["apply_ranges"],"x":{"type":"field","field":"year"},"y":{"type":"field","field":"value"},"line_color":"#8b8b8b","line_alpha":0.1,"line_width":2,"line_dash":[6]}},"muted_glyph":{"type":"object","name":"Line","id":"864d87ad-7742-4cd0-983d-33ec2ad44809","attributes":{"tags":["apply_ranges"],"x":{"type":"field","field":"year"},"y":{"type":"field","field":"value"},"line_color":"#8b8b8b","line_alpha":0.2,"line_width":2,"line_dash":[6]}}}},{"type":"object","name":"GlyphRenderer","id":"dc0301a6-97ab-468f-8837-da2c25936b58","attributes":{"name":"\u6279\u53d1\u96f6\u552e","data_source":{"type":"object","name":"ColumnDataSource","id":"70b70d9f-1cb9-4488-801d-a15f2d0a6139","attributes":{"selected":{"type":"object","name":"Selection","id":"39862313-123a-4b00-ba43-e40a6a8ce499","attributes":{"indices":[],"line_indices":[]}},"selection_policy":{"type":"object","name":"UnionRenderers","id":"2619065a-241e-4bbc-b54b-ff2252da5b80"},"data":{"type":"map","entries":[["year",{"type":"ndarray","array":{"type":"bytes","data":"3AcAAN8HAADhBwAA"},"shape":[3],"dtype":"int32","order":"little"}],["value",{"type":"ndarray","array":{"type":"bytes","data":"bHsJ7UVlgUEGZXJAeGWEQVTBWj1upYdB"},"shape":[3],"dtype":"float64","order":"little"}]]}}},"view":{"type":"object","name":"CDSView","id":"10cb0f09-cd68-4ac1-bced-91deb8832157","attributes":{"filter":{"type":"object","name":"AllIndices","id":"232af999-56b8-4d77-910b-e8dd8114b49a"}}},"glyph":{"type":"object","name":"Line","id":"e2c262c4-79b8-437b-b08b-1975e4eba3da","attributes":{"tags":["apply_ranges"],"x":{"type":"field","field":"year"},"y":{"type":"field","field":"value"},"line_color":"#17becf","line_width":2,"line_dash":[2,4]}},"selection_glyph":{"type":"object","name":"Line","id":"ded0d418-35a8-4528-bad7-b5ede68d2129","attributes":{"tags":["apply_ranges"],"x":{"type":"field","field":"year"},"y":{"type":"field","field":"value"},"line_color":"#17becf","line_width":2,"line_dash":[2,4]}},"nonselection_glyph":{"type":"object","name":"Line","id":"4ae6466c-f36c-49ce-b2d8-7b55c679f741","attributes":{"tags":["apply_ranges"],"x":{"type":"field","field":"year"},"y":{"type":"field","field":"value"},"line_color":"#17becf","line_alpha":0.1,"line_width":2,"line_dash":[2,4]}},"muted_glyph":{"type":"object","name":"Line","id":"66c7e8c4-5be6-4d1c-bb01-6cfe35f60cb2","attributes":{"tags":["apply_ranges"],"x":{"type":"field","field":"year"},"y":{"type":"field","field":"value"},"line_color":"#17becf","line_alpha":0.2,"line_width":2,"line_dash":[2,4]}}}},{"type":"object","name":"GlyphRenderer","id":"df010ed9-2c20-4e78-8de8-2894bdc0bd82","attributes":{"name":"\u4ea7\u4f9b\u7535\u70ed\u529b","data_source":{"type":"object","name":"ColumnDataSource","id":"9edcb725-2246-4438-8e97-d01fae2383ec","attributes":{"selected":{"type":"object","name":"Selection","id":"b9534cf9-c349-4356-aad6-eecaa8b85e6e","attributes":{"indices":[],"line_indices":[]}},"selection_policy":{"type":"object","name":"UnionRenderers","id":"9335bcf0-2d06-4559-9be2-d62685523334"},"data":{"type":"map","entries":[["year",{"type":"ndarray","array":{"type":"bytes","data":"3AcAAN8HAADhBwAA"},"shape":[3],"dtype":"int32","order":"little"}],["value",{"type":"ndarray","array":{"type":"bytes","data":"kuj/6inbe0FIJNsQ3nWDQW2jU5IUi4RB"},"shape":[3],"dtype":"float64","order":"little"}]]}}},"view":{"type":"object","name":"CDSView","id":"4bbcdce3-c00b-4806-ad30-9b50ee53e27d","attributes":{"filter":{"type":"object","name":"AllIndices","id":"9077c12a-f2cf-4334-bc28-3f1b300b0056"}}},"glyph":{"type":"object","name":"Line","id":"1812a134-d239-474a-a32d-05ef08548c91","attributes":{"tags":["apply_ranges"],"x":{"type":"field","field":"year"},"y":{"type":"field","field":"value"},"line_color":"#9467bd","line_width":2}},"selection_glyph":{"type":"object","name":"Line","id":"95fd07f7-b12c-4416-b3c3-42a38f11e219","attributes":{"tags":["apply_ranges"],"x":{"type":"field","field":"year"},"y":{"type":"field","field":"value"},"line_color":"#9467bd","line_width":2}},"nonselection_glyph":{"type":"object","name":"Line","id":"c9c86ed6-7eb0-4b40-9cab-35befa7b5675","attributes":{"tags":["apply_ranges"],"x":{"type":"field","field":"year"},"y":{"type":"field","field":"value"},"line_color":"#9467bd","line_alpha":0.1,"line_width":2}},"muted_glyph":{"type":"object","name":"Line","id":"5c6f7cdf-9941-40a3-b809-becc6e4856f4","attributes":{"tags":["apply_ranges"],"x":{"type":"field","field":"year"},"y":{"type":"field","field":"value"},"line_color":"#9467bd","line_alpha":0.2,"line_width":2}}}},{"type":"object","name":"GlyphRenderer","id":"74f0e2f5-e9bd-4729-adfd-264b7e60d64b","attributes":{"name":"\u79d1\u5b66\u7814\u7a76\u6280\u672f\u670d\u52a1","data_source":{"type":"object","name":"ColumnDataSource","id":"cb63dcb0-b123-4a95-ac52-c1eeba9abee2","attributes":{"selected":{"type":"object","name":"Selection","id":"d7ce8b67-1eda-4a9b-a748-bf2f452d9288","attributes":{"indices":[],"line_indices":[]}},"selection_policy":{"type":"object","name":"UnionRenderers","id":"1998fd75-bf2e-44f5-9d72-0b49fc385578"},"data":{"type":"map","entries":[["year",{"type":"ndarray","array":{"type":"bytes","data":"3AcAAN8HAADhBwAA"},"shape":[3],"dtype":"int32","order":"little"}],["value",{"type":"ndarray","array":{"type":"bytes","data":"9WbnTYjYiUGuV+y7vxqOQdQKyHSS451B"},"shape":[3],"dtype":"float64","order":"little"}],["Node",["\u79d1\u5b66\u7814\u7a76\u6280\u672f\u670d\u52a1","\u79d1\u5b66\u7814\u7a76\u6280\u672f\u670d\u52a1","\u79d1\u5b66\u7814\u7a76\u6280\u672f\u670d\u52a1"]]]}}},"view":{"type":"object","name":"CDSView","id":"84aa223b-7084-4150-a360-4f6066b64599","attributes":{"filter":{"type":"object","name":"AllIndices","id":"f252a136-9813-4fb6-aa28-310736dedb6f"}}},"glyph":{"type":"object","name":"Scatter","id":"3df86784-d65c-462a-ab69-588f1edbbf46","attributes":{"tags":["apply_ranges"],"x":{"type":"field","field":"year"},"y":{"type":"field","field":"value"},"size":{"type":"value","value":10},"line_color":{"type":"value","value":"#30a2da"},"fill_color":{"type":"value","value":"#30a2da"},"hatch_color":{"type":"value","value":"#30a2da"},"marker":{"type":"value","value":"triangle_pin"}}},"selection_glyph":{"type":"object","name":"Scatter","id":"29c9a529-6026-4933-89b6-e9c3bc6930dc","attributes":{"tags":["apply_ranges"],"x":{"type":"field","field":"year"},"y":{"type":"field","field":"value"},"size":{"type":"value","value":10},"angle":{"type":"value","value":0.0},"line_color":{"type":"value","value":"#30a2da"},"line_alpha":{"type":"value","value":1.0},"line_width":{"type":"value","value":1},"line_join":{"type":"value","value":"bevel"},"line_cap":{"type":"value","value":"butt"},"line_dash":{"type":"value","value":[]},"line_dash_offset":{"type":"value","value":0},"fill_color":{"type":"value","value":"#30a2da"},"fill_alpha":{"type":"value","value":1.0},"hatch_color":{"type":"value","value":"#30a2da"},"hatch_alpha":{"type":"value","value":1.0},"hatch_scale":{"type":"value","value":12.0},"hatch_pattern":{"type":"value","value":null},"hatch_weight":{"type":"value","value":1.0},"marker":{"type":"value","value":"triangle_pin"}}},"nonselection_glyph":{"type":"object","name":"Scatter","id":"3462e989-276c-47a3-a4c0-25b770af51a4","attributes":{"tags":["apply_ranges"],"x":{"type":"field","field":"year"},"y":{"type":"field","field":"value"},"size":{"type":"value","value":10},"line_color":{"type":"value","value":"#30a2da"},"line_alpha":{"type":"value","value":0.1},"fill_color":{"type":"value","value":"#30a2da"},"fill_alpha":{"type":"value","value":0.1},"hatch_color":{"type":"value","value":"#30a2da"},"hatch_alpha":{"type":"value","value":0.1},"marker":{"type":"value","value":"triangle_pin"}}},"muted_glyph":{"type":"object","name":"Scatter","id":"c6520eda-30e8-4b5b-bd81-272465f016d9","attributes":{"tags":["apply_ranges"],"x":{"type":"field","field":"year"},"y":{"type":"field","field":"value"},"size":{"type":"value","value":10},"line_color":{"type":"value","value":"#30a2da"},"line_alpha":{"type":"value","value":0.2},"fill_color":{"type":"value","value":"#30a2da"},"fill_alpha":{"type":"value","value":0.2},"hatch_color":{"type":"value","value":"#30a2da"},"hatch_alpha":{"type":"value","value":0.2},"marker":{"type":"value","value":"triangle_pin"}}}}},{"type":"object","name":"GlyphRenderer","id":"1e41c4a7-66fe-443e-bdb2-5e25c975effc","attributes":{"name":"\u91d1\u878d","data_source":{"type":"object","name":"ColumnDataSource","id":"383e115b-9f9f-4c9b-a0c5-65aa776763fb","attributes":{"selected":{"type":"object","name":"Selection","id":"6f5b77a7-feae-4bb5-82e1-e38cbbaafe73","attributes":{"indices":[],"line_indices":[]}},"selection_policy":{"type":"object","name":"UnionRenderers","id":"21d7f9ab-a6e2-4a02-8525-294dd899b2e8"},"data":{"type":"map","entries":[["year",{"type":"ndarray","array":{"type":"bytes","data":"3AcAAN8HAADhBwAA"},"shape":[3],"dtype":"int32","order":"little"}],["value",{"type":"ndarray","array":{"type":"bytes","data":"RqPEcP3qhEFOc/qZRAGPQbQHv07+I5NB"},"shape":[3],"dtype":"float64","order":"little"}],["Node",["\u91d1\u878d","\u91d1\u878d","\u91d1\u878d"]]]}}},"view":{"type":"object","name":"CDSView","id":"2a4c05d5-a7fe-4a85-beb5-af09f4bbfd5d","attributes":{"filter":{"type":"object","name":"AllIndices","id":"f33645c6-92e6-40d4-b106-cb7933076153"}}},"glyph":{"type":"object","name":"Scatter","id":"24b3b6bc-6588-49fd-a172-bd62c4d0ad3e","attributes":{"tags":["apply_ranges"],"x":{"type":"field","field":"year"},"y":{"type":"field","field":"value"},"size":{"type":"value","value":10},"line_color":{"type":"value","value":"#fc4f30"},"fill_color":{"type":"value","value":"#fc4f30"},"hatch_color":{"type":"value","value":"#fc4f30"},"marker":{"type":"value","value":"diamond"}}},"selection_glyph":{"type":"object","name":"Scatter","id":"275ee36c-6963-47e8-ba4a-3758d79922aa","attributes":{"tags":["apply_ranges"],"x":{"type":"field","field":"year"},"y":{"type":"field","field":"value"},"size":{"type":"value","value":10},"angle":{"type":"value","value":0.0},"line_color":{"type":"value","value":"#fc4f30"},"line_alpha":{"type":"value","value":1.0},"line_width":{"type":"value","value":1},"line_join":{"type":"value","value":"bevel"},"line_cap":{"type":"value","value":"butt"},"line_dash":{"type":"value","value":[]},"line_dash_offset":{"type":"value","value":0},"fill_color":{"type":"value","value":"#fc4f30"},"fill_alpha":{"type":"value","value":1.0},"hatch_color":{"type":"value","value":"#fc4f30"},"hatch_alpha":{"type":"value","value":1.0},"hatch_scale":{"type":"value","value":12.0},"hatch_pattern":{"type":"value","value":null},"hatch_weight":{"type":"value","value":1.0},"marker":{"type":"value","value":"diamond"}}},"nonselection_glyph":{"type":"object","name":"Scatter","id":"16da006e-008f-4d7a-af19-b38893213fc8","attributes":{"tags":["apply_ranges"],"x":{"type":"field","field":"year"},"y":{"type":"field","field":"value"},"size":{"type":"value","value":10},"line_color":{"type":"value","value":"#fc4f30"},"line_alpha":{"type":"value","value":0.1},"fill_color":{"type":"value","value":"#fc4f30"},"fill_alpha":{"type":"value","value":0.1},"hatch_color":{"type":"value","value":"#fc4f30"},"hatch_alpha":{"type":"value","value":0.1},"marker":{"type":"value","value":"diamond"}}},"muted_glyph":{"type":"object","name":"Scatter","id":"6074abcd-f309-458c-b3a8-24b2f879012d","attributes":{"tags":["apply_ranges"],"x":{"type":"field","field":"year"},"y":{"type":"field","field":"value"},"size":{"type":"value","value":10},"line_color":{"type":"value","value":"#fc4f30"},"line_alpha":{"type":"value","value":0.2},"fill_color":{"type":"value","value":"#fc4f30"},"fill_alpha":{"type":"value","value":0.2},"hatch_color":{"type":"value","value":"#fc4f30"},"hatch_alpha":{"type":"value","value":0.2},"marker":{"type":"value","value":"diamond"}}}}},{"type":"object","name":"GlyphRenderer","id":"2b0e907a-fb04-4a13-a416-0a6243bae573","attributes":{"name":"\u4fe1\u901a\u8f6f\u4ef6\u6280\u672f","data_source":{"type":"object","name":"ColumnDataSource","id":"24fb6c6d-7f39-40c3-b075-a9ca3a907944","attributes":{"selected":{"type":"object","name":"Selection","id":"58a98d37-2b72-48fd-92a5-05395887c5c9","attributes":{"indices":[],"line_indices":[]}},"selection_policy":{"type":"object","name":"UnionRenderers","id":"3d79254a-f6ef-417b-adc5-a74a1d0eb052"},"data":{"type":"map","entries":[["year",{"type":"ndarray","array":{"type":"bytes","data":"3AcAAN8HAADhBwAA"},"shape":[3],"dtype":"int32","order":"little"}],["value",{"type":"ndarray","array":{"type":"bytes","data":"82pCjqvMfkEl94I0nbyFQUygid4b3pVB"},"shape":[3],"dtype":"float64","order":"little"}],["Node",["\u4fe1\u901a\u8f6f\u4ef6\u6280\u672f","\u4fe1\u901a\u8f6f\u4ef6\u6280\u672f","\u4fe1\u901a\u8f6f\u4ef6\u6280\u672f"]]]}}},"view":{"type":"object","name":"CDSView","id":"556d68a7-f2a7-45ce-88ac-bdb72ca4d1b6","attributes":{"filter":{"type":"object","name":"AllIndices","id":"48e19cfc-6c9d-4aaf-8a5c-1948058a6114"}}},"glyph":{"type":"object","name":"Scatter","id":"a2f6da64-da2d-40a9-bf51-8a169ded6542","attributes":{"tags":["apply_ranges"],"x":{"type":"field","field":"year"},"y":{"type":"field","field":"value"},"size":{"type":"value","value":10},"line_color":{"type":"value","value":"#e5ae38"},"fill_color":{"type":"value","value":"#e5ae38"},"hatch_color":{"type":"value","value":"#e5ae38"},"marker":{"type":"value","value":"plus"}}},"selection_glyph":{"type":"object","name":"Scatter","id":"369fb205-0919-438a-86c6-408fca082deb","attributes":{"tags":["apply_ranges"],"x":{"type":"field","field":"year"},"y":{"type":"field","field":"value"},"size":{"type":"value","value":10},"angle":{"type":"value","value":0.0},"line_color":{"type":"value","value":"#e5ae38"},"line_alpha":{"type":"value","value":1.0},"line_width":{"type":"value","value":1},"line_join":{"type":"value","value":"bevel"},"line_cap":{"type":"value","value":"butt"},"line_dash":{"type":"value","value":[]},"line_dash_offset":{"type":"value","value":0},"fill_color":{"type":"value","value":"#e5ae38"},"fill_alpha":{"type":"value","value":1.0},"hatch_color":{"type":"value","value":"#e5ae38"},"hatch_alpha":{"type":"value","value":1.0},"hatch_scale":{"type":"value","value":12.0},"hatch_pattern":{"type":"value","value":null},"hatch_weight":{"type":"value","value":1.0},"marker":{"type":"value","value":"plus"}}},"nonselection_glyph":{"type":"object","name":"Scatter","id":"427d9836-4608-4f95-a28b-7c28166cab88","attributes":{"tags":["apply_ranges"],"x":{"type":"field","field":"year"},"y":{"type":"field","field":"value"},"size":{"type":"value","value":10},"line_color":{"type":"value","value":"#e5ae38"},"line_alpha":{"type":"value","value":0.1},"fill_color":{"type":"value","value":"#e5ae38"},"fill_alpha":{"type":"value","value":0.1},"hatch_color":{"type":"value","value":"#e5ae38"},"hatch_alpha":{"type":"value","value":0.1},"marker":{"type":"value","value":"plus"}}},"muted_glyph":{"type":"object","name":"Scatter","id":"c9a7cd35-cf22-4a21-8448-bc81e38c5fec","attributes":{"tags":["apply_ranges"],"x":{"type":"field","field":"year"},"y":{"type":"field","field":"value"},"size":{"type":"value","value":10},"line_color":{"type":"value","value":"#e5ae38"},"line_alpha":{"type":"value","value":0.2},"fill_color":{"type":"value","value":"#e5ae38"},"fill_alpha":{"type":"value","value":0.2},"hatch_color":{"type":"value","value":"#e5ae38"},"hatch_alpha":{"type":"value","value":0.2},"marker":{"type":"value","value":"plus"}}}}},{"type":"object","name":"GlyphRenderer","id":"90c5a016-4d6b-4d18-adb0-9c182d656f52","attributes":{"name":"\u5efa\u7b51","data_source":{"type":"object","name":"ColumnDataSource","id":"5751923c-3e47-420b-bebf-6c9f3b662ca5","attributes":{"selected":{"type":"object","name":"Selection","id":"5395d231-1a2c-4e72-b32f-41bdae6b6638","attributes":{"indices":[],"line_indices":[]}},"selection_policy":{"type":"object","name":"UnionRenderers","id":"94cc9be9-1fc2-4c4b-8924-7b747705d12c"},"data":{"type":"map","entries":[["year",{"type":"ndarray","array":{"type":"bytes","data":"3AcAAN8HAADhBwAA"},"shape":[3],"dtype":"int32","order":"little"}],["value",{"type":"ndarray","array":{"type":"bytes","data":"01fF2H44g0FYSBklonOKQX6EJ+Auh5BB"},"shape":[3],"dtype":"float64","order":"little"}],["Node",["\u5efa\u7b51","\u5efa\u7b51","\u5efa\u7b51"]]]}}},"view":{"type":"object","name":"CDSView","id":"8dc2979c-5b70-406f-b69a-488586fc66e0","attributes":{"filter":{"type":"object","name":"AllIndices","id":"78615e60-9fda-4b91-9b45-18baa80eb32a"}}},"glyph":{"type":"object","name":"Scatter","id":"a7051b04-1d76-44e9-81b9-b9bf9a154075","attributes":{"tags":["apply_ranges"],"x":{"type":"field","field":"year"},"y":{"type":"field","field":"value"},"size":{"type":"value","value":10},"line_color":{"type":"value","value":"#6d904f"},"fill_color":{"type":"value","value":"#6d904f"},"hatch_color":{"type":"value","value":"#6d904f"},"marker":{"type":"value","value":"star"}}},"selection_glyph":{"type":"object","name":"Scatter","id":"6a0fc7ba-9938-4cb3-aa97-c85ce8b3215a","attributes":{"tags":["apply_ranges"],"x":{"type":"field","field":"year"},"y":{"type":"field","field":"value"},"size":{"type":"value","value":10},"angle":{"type":"value","value":0.0},"line_color":{"type":"value","value":"#6d904f"},"line_alpha":{"type":"value","value":1.0},"line_width":{"type":"value","value":1},"line_join":{"type":"value","value":"bevel"},"line_cap":{"type":"value","value":"butt"},"line_dash":{"type":"value","value":[]},"line_dash_offset":{"type":"value","value":0},"fill_color":{"type":"value","value":"#6d904f"},"fill_alpha":{"type":"value","value":1.0},"hatch_color":{"type":"value","value":"#6d904f"},"hatch_alpha":{"type":"value","value":1.0},"hatch_scale":{"type":"value","value":12.0},"hatch_pattern":{"type":"value","value":null},"hatch_weight":{"type":"value","value":1.0},"marker":{"type":"value","value":"star"}}},"nonselection_glyph":{"type":"object","name":"Scatter","id":"2252aae0-5e48-49b1-96b1-b223f7049dad","attributes":{"tags":["apply_ranges"],"x":{"type":"field","field":"year"},"y":{"type":"field","field":"value"},"size":{"type":"value","value":10},"line_color":{"type":"value","value":"#6d904f"},"line_alpha":{"type":"value","value":0.1},"fill_color":{"type":"value","value":"#6d904f"},"fill_alpha":{"type":"value","value":0.1},"hatch_color":{"type":"value","value":"#6d904f"},"hatch_alpha":{"type":"value","value":0.1},"marker":{"type":"value","value":"star"}}},"muted_glyph":{"type":"object","name":"Scatter","id":"d727ee90-affb-4ed9-a378-3f73017bfa99","attributes":{"tags":["apply_ranges"],"x":{"type":"field","field":"year"},"y":{"type":"field","field":"value"},"size":{"type":"value","value":10},"line_color":{"type":"value","value":"#6d904f"},"line_alpha":{"type":"value","value":0.2},"fill_color":{"type":"value","value":"#6d904f"},"fill_alpha":{"type":"value","value":0.2},"hatch_color":{"type":"value","value":"#6d904f"},"hatch_alpha":{"type":"value","value":0.2},"marker":{"type":"value","value":"star"}}}}},{"type":"object","name":"GlyphRenderer","id":"409b2942-d09b-460a-a265-eb2234d1ab7a","attributes":{"name":"\u79df\u8d41\u5546\u52a1","data_source":{"type":"object","name":"ColumnDataSource","id":"9ce8f437-5078-4070-b809-21a3e81360c1","attributes":{"selected":{"type":"object","name":"Selection","id":"8b17dab8-8c93-4baa-86db-7880c406dc6b","attributes":{"indices":[],"line_indices":[]}},"selection_policy":{"type":"object","name":"UnionRenderers","id":"d46cacd8-ebf2-499b-88e3-20dace61fd67"},"data":{"type":"map","entries":[["year",{"type":"ndarray","array":{"type":"bytes","data":"3AcAAN8HAADhBwAA"},"shape":[3],"dtype":"int32","order":"little"}],["value",{"type":"ndarray","array":{"type":"bytes","data":"Wu5IprEveUGlGzLEsOiBQYWeyw4qnZFB"},"shape":[3],"dtype":"float64","order":"little"}],["Node",["\u79df\u8d41\u5546\u52a1","\u79df\u8d41\u5546\u52a1","\u79df\u8d41\u5546\u52a1"]]]}}},"view":{"type":"object","name":"CDSView","id":"4e0462bf-bc30-490a-81df-537fbe41cc77","attributes":{"filter":{"type":"object","name":"AllIndices","id":"3d53834c-716e-4ccb-a627-a41b457786ce"}}},"glyph":{"type":"object","name":"Scatter","id":"ae3ba1fa-c7d7-4cbb-94ee-44b5c24c3d26","attributes":{"tags":["apply_ranges"],"x":{"type":"field","field":"year"},"y":{"type":"field","field":"value"},"size":{"type":"value","value":10},"line_color":{"type":"value","value":"#8b8b8b"},"fill_color":{"type":"value","value":"#8b8b8b"},"hatch_color":{"type":"value","value":"#8b8b8b"},"marker":{"type":"value","value":"triangle_pin"}}},"selection_glyph":{"type":"object","name":"Scatter","id":"b8e5399c-48fa-4048-9e63-e7450bd7e8b0","attributes":{"tags":["apply_ranges"],"x":{"type":"field","field":"year"},"y":{"type":"field","field":"value"},"size":{"type":"value","value":10},"angle":{"type":"value","value":0.0},"line_color":{"type":"value","value":"#8b8b8b"},"line_alpha":{"type":"value","value":1.0},"line_width":{"type":"value","value":1},"line_join":{"type":"value","value":"bevel"},"line_cap":{"type":"value","value":"butt"},"line_dash":{"type":"value","value":[]},"line_dash_offset":{"type":"value","value":0},"fill_color":{"type":"value","value":"#8b8b8b"},"fill_alpha":{"type":"value","value":1.0},"hatch_color":{"type":"value","value":"#8b8b8b"},"hatch_alpha":{"type":"value","value":1.0},"hatch_scale":{"type":"value","value":12.0},"hatch_pattern":{"type":"value","value":null},"hatch_weight":{"type":"value","value":1.0},"marker":{"type":"value","value":"triangle_pin"}}},"nonselection_glyph":{"type":"object","name":"Scatter","id":"d27562dd-21ed-4c1a-96d0-cac396501dec","attributes":{"tags":["apply_ranges"],"x":{"type":"field","field":"year"},"y":{"type":"field","field":"value"},"size":{"type":"value","value":10},"line_color":{"type":"value","value":"#8b8b8b"},"line_alpha":{"type":"value","value":0.1},"fill_color":{"type":"value","value":"#8b8b8b"},"fill_alpha":{"type":"value","value":0.1},"hatch_color":{"type":"value","value":"#8b8b8b"},"hatch_alpha":{"type":"value","value":0.1},"marker":{"type":"value","value":"triangle_pin"}}},"muted_glyph":{"type":"object","name":"Scatter","id":"23af73dc-8fdd-4961-8a5a-10d3194de744","attributes":{"tags":["apply_ranges"],"x":{"type":"field","field":"year"},"y":{"type":"field","field":"value"},"size":{"type":"value","value":10},"line_color":{"type":"value","value":"#8b8b8b"},"line_alpha":{"type":"value","value":0.2},"fill_color":{"type":"value","value":"#8b8b8b"},"fill_alpha":{"type":"value","value":0.2},"hatch_color":{"type":"value","value":"#8b8b8b"},"hatch_alpha":{"type":"value","value":0.2},"marker":{"type":"value","value":"triangle_pin"}}}}},{"type":"object","name":"GlyphRenderer","id":"ff7bb4c9-d1d5-4bac-adcf-b684b0d0aeea","attributes":{"name":"\u6279\u53d1\u96f6\u552e","data_source":{"type":"object","name":"ColumnDataSource","id":"35cba22f-0978-4591-bd7c-3fb354b0e687","attributes":{"selected":{"type":"object","name":"Selection","id":"4048301b-2bd0-4a02-813a-8e9f01845054","attributes":{"indices":[],"line_indices":[]}},"selection_policy":{"type":"object","name":"UnionRenderers","id":"0cef948b-fc81-47c2-a18a-0501d09c5730"},"data":{"type":"map","entries":[["year",{"type":"ndarray","array":{"type":"bytes","data":"3AcAAN8HAADhBwAA"},"shape":[3],"dtype":"int32","order":"little"}],["value",{"type":"ndarray","array":{"type":"bytes","data":"bHsJ7UVlgUEGZXJAeGWEQVTBWj1upYdB"},"shape":[3],"dtype":"float64","order":"little"}],["Node",["\u6279\u53d1\u96f6\u552e","\u6279\u53d1\u96f6\u552e","\u6279\u53d1\u96f6\u552e"]]]}}},"view":{"type":"object","name":"CDSView","id":"de917c6b-7e49-46f1-86ef-62d4dd6ddc41","attributes":{"filter":{"type":"object","name":"AllIndices","id":"aef72c10-3cc2-4839-980d-72bd176ae63d"}}},"glyph":{"type":"object","name":"Scatter","id":"5ac94533-030b-4b1f-9269-c35764d01d73","attributes":{"tags":["apply_ranges"],"x":{"type":"field","field":"year"},"y":{"type":"field","field":"value"},"size":{"type":"value","value":10},"line_color":{"type":"value","value":"#17becf"},"fill_color":{"type":"value","value":"#17becf"},"hatch_color":{"type":"value","value":"#17becf"},"marker":{"type":"value","value":"diamond"}}},"selection_glyph":{"type":"object","name":"Scatter","id":"f455b842-160b-4933-99f1-280c071b3b81","attributes":{"tags":["apply_ranges"],"x":{"type":"field","field":"year"},"y":{"type":"field","field":"value"},"size":{"type":"value","value":10},"angle":{"type":"value","value":0.0},"line_color":{"type":"value","value":"#17becf"},"line_alpha":{"type":"value","value":1.0},"line_width":{"type":"value","value":1},"line_join":{"type":"value","value":"bevel"},"line_cap":{"type":"value","value":"butt"},"line_dash":{"type":"value","value":[]},"line_dash_offset":{"type":"value","value":0},"fill_color":{"type":"value","value":"#17becf"},"fill_alpha":{"type":"value","value":1.0},"hatch_color":{"type":"value","value":"#17becf"},"hatch_alpha":{"type":"value","value":1.0},"hatch_scale":{"type":"value","value":12.0},"hatch_pattern":{"type":"value","value":null},"hatch_weight":{"type":"value","value":1.0},"marker":{"type":"value","value":"diamond"}}},"nonselection_glyph":{"type":"object","name":"Scatter","id":"665c4f71-907c-4b75-a975-b4c5e639ba44","attributes":{"tags":["apply_ranges"],"x":{"type":"field","field":"year"},"y":{"type":"field","field":"value"},"size":{"type":"value","value":10},"line_color":{"type":"value","value":"#17becf"},"line_alpha":{"type":"value","value":0.1},"fill_color":{"type":"value","value":"#17becf"},"fill_alpha":{"type":"value","value":0.1},"hatch_color":{"type":"value","value":"#17becf"},"hatch_alpha":{"type":"value","value":0.1},"marker":{"type":"value","value":"diamond"}}},"muted_glyph":{"type":"object","name":"Scatter","id":"acd5c111-e1bd-4bc2-b3aa-43da075a4e8b","attributes":{"tags":["apply_ranges"],"x":{"type":"field","field":"year"},"y":{"type":"field","field":"value"},"size":{"type":"value","value":10},"line_color":{"type":"value","value":"#17becf"},"line_alpha":{"type":"value","value":0.2},"fill_color":{"type":"value","value":"#17becf"},"fill_alpha":{"type":"value","value":0.2},"hatch_color":{"type":"value","value":"#17becf"},"hatch_alpha":{"type":"value","value":0.2},"marker":{"type":"value","value":"diamond"}}}}},{"type":"object","name":"GlyphRenderer","id":"4934444c-3752-483f-9d88-98ec23ca0361","attributes":{"name":"\u4ea7\u4f9b\u7535\u70ed\u529b","data_source":{"type":"object","name":"ColumnDataSource","id":"0894c3f9-8a64-49df-9fb9-854afeb3ae9c","attributes":{"selected":{"type":"object","name":"Selection","id":"8d266c06-623e-478f-933a-faee137baa76","attributes":{"indices":[],"line_indices":[]}},"selection_policy":{"type":"object","name":"UnionRenderers","id":"27b4510d-cb54-4b09-b0a2-2989ad656796"},"data":{"type":"map","entries":[["year",{"type":"ndarray","array":{"type":"bytes","data":"3AcAAN8HAADhBwAA"},"shape":[3],"dtype":"int32","order":"little"}],["value",{"type":"ndarray","array":{"type":"bytes","data":"kuj/6inbe0FIJNsQ3nWDQW2jU5IUi4RB"},"shape":[3],"dtype":"float64","order":"little"}],["Node",["\u4ea7\u4f9b\u7535\u70ed\u529b","\u4ea7\u4f9b\u7535\u70ed\u529b","\u4ea7\u4f9b\u7535\u70ed\u529b"]]]}}},"view":{"type":"object","name":"CDSView","id":"cfd77155-fb0b-4ed8-8214-c4302f004cb9","attributes":{"filter":{"type":"object","name":"AllIndices","id":"f8143a5f-d519-4c53-9cad-432958ea18fb"}}},"glyph":{"type":"object","name":"Scatter","id":"f90e4ef5-d629-436b-800d-da01c6aef38f","attributes":{"tags":["apply_ranges"],"x":{"type":"field","field":"year"},"y":{"type":"field","field":"value"},"size":{"type":"value","value":10},"line_color":{"type":"value","value":"#9467bd"},"fill_color":{"type":"value","value":"#9467bd"},"hatch_color":{"type":"value","value":"#9467bd"},"marker":{"type":"value","value":"plus"}}},"selection_glyph":{"type":"object","name":"Scatter","id":"7d6b0661-6bf7-4d08-a27f-a379160d72a3","attributes":{"tags":["apply_ranges"],"x":{"type":"field","field":"year"},"y":{"type":"field","field":"value"},"size":{"type":"value","value":10},"angle":{"type":"value","value":0.0},"line_color":{"type":"value","value":"#9467bd"},"line_alpha":{"type":"value","value":1.0},"line_width":{"type":"value","value":1},"line_join":{"type":"value","value":"bevel"},"line_cap":{"type":"value","value":"butt"},"line_dash":{"type":"value","value":[]},"line_dash_offset":{"type":"value","value":0},"fill_color":{"type":"value","value":"#9467bd"},"fill_alpha":{"type":"value","value":1.0},"hatch_color":{"type":"value","value":"#9467bd"},"hatch_alpha":{"type":"value","value":1.0},"hatch_scale":{"type":"value","value":12.0},"hatch_pattern":{"type":"value","value":null},"hatch_weight":{"type":"value","value":1.0},"marker":{"type":"value","value":"plus"}}},"nonselection_glyph":{"type":"object","name":"Scatter","id":"0e8d3ba5-731f-4569-88a0-e99e41407e81","attributes":{"tags":["apply_ranges"],"x":{"type":"field","field":"year"},"y":{"type":"field","field":"value"},"size":{"type":"value","value":10},"line_color":{"type":"value","value":"#9467bd"},"line_alpha":{"type":"value","value":0.1},"fill_color":{"type":"value","value":"#9467bd"},"fill_alpha":{"type":"value","value":0.1},"hatch_color":{"type":"value","value":"#9467bd"},"hatch_alpha":{"type":"value","value":0.1},"marker":{"type":"value","value":"plus"}}},"muted_glyph":{"type":"object","name":"Scatter","id":"061cb730-d6f3-45da-bc19-3a94fbca5189","attributes":{"tags":["apply_ranges"],"x":{"type":"field","field":"year"},"y":{"type":"field","field":"value"},"size":{"type":"value","value":10},"line_color":{"type":"value","value":"#9467bd"},"line_alpha":{"type":"value","value":0.2},"fill_color":{"type":"value","value":"#9467bd"},"fill_alpha":{"type":"value","value":0.2},"hatch_color":{"type":"value","value":"#9467bd"},"hatch_alpha":{"type":"value","value":0.2},"marker":{"type":"value","value":"plus"}}}}}],"toolbar":{"type":"object","name":"Toolbar","id":"c5d4a96f-81d3-4d5a-ac1d-f8c28b94f2a9","attributes":{"tools":[{"type":"object","name":"WheelZoomTool","id":"678596b4-61c3-4be3-9327-c68ec85ee8dd","attributes":{"tags":["hv_created"],"renderers":"auto","zoom_together":"none"}},{"type":"object","name":"HoverTool","id":"e1244334-63fd-44cb-a3a7-57eaf37cd5dd","attributes":{"tags":["hv_created"],"renderers":[{"id":"9fd6eb29-f4ff-4aeb-abf4-9de25d472a55"},{"id":"ec0c4ebe-5409-4a2e-9a2a-77cbc629c94d"},{"id":"5938b1d8-268d-4c47-bc95-f00f5bd0c93f"},{"id":"d250eb6c-73d3-4bc7-8e8f-4a87e4360878"},{"id":"a0beabb7-b139-4004-99bf-944ead5c0276"},{"id":"dc0301a6-97ab-468f-8837-da2c25936b58"},{"id":"df010ed9-2c20-4e78-8de8-2894bdc0bd82"}],"tooltips":[["year","@{year}"],["value","@{value}"]]}},{"type":"object","name":"HoverTool","id":"2a2eac9a-8b57-4590-9b93-ec786ceb6ae7","attributes":{"tags":["hv_created"],"renderers":[{"id":"74f0e2f5-e9bd-4729-adfd-264b7e60d64b"},{"id":"1e41c4a7-66fe-443e-bdb2-5e25c975effc"},{"id":"2b0e907a-fb04-4a13-a416-0a6243bae573"},{"id":"90c5a016-4d6b-4d18-adb0-9c182d656f52"},{"id":"409b2942-d09b-460a-a265-eb2234d1ab7a"},{"id":"ff7bb4c9-d1d5-4bac-adcf-b684b0d0aeea"},{"id":"4934444c-3752-483f-9d88-98ec23ca0361"}],"tooltips":[["year","@{year}"],["value","@{value}"],["Node","@{Node}"]]}},{"type":"object","name":"SaveTool","id":"e6319668-0751-4572-b1e4-40e1d62f117b"},{"type":"object","name":"PanTool","id":"2af7969b-b818-436c-9390-57b54e5798c0"},{"type":"object","name":"BoxZoomTool","id":"ec1ceb44-46aa-4d1f-b6d9-56e63db65ba6","attributes":{"overlay":{"type":"object","name":"BoxAnnotation","id":"2d361495-a6ec-4097-9a0f-63dcba3c0768","attributes":{"syncable":false,"level":"overlay","visible":false,"left":{"type":"number","value":"nan"},"right":{"type":"number","value":"nan"},"top":{"type":"number","value":"nan"},"bottom":{"type":"number","value":"nan"},"left_units":"canvas","right_units":"canvas","top_units":"canvas","bottom_units":"canvas","line_color":"black","line_alpha":1.0,"line_width":2,"line_dash":[4,4],"fill_color":"lightgrey","fill_alpha":0.5}}}},{"type":"object","name":"ResetTool","id":"19ff57c0-582d-4b76-bc67-f9d7db9d7c8a"}],"active_drag":{"id":"2af7969b-b818-436c-9390-57b54e5798c0"},"active_scroll":{"id":"678596b4-61c3-4be3-9327-c68ec85ee8dd"}}},"left":[{"type":"object","name":"LinearAxis","id":"821c9d67-cf35-4f3c-a986-23847bc34d4d","attributes":{"ticker":{"type":"object","name":"BasicTicker","id":"9081c278-d59a-459e-b97d-7cce4d64ca7e","attributes":{"mantissas":[1,2,5]}},"formatter":{"type":"object","name":"BasicTickFormatter","id":"d1341c11-5c21-44f9-a18d-6a85d331047e"},"axis_label":"","axis_label_standoff":10,"axis_label_text_color":"#e5e5e5","axis_label_text_font":"Open Sans, sans-serif","axis_label_text_font_size":"16pt","axis_label_text_font_style":"normal","major_label_policy":{"type":"object","name":"AllLabels","id":"3a1a1008-c0e7-4364-ad8e-a17dbc64d454"},"major_label_text_color":"#e5e5e5","major_label_text_font":"Open Sans, sans-serif","major_label_text_font_size":"1.025em","axis_line_color":"#e5e5e5","axis_line_alpha":0.1,"major_tick_line_color":"#e5e5e5","major_tick_line_alpha":0.5,"minor_tick_line_color":"#e5e5e5","minor_tick_line_alpha":0.25}}],"right":[{"type":"object","name":"Legend","id":"8fecc0bb-195e-4f9e-9fc3-5a35a30c0982","attributes":{"location":[0,0],"ncols":1,"title_text_font_size":"16pt","border_line_color":"#717171","border_line_alpha":0.5,"background_fill_color":null,"background_fill_alpha":0.25,"click_policy":"mute","label_text_color":"#e5e5e5","label_text_font":"Open Sans, sans-serif","label_text_font_size":"16pt","label_standoff":8,"glyph_width":15,"spacing":8,"items":[{"type":"object","name":"LegendItem","id":"65450b80-59f2-42e6-a9fe-edffcbe88725","attributes":{"label":{"type":"value","value":"\u79d1\u5b66\u7814\u7a76\u6280\u672f\u670d\u52a1"},"renderers":[{"id":"9fd6eb29-f4ff-4aeb-abf4-9de25d472a55"},{"id":"74f0e2f5-e9bd-4729-adfd-264b7e60d64b"}]}},{"type":"object","name":"LegendItem","id":"5a53b9cc-002e-4de5-8d5c-09c250677cd0","attributes":{"label":{"type":"value","value":"\u91d1\u878d"},"renderers":[{"id":"ec0c4ebe-5409-4a2e-9a2a-77cbc629c94d"},{"id":"1e41c4a7-66fe-443e-bdb2-5e25c975effc"}]}},{"type":"object","name":"LegendItem","id":"f44b8f14-3b50-4b48-85d8-4a22662fede9","attributes":{"label":{"type":"value","value":"\u4fe1\u901a\u8f6f\u4ef6\u6280\u672f"},"renderers":[{"id":"5938b1d8-268d-4c47-bc95-f00f5bd0c93f"},{"id":"2b0e907a-fb04-4a13-a416-0a6243bae573"}]}},{"type":"object","name":"LegendItem","id":"59be3af4-7381-46da-9f20-99a7e24a7c09","attributes":{"label":{"type":"value","value":"\u5efa\u7b51"},"renderers":[{"id":"d250eb6c-73d3-4bc7-8e8f-4a87e4360878"},{"id":"90c5a016-4d6b-4d18-adb0-9c182d656f52"}]}},{"type":"object","name":"LegendItem","id":"5153e30d-411b-479a-999b-44aed8d8d113","attributes":{"label":{"type":"value","value":"\u79df\u8d41\u5546\u52a1"},"renderers":[{"id":"a0beabb7-b139-4004-99bf-944ead5c0276"},{"id":"409b2942-d09b-460a-a265-eb2234d1ab7a"}]}},{"type":"object","name":"LegendItem","id":"879e7e00-014e-4e66-ada5-1e77598e970b","attributes":{"label":{"type":"value","value":"\u6279\u53d1\u96f6\u552e"},"renderers":[{"id":"dc0301a6-97ab-468f-8837-da2c25936b58"},{"id":"ff7bb4c9-d1d5-4bac-adcf-b684b0d0aeea"}]}},{"type":"object","name":"LegendItem","id":"da27dea2-7ff9-4f85-b9a7-6359870c61a8","attributes":{"label":{"type":"value","value":"\u4ea7\u4f9b\u7535\u70ed\u529b"},"renderers":[{"id":"df010ed9-2c20-4e78-8de8-2894bdc0bd82"},{"id":"4934444c-3752-483f-9d88-98ec23ca0361"}]}}]}}],"below":[{"type":"object","name":"LinearAxis","id":"835ee48d-dfda-4a75-a627-f7bcfca104a3","attributes":{"ticker":{"type":"object","name":"BasicTicker","id":"0ded23cb-02ee-4823-9217-95f883208c9b","attributes":{"mantissas":[1,2,5]}},"formatter":{"type":"object","name":"BasicTickFormatter","id":"7c22791a-d702-45ce-8708-cad2b9d313d7"},"axis_label":"\u5e74","axis_label_standoff":10,"axis_label_text_color":"#e5e5e5","axis_label_text_font":"Open Sans, sans-serif","axis_label_text_font_size":"16pt","axis_label_text_font_style":"normal","major_label_policy":{"type":"object","name":"AllLabels","id":"b3912d3c-f9a8-48b7-91af-c5d2d3d6a5d0"},"major_label_text_color":"#e5e5e5","major_label_text_font":"Open Sans, sans-serif","major_label_text_font_size":"1.025em","axis_line_color":"#e5e5e5","axis_line_alpha":0.1,"major_tick_line_color":"#e5e5e5","major_tick_line_alpha":0.5,"minor_tick_line_color":"#e5e5e5","minor_tick_line_alpha":0.25}}],"center":[{"type":"object","name":"Grid","id":"3de653b4-4b94-40d4-ba0b-3576045dab18","attributes":{"axis":{"id":"835ee48d-dfda-4a75-a627-f7bcfca104a3"},"grid_line_color":null,"grid_line_alpha":0.25}},{"type":"object","name":"Grid","id":"563211a6-836f-4907-b1f5-7c1eceb7efe0","attributes":{"dimension":1,"axis":{"id":"821c9d67-cf35-4f3c-a986-23847bc34d4d"},"grid_line_color":null,"grid_line_alpha":0.25}}],"background_fill_color":"#181818","border_fill_color":"#212121","border_fill_alpha":0,"min_border_top":10,"min_border_bottom":10,"min_border_left":10,"min_border_right":10,"output_backend":"webgl"}}]}}]}}]}}]}}]]]},"data":{"type":"object","name":"FastWrapper1","id":"69c9bc56-97e6-4a1f-b315-672844d26943","attributes":{"name":"FastWrapper02971","style":{"type":"object","name":"FastStyle00918","id":"91168b3f-902c-4c60-bba3-d9e40883a1cd","attributes":{"name":"FastStyle00918","tags":["__ref:9355bf0d-4460-4a32-8654-f169f5ea1b14"],"background_color":"#181818","color":"#ffffff","neutral_fill_card_rest":"#212121","neutral_focus":"#717171","neutral_foreground_rest":"#e5e5e5","shadow":false,"luminance":0.1}}}},"html":"&lt;div id=&quot;fast-wrapper-${id}&quot; class=&quot;fast-wrapper&quot;&gt;&lt;/div&gt;","nodes":["fast-wrapper"],"scripts":{"type":"map","entries":[["render",["let accent, bg, luminance\nif (window._JUPYTERLAB) {\n  accent = getComputedStyle(document.body).getPropertyValue(&#x27;--jp-brand-color0&#x27;).trim();\n  bg = getComputedStyle(document.body).getPropertyValue(&#x27;--jp-layout-color0&#x27;).trim();\n  let color = getComputedStyle(document.body).getPropertyValue(&#x27;--jp-ui-font-color0&#x27;).trim();\n  luminance = color == &#x27;rgba(255, 255, 255, 1)&#x27; ? 0.23 : 1.0;\n} else {\n  accent = data.style.accent_base_color;\n  bg = data.style.background_color;\n  luminance = data.style.luminance;\n}\nbg = bg === &#x27;white&#x27; ? &#x27;#ffffff&#x27; : bg;\nbg = bg === &#x27;black&#x27; ? &#x27;#000000&#x27; : bg;\nstate.design = design = new window.fastDesignProvider(view.el)\ndesign.setLuminance(luminance);\ndesign.setNeutralColor(data.style.neutral_color);\ndesign.setAccentColor(accent);\ndesign.setBackgroundColor(bg);\ndesign.setCornerRadius(data.style.corner_radius);"]]]}}},{"type":"object","name":"panel.models.comm_manager.CommManager","id":"0df56966-0f0d-4fad-a609-bc1f4e0a0dfd","attributes":{"plot_id":"9355bf0d-4460-4a32-8654-f169f5ea1b14","comm_id":"5cacc7f3faaa4588ac5bba43e37975ed","client_comm_id":"daf1d62af38b48c694a3fa9ed5d7e07a"}}],"defs":[{"type":"model","name":"ReactiveHTML1"},{"type":"model","name":"FlexBox1","properties":[{"name":"align_content","kind":"Any","default":"flex-start"},{"name":"align_items","kind":"Any","default":"flex-start"},{"name":"flex_direction","kind":"Any","default":"row"},{"name":"flex_wrap","kind":"Any","default":"wrap"},{"name":"gap","kind":"Any","default":""},{"name":"justify_content","kind":"Any","default":"flex-start"}]},{"type":"model","name":"FloatPanel1","properties":[{"name":"config","kind":"Any","default":{"type":"map"}},{"name":"contained","kind":"Any","default":true},{"name":"position","kind":"Any","default":"right-top"},{"name":"offsetx","kind":"Any","default":null},{"name":"offsety","kind":"Any","default":null},{"name":"theme","kind":"Any","default":"primary"},{"name":"status","kind":"Any","default":"normalized"}]},{"type":"model","name":"GridStack1","properties":[{"name":"mode","kind":"Any","default":"warn"},{"name":"ncols","kind":"Any","default":null},{"name":"nrows","kind":"Any","default":null},{"name":"allow_resize","kind":"Any","default":true},{"name":"allow_drag","kind":"Any","default":true},{"name":"state","kind":"Any","default":[]}]},{"type":"model","name":"drag1","properties":[{"name":"slider_width","kind":"Any","default":5},{"name":"slider_color","kind":"Any","default":"black"},{"name":"value","kind":"Any","default":50}]},{"type":"model","name":"click1","properties":[{"name":"terminal_output","kind":"Any","default":""},{"name":"debug_name","kind":"Any","default":""},{"name":"clears","kind":"Any","default":0}]},{"type":"model","name":"FastWrapper1","properties":[{"name":"object","kind":"Any","default":null},{"name":"style","kind":"Any","default":null}]},{"type":"model","name":"NotificationAreaBase1","properties":[{"name":"js_events","kind":"Any","default":{"type":"map"}},{"name":"position","kind":"Any","default":"bottom-right"},{"name":"_clear","kind":"Any","default":0}]},{"type":"model","name":"NotificationArea1","properties":[{"name":"js_events","kind":"Any","default":{"type":"map"}},{"name":"notifications","kind":"Any","default":[]},{"name":"position","kind":"Any","default":"bottom-right"},{"name":"_clear","kind":"Any","default":0},{"name":"types","kind":"Any","default":[{"type":"map","entries":[["type","warning"],["background","#ffc107"],["icon",{"type":"map","entries":[["className","fas fa-exclamation-triangle"],["tagName","i"],["color","white"]]}]]},{"type":"map","entries":[["type","info"],["background","#007bff"],["icon",{"type":"map","entries":[["className","fas fa-info-circle"],["tagName","i"],["color","white"]]}]]}]}]},{"type":"model","name":"Notification","properties":[{"name":"background","kind":"Any","default":null},{"name":"duration","kind":"Any","default":3000},{"name":"icon","kind":"Any","default":null},{"name":"message","kind":"Any","default":""},{"name":"notification_type","kind":"Any","default":null},{"name":"_destroyed","kind":"Any","default":false}]},{"type":"model","name":"TemplateActions1","properties":[{"name":"open_modal","kind":"Any","default":0},{"name":"close_modal","kind":"Any","default":0}]},{"type":"model","name":"BootstrapTemplateActions1","properties":[{"name":"open_modal","kind":"Any","default":0},{"name":"close_modal","kind":"Any","default":0}]},{"type":"model","name":"TemplateEditor1","properties":[{"name":"layout","kind":"Any","default":[]}]},{"type":"model","name":"MaterialTemplateActions1","properties":[{"name":"open_modal","kind":"Any","default":0},{"name":"close_modal","kind":"Any","default":0}]},{"type":"model","name":"copy_to_clipboard1","properties":[{"name":"fill","kind":"Any","default":"none"},{"name":"value","kind":"Any","default":null}]},{"type":"model","name":"FastStyle00918","properties":[{"name":"background_color","kind":"Any","default":"#ffffff"},{"name":"neutral_color","kind":"Any","default":"#000000"},{"name":"accent_base_color","kind":"Any","default":"#0072B5"},{"name":"collapsed_icon","kind":"Any","default":"\n<svg style=\"stroke: var(--accent-fill-rest);\" width=\"18\" height=\"18\" viewBox=\"0 0 18 18\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" slot=\"collapsed-icon\">\n  <path d=\"M15.2222 1H2.77778C1.79594 1 1 1.79594 1 2.77778V15.2222C1 16.2041 1.79594 17 2.77778 17H15.2222C16.2041 17 17 16.2041 17 15.2222V2.77778C17 1.79594 16.2041 1 15.2222 1Z\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n  <path d=\"M9 5.44446V12.5556\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n  <path d=\"M5.44446 9H12.5556\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n</svg>\n"},{"name":"expanded_icon","kind":"Any","default":"\n<svg style=\"stroke: var(--accent-fill-rest);\" width=\"18\" height=\"18\" viewBox=\"0 0 18 18\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" slot=\"expanded-icon\">\n  <path d=\"M15.2222 1H2.77778C1.79594 1 1 1.79594 1 2.77778V15.2222C1 16.2041 1.79594 17 2.77778 17H15.2222C16.2041 17 17 16.2041 17 15.2222V2.77778C17 1.79594 16.2041 1 15.2222 1Z\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n  <path d=\"M5.44446 9H12.5556\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n</svg>\n"},{"name":"color","kind":"Any","default":"#2B2B2B"},{"name":"neutral_fill_card_rest","kind":"Any","default":"#F7F7F7"},{"name":"neutral_focus","kind":"Any","default":"#888888"},{"name":"neutral_foreground_rest","kind":"Any","default":"#2B2B2B"},{"name":"header_luminance","kind":"Any","default":0.23},{"name":"header_background","kind":"Any","default":"#0072B5"},{"name":"header_neutral_color","kind":"Any","default":"#0072B5"},{"name":"header_accent_base_color","kind":"Any","default":"#ffffff"},{"name":"header_color","kind":"Any","default":"#ffffff"},{"name":"font","kind":"Any","default":"Open Sans, sans-serif"},{"name":"font_url","kind":"Any","default":"//fonts.googleapis.com/css?family=Open+Sans"},{"name":"corner_radius","kind":"Any","default":3},{"name":"shadow","kind":"Any","default":true},{"name":"luminance","kind":"Any","default":1.0}]}]}};
+  var render_items = [{"docid":"84a0a2ba-50b0-4175-aa2c-e097722965df","roots":{"9355bf0d-4460-4a32-8654-f169f5ea1b14":"bf361780-945e-4bef-9621-d549931d2286"},"root_ids":["9355bf0d-4460-4a32-8654-f169f5ea1b14"]}];
+  var docs = Object.values(docs_json)
+  if (!docs) {
+    return
+  }
+  const py_version = docs[0].version.replace('rc', '-rc.').replace('.dev', '-dev.')
+  function embed_document(root) {
+    var Bokeh = get_bokeh(root)
+    Bokeh.embed.embed_items_notebook(docs_json, render_items);
+    for (const render_item of render_items) {
+      for (const root_id of render_item.root_ids) {
+	const id_el = document.getElementById(root_id)
+	if (id_el.children.length && (id_el.children[0].className === 'bk-root')) {
+	  const root_el = id_el.children[0]
+	  root_el.id = root_el.id + '-rendered'
+	}
+      }
+    }
+  }
+  function get_bokeh(root) {
+    if (root.Bokeh === undefined) {
+      return null
+    } else if (root.Bokeh.version !== py_version) {
+      if (root.Bokeh.versions === undefined || !root.Bokeh.versions.has(py_version)) {
+	return null
+      }
+      return root.Bokeh.versions.get(py_version);
+    } else if (root.Bokeh.version === py_version) {
+      return root.Bokeh
+    }
+    return null
+  }
+  function is_loaded(root) {
+    var Bokeh = get_bokeh(root)
+    return (Bokeh != null && Bokeh.Panel !== undefined && ( root.Tabulator !== undefined) && ( root.Tabulator !== undefined) && ( root.echarts !== undefined) && ( root.echarts !== undefined) && ( root.Tabulator !== undefined) && ( root.echarts !== undefined))
+  }
+  if (is_loaded(root)) {
+    embed_document(root);
+  } else {
+    var attempts = 0;
+    var timer = setInterval(function(root) {
+      if (is_loaded(root)) {
+        clearInterval(timer);
+        embed_document(root);
+      } else if (document.readyState == "complete") {
+        attempts++;
+        if (attempts > 200) {
+          clearInterval(timer);
+	  var Bokeh = get_bokeh(root)
+	  if (Bokeh == null || Bokeh.Panel == null) {
+            console.warn("Panel: ERROR: Unable to run Panel code because Bokeh or Panel library is missing");
+	  } else {
+	    console.warn("Panel: WARNING: Attempting to render but not all required libraries could be resolved.")
+	    embed_document(root)
+	  }
+        }
+      }
+    }, 25, root)
+  }
+})(window);</script></div></div>
+</div>
+</section>
+<section id="id3">
+<h2><span class="section-number">3.4.2. </span>📜 <code class="docutils literal notranslate"><span class="pre">任选</span></code> 指标<a class="headerlink" href="#id3" title="Permalink to this heading">#</a></h2>
+<p>用户在此可以从<code class="docutils literal notranslate"><span class="pre">16（原数据共</span> <span class="pre">30）指标</span></code>（含进口出口等）中，任选进行探究比较。</p>
+</section>
+<section id="id4">
+<h2><span class="section-number">3.4.3. </span>❓要降多少？主要指标<code class="docutils literal notranslate"><span class="pre">碳排強度</span></code><a class="headerlink" href="#id4" title="Permalink to this heading">#</a></h2>
+<p>主要指标如　<code class="docutils literal notranslate"><span class="pre">碳排強度</span></code> 及 <code class="docutils literal notranslate"><span class="pre">二氧化碳排放</span></code> 要降多少？</p>
+<p>PwC 及 澳恪森研究均指出，世界碳排强度需<code class="docutils literal notranslate"><span class="pre">年均减少17-19%</span></code>，才能达《巴黎协定》1.5℃目标。</p>
+<p>中国2024年<a class="reference external" href="https://www.gov.cn/zhengce/202405/content_6954583.htm">《2024—2025年节能降碳行动方案》</a>要求碳排强度（经济） <code class="docutils literal notranslate"><span class="pre">年减3.9%</span></code>。</p>
+<p>此表交互可以选定指标间的比较。</p>
+<div class="important admonition">
+<p class="admonition-title"><code class="docutils literal notranslate"><span class="pre">二氧化碳排放</span></code> 指标要降多少？</p>
+<ul class="simple">
+<li><p>中国2024年已下指标要<code class="docutils literal notranslate"><span class="pre">年减3.9%</span></code>左右（<code class="docutils literal notranslate"><span class="pre">单位国内生产总值二氧化碳排放</span></code>，可视为<code class="docutils literal notranslate"><span class="pre">经济年脱碳率</span></code> 或 <code class="docutils literal notranslate"><span class="pre">经济碳排强度年減率</span></code>）。见<a class="reference external" href="https://www.gov.cn/zhengce/202405/content_6954583.htm">《2024—2025年节能降碳行动方案》</a>。</p></li>
+<li><p>PwC指出，世界碳排强度需<code class="docutils literal notranslate"><span class="pre">年均减少17.2%</span></code>，才能达《巴黎协定》1.5℃目标。见<a class="reference external" href="https://www.pwc.tw/zh/news/press-release/press-20231011.html">《2023淨零排放經濟指數報告》（Net Zero Economy Index 2023）</a>。</p></li>
+<li><p>澳恪森研究发现，世界碳排强度需 <code class="docutils literal notranslate"><span class="pre">年均减少19%</span></code> ，才能达1.5℃目标。见<a class="reference external" href="https://oxon8.netlify.app/visualization/prj-visnetzero/index.zh">VisNetZero成果</a>）。包括中国的新兴七国，2030年前<code class="docutils literal notranslate"><span class="pre">需加4倍努力</span></code>，<a class="reference external" href="https://oxon8.netlify.app/visualization/prj-visnetzero/netzero.co2pg.e7.zh">达到年减9.8-10.3% 的脱碳率</a>，才能达1.5℃目标。近年中国脱碳率表现最好的年份及数据分别为 -7.773%（2015年）、 -7.334%（2016年）、 -6.822%（1980年）、 -6.495%（2014年）、等。最近2021年亦达-4.180%。中国2024年方案指标相比之下并不严苛。</p></li>
+</ul>
+</div>
+</section>
+<section id="i">
+<h2><span class="section-number">3.4.4. </span>ℹ️此表的交互功能<a class="headerlink" href="#i" title="Permalink to this heading">#</a></h2>
+<section id="id5">
+<h3><span class="section-number">3.4.4.1. </span>选择器：地区 及 指标<a class="headerlink" href="#id5" title="Permalink to this heading">#</a></h3>
+<p>此处列出 指标 <code class="docutils literal notranslate"><span class="pre">任选</span></code> 选择器，并允许用户选择 <code class="docutils literal notranslate"><span class="pre">地区</span></code>，比较<code class="docutils literal notranslate"><span class="pre">前7名</span></code>的相关行业指标历史走势。</p>
+</section>
+<section id="id6">
+<h3><span class="section-number">3.4.4.2. </span>图说文字：高亮 设置/取消<a class="headerlink" href="#id6" title="Permalink to this heading">#</a></h3>
+<div class="tip admonition">
+<p class="admonition-title">行业指标历史走势交互小贴士</p>
+<p>可点选图说文字， <code class="docutils literal notranslate"><span class="pre">设置/取消</span></code> 走势高亮。</p>
+</div>
+</section>
+</section>
+<section id="ceads">
+<h2><span class="section-number">3.4.5. </span>🎯CEADs 指标信息 （含延伸指标）<a class="headerlink" href="#ceads" title="Permalink to this heading">#</a></h2>
+<div class="tip admonition">
+<p class="admonition-title">CEADs 指标信息 （含延伸指标）</p>
+<p>此处含进口出口等计有 <code class="docutils literal notranslate"><span class="pre">16（原数据共</span> <span class="pre">30）指标</span></code>，并列出投入 <code class="docutils literal notranslate"><span class="pre">百分位排名</span></code>、<code class="docutils literal notranslate"><span class="pre">百分比</span></code>、<code class="docutils literal notranslate"><span class="pre">排名</span></code>、<code class="docutils literal notranslate"><span class="pre">值</span></code> 等基本统计及信息。。</p>
+</div>
+</section>
+<section id="id7">
+<h2><span class="section-number">3.4.6. </span>🎁客制化<a class="headerlink" href="#id7" title="Permalink to this heading">#</a></h2>
+<p>此处可视化限于网络及数据资源，限制在前7产业投入产出关系。</p>
+<p>实际情况可选定行业及地区做客制化分析。若有额外客制化需求，请洽<a class="reference external" href="mailto:h&#46;liao&#37;&#52;&#48;ieee&#46;org?subject=%E5%AE%A2%E5%88%B6%E5%8C%96VisCEADs">📧澳恪森</a>。</p>
+</section>
+</section>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            name: "python3",
+            path: "./features"
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+                </article>
+              
+
+              
+              
+              
+              
+                <footer class="prev-next-footer d-print-none">
+                  
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="app_features_additional_02.html"
+       title="前一页">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">往前</p>
+        <p class="prev-next-title"><span class="section-number">3.2. </span>💹分页2投入产出表</p>
+      </div>
+    </a>
+    <a class="right-next"
+       href="app_features_additional_04.html"
+       title="下一页">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">往下</p>
+        <p class="prev-next-title"><span class="section-number">3.5. </span>🔀分页4桑基图</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> 目录
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id2">3.4.1. 示意展示图</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id3">3.4.2. 📜 <code class="docutils literal notranslate"><span class="pre">任选</span></code> 指标</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id4">3.4.3. ❓要降多少？主要指标<code class="docutils literal notranslate"><span class="pre">碳排強度</span></code></a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#i">3.4.4. ℹ️此表的交互功能</a><ul class="visible nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id5">3.4.4.1. 选择器：地区 及 指标</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id6">3.4.4.2. 图说文字：高亮 设置/取消</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#ceads">3.4.5. 🎯CEADs 指标信息 （含延伸指标）</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id7">3.4.6. 🎁客制化</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+<div class="bd-footer-content__inner container">
+  
+  <div class="footer-item">
+    
+<p class="component-author">
+作者： Han-Teng Liao (廖汉腾)
+</p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+
+  <p class="copyright">
+    
+      © Copyright 著作权所有 2024.
+      <br/>
+    
+  </p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+</div>
+          </footer>
+        
+
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="../_static/scripts/bootstrap.js?digest=3ee479438cf8b5e0d341"></script>
+<script src="../_static/scripts/pydata-sphinx-theme.js?digest=3ee479438cf8b5e0d341"></script>
+
+  <footer class="bd-footer">
+  </footer>
+  </body>
+</html>
