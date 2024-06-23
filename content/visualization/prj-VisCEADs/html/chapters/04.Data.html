@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 
 
-<html lang="zh" data-content_root="" >
+<html lang="zh" data-content_root="" data-theme="dark">
 
   <head>
     <meta charset="utf-8" />
@@ -14,8 +14,8 @@
   
   
   <script data-cfasync="false">
-    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
-    document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "dark";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "dark";
   </script>
   
   <!-- Loaded before other Sphinx assets -->
@@ -75,13 +75,13 @@
     <link rel="index" title="索引" href="../genindex.html" />
     <link rel="search" title="搜索" href="../search.html" />
     <link rel="next" title="5. 🧭发展路线" href="05.Roadmapping.html" />
-    <link rel="prev" title="3.4. 分页4桑基图" href="../features/app_features_additional_04.html" />
+    <link rel="prev" title="3.4. 🔀分页4桑基图" href="../features/app_features_additional_04.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="zh"/>
   </head>
   
   
-  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="dark">
 
   
   
@@ -162,11 +162,9 @@
   
     
     
-      
     
-    
-    <img src="../_static/logo.svg" class="logo__image only-light" alt="VisCEADs 使用指南 - Home"/>
-    <script>document.write(`<img src="../_static/logo.svg" class="logo__image only-dark" alt="VisCEADs 使用指南 - Home"/>`);</script>
+    <img src="../_static/logo.svg" class="logo__image only-dark" alt="VisCEADs 使用指南 - Home"/>
+    <script>document.write(`<img src="../_static/logo.svg" class="logo__image only-light" alt="VisCEADs 使用指南 - Home"/>`);</script>
   
   
 </a></div>
@@ -192,17 +190,17 @@
             </li>
         </ul>
         <ul class="current nav bd-sidenav">
-<li class="toctree-l1"><a class="reference internal" href="01.VisCEADs.html">1. 🛈 基本信息</a></li>
+<li class="toctree-l1"><a class="reference internal" href="01.VisCEADs.html">1. ℹ️ 基本信息</a></li>
 <li class="toctree-l1 has-children"><a class="reference internal" href="02.Main.html">2. 📉主图</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
-<li class="toctree-l2"><a class="reference internal" href="../features/app_features_main_01.html">2.1. 网络图可供情报</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../features/app_features_main_02.html">2.2. 网络图可供控件</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../features/app_features_main_01.html">2.1. 💡网络图可供情报</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../features/app_features_main_02.html">2.2. 🖱网络图可供控件</a></li>
 </ul>
 </details></li>
-<li class="toctree-l1 has-children"><a class="reference internal" href="03.Additional.html">3. 📈副图表</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
-<li class="toctree-l2"><a class="reference internal" href="../features/app_features_additional_01.html">3.1. 分页1行业表</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../features/app_features_additional_02.html">3.2. 分页2投入产出表</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../features/app_features_additional_03.html">3.3. 分页3历史走势</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../features/app_features_additional_04.html">3.4. 分页4桑基图</a></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="03.Additional.html">3. 📅副图表</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../features/app_features_additional_01.html">3.1. 🏭分页1行业表</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../features/app_features_additional_02.html">3.2. 💹分页2投入产出表</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../features/app_features_additional_03.html">3.3. 📉分页3历史走势</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../features/app_features_additional_04.html">3.4. 🔀分页4桑基图</a></li>
 </ul>
 </details></li>
 <li class="toctree-l1 current active"><a class="current reference internal" href="#">4. 🗃️ CEADs 数据库</a></li>
@@ -485,7 +483,7 @@ CEADs中国分省投入出產表2017年新分类，将原**科学研究和技术
 </section>
 <section id="visceads">
 <h2><span class="section-number">4.2. </span>VisCEADs<a class="headerlink" href="#visceads" title="Permalink to this heading">#</a></h2>
-<p><strong><a class="reference external" href="https://www.ceads.net.cn/">中国碳核算数据库</a>(Carbon Emission Accounts &amp; Datasets，CEADs)</strong><span id="id2">[<a class="reference internal" href="#id8" title="Yuli Shan, Qi Huang, Dabo Guan, and Klaus Hubacek. China co2 emission accounts 2016–2017. Scientific Data, 7(1):54, Feb 2020. URL: https://doi.org/10.1038/s41597-020-0393-y, doi:10.1038/s41597-020-0393-y.">SHGH20</a>]</span>
+<p><strong><a class="reference external" href="https://www.ceads.net.cn/">中国碳核算数据库</a>(Carbon Emission Accounts &amp; Datasets，CEADs)</strong><span id="id2">[<a class="reference internal" href="01.VisCEADs.html#id3" title="Yuli Shan, Qi Huang, Dabo Guan, and Klaus Hubacek. China co2 emission accounts 2016–2017. Scientific Data, 7(1):54, Feb 2020. URL: https://doi.org/10.1038/s41597-020-0393-y, doi:10.1038/s41597-020-0393-y.">SHGH20</a>]</span>
 编制并提供核算清单及碳核算数据。</p>
 <p>此数据库对如<a class="reference external" href="https://www.gov.cn/zhengce/202405/content_6954583.htm">《2024—2025年节能降碳行动方案》国家政策</a>中的具体单位<strong>国内生产总值能源消耗</strong>和<strong>二氧化碳排放</strong>指标，提供坚实的科学基础。</p>
 <div class="tip admonition">
@@ -566,7 +564,7 @@ CEADs中国分省投入出產表2017年新分类，将原**科学研究和技术
       <i class="fa-solid fa-angle-left"></i>
       <div class="prev-next-info">
         <p class="prev-next-subtitle">往前</p>
-        <p class="prev-next-title"><span class="section-number">3.4. </span>分页4桑基图</p>
+        <p class="prev-next-title"><span class="section-number">3.4. </span>🔀分页4桑基图</p>
       </div>
     </a>
     <a class="right-next"
