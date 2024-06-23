@@ -1,0 +1,18 @@
+<script type="module" src="https://cdn.holoviz.org/panel/1.4.2/dist/bundled/@microsoft/fast-components@2.30.6/dist/fast-components.js"></script>
+<script type="module" src="https://cdn.holoviz.org/panel/1.4.2/dist/bundled/fast/js/fast_design.js"></script>
+<script type="text/javascript">
+  Bokeh.set_log_level("info");
+</script>
+<!--Fast Script-->
+<script type="text/javascript">
+document.addEventListener('DOMContentLoaded', (event) => {
+  const header_design = new window.fastDesignProvider("#header-design-provider");
+  const body_design = new window.fastDesignProvider("#body-design-provider");
+  body_design.setAccentColor("#0066dc")
+  body_design.setLuminance(0.1);
+  body_design.setNeutralColor("#000000");
+  header_design.setLuminance("0.23");
+  header_design.setAccentColor("#ffffff");
+  header_design.setNeutralColor("#3f98ff");
+});
+</script>

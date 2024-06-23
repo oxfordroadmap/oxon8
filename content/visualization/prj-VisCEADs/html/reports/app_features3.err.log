@@ -1,0 +1,92 @@
+Traceback (most recent call last):
+  File "C:\ProgramData\anaconda3\envs\scientometrics\Lib\site-packages\jupyter_cache\executors\utils.py", line 58, in single_nb_execution
+    executenb(
+  File "C:\ProgramData\anaconda3\envs\scientometrics\Lib\site-packages\nbclient\client.py", line 1305, in execute
+    return NotebookClient(nb=nb, resources=resources, km=km, **kwargs).execute()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\ProgramData\anaconda3\envs\scientometrics\Lib\site-packages\jupyter_core\utils\__init__.py", line 173, in wrapped
+    return loop.run_until_complete(inner)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\ProgramData\anaconda3\envs\scientometrics\Lib\asyncio\base_events.py", line 687, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\ProgramData\anaconda3\envs\scientometrics\Lib\site-packages\nbclient\client.py", line 705, in async_execute
+    await self.async_execute_cell(
+  File "C:\ProgramData\anaconda3\envs\scientometrics\Lib\site-packages\nbclient\client.py", line 1058, in async_execute_cell
+    await self._check_raise_for_error(cell, cell_index, exec_reply)
+  File "C:\ProgramData\anaconda3\envs\scientometrics\Lib\site-packages\nbclient\client.py", line 914, in _check_raise_for_error
+    raise CellExecutionError.from_cell_and_msg(cell, exec_reply_content)
+nbclient.exceptions.CellExecutionError: An error occurred while executing the following cell:
+------------------
+## import local modules from sibling folders
+import sys
+# append the path of the parent directory
+sys.path.append("..")
+
+from pyVisCEADs import pyVisCEADs as VC
+locale = VC.locale
+UI_label = VC.UI_label
+from myst_nb import glue
+------------------
+
+
+[1;31m---------------------------------------------------------------------------[0m
+[1;31mFileNotFoundError[0m                         Traceback (most recent call last)
+Cell [1;32mIn[2], line 6[0m
+[0;32m      3[0m [38;5;66;03m# append the path of the parent directory[39;00m
+[0;32m      4[0m sys[38;5;241m.[39mpath[38;5;241m.[39mappend([38;5;124m"[39m[38;5;124m..[39m[38;5;124m"[39m)
+[1;32m----> 6[0m [38;5;28;01mfrom[39;00m [38;5;21;01mpyVisCEADs[39;00m [38;5;28;01mimport[39;00m pyVisCEADs [38;5;28;01mas[39;00m VC
+[0;32m      7[0m locale [38;5;241m=[39m VC[38;5;241m.[39mlocale
+[0;32m      8[0m UI_label [38;5;241m=[39m VC[38;5;241m.[39mUI_label
+
+File [1;32mQ:\__coding__\oxon8\VisCEADs\pyVisCEADs\pyVisCEADs.py:73[0m
+[0;32m     67[0m [38;5;66;03m# print ( copy_and_paste )[39;00m
+[0;32m     68[0m 
+[0;32m     69[0m [38;5;66;03m## --------------------------------------------------------------------------------------------[39;00m
+[0;32m     70[0m 
+[0;32m     71[0m [38;5;66;03m## Executing cmds[39;00m
+[0;32m     72[0m [38;5;28;01mfor[39;00m cmd [38;5;129;01min[39;00m cmds:
+[1;32m---> 73[0m     exec (cmd)
+[0;32m     75[0m [38;5;66;03m## unpacking for pyCEADs[39;00m
+[0;32m     76[0m [38;5;28;01mfor[39;00m k, v [38;5;129;01min[39;00m var_reload[38;5;241m.[39mitems():
+
+File [1;32m<string>:1[0m
+
+File [1;32mC:\ProgramData\anaconda3\envs\scientometrics\Lib\site-packages\pandas\io\pickle.py:190[0m, in [0;36mread_pickle[1;34m(filepath_or_buffer, compression, storage_options)[0m
+[0;32m    124[0m [38;5;250m[39m[38;5;124;03m"""[39;00m
+[0;32m    125[0m [38;5;124;03mLoad pickled pandas object (or any object) from file.[39;00m
+[0;32m    126[0m 
+[1;32m   (...)[0m
+[0;32m    187[0m [38;5;124;03m4    4    9[39;00m
+[0;32m    188[0m [38;5;124;03m"""[39;00m
+[0;32m    189[0m excs_to_catch [38;5;241m=[39m ([38;5;167;01mAttributeError[39;00m, [38;5;167;01mImportError[39;00m, [38;5;167;01mModuleNotFoundError[39;00m, [38;5;167;01mTypeError[39;00m)
+[1;32m--> 190[0m [38;5;28;01mwith[39;00m get_handle(
+[0;32m    191[0m     filepath_or_buffer,
+[0;32m    192[0m     [38;5;124m"[39m[38;5;124mrb[39m[38;5;124m"[39m,
+[0;32m    193[0m     compression[38;5;241m=[39mcompression,
+[0;32m    194[0m     is_text[38;5;241m=[39m[38;5;28;01mFalse[39;00m,
+[0;32m    195[0m     storage_options[38;5;241m=[39mstorage_options,
+[0;32m    196[0m ) [38;5;28;01mas[39;00m handles:
+[0;32m    197[0m 
+[0;32m    198[0m     [38;5;66;03m# 1) try standard library Pickle[39;00m
+[0;32m    199[0m     [38;5;66;03m# 2) try pickle_compat (older pandas version) to handle subclass changes[39;00m
+[0;32m    200[0m     [38;5;66;03m# 3) try pickle_compat with latin-1 encoding upon a UnicodeDecodeError[39;00m
+[0;32m    202[0m     [38;5;28;01mtry[39;00m:
+[0;32m    203[0m         [38;5;66;03m# TypeError for Cython complaints about object.__new__ vs Tick.__new__[39;00m
+[0;32m    204[0m         [38;5;28;01mtry[39;00m:
+
+File [1;32mC:\ProgramData\anaconda3\envs\scientometrics\Lib\site-packages\pandas\io\common.py:865[0m, in [0;36mget_handle[1;34m(path_or_buf, mode, encoding, compression, memory_map, is_text, errors, storage_options)[0m
+[0;32m    856[0m         handle [38;5;241m=[39m [38;5;28mopen[39m(
+[0;32m    857[0m             handle,
+[0;32m    858[0m             ioargs[38;5;241m.[39mmode,
+[1;32m   (...)[0m
+[0;32m    861[0m             newline[38;5;241m=[39m[38;5;124m"[39m[38;5;124m"[39m,
+[0;32m    862[0m         )
+[0;32m    863[0m     [38;5;28;01melse[39;00m:
+[0;32m    864[0m         [38;5;66;03m# Binary mode[39;00m
+[1;32m--> 865[0m         handle [38;5;241m=[39m [38;5;28mopen[39m(handle, ioargs[38;5;241m.[39mmode)
+[0;32m    866[0m     handles[38;5;241m.[39mappend(handle)
+[0;32m    868[0m [38;5;66;03m# Convert BytesIO or file objects passed with an encoding[39;00m
+
+[1;31mFileNotFoundError[0m: [Errno 2] No such file or directory: '../data/pyCEADs.pickle'
+

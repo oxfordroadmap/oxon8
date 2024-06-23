@@ -1,0 +1,572 @@
+
+
+<!DOCTYPE html>
+
+
+<html lang="zh" data-content_root="" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
+    <title>1. ℹ️ 基本信息 &#8212; VisCEADs 使用指南</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
+  </script>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../_static/styles/theme.css?digest=3ee479438cf8b5e0d341" rel="stylesheet" />
+<link href="../_static/styles/bootstrap.css?digest=3ee479438cf8b5e0d341" rel="stylesheet" />
+<link href="../_static/styles/pydata-sphinx-theme.css?digest=3ee479438cf8b5e0d341" rel="stylesheet" />
+
+  
+  <link href="../_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=3ee479438cf8b5e0d341" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/sphinx-book-theme.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/copybutton.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-design.5ea377869091fd0449014c60fc090103.min.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/css/custom.css" />
+  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=3ee479438cf8b5e0d341" />
+<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=3ee479438cf8b5e0d341" />
+  <script src="../_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=3ee479438cf8b5e0d341"></script>
+
+    <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/_sphinx_javascript_frameworks_compat.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/clipboard.min.js"></script>
+    <script src="../_static/copybutton.js"></script>
+    <script src="../_static/scripts/sphinx-book-theme.js"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="../_static/togglebutton.js"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script src="../_static/design-tabs.js"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script async="async" src="../_static/sphinx-thebe.js"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'chapters/01.VisCEADs';</script>
+    <script src="https://cdn.holoviz.org/panel/1.4.2/dist/bundled/react@17/umd/react.production.min.js"></script>
+    <script src="https://cdn.holoviz.org/panel/1.4.2/dist/bundled/react-dom@17/umd/react-dom.production.min.js"></script>
+    <script src="https://cdn.holoviz.org/panel/1.4.2/dist/bundled/babel-standalone@latest/babel.min.js"></script>
+    <script src="https://cdn.holoviz.org/panel/1.4.2/dist/bundled/echarts/echarts@5.4.1/dist/echarts.min.js"></script>
+    <script src="https://cdn.holoviz.org/panel/1.4.2/dist/bundled/echarts/echarts-gl@2.0.9/dist/echarts-gl.min.js"></script>
+    <script src="https://cdn.holoviz.org/panel/1.4.2/dist/bundled/datatabulator/tabulator-tables@5.5.0/dist/js/tabulator.min.js"></script>
+    <script src="https://cdn.holoviz.org/panel/1.4.2/dist/bundled/datatabulator/luxon/build/global/luxon.min.js"></script>
+    <script src="https://cdn.bokeh.org/bokeh/release/bokeh-3.4.0.min.js"></script>
+    <script src="https://cdn.bokeh.org/bokeh/release/bokeh-gl-3.4.0.min.js"></script>
+    <script src="https://cdn.bokeh.org/bokeh/release/bokeh-tables-3.4.0.min.js"></script>
+    <script src="https://cdn.bokeh.org/bokeh/release/bokeh-widgets-3.4.0.min.js"></script>
+    <script src="https://cdn.holoviz.org/panel/1.4.2/dist/panel.min.js"></script>
+    <link rel="index" title="索引" href="../genindex.html" />
+    <link rel="search" title="搜索" href="../search.html" />
+    <link rel="next" title="2. 📉主图" href="02.Main.html" />
+    <link rel="prev" title="VisCEADs：投入产出网络" href="../index.zh.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="zh"/>
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">跳至主内容</a></div>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>导航回顶部</button>
+
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-primary-sidebar-checkbox"/>
+  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-secondary-sidebar-checkbox"/>
+  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="../search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search this book..."
+         aria-label="Search this book..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+
+  <div class="pst-async-banner-revealer d-none">
+  <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="版本警告"></aside>
+</div>
+
+  
+    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+    </header>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      
+      
+      <div class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+
+  
+
+<a class="navbar-brand logo" href="../index.zh.html">
+  
+  
+  
+  
+  
+    
+    
+      
+    
+    
+    <img src="../_static/logo.svg" class="logo__image only-light" alt="VisCEADs 使用指南 - Home"/>
+    <script>document.write(`<img src="../_static/logo.svg" class="logo__image only-dark" alt="VisCEADs 使用指南 - Home"/>`);</script>
+  
+  
+</a></div>
+        <div class="sidebar-primary-item">
+
+ <script>
+ document.write(`
+   <button class="btn navbar-btn search-button-field search-button__button" title="搜索" aria-label="搜索" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+    <span class="search-button__default-text">搜索</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script></div>
+        <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="../index.zh.html">
+                    VisCEADs：投入产出网络
+                </a>
+            </li>
+        </ul>
+        <ul class="current nav bd-sidenav">
+<li class="toctree-l1 current active"><a class="current reference internal" href="#">1. ℹ️ 基本信息</a></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="02.Main.html">2. 📉主图</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../features/app_features_main_01.html">2.1. 💡网络图可供情报</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../features/app_features_main_02.html">2.2. 🖱网络图可供控件</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="03.Additional.html">3. 📈副图表</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../features/app_features_additional_01.html">3.1. 分页1行业表</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../features/app_features_additional_02.html">3.2. 分页2投入产出表</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../features/app_features_additional_03.html">3.3. 分页3历史走势</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../features/app_features_additional_04.html">3.4. 分页4桑基图</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1"><a class="reference internal" href="04.Data.html">4. 🗃️ CEADs 数据库</a></li>
+<li class="toctree-l1"><a class="reference internal" href="05.Roadmapping.html">5. 🧭发展路线</a></li>
+</ul>
+
+    </div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main" role="main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article d-print-none">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><button class="sidebar-toggle primary-toggle btn btn-sm" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</button></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-source-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Source repositories">
+    <i class="fab fa-github"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="https://github.com/oxon8/VisCEADs_jupyter_book" target="_blank"
+   class="btn btn-sm btn-source-repository-button dropdown-item"
+   title="源码库"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fab fa-github"></i>
+  </span>
+<span class="btn__text-container">Repository</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li><a href="https://github.com/oxon8/VisCEADs_jupyter_book/edit/master/html/chapters/01.VisCEADs.md" target="_blank"
+   class="btn btn-sm btn-source-edit-button dropdown-item"
+   title="Suggest edit"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-pencil-alt"></i>
+  </span>
+<span class="btn__text-container">Suggest edit</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li><a href="https://github.com/oxon8/VisCEADs_jupyter_book/issues/new?title=Issue%20on%20page%20%2Fchapters/01.VisCEADs.html&body=Your%20issue%20content%20here." target="_blank"
+   class="btn btn-sm btn-source-issues-button dropdown-item"
+   title="创建议题"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-lightbulb"></i>
+  </span>
+<span class="btn__text-container">Open issue</span>
+</a>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="下载此页面">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="../_sources/chapters/01.VisCEADs.md" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="下载源文件"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="btn__text-container">.md</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="列印成 PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="全屏模式"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm navbar-btn theme-switch-button" title="亮屏/黑暗模式" aria-label="亮屏/黑暗模式" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="theme-switch nav-link" data-mode="light"><i class="fa-solid fa-sun fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="dark"><i class="fa-solid fa-moon fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="auto"><i class="fa-solid fa-circle-half-stroke fa-lg"></i></span>
+  </button>
+`);
+</script>
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm navbar-btn search-button search-button__button" title="搜索" aria-label="搜索" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+  </button>
+`);
+</script>
+
+</div></div>
+      
+    </div>
+  
+</div>
+</div>
+              
+              
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>ℹ️ 基本信息</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+        </div>
+    </div>
+</div>
+
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                  
+  <section class="tex2jax_ignore mathjax_ignore" id="i">
+<h1><span class="section-number">1. </span>ℹ️ 基本信息<a class="headerlink" href="#i" title="Permalink to this heading">#</a></h1>
+<p><a class="reference external" href="https://oxon8.netlify.app/visualization/prj-visCEADs/index.zh"><code class="docutils literal notranslate"><span class="pre">VisCEADs</span></code> 投入产出网络仪表盘</a>，基于<code class="docutils literal notranslate"><span class="pre">CEADs</span></code><a class="reference external" href="https://www.ceads.net.cn/">中国碳核算数据库</a> (Carbon Emission Accounts &amp; Datasets)  <span id="id1">[<a class="reference internal" href="#id3" title="Yuli Shan, Qi Huang, Dabo Guan, and Klaus Hubacek. China co2 emission accounts 2016–2017. Scientific Data, 7(1):54, Feb 2020. URL: https://doi.org/10.1038/s41597-020-0393-y, doi:10.1038/s41597-020-0393-y.">SHGH20</a>]</span> 编制相关投入产出及碳核算数据，以可视化 <code class="docutils literal notranslate"><span class="pre">仪表盘</span></code> 助力政府及企业领导、产业及学术研究者等，为各省各行业脱碳路线提供　<code class="docutils literal notranslate"><span class="pre">精准脱碳</span></code>　决策参考。</p>
+<p>将 <code class="docutils literal notranslate"><span class="pre">投入产出网络</span></code> 中各部门间的经济联系和影响可视化，VisCEADs 仪表盘能提供科学、经济、系统地洞察，特别是对 <code class="docutils literal notranslate"><span class="pre">碳核算</span></code>  相关的产业政策与治理、环境政策与治理等。</p>
+<p>突显主要指标如 <code class="docutils literal notranslate"><span class="pre">二氧化碳排放</span></code> 和  <code class="docutils literal notranslate"><span class="pre">碳排强度</span></code> ，VisCEADs 仪表盘能助分省分行业部门交叉分析，提供坚实的科学基础，达成《<a class="reference external" href="https://www.gov.cn/zhengce/202405/content_6954583.htm">2024—2025年节能降碳行动方案</a>》中的具体指标要求，包括每單位国内生产总值  <code class="docutils literal notranslate"><span class="pre">二氧化碳排放</span></code>  和  <code class="docutils literal notranslate"><span class="pre">能源消耗</span></code>　的持续减量，以最终达成《巴黎协定》1.5℃目标。</p>
+<div class="important admonition">
+<p class="admonition-title"><code class="docutils literal notranslate"><span class="pre">二氧化碳排放</span></code> 指标要降多少？</p>
+<ul class="simple">
+<li><p>中国2024年要<code class="docutils literal notranslate"><span class="pre">年减3.9%</span></code>左右（<code class="docutils literal notranslate"><span class="pre">单位国内生产总值二氧化碳排放</span></code>。见<a class="reference external" href="https://www.gov.cn/zhengce/202405/content_6954583.htm">《2024—2025年节能降碳行动方案》</a></p></li>
+<li><p>PwC指出，世界碳排强度需<code class="docutils literal notranslate"><span class="pre">年均减少17.2%</span></code>，才能达《巴黎协定》1.5℃目标。见<a class="reference external" href="https://www.pwc.tw/zh/news/press-release/press-20231011.html">《2023淨零排放經濟指數報告》（Net Zero Economy Index 2023）</a>。</p></li>
+<li><p>澳恪森研究发现，世界碳排强度需<code class="docutils literal notranslate"><span class="pre">年均减少19%</span></code>，才能达1.5℃目标。见<a class="reference external" href="https://oxon8.netlify.app/visualization/prj-visnetzero/index.zh">VisNetZero成果</a>）。</p></li>
+</ul>
+</div>
+<hr class="docutils" />
+<p>參考來源：</p>
+<ul class="simple">
+<li><p>中国统计局，2023/01/01，<a class="reference external" href="https://www.stats.gov.cn/zs/tjws/tjfx/202301/t20230101_1903477.html">投入产出表的分析要点有哪些，《领导干部统计知识问答》</a></p></li>
+<li><p>国发委，2024/05，<a class="reference external" href="https://www.gov.cn/zhengce/202405/content_6954583.htm">《2024—2025年节能降碳行动方案》国家政策</a></p></li>
+<li><p><a class="reference external" href="https://data.stats.gov.cn/ifnormal.htm?u=/files/html/quickSearch/trcc/trcc01.html&amp;amp;h=740">中国统计局 投入产出表</a></p></li>
+</ul>
+<p>参考书目：</p>
+<div class="docutils container" id="id2">
+<dl class="citation">
+<dt class="label" id="id3"><span class="brackets"><a class="fn-backref" href="#id1">SHGH20</a></span></dt>
+<dd><p>Yuli Shan, Qi Huang, Dabo Guan, and Klaus Hubacek. China co2 emission accounts 2016–2017. <em>Scientific Data</em>, 7(1):54, Feb 2020. URL: <a class="reference external" href="https://doi.org/10.1038/s41597-020-0393-y">https://doi.org/10.1038/s41597-020-0393-y</a>, <a class="reference external" href="https://doi.org/10.1038/s41597-020-0393-y">doi:10.1038/s41597-020-0393-y</a>.</p>
+</dd>
+</dl>
+</div>
+<div class="seealso admonition">
+<p class="admonition-title"><code class="docutils literal notranslate"><span class="pre">CEADs中国碳核算数据库</span></code></p>
+<p>...</p>
+</div>
+<hr class="docutils" />
+<div class="seealso admonition">
+<p class="admonition-title"><code class="docutils literal notranslate"><span class="pre">visCEADs</span></code></p>
+<p>...</p>
+</div>
+<hr class="docutils" />
+<div class="seealso admonition">
+<p class="admonition-title"><code class="docutils literal notranslate"><span class="pre">VisNetZero</span></code></p>
+<p>...</p>
+</div>
+</section>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            name: "python3",
+            path: "./chapters"
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+                </article>
+              
+
+              
+              
+              
+              
+                <footer class="prev-next-footer d-print-none">
+                  
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="../index.zh.html"
+       title="前一页">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">往前</p>
+        <p class="prev-next-title">VisCEADs：投入产出网络</p>
+      </div>
+    </a>
+    <a class="right-next"
+       href="02.Main.html"
+       title="下一页">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">往下</p>
+        <p class="prev-next-title"><span class="section-number">2. </span>📉主图</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+<div class="bd-footer-content__inner container">
+  
+  <div class="footer-item">
+    
+<p class="component-author">
+作者： Han-Teng Liao (廖汉腾)
+</p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+
+  <p class="copyright">
+    
+      © Copyright 著作权所有 2024.
+      <br/>
+    
+  </p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+</div>
+          </footer>
+        
+
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="../_static/scripts/bootstrap.js?digest=3ee479438cf8b5e0d341"></script>
+<script src="../_static/scripts/pydata-sphinx-theme.js?digest=3ee479438cf8b5e0d341"></script>
+
+  <footer class="bd-footer">
+  </footer>
+  </body>
+</html>
