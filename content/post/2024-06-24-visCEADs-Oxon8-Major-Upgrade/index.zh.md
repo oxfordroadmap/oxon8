@@ -23,19 +23,19 @@ image:
   preview_only: true
 ---
 
-历经半年科研及开发，澳恪森数智科技成功于2024年6月24日推出新版的  [``「精准脱碳」交互可视化产品``]({{% ref "/visualization/prj-VisCEADs" %}}) 。
+历经半年科研及开发，澳恪森数智科技成功于2024年6月24日推出新版的  [``「精准脱碳」交互可视化产品``]({{< reflink path="/visualization/prj-VisCEADs/index.zh" >}}) 。
 
 1. 精准脱碳 prj-VisCEADs[``交互可视化产品``]({{% ref "/visualization/prj-VisCEADs/index" %}}) 
 2. 精准脱碳 prj-VisCEADs[``使用说明``]({{% ref "/visualization/prj-VisCEADs/html/index" %}})`` 
 
 交互可视化产品功能及特色包括``网络图``、``桑基图``、``关键指标互动图表``，可为地方及行业领导、产业经营者、研究者及智能碳排管理平台等，依国家《2024—2025年节能降碳行动方案》具体下达的 [脱碳指标](https://www.gov.cn/zhengce/202405/content_6954583.htm)，精准找到``减多少``、``减哪``、``如何产业链上下游连减``的关键信息及情报。
 
-澳恪森稍早于2023年释出[「α」0.1版本]({{ reflink path="/visualization/prj-VisCEADs0.1/index" %}})。预计于2024下半年推出``科研产研客制化产品``（订价💵USD 6.8k 或 💴RMB 50k起），2025年推出``脱碳智能助手``生成建议及可视化。
+澳恪森稍早于2023年释出[「α」0.1版本]({{< reflink path="/visualization/prj-visceads0.1/index.zh">}})。预计于2024下半年推出``科研产研客制化产品``（订价💵USD 6.8k 或 💴RMB 50k起），2025年推出``脱碳智能助手``生成建议及可视化。
 
 <!--more-->
 ###  网络图展示投入产出关系及关键指标
 
-作为``产业结构``核心，``网络图``[展示投入产出关系及行业部门关键指标](https://oxon8.netlify.app/visualization/prj-visceads/html/chapters/02.main)。其交互控件有[年份、地区、主要指标、网络引力斥力调整](https://oxon8.netlify.app/visualization/prj-visceads/html/features/app_feature_main-02)。
+作为``产业结构``核心，``网络图``[展示投入产出关系及行业部门关键指标](https://oxon8.netlify.app/visualization/prj-visceads/html/chapters/02.main)。其交互控件有[年份、地区、主要指标、网络引力斥力调整]({{< reflink path="/visualization/prj-visceads/html/features/app_feature_main-02">}})。
 
 
 > VisCEADs 主页截屏一：展示 ``网络图``、``桑基图``、``关键指标互动图表``
