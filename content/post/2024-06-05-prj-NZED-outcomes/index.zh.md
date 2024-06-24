@@ -85,5 +85,8 @@ image:
 
 ---
 
+{{< readfile file ="/static/md/brand/Oxon8Goals_carbonmanagement" >}}
+
+---
 
 {{< readfile file ="/static/md/brand/aboutOxon8" >}}

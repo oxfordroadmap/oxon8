@@ -1,5 +1,5 @@
 ---
-title: '各省各产业「精准脱碳」之路--visCEADs项目升级版推出'
+title: '各省各产业「精准脱碳」--visCEADs项目升级版推出'
 date: 2024-06-24
 tags:
   - COP28
@@ -25,8 +25,8 @@ image:
 
 历经半年科研及开发，澳恪森数智科技成功于2024年6月24日推出新版的  [``「精准脱碳」交互可视化产品``]({{< reflink path="/visualization/prj-VisCEADs/index.zh" >}}) 。
 
-1. 精准脱碳 prj-VisCEADs[``交互可视化产品``]({{% ref "/visualization/prj-VisCEADs/index" %}}) 
-2. 精准脱碳 prj-VisCEADs[``使用说明``]({{% ref "/visualization/prj-VisCEADs/html/index" %}})`` 
+1. 精准脱碳 prj-VisCEADs[``《仪表盘》``]({{% ref "/visualization/prj-VisCEADs/index" %}}) 
+2. 精准脱碳 prj-VisCEADs[``《使用手册》``]({{% ref "/visualization/prj-VisCEADs/html/index" %}})`` 
 
 交互可视化产品功能及特色包括``网络图``、``桑基图``、``关键指标互动图表``，可为地方及行业领导、产业经营者、研究者及智能碳排管理平台等，依国家《2024—2025年节能降碳行动方案》具体下达的 [脱碳指标](https://www.gov.cn/zhengce/202405/content_6954583.htm)，精准找到``减多少``、``减哪``、``如何产业链上下游连减``的关键信息及情报。
 
@@ -57,7 +57,7 @@ VisCEADs基于[``中国碳核算数据库（CEADs）``](https://www.ceads.net.cn
 
 ### 创新点：数据科学缩减及可视化
 
-VisCEADs 创新点主要将ViSCEADs 相关的百万多的数据点，经数据科学有效缩减并转换成可视化的格式。相关的数据缩减及转换说明请参见[``使用手册4. 🗃️CEADs 数据库``]({{< reflink path="/visualization/prj-visceads/html/chapters/05.roadmapping.html">}})。
+VisCEADs 创新点主要将ViSCEADs 相关的百万多的数据点，经数据科学有效缩减并转换成可视化的格式。相关的数据缩减及转换说明请参见[``《使用手册》4. 🗃️CEADs 数据库``]({{< reflink path="/visualization/prj-visceads/html/chapters/05.roadmapping.html">}})。
 ### 早先发展历程
 
 对于碳排及产业数据推动绿色化数字化双化行动，此「精准脱碳」交互可视化产品最早于2023年12月[COP 28《联合国气候变化框架公约》第28次缔约方大会](https://www.mee.gov.cn/xxgk/hjyw/202311/t20231101_1044710.shtml)同时同地的[IEEE 绿色技术丶可持续发展和净零政策与实践研讨会 （IEEE GTSNZ） 2023](https://gtsnz.org/)，由澳恪森数智科技廖汉腾报告两篇产业论文支持[绿色化数字行动@COP28]({{< ref "/post/2023-12-02-SPCG-ITU-ISO-progress-Oxon-translated" >}})。
@@ -71,6 +71,9 @@ VisCEADs 创新点主要将ViSCEADs 相关的百万多的数据点，经数据�
 * ``减多少``、
 * ``减哪``、
 * ``如何产业链上下游连减``
+
+> 可以和零碳经济VisNetZero成果搭配，推估出達成《巴黎协定》1.5℃目标的減排目標 
+![零碳经济](prj-visNetZero.jpeg)
 
 ## 从情报到智能：「精准脱碳」智能助手化
 

@@ -10,7 +10,7 @@ categories:
   - Green Digital Action
 categories:
 image:
-  filename: NZED-0.1.png
+  filename: prj-visNetZero.jpeg
   preview_only: true
 ---
 
