@@ -22,16 +22,17 @@ image:
   filename: prj-VisCEADs_layout.png
   preview_only: false
 ---
-
-历经半年科研及开发，澳恪森数智科技成功出新版的**[「精准脱碳」交互可视化产品]({{< ref "/visualization/prj-VisCEADs" >}})** ，并于2024年6月24日发布。
-
-1. 精准脱碳``[交互可视化产品 prj-VisCEADs]({{% ref "/visualization" %}})``<!--/prj-VisCEADs/index> -->
+<!--
+历经半年科研及开发，澳恪森数智科技成功出新版的**[「精准脱碳」交互可视化产品]({{% ref "/visualization/prj-VisCEADs" %}})** ，并于2024年6月24日发布。
+-->
+<!--
+1. 精准脱碳``[交互可视化产品 prj-VisCEADs]({{% ref "/visualization" %}})``<!--/prj-VisCEADs/index> 
 2. 使用说明``[交互可视化产品 prj-VisCEADs]({{% ref "/visualization" %}})`` <!-- /prj-VisCEADs/html/index-->
-
+<!--
 交互可视化产品功能及特色包括``网络图``、``桑基图``、``关键指标互动图表``，可为地方及行业领导、产业经营者、研究者及智能碳排管理平台等，依国家[《2024—2025年节能降碳行动方案》](https://www.gov.cn/zhengce/202405/content_6954583.htm)具体下达的``脱碳指标``，精准找到``减多少``、``减哪``、``如何产业链上下游连减``的关键信息及情报。
 
 澳恪森稍早于2023年释出[「α」版本]({{% ref "/visualization/prj-VisCEADs0.1/index.zh.html" %}})。预计于2024下半年推出``科研产研客制化产品``（订价💵USD 6.8k 或 💴RMB 50k起），2025年推出``脱碳智能助手``生成建议及可视化。
-
+-->
 <!--more-->
 ## 「精准脱碳」各省各行业 “减污降碳全景图”
 
