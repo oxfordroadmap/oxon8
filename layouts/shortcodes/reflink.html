@@ -1,10 +1,9 @@
-{{- $path := .Get 0 -}}
+{{- $path := .Get "path" -}}
+{{- $ref := relref . .Params | urlize -}}
 {{- with site.GetPage $path -}}
-  {{- .Permalink -}}
+  {{ range .AllTranslations }}
+    {{ if eq $ref .RelPermalink }}<a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ break }}{{ end }}
+  {{ end }}
 {{- else -}}
-  {{- with .Page.Sites.First.GetPage $path -}}
-    {{- .Permalink -}}
-  {{- else -}}
-    {{- errorf "The %q shortcode was unable to resolve %q to a page. See %s" .Name $path .Position -}}
-  {{- end -}}
-{{- end -}}
+  {{- errorf "The %q shortcode was unable to resolve %q to a page. See %s" .Name $path .Position -}}
+{{ end }}
