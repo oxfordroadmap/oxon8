@@ -32,6 +32,7 @@ image:
 
 澳恪森稍早于2023年释出[「α」0.1版本]({{ reflink path="/visualization/prj-VisCEADs0.1/index" %}})。预计于2024下半年推出``科研产研客制化产品``（订价💵USD 6.8k 或 💴RMB 50k起），2025年推出``脱碳智能助手``生成建议及可视化。
 
+<!--more-->
 ###  网络图展示投入产出关系及关键指标
 
 作为``产业结构``核心，``网络图``[展示投入产出关系及行业部门关键指标](https://oxon8.netlify.app/visualization/prj-visceads/html/chapters/02.main)。其交互控件有[年份、地区、主要指标、网络引力斥力调整](https://oxon8.netlify.app/visualization/prj-visceads/html/features/app_feature_main-02)。
