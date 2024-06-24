@@ -1,1 +1,3 @@
-{{ urls.RelLangURL .  }}
+{{- $path := .Get "path" -}}
+{{- $ref := $path | urls.AbsLangURL -}}
+{{$ref }}
