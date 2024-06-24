@@ -1,5 +1,5 @@
 ---
-title: '照亮产业「精准脱碳」之路--visCEADs项目'
+title: '各省各产业「精准脱碳」之路--visCEADs项目升级版推出'
 date: 2024-06-24
 tags:
   - COP28
@@ -22,6 +22,15 @@ image:
   filename: prj-VisCEADs_layout.png
   preview_only: false
 ---
+
+历经半年科研及开发，澳恪森数智科技成功出新版的**[「精准脱碳」交互可视化产品]({{% ref "/visualization/prj-VisCEADs" %}})** ，并于2024年6月24日发布。
+
+1. 精准脱碳``[交互可视化产品 prj-VisCEADs]({{% ref "/visualization/prj-VisCEADs/index" %}})``> 
+2. 使用说明``[交互可视化产品 prj-VisCEADs]({{% ref "/visualization/prj-VisCEADs/html/index" %}})`` 
+
+交互可视化产品功能及特色包括``网络图``、``桑基图``、``关键指标互动图表``，可为地方及行业领导、产业经营者、研究者及智能碳排管理平台等，依国家[《2024—2025年节能降碳行动方案》](https://www.gov.cn/zhengce/202405/content_6954583.htm)具体下达的``脱碳指标``，精准找到``减多少``、``减哪``、``如何产业链上下游连减``的关键信息及情报。
+
+澳恪森稍早于2023年释出[「α」0.1版本]({{% ref "/visualization/prj-VisCEADs0.1/index.zh.html" %}})。预计于2024下半年推出``科研产研客制化产品``（订价💵USD 6.8k 或 💴RMB 50k起），2025年推出``脱碳智能助手``生成建议及可视化。
 
 ###  桑基图供``产业结构``与``能源结构``交互探索
 
@@ -49,14 +58,14 @@ VisCEADs 创新点主要将ViSCEADs 相关的百万多的数据点，经数据�
 澳恪森期待「精准脱碳」交互可视化产品用例能助双碳平台的``标准化``、``商业化``。以服务各省市各行业双化转型，将``碳排负资产``转为加值新能力。
 ### 小结：从情报到行动方案
 
-为达「精准脱碳」国家[《2024—2025年节能降碳行动方案》](https://www.gov.cn/zhengce/202405/content_6954583.htm)具体下达的``脱碳指标``，以及更长久的《巴黎协定》1.5℃目标 （参见[VisNetZero成果]({{< reflink path="visualization/prj-visNetZero/index">}}https://oxon8.netlify.app/.zh)），VisCEADs 可助用户精准找到以下关键信息及情报：
+为达「精准脱碳」国家[《2024—2025年节能降碳行动方案》](https://www.gov.cn/zhengce/202405/content_6954583.htm)具体下达的``脱碳指标``，以及更长久的《巴黎协定》1.5℃目标 （参见[VisNetZero成果]({{< reflink path="visualization/prj-visNetZero/index">}})），VisCEADs 可助用户精准找到以下关键信息及情报：
 * ``减多少``、
 * ``减哪``、
 * ``如何产业链上下游连减``
 
 ## 从情报到智能：「精准脱碳」智能助手化
 
-为求运营可持续，澳恪森计划于2024年下半年推出客制化产品（订价USD 6.8k 或RMB 50k起），并将收入再投资，于2025年推出**脱碳智能助手**生成建议及可视化。（详情参考请见[5. 🧭发展路线]({{< reflink path="/visualization/prj-visceads/html/chapters/05.roadmapping.html">}})）
+为求运营可持续，澳恪森计划于2024下半年推出``科研产研客制化产品``（订价💵USD 6.8k 或 💴RMB 50k起），并将收入再投资，于2025年推出**脱碳智能助手**生成建议及可视化。（详情参考请见[5. 🧭发展路线]({{< reflink path="/visualization/prj-visceads/html/chapters/05.roadmapping.html">}})）
 
 智能化指的是进一步使用机器学习、合成数据、人工智能等，使可视化平台提升功能，能回答用户脱碳问题。
 
