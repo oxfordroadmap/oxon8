@@ -47,7 +47,7 @@ image:
 
 ### 更多可交互图表构成``减污降碳全景图``
 
-作为详细信息补充，[📅副图表]({{< reflink path="/visualization/prj-visceads/html/features/app_feature-03.additional">}})将以下分页整合：
+作为详细信息补充，[📅副图表]({{< reflink path="/visualization/prj-visceads/html/features/app_feature-03">}})将以下分页整合：
 - [🏭分页1行业表]({{< reflink path="/visualization/prj-visceads/html/features/app_feature-01">}})
 - [💹分页2投入产出表]({{< reflink path="/visualization/prj-visceads/html/features/app_feature-02">}})
 - [📉分页3历史走势]({{< reflink path="/visualization/prj-visceads/html/features/app_feature-03">}})
