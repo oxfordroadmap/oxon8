@@ -20,7 +20,7 @@ categories:
   - 脱碳路线图
   - 技术路线图
 image:
-  filename: prj-visCEADs.webp
+  filename: prj-visCEADs0.1.webp
   preview_only: false
 ---
 
