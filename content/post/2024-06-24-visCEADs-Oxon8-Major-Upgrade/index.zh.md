@@ -23,7 +23,7 @@ image:
   preview_only: false
 ---
 
-历经半年科研及开发，澳恪森数智科技成功于2024年6月24日推出新版的  ``[「精准脱碳」交互可视化产品]({{% ref "/visualization/prj-VisCEADs" %}})`` 。
+历经半年科研及开发，澳恪森数智科技成功于2024年6月24日推出新版的  [``「精准脱碳」交互可视化产品``]({{% ref "/visualization/prj-VisCEADs" %}}) 。
 
 1. 精准脱碳 prj-VisCEADs[``交互可视化产品``]({{% ref "/visualization/prj-VisCEADs/index" %}}) 
 2. 精准脱碳 prj-VisCEADs[``使用说明``]({{% ref "/visualization/prj-VisCEADs/html/index" %}})`` 
@@ -48,7 +48,7 @@ VisCEADs基于[``中国碳核算数据库（CEADs）``](https://www.ceads.net.cn
 
 ### 创新点：数据科学缩减及可视化
 
-VisCEADs 创新点主要将ViSCEADs 相关的百万多的数据点，经数据科学有效缩减并转换成可视化的格式。相关的数据缩减及转换说明请参见``使用手册[4. 🗃️CEADs 数据库]({{< reflink path="/visualization/prj-visceads/html/chapters/05.roadmapping.html">}})``。
+VisCEADs 创新点主要将ViSCEADs 相关的百万多的数据点，经数据科学有效缩减并转换成可视化的格式。相关的数据缩减及转换说明请参见[``使用手册4. 🗃️CEADs 数据库``]({{< reflink path="/visualization/prj-visceads/html/chapters/05.roadmapping.html">}})。
 ### 早先发展历程
 
 对于碳排及产业数据推动绿色化数字化双化行动，此「精准脱碳」交互可视化产品最早于2023年12月[COP 28《联合国气候变化框架公约》第28次缔约方大会](https://www.mee.gov.cn/xxgk/hjyw/202311/t20231101_1044710.shtml)同时同地的[IEEE 绿色技术丶可持续发展和净零政策与实践研讨会 （IEEE GTSNZ） 2023](https://gtsnz.org/)，由澳恪森数智科技廖汉腾报告两篇产业论文支持[绿色化数字行动@COP28]({{< ref "/post/2023-12-02-SPCG-ITU-ISO-progress-Oxon-translated" >}})。
@@ -65,7 +65,7 @@ VisCEADs 创新点主要将ViSCEADs 相关的百万多的数据点，经数据�
 
 ## 从情报到智能：「精准脱碳」智能助手化
 
-为求运营可持续，澳恪森计划于2024下半年推出``科研产研客制化产品``（订价💵USD 6.8k 或 💴RMB 50k起），并将收入再投资，于2025年推出**脱碳智能助手**生成建议及可视化。（详情参考请见``使用手册[5. 🧭发展路线]({{< reflink path="/visualization/prj-visceads/html/chapters/05.roadmapping.html">}})``。）
+为求运营可持续，澳恪森计划于2024下半年推出``科研产研客制化产品``（订价💵USD 6.8k 或 💴RMB 50k起），并将收入再投资，于2025年推出**脱碳智能助手**生成建议及可视化。（详情参考请见[``使用手册 5. 🧭发展路线``]({{< reflink path="/visualization/prj-visceads/html/chapters/05.roadmapping.html">}})）
 
 智能化指的是进一步使用机器学习、合成数据、人工智能等，使可视化平台提升功能，能回答用户脱碳问题。
 
