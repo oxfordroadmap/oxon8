@@ -20,7 +20,7 @@ categories:
   - 技术路线图
 image:
   filename: prj-VisCEADs_layout.png
-  preview_only: false
+  preview_only: true
 ---
 
 历经半年科研及开发，澳恪森数智科技成功于2024年6月24日推出新版的  [``「精准脱碳」交互可视化产品``]({{% ref "/visualization/prj-VisCEADs" %}}) 。
@@ -32,6 +32,14 @@ image:
 
 澳恪森稍早于2023年释出[「α」0.1版本]({{ reflink path="/visualization/prj-VisCEADs0.1/index" %}})。预计于2024下半年推出``科研产研客制化产品``（订价💵USD 6.8k 或 💴RMB 50k起），2025年推出``脱碳智能助手``生成建议及可视化。
 
+###  网络图展示投入产出关系及关键指标
+
+作为``产业结构``核心，``网络图``[展示投入产出关系及行业部门关键指标](https://oxon8.netlify.app/visualization/prj-visceads/html/chapters/02.main)。其交互控件有[年份、地区、主要指标、网络引力斥力调整](https://oxon8.netlify.app/visualization/prj-visceads/html/features/app_feature_main-02)。
+
+
+> VisCEADs 主页截屏一：展示 ``网络图``、``桑基图``、``关键指标互动图表``
+
+![](prj-VisCEADs_layout.png)
 ###  桑基图供``产业结构``与``能源结构``交互探索
 
 作为``产业结构``与``能源结构``交互探索起点，``桑基图``此处允许用户选择 `地区` 及 `年份`，比较[核心投入产出行业关系桑基（图）]({{< reflink path="/visualization/prj-visceads/html/features/app_feature-04">}})。桑基图和网络图构成``关键指标互动图表``，还能与与多可交互图表交叉使用。
