@@ -27,8 +27,6 @@ image:
 -----
 进一步使用机器学习、合成数据、人工智能等计划，请见[5. 🧭发展路线]({{ absLangURL "/visualization/prj-visceads/html/chapters/05.roadmapping.html" }})。
 
- {{< reflink path="/visualization/prj-visceads/html/chapters/05.roadmapping.html" lang="zh" >}}
-
 
 
 ## 关于 CEADs
