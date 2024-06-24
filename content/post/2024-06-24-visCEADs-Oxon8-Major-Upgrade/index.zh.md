@@ -25,11 +25,11 @@ image:
 
 
 -----
-进一步使用机器学习、合成数据、人工智能等计划，请见[5. 🧭发展路线]({{< reflink "/visualization/prj-visceads/html/chapters/05.roadmapping.html">}}
+进一步使用机器学习、合成数据、人工智能等计划，请见[5. 🧭发展路线]({{< reflink path="/visualization/prj-visceads/html/chapters/05.roadmapping.html">}}
 
-* {{< reflink "/visualization/prj-visceads/html/chapters/05.roadmapping.html" >}}
-* {{< reflink "../visualization/prj-visceads/html/chapters/05.roadmapping.html">}}
-* {{< reflink "document2" >}}
+* {{< reflink path="/visualization/prj-visceads/html/chapters/05.roadmapping.html" >}}
+* {{< reflink path="../visualization/prj-visceads/html/chapters/05.roadmapping.html">}}
+* {{< reflink path="document2" >}}
 ## 关于 CEADs
 
 由清华大学关大博教授团队主持的[``中国碳核算数据库（CEADs）``](https://www.ceads.net.cn/)创建于2016年 CEADs，多年来得到中国、英国研究机构的支持，所产出的碳核算数据平台。参见官方[网站](https://www.ceads.net.cn/)，特别是[投入产出表](https://www.ceads.net.cn/data/input_output_tables/)。
