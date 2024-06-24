@@ -25,8 +25,8 @@ image:
 
 历经半年科研及开发，澳恪森数智科技成功出新版的**[「精准脱碳」交互可视化产品]({{< ref "/project/prj-VisCEADs" >}})** ，并于2024年6月24日发布。
 
-1. 精准脱碳``[交互可视化产品 prj-VisCEADs]({{< ref "/visualization/prj-VisCEADs/index.zh" >}})``
-2. 使用说明``[交互可视化产品 prj-VisCEADs]({{< ref "/visualization/prj-VisCEADs/html/index.zh" >}})``
+1. 精准脱碳``[交互可视化产品 prj-VisCEADs]({{< ref "/visualization/prj-VisCEADs/index" >}})``
+2. 使用说明``[交互可视化产品 prj-VisCEADs]({{< ref "/visualization/prj-VisCEADs/html/index" >}})``
 
 交互可视化产品功能及特色包括``网络图``、``桑基图``、``关键指标互动图表``，可为地方及行业领导、产业经营者、研究者及智能碳排管理平台等，依国家[《2024—2025年节能降碳行动方案》](https://www.gov.cn/zhengce/202405/content_6954583.htm)具体下达的``脱碳指标``，精准找到``减多少``、``减哪``、``如何产业链上下游连减``的关键信息及情报。
 
@@ -66,7 +66,7 @@ VisCEADs 创新点主要将ViSCEADs 相关的百万多的数据点，经数据�
 澳恪森期待「精准脱碳」交互可视化产品用例能助双碳平台的标准化肚商业化。以服务各省市各行业双化转型，将碳排负资产转为加值新能力。
 ### 小结
 
-为达「精准脱碳」国家[《2024—2025年节能降碳行动方案》](https://www.gov.cn/zhengce/202405/content_6954583.htm)具体下达的``脱碳指标``，以及更长久的《巴黎协定》1.5℃目标 （参见[VisNetZero成果](https://oxon8.netlify.app/visualization/prj-visnetzero/index.zh)），VisCEADs 可助用户精准找到``减多少``、``减哪``、``如何产业链上下游连减``的关键信息及情报。
+为达「精准脱碳」国家[《2024—2025年节能降碳行动方案》](https://www.gov.cn/zhengce/202405/content_6954583.htm)具体下达的``脱碳指标``，以及更长久的《巴黎协定》1.5℃目标 （参见[VisNetZero成果](https://oxon8.netlify.app/visualization/prj-visNetZero/index.zh)），VisCEADs 可助用户精准找到``减多少``、``减哪``、``如何产业链上下游连减``的关键信息及情报。
 
 VisCEADs基于[``中国碳核算数据库（CEADs）``](https://www.ceads.net.cn/)编制的投入产出及碳核算数据，为各省各行业提供 “减污降碳全景图”。
 
