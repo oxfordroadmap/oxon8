@@ -36,7 +36,7 @@
     <link rel="stylesheet" type="text/css" href="../_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
     <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css" />
     <link rel="stylesheet" type="text/css" href="../_static/sphinx-design.5ea377869091fd0449014c60fc090103.min.css" />
-    <link rel="stylesheet" type="text/css" href="../_static/css/custom.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/custom.css" />
   
   <!-- Pre-loaded scripts that we'll load fully later -->
   <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=3ee479438cf8b5e0d341" />
@@ -446,14 +446,14 @@ document.write(`
                   
   <section class="tex2jax_ignore mathjax_ignore" id="ceads">
 <h1><span class="section-number">4. </span>🗃️CEADs 数据库<a class="headerlink" href="#ceads" title="Permalink to this heading">#</a></h1>
-<p>VisCEADs 投入产出网络仪表盘 仰赖 <code class="docutils literal notranslate"><span class="pre">中国碳核算数据库（CEADs）</span></code>，参见官方<a class="reference external" href="https://www.ceads.net.cn/">网站</a>，特别是<a class="reference external" href="https://www.ceads.net.cn/data/input_output_tables/">投入产出表</a>。</p>
+<p>VisCEADs 投入产出网络仪表盘 仰赖 <a class="reference external" href="https://www.ceads.net.cn/"><code class="docutils literal notranslate"><span class="pre">中国碳核算数据库（CEADs）</span></code></a>，参见官方<a class="reference external" href="https://www.ceads.net.cn/">网站</a>，特别是<a class="reference external" href="https://www.ceads.net.cn/data/input_output_tables/">投入产出表</a>。</p>
 <p>VisCEADs 展示 数据可视化 作为 数据驱动决策 的可能性，是建立在由清华大学关大博教授团队于2016年创建 CEADs，多年来得到中国、英国研究机构的支持，所产出的碳核算数据平台。</p>
 <p>基于科研及政策研究创新需求，本项目 VisCEADs 志谢并认可 CEADs 的贡献，并以网络数据科学及可视化，望能有效提供 <a class="reference external" href="https://oxon8.netlify.app/project/prj-visCEADs/"><code class="docutils literal notranslate"><span class="pre">精准脱碳</span></code> 决策参考</a>。</p>
 <p>此说明文件将较为详述相关的数据<code class="docutils literal notranslate"><span class="pre">清理、缩减、及转换</span></code>过程（或称抽取、转换、加载，ETL）。关于进一步使用机器学习、合成数据、人工智能等计划，请见<a class="reference external" href="https://oxon8.netlify.app/visualization/prj-visceads/html/chapters/05.roadmapping">5. 🧭发展路线</a>。</p>
 <section id="id1">
 <h2><span class="section-number">4.1. </span>🎓清华大学关大博教授主持CEADs 数据库信息<a class="headerlink" href="#id1" title="Permalink to this heading">#</a></h2>
-<p>清华大学关大博教授团队主持的**<a class="reference external" href="https://www.ceads.net.cn/">中国碳核算数据库</a>(Carbon Emission Accounts &amp; Datasets，CEADs)**<span id="id2">[<a class="reference internal" href="#id12" title="Yuli Shan, Qi Huang, Dabo Guan, and Klaus Hubacek. China co2 emission accounts 2016–2017. Scientific Data, 7(1):54, Feb 2020. URL: https://doi.org/10.1038/s41597-020-0393-y, doi:10.1038/s41597-020-0393-y.">SHGH20</a>]</span> 编制并提供核算清单及碳核算数据。</p>
-<p>中国<code class="docutils literal notranslate"><span class="pre">中国碳核算数据库（CEADs）</span></code> <a class="reference external" href="https://www.ceads.net.cn/data/">定期更新</a>多尺度<code class="docutils literal notranslate"><span class="pre">能源、二氧化碳和社会经济清单</span></code>，其中不只包括 <a class="reference external" href="https://www.ceads.net.cn/data/global/">世界多个新兴经济体国家的清单</a>，亦包括<a class="reference external" href="https://www.ceads.net.cn/data/input_output_tables/">省级、市级等多区域投入产出表</a>。</p>
+<p>清华大学关大博教授团队主持的<a class="reference external" href="https://www.ceads.net.cn/"><code class="docutils literal notranslate"><span class="pre">中国碳核算数据库（CEADs）</span></code></a>编制的投入产出表核算清单及碳核算数据<span id="id2">[<a class="reference internal" href="#id12" title="Yuli Shan, Qi Huang, Dabo Guan, and Klaus Hubacek. China co2 emission accounts 2016–2017. Scientific Data, 7(1):54, Feb 2020. URL: https://doi.org/10.1038/s41597-020-0393-y, doi:10.1038/s41597-020-0393-y.">SHGH20</a>]</span> 。</p>
+<p><code class="docutils literal notranslate"><span class="pre">中国碳核算数据库（CEADs）</span></code> <a class="reference external" href="https://www.ceads.net.cn/data/">定期更新</a>多尺度<code class="docutils literal notranslate"><span class="pre">能源、二氧化碳和社会经济清单</span></code>，其中不只包括 <a class="reference external" href="https://www.ceads.net.cn/data/global/">世界多个新兴经济体国家的清单</a>，亦包括<a class="reference external" href="https://www.ceads.net.cn/data/input_output_tables/">省级、市级等多区域投入产出表</a>。</p>
 <p><strong>投入产出数据</strong>具有分省及分社会经济部门（行业）性质，VisCEADs 首先以 涵盖<code class="docutils literal notranslate"><span class="pre">31个省份</span></code>和<code class="docutils literal notranslate"><span class="pre">42个社会经济部门</span></code>（或泛称行业或产业）的2012年、2015年、2017年<code class="docutils literal notranslate"><span class="pre">使用IPCC部门排放核算方法核算</span></code>的数据展开可视化工作，并着眼于提供可视化加值服务，为碳中和服务管理平台提供科学减碳方法展开<a class="reference external" href="https://oxon8.netlify.app/project/prj-2022zdjs121/">精准脱碳</a>。</p>
 <p>此数据库对如<a class="reference external" href="https://www.gov.cn/zhengce/202405/content_6954583.htm">《2024—2025年节能降碳行动方案》国家政策</a>中的具体单位<strong>国内生产总值能源消耗</strong>和<strong>二氧化碳排放</strong>指标，提供坚实的科学基础。</p>
 </section>
