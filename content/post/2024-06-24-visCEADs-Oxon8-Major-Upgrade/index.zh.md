@@ -23,32 +23,32 @@ image:
   preview_only: false
 ---
 
-历经半年科研及开发，澳恪森数智科技成功出新版的**[「精准脱碳」交互可视化产品]({{% ref "/visualization/prj-VisCEADs" %}})** ，并于2024年6月24日发布。
+历经半年科研及开发，澳恪森数智科技成功于2024年6月24日推出新版的  ``[「精准脱碳」交互可视化产品]({{% ref "/visualization/prj-VisCEADs" %}})`` 。
 
-1. 精准脱碳``[交互可视化产品 prj-VisCEADs]({{% ref "/visualization/prj-VisCEADs/index" %}})``> 
-2. 使用说明``[交互可视化产品 prj-VisCEADs]({{% ref "/visualization/prj-VisCEADs/html/index" %}})`` 
+1. 精准脱碳 prj-VisCEADs[``交互可视化产品``]({{% ref "/visualization/prj-VisCEADs/index" %}}) 
+2. 精准脱碳 prj-VisCEADs[``使用说明``]({{% ref "/visualization/prj-VisCEADs/html/index" %}})`` 
 
-交互可视化产品功能及特色包括``网络图``、``桑基图``、``关键指标互动图表``，可为地方及行业领导、产业经营者、研究者及智能碳排管理平台等，依国家[《2024—2025年节能降碳行动方案》](https://www.gov.cn/zhengce/202405/content_6954583.htm)具体下达的``脱碳指标``，精准找到``减多少``、``减哪``、``如何产业链上下游连减``的关键信息及情报。
+交互可视化产品功能及特色包括``网络图``、``桑基图``、``关键指标互动图表``，可为地方及行业领导、产业经营者、研究者及智能碳排管理平台等，依国家《2024—2025年节能降碳行动方案》具体下达的 [脱碳指标](https://www.gov.cn/zhengce/202405/content_6954583.htm)，精准找到``减多少``、``减哪``、``如何产业链上下游连减``的关键信息及情报。
 
-澳恪森稍早于2023年释出[「α」0.1版本]({{% ref "/visualization/prj-VisCEADs0.1/index.zh.html" %}})。预计于2024下半年推出``科研产研客制化产品``（订价💵USD 6.8k 或 💴RMB 50k起），2025年推出``脱碳智能助手``生成建议及可视化。
+澳恪森稍早于2023年释出[「α」0.1版本]({{ reflink path="/visualization/prj-VisCEADs0.1/index" %}})。预计于2024下半年推出``科研产研客制化产品``（订价💵USD 6.8k 或 💴RMB 50k起），2025年推出``脱碳智能助手``生成建议及可视化。
 
 ###  桑基图供``产业结构``与``能源结构``交互探索
 
-作为``产业结构``与``能源结构``交互探索起点，``桑基图``此处允许用户选择 `地区` 及 `年份`，比较[核心投入产出行业关系桑基（图）](https://oxon8.netlify.app/visualization/prj-visceads/html/features/app_feature-04)。桑基图和网络图构成``关键指标互动图表``，还能与与多可交互图表交叉使用。
+作为``产业结构``与``能源结构``交互探索起点，``桑基图``此处允许用户选择 `地区` 及 `年份`，比较[核心投入产出行业关系桑基（图）]({{< reflink path="/visualization/prj-visceads/html/features/app_feature-04">}})。桑基图和网络图构成``关键指标互动图表``，还能与与多可交互图表交叉使用。
 
 ### 更多可交互图表构成``减污降碳全景图``
 
 作为详细信息补充，[📅副图表]({{< reflink path="/visualization/prj-visceads/html/features/app_feature-03.additional">}})将以下分页整合：
-- [3.1. 🏭分页1行业表]({{< reflink path="/visualization/prj-visceads/html/features/app_feature-01">}})
-- [3.2. 💹分页2投入产出表]({{< reflink path="/visualization/prj-visceads/html/features/app_feature-02">}})
-- [3.4. 📉分页3历史走势]({{< reflink path="/visualization/prj-visceads/html/features/app_feature-03">}})
-- [3.5. 🔀分页4桑基图]({{< reflink path="/visualization/prj-visceads/html/features/app_feature-04">}})
+- [🏭分页1行业表]({{< reflink path="/visualization/prj-visceads/html/features/app_feature-01">}})
+- [💹分页2投入产出表]({{< reflink path="/visualization/prj-visceads/html/features/app_feature-02">}})
+- [📉分页3历史走势]({{< reflink path="/visualization/prj-visceads/html/features/app_feature-03">}})
+- [🔀分页4桑基图]({{< reflink path="/visualization/prj-visceads/html/features/app_feature-04">}})
 
 VisCEADs基于[``中国碳核算数据库（CEADs）``](https://www.ceads.net.cn/)编制的投入产出及碳核算数据，为各省各行业提供``减污降碳全景图``。
 
 ### 创新点：数据科学缩减及可视化
 
-VisCEADs 创新点主要将ViSCEADs 相关的百万多的数据点，经数据科学有效缩减并转换成可视化的格式。相关的数据缩减及转换说明请参见使用手册：[4. 🗃️CEADs 数据库]({{< reflink path="/visualization/prj-visceads/html/chapters/05.roadmapping.html">}})。
+VisCEADs 创新点主要将ViSCEADs 相关的百万多的数据点，经数据科学有效缩减并转换成可视化的格式。相关的数据缩减及转换说明请参见``使用手册[4. 🗃️CEADs 数据库]({{< reflink path="/visualization/prj-visceads/html/chapters/05.roadmapping.html">}})``。
 ### 早先发展历程
 
 对于碳排及产业数据推动绿色化数字化双化行动，此「精准脱碳」交互可视化产品最早于2023年12月[COP 28《联合国气候变化框架公约》第28次缔约方大会](https://www.mee.gov.cn/xxgk/hjyw/202311/t20231101_1044710.shtml)同时同地的[IEEE 绿色技术丶可持续发展和净零政策与实践研讨会 （IEEE GTSNZ） 2023](https://gtsnz.org/)，由澳恪森数智科技廖汉腾报告两篇产业论文支持[绿色化数字行动@COP28]({{< ref "/post/2023-12-02-SPCG-ITU-ISO-progress-Oxon-translated" >}})。
@@ -65,7 +65,7 @@ VisCEADs 创新点主要将ViSCEADs 相关的百万多的数据点，经数据�
 
 ## 从情报到智能：「精准脱碳」智能助手化
 
-为求运营可持续，澳恪森计划于2024下半年推出``科研产研客制化产品``（订价💵USD 6.8k 或 💴RMB 50k起），并将收入再投资，于2025年推出**脱碳智能助手**生成建议及可视化。（详情参考请见[5. 🧭发展路线]({{< reflink path="/visualization/prj-visceads/html/chapters/05.roadmapping.html">}})）
+为求运营可持续，澳恪森计划于2024下半年推出``科研产研客制化产品``（订价💵USD 6.8k 或 💴RMB 50k起），并将收入再投资，于2025年推出**脱碳智能助手**生成建议及可视化。（详情参考请见``使用手册[5. 🧭发展路线]({{< reflink path="/visualization/prj-visceads/html/chapters/05.roadmapping.html">}})``。）
 
 智能化指的是进一步使用机器学习、合成数据、人工智能等，使可视化平台提升功能，能回答用户脱碳问题。
 
