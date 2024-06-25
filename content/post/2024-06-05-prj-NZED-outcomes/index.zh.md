@@ -17,7 +17,7 @@ image:
 
 <!--more-->
 
-### 碳排强度: 追踪净零排放成效的联合国指标
+## 碳排强度: 追踪净零排放成效的国际指标
 
 > _**要如何追踪净零排放成效？**_
 
@@ -27,7 +27,9 @@ image:
 
 世界各国各组织如[联合国](https://w3.unece.org/SDG/en/Indicator?id=28)、[IEA 国际能源署](https://www.iea.org/data-and-statistics/charts/co2-emissions-intensity-of-gdp-1990-2021)、[美国能源部](https://www.energy.gov/articles/interactive-energy-intensity-and-carbon-intensity-numbers)、[PwC](https://www.pwc.co.uk/services/sustainability-climate-change/insights/net-zero-economy-index.html)等都提供此数据及可视化。
 
+## 碳排强度: 追踪净零排放成效的中国及世界指标数据
 ### 例子１：中国指标及行动方案要年减3.9%
+
 2024年5月23日[中国印发《2024—2025年节能降碳行动方案》](https://www.gov.cn/zhengce/content/202405/content_6954322.htm)，明定2024年目标：
 
 > 单位国内生产总值能源消耗和二氧化碳排放分别降低2.5%左右、3.9%左右
@@ -37,7 +39,7 @@ image:
 ### 例子２：PwC净零经济指数发现全球脱碳进度落后需**年均减17.2%**
 2023年**PwC**《净零经济指数》（Net Zeronomy Index 2023）](https://www.pwc.tw/zh/news/press-release/press-20231011.html)发现**全球脫碳率**（碳排强度每年降幅）需**年均减17.2%**，[，才能[达成《巴黎协定》的1.5℃目标](https://www.unep.org/interactives/emissions-gap-report/2023/zh/)。
 
-### 🅭澳恪森独立研究发现需**年均减19%**（今年减9%）　
+### 例子３：澳恪森独立研究发现需**年均减19%**（今年减9%）　
 全球脫碳率需**年均减少19%**，[**澳恪森 (Oxford Roadmapping)** 独立研究发现](https://oxon8.netlify.app/visualization/prj-visNetZero/index.zh)，才能达标。其利用IEA目标数据建模推算出每年年均需有 **-9%** 至 **-10%**（2030年前）， **-10%** 至 **-13%**（2040年前）的进展。
 
 ![NZED](prj-visNetZero.jpeg)
@@ -83,10 +85,18 @@ image:
 
 澳恪森表示，在碳管理与服务平台开发方面，将结合亚洲银行、[中国碳核算数据库（CEADs）](https://www.ceads.net/))等数据及报告，在合成数据及人工智能方面研发关键模型及分析工具。
 
----
+
+-----
+## 关于 CEADs
+
+由清华大学关大博教授团队主持的[``中国碳核算数据库（CEADs）``](https://www.ceads.net.cn/)创建于2016年 CEADs，多年来得到中国、英国研究机构的支持，所产出的碳核算数据平台。参见官方[网站](https://www.ceads.net.cn/)，特别是[投入产出表](https://www.ceads.net.cn/data/input_output_tables/)。
+
+## 关于 VisCEADs 与 双碳平台
+
+VisCEADs 交互可视化图由澳恪森开发，探讨[联合国气候变化框架公约](https://unfccc.int/sites/default/files/convchin.pdf)下的中国[双化协同（Green Digital Transformation）](https://m.gmw.cn/2023-02/26/content_1303295710.htm)应用，特别是``碳排管理（Carbon management）平台解决方案开发``，符合如[工业领域碳达峰实施方案](https://www.gov.cn/gongbao/content/2022/content_5717004.htm)及[碳排放管理体系实施](http://bzh.scjgj.beijing.gov.cn/bzh/apifile/file/2021/20210325/f4451779-29b3-491d-ac72-cfe29b5f53b2.PDF)的发展。欢迎来信[📧澳恪森](mailto:h.liao%40ieee.org?subject=%E5%AE%A2%E5%88%B6%E5%8C%96VisCEADs)问询各式合作机会。
 
 {{< readfile file ="/static/md/brand/Oxon8Goals_carbonmanagement" >}}
 
----
+{{< readfile file ="/static/md/brand/GDACOP28" >}}
 
 {{< readfile file ="/static/md/brand/aboutOxon8" >}}
