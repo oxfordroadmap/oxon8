@@ -1,5 +1,5 @@
 ---
-title: 澳恪森释出零碳经济最新数据可视化成果，庆祝世界环境日
+title: 零碳经济最新数据可视化成果，庆祝世界环境日
 date: 2024-06-05
 tags:
   - 双化协同（数字化绿色化协同转型）
@@ -9,11 +9,11 @@ tags:
 categories:
   - 双化行动
 image:
-  filename: NZED-0.1.png
-  preview_only: true
+  filename: prj-visNetZero.jpeg
+  preview_only: false
 ---
 
-2024年6月5日，庆祝[世界环境日](https://www.un.org/zh/observances/environment-day)上，澳恪森释出[零碳经济最新数据可视化成果]({{< ref "/project/prj-VisNetZero" >}})，研究结果发现，**全球脫碳率（碳排强度年度环比降幅）**須**年减19%**，至2030年須 **年减9%** ，至2040年須**年减10-13%** ，方能將升溫幅度控制在1.5°C以內，才能[达成《巴黎协定》的1.5℃目标](https://www.unep.org/interactives/emissions-gap-report/2023/zh/)。
+庆祝 2024年6月5日 [世界环境日](https://www.un.org/zh/observances/environment-day)，澳恪森释出[零碳经济最新数据可视化成果]({{< reflink path="/visualization/prj-VisNetZero/index.zh" >}})，研究结果发现，``全球脫碳率``（碳排强度年度环比降幅）須``年减19%``，至2030年須 ``年减9%*``，至2040年須``年减10-13%`` ，方能[达成《巴黎协定》](https://www.unep.org/interactives/emissions-gap-report/2023/zh/)將升溫幅度控制在1.5°C以內的目标。
 
 <!--more-->
 
@@ -35,12 +35,12 @@ image:
 其中，国内生产总值二氧化碳排放，指的就是CO2/GDP的**碳排强度 (每产值单位碳排放量)** 。国内生产总值能源消耗，指的就是Energy/GDP的**能耗强度 (每产值单位初级能源消耗)**
 
 ### 例子２：PwC净零经济指数发现全球脱碳进度落后需**年均减17.2%**
-2023年**PwC**《ch》（Net Zeronomy Index 2023）](https://www.pwc.tw/zh/news/press-release/press-20231011.html)发现**全球脫碳率**（碳排强度每年降幅）需**年均减17.2%**，[，才能[达成《巴黎协定》的1.5℃目标](https://www.unep.org/interactives/emissions-gap-report/2023/zh/)。
+2023年**PwC**《净零经济指数》（Net Zeronomy Index 2023）](https://www.pwc.tw/zh/news/press-release/press-20231011.html)发现**全球脫碳率**（碳排强度每年降幅）需**年均减17.2%**，[，才能[达成《巴黎协定》的1.5℃目标](https://www.unep.org/interactives/emissions-gap-report/2023/zh/)。
 
 ### 🅭澳恪森独立研究发现需**年均减19%**（今年减9%）　
-全球脫碳率需**年均减少19%**，[**🅭澳恪森 (Oxford Roadmapping)** 独立研究发现](https://oxon8.netlify.app/visualization/prj-visNetZero/index.zh)，才能达标。其利用IEA目标数据建模推算出每年年均需有 **-9%** 至 **-10%**（2030年前）， **-10%** 至 **-13%**（2040年前）的进展。
+全球脫碳率需**年均减少19%**，[**澳恪森 (Oxford Roadmapping)** 独立研究发现](https://oxon8.netlify.app/visualization/prj-visNetZero/index.zh)，才能达标。其利用IEA目标数据建模推算出每年年均需有 **-9%** 至 **-10%**（2030年前）， **-10%** 至 **-13%**（2040年前）的进展。
 
-![NZED](NZED-0.1.png)
+![NZED](prj-visNetZero.jpeg)
 
 针对21个经济体，包G7、E7、GE7(亚洲四小龙加3)、研究发现：
 * **E7需4倍努力**：作为工业与经济正发达的经济体代表，若按乐观地最佳表现的2021年相比，需4倍努力。
