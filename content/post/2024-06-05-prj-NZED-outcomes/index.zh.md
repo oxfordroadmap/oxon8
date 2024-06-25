@@ -13,7 +13,7 @@ image:
   preview_only: false
 ---
 
-庆祝 2024年6月5日 [世界环境日](https://www.un.org/zh/observances/environment-day)，澳恪森释出[零碳经济最新数据可视化成果]({{< reflink path="/visualization/prj-VisNetZero/index.zh" >}})，研究结果发现，``全球脫碳率``（碳排强度年度环比降幅）須``年减19%``，至2030年須 ``年减9%*``，至2040年須``年减10-13%`` ，方能[达成《巴黎协定》](https://www.unep.org/interactives/emissions-gap-report/2023/zh/)將升溫幅度控制在1.5°C以內的目标。
+庆祝 2024年6月5日 [世界环境日](https://www.un.org/zh/observances/environment-day)，澳恪森释出[零碳经济最新数据可视化成果 VisNetZero]({{< reflink path="/visualization/prj-VisNetZero/index.zh" >}})，研究结果发现，``全球脫碳率``（碳排强度年度环比降幅）須``年减19%``，至2030年須 ``年减9%*``，至2040年須``年减10-13%`` ，方能[达成《巴黎协定》](https://www.unep.org/interactives/emissions-gap-report/2023/zh/)將升溫幅度控制在1.5°C以內的目标。
 
 <!--more-->
 
@@ -49,21 +49,30 @@ image:
 * **G7需加倍努力**：作为工业与经济已发达的经济体代表，若乐观地按最佳表现的2020年需加倍努力。
 * **GE7需1.5倍努力**：GE7发展介于G7及E7之间，历年排放都低于**G7及E7**，減排向下(线性)，但要达1.5℃目标需加速(指数)，2030年前**每年需减9.8-10.3%**，但过去5年间实际数据在-0.121%至-7.093%之间。若按最佳表现的2019年相比，需1.5倍努力（10/7约为1.4）。
 
-![CO2pG_World-E7-G7-GE7.zh](CO2pG_World-E7-G7-GE7.zh.png)
+> CO2pG：新兴七囯、七国集团、四小龙+3、全世界的脱碳率比较及达1.5℃目标情境
+![prj-visNetZero-CO2pG_World-E7-G7-GE7.png](prj-visNetZero-CO2pG_World-E7-G7-GE7.png)
+### 澳恪森零碳经济数据集来源：牛津大学的 OWID
+
+澳恪森零碳经济数据集来源，是来自位于牛津大学的（Our World in Data, _OWID_，"从数据看我们的世界"）的[可視化來源](https://ourworldindata.org/co2-and-greenhouse-gas-emissions)及其[数据源頭更新](https://github.com/owid/co2-data)，再加以IEA数据为未来需要达的指标建模构建可行目标。
 
 ### 2022年表现最优的经济体
+
 2022年21个经济体之中分组表现**脫碳率**（碳排强度每年降幅）**最优**的分别是土耳其(-8.8% E7)、英国(-11.9% G7)、新加坡(-8% GE7)，这些经济体除了英国有达成预测所需的全球脱碳每年降幅比例，离所需的全球每年降幅-9%（2030年前）差距不大，显见此脱碳降幅标准的可行性。
 
 脫碳率（碳排强度每年降幅）**最差**的分别是印尼(+12.4% E7)、加拿大(-1.3% G7)、西班牙(+1.1% GE7)，这些经济体除印尼因相对发展水平仍低之外，离所需的全球每年降幅-9%（2030年前）差距大。
 
 ### 其它数据：碳排强度分解式数据（分省分产业）落实行动
 
-此碳排强度数据指标，可以进一步利用如基于中国碳核算数据库（CEADs）的**[「精准脱碳」交互可视化产品]({{< ref "/project/prj-VisCEADs" >}})** 针对分解式数据（分省分产业）来精准节能降碳行动方案。
+此碳排强度数据指标，可以进一步利用如基于中国碳核算数据库（CEADs）的 [``「精准脱碳」交互可视化产品``]({{< reflink path="/visualization/prj-VisCEADs/index.zh" >}}) 针对分解式数据（分省分产业）来精准节能降碳行动方案。
+
+> 浙江省碳排强度前七行业比较历年走势图
 
 ![浙江碳排放强度前7行业](浙江碳排放强度前7行业.svg)
 
 澳恪森表示，在碳管理与服务平台开发方面，将结合碳排强度的各阶层数据可视化及建模、产业投入产出网络可视化及建模、以及**产业脱碳法 SDA** 的人工智能助手，来提供经济数据及产业文本方法持续开发智能交互可视化产品及知识产权，以促如中国《节能降碳行动方案》可有数据及可行方案的依据。
 
+> 广东省碳排强度前七行业比较历年走势图
+> 
 ![广东碳排放强度前7行业](广东碳排放强度前7行业.svg)
 
 ### 其它指标：人均碳排数据（分组或分地区）确保绿色转型正义
@@ -79,21 +88,22 @@ image:
 > _**要如何追踪净零排放能有转型正义，确保人类发展公平？**_
 
 
-特别像是亚洲四小龙的 台湾 、韩国，其人均碳排数据指标高于能源输出大国俄罗斯，需要投资更多以数据为驱动，以科学为基础的行业脱碳法SDA，一方面引领绿色创新，另一方面确保其区域的绿色转型正义。
+特别像是亚洲四小龙的 台湾 、韩国，其人均碳排数据指标高于能源输出大国俄罗斯，需要投资更多以数据为驱动，以科学为基础的行业脱碳法SDA，一方面引领绿色创新，另一方面确保区域的绿色转型正义。
 
-![CO2pC_GE7_Taiwan-Korea](CO2pC_GE7_Taiwan-Korea.png)
+> 亚洲四小龙经济体的 台湾 、韩国 需加倍努力，负起绿色转型正义区域责任
+![prj-visNetZero-CO2pC_GE7_Taiwan-Korea](prj-visNetZero-CO2pC_GE7_Taiwan-Korea.png)
 
 澳恪森表示，在碳管理与服务平台开发方面，将结合亚洲银行、[中国碳核算数据库（CEADs）](https://www.ceads.net/))等数据及报告，在合成数据及人工智能方面研发关键模型及分析工具。
 
 
 -----
-## 关于 CEADs
+## 关于 OWID
 
-由清华大学关大博教授团队主持的[``中国碳核算数据库（CEADs）``](https://www.ceads.net.cn/)创建于2016年 CEADs，多年来得到中国、英国研究机构的支持，所产出的碳核算数据平台。参见官方[网站](https://www.ceads.net.cn/)，特别是[投入产出表](https://www.ceads.net.cn/data/input_output_tables/)。
+位于牛津大学的（Our World in Data, _OWID_，"从数据看我们的世界"）是全球变化数据实验室（Global Change Data Lab）的[一个把內容及软件开源的科研项目](https://github.com/owid)。重点关注诸如贫穷，疾病，饥饿，气候变化，战争，存在的风险和不平等之类的全球性大问题。Our World In Data采取开放内容授权。其数据可视化平台软件为 [OWID-grapher](https://github.com/owid/owid-grapher/)。
 
-## 关于 VisCEADs 与 双碳平台
+## 关于 VisNetZero、VisCEADs 与 双碳平台
 
-VisCEADs 交互可视化图由澳恪森开发，探讨[联合国气候变化框架公约](https://unfccc.int/sites/default/files/convchin.pdf)下的中国[双化协同（Green Digital Transformation）](https://m.gmw.cn/2023-02/26/content_1303295710.htm)应用，特别是``碳排管理（Carbon management）平台解决方案开发``，符合如[工业领域碳达峰实施方案](https://www.gov.cn/gongbao/content/2022/content_5717004.htm)及[碳排放管理体系实施](http://bzh.scjgj.beijing.gov.cn/bzh/apifile/file/2021/20210325/f4451779-29b3-491d-ac72-cfe29b5f53b2.PDF)的发展。欢迎来信[📧澳恪森](mailto:h.liao%40ieee.org?subject=%E5%AE%A2%E5%88%B6%E5%8C%96VisCEADs)问询各式合作机会。
+[VisNetZero]({{< reflink path="/visualization/prj-VisNetZero/index.zh" >}})、[VisCEADs]({{< reflink path="/visualization/prj-VisCEADs/index.zh" >}}) 交互可视化图由澳恪森开发，探讨[联合国气候变化框架公约](https://unfccc.int/sites/default/files/convchin.pdf)下的中国[双化协同（Green Digital Transformation）](https://m.gmw.cn/2023-02/26/content_1303295710.htm)应用，特别是``碳排管理（Carbon management）平台解决方案开发``，符合如[工业领域碳达峰实施方案](https://www.gov.cn/gongbao/content/2022/content_5717004.htm)及[碳排放管理体系实施](http://bzh.scjgj.beijing.gov.cn/bzh/apifile/file/2021/20210325/f4451779-29b3-491d-ac72-cfe29b5f53b2.PDF)的发展。欢迎来信[📧澳恪森](mailto:h.liao%40ieee.org?subject=%E5%AE%A2%E5%88%B6%E5%8C%96VisCEADs)问询各式合作机会。
 
 {{< readfile file ="/static/md/brand/Oxon8Goals_carbonmanagement" >}}
 

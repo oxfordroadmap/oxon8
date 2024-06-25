@@ -106,9 +106,10 @@ VisCEADs 创新点主要将ViSCEADs 相关的百万多的数据点，经数据�
 
 由清华大学关大博教授团队主持的[``中国碳核算数据库（CEADs）``](https://www.ceads.net.cn/)创建于2016年 CEADs，多年来得到中国、英国研究机构的支持，所产出的碳核算数据平台。参见官方[网站](https://www.ceads.net.cn/)，特别是[投入产出表](https://www.ceads.net.cn/data/input_output_tables/)。
 
-## 关于 VisCEADs 与 双碳平台
+## 关于 VisCEADs、VisNetZero 与 双碳平台
 
-VisCEADs 交互可视化图由澳恪森开发，探讨[联合国气候变化框架公约](https://unfccc.int/sites/default/files/convchin.pdf)下的中国[双化协同（Green Digital Transformation）](https://m.gmw.cn/2023-02/26/content_1303295710.htm)应用，特别是``碳排管理（Carbon management）平台解决方案开发``，符合如[工业领域碳达峰实施方案](https://www.gov.cn/gongbao/content/2022/content_5717004.htm)及[碳排放管理体系实施](http://bzh.scjgj.beijing.gov.cn/bzh/apifile/file/2021/20210325/f4451779-29b3-491d-ac72-cfe29b5f53b2.PDF)的发展。欢迎来信[📧澳恪森](mailto:h.liao%40ieee.org?subject=%E5%AE%A2%E5%88%B6%E5%8C%96VisCEADs)问询各式合作机会。
+[VisCEADs]({{< reflink path="/visualization/prj-VisCEADs/index.zh" >}}) 、[VisNetZero]({{< reflink path="/visualization/prj-VisNetZero/index.zh" >}})交互可视化图由澳恪森开发，探讨[联合国气候变化框架公约](https://unfccc.int/sites/default/files/convchin.pdf)下的中国[双化协同（Green Digital Transformation）](https://m.gmw.cn/2023-02/26/content_1303295710.htm)应用，特别是``碳排管理（Carbon management）平台解决方案开发``，符合如[工业领域碳达峰实施方案](https://www.gov.cn/gongbao/content/2022/content_5717004.htm)及[碳排放管理体系实施](http://bzh.scjgj.beijing.gov.cn/bzh/apifile/file/2021/20210325/f4451779-29b3-491d-ac72-cfe29b5f53b2.PDF)的发展。欢迎来信[📧澳恪森](mailto:h.liao%40ieee.org?subject=%E5%AE%A2%E5%88%B6%E5%8C%96VisCEADs)问询各式合作机会。
+
 
 {{< readfile file ="/static/md/brand/Oxon8Goals_carbonmanagement" >}}
 
