@@ -1,5 +1,5 @@
 ---
-title: Celebration the World Environment Day--Project Net Zero Dataset Released 
+title: Celebration the World Environment Day-- Visualization Project Net Zero Dataset Released 
 date: 2023-12-09
 tags:
   - GreenDigitalTransformation
@@ -21,4 +21,4 @@ Celebrating [World Environment Day](https://www.un.org/zh/observances/environmen
 Updating what PwC has done with the Net Zero Economy Index, our research findings provide further details regarding G7, E7, and other Asian Dragon economies.
 
 Have a try with the interactive visualization: 
-https://oxon8.netlify.app/en/visualization/prj-visnetzero/index.en
+https://oxon8.netlify.app/visualization/prj-visNetZero/index.en
