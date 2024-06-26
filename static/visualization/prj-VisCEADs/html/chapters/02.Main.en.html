@@ -9,7 +9,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
 
-    <title>1. ℹ️ Basic Information &#8212; VisCEADs 使用指南</title>
+    <title>2. 📉Main Graph &#8212; VisCEADs 使用指南</title>
   
   
   
@@ -59,7 +59,7 @@
     <script src="../_static/design-tabs.js"></script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
     <script async="async" src="../_static/sphinx-thebe.js"></script>
-    <script>DOCUMENTATION_OPTIONS.pagename = 'chapters/01.VisCEADs.en';</script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'chapters/02.Main.en';</script>
     <script src="https://cdn.holoviz.org/panel/1.4.2/dist/bundled/react@17/umd/react.production.min.js"></script>
     <script src="https://cdn.holoviz.org/panel/1.4.2/dist/bundled/react-dom@17/umd/react-dom.production.min.js"></script>
     <script src="https://cdn.holoviz.org/panel/1.4.2/dist/bundled/babel-standalone@latest/babel.min.js"></script>
@@ -74,8 +74,8 @@
     <script src="https://cdn.holoviz.org/panel/1.4.2/dist/panel.min.js"></script>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
-    <link rel="next" title="2. 📉Main Graph" href="02.Main.en.html" />
-    <link rel="prev" title="VisCEADs：Input-Output Network Visualization" href="../index.en.html" />
+    <link rel="next" title="2.1. 💡Information provided through the main network" href="../features/app_feature_main-01.en.html" />
+    <link rel="prev" title="1. ℹ️ Basic Information" href="01.VisCEADs.en.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
   </head>
@@ -190,8 +190,8 @@
             </li>
         </ul>
         <ul class="current nav bd-sidenav">
-<li class="toctree-l1 current active"><a class="current reference internal" href="#">1. ℹ️ Basic Information</a></li>
-<li class="toctree-l1 has-children"><a class="reference internal" href="02.Main.en.html">2. 📉Main Graph</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l1"><a class="reference internal" href="01.VisCEADs.en.html">1. ℹ️ Basic Information</a></li>
+<li class="toctree-l1 current active has-children"><a class="current reference internal" href="#">2. 📉Main Graph</a><details open="open"><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
 <li class="toctree-l2"><a class="reference internal" href="../features/app_feature_main-01.en.html">2.1. 💡Information provided through the main network</a></li>
 </ul>
 </details></li>
@@ -269,7 +269,7 @@
       
       
       
-      <li><a href="https://github.com/oxon8/VisCEADs_jupyter_book/edit/master/html/chapters/01.VisCEADs.en.md" target="_blank"
+      <li><a href="https://github.com/oxon8/VisCEADs_jupyter_book/edit/master/html/chapters/02.Main.en.md" target="_blank"
    class="btn btn-sm btn-source-edit-button dropdown-item"
    title="Suggest edit"
    data-bs-placement="left" data-bs-toggle="tooltip"
@@ -286,7 +286,7 @@
       
       
       
-      <li><a href="https://github.com/oxon8/VisCEADs_jupyter_book/issues/new?title=Issue%20on%20page%20%2Fchapters/01.VisCEADs.en.html&body=Your%20issue%20content%20here." target="_blank"
+      <li><a href="https://github.com/oxon8/VisCEADs_jupyter_book/issues/new?title=Issue%20on%20page%20%2Fchapters/02.Main.en.html&body=Your%20issue%20content%20here." target="_blank"
    class="btn btn-sm btn-source-issues-button dropdown-item"
    title="Open an issue"
    data-bs-placement="left" data-bs-toggle="tooltip"
@@ -316,7 +316,7 @@
       
       
       
-      <li><a href="../_sources/chapters/01.VisCEADs.en.md" target="_blank"
+      <li><a href="../_sources/chapters/02.Main.en.md" target="_blank"
    class="btn btn-sm btn-download-source-button dropdown-item"
    title="Download source file"
    data-bs-placement="left" data-bs-toggle="tooltip"
@@ -398,7 +398,7 @@ document.write(`
               
 
 <div id="jb-print-docs-body" class="onlyprint">
-    <h1>ℹ️ Basic Information</h1>
+    <h1>📉Main Graph</h1>
     <!-- Table of contents -->
     <div id="print-main-content">
         <div id="jb-print-toc">
@@ -412,47 +412,19 @@ document.write(`
 <div id="searchbox"></div>
                 <article class="bd-article">
                   
-  <section class="tex2jax_ignore mathjax_ignore" id="i-basic-information">
-<h1><span class="section-number">1. </span>ℹ️ Basic Information<a class="headerlink" href="#i-basic-information" title="Permalink to this heading">#</a></h1>
-<p><a class="reference external" href="https://oxon8.netlify.app/visualization/prj-visCEADs/index.zh"><code class="docutils literal notranslate"><span class="pre">VisCEADs</span></code> Input-Output Network Dashboard</a>, based on the input-output data and carbon emission inventory data  compiled in the <code class="docutils literal notranslate"><span class="pre">Carbon</span> <span class="pre">Emission</span> <span class="pre">Accounts</span> <span class="pre">&amp;</span> <span class="pre">Datasets</span></code><a class="reference external" href="https://www.ceads.net.cn/"> (CEADs)</a>   <span id="id1">[<a class="reference internal" href="04.Data.en.html#id11" title="Yuli Shan, Qi Huang, Dabo Guan, and Klaus Hubacek. China co2 emission accounts 2016–2017. Scientific Data, 7(1):54, Feb 2020. URL: https://doi.org/10.1038/s41597-020-0393-y, doi:10.1038/s41597-020-0393-y.">SHGH20</a>]</span>, provides visualized <code class="docutils literal notranslate"><span class="pre">dashboards</span></code> to assists government and corporate leaders, industry and academic researchers, to make decisions for <code class="docutils literal notranslate"><span class="pre">precision</span> <span class="pre">decarbonization</span></code>.</p>
-<p>将 <code class="docutils literal notranslate"><span class="pre">投入产出网络</span></code> 中各部门间的经济联系和影响可视化，VisCEADs 仪表盘能提供科学、经济、系统地洞察，特别是对 <code class="docutils literal notranslate"><span class="pre">碳核算</span></code>  相关的产业政策与治理、环境政策与治理等。</p>
-<p>突显主要指标如 <code class="docutils literal notranslate"><span class="pre">二氧化碳排放</span></code> 和  <code class="docutils literal notranslate"><span class="pre">碳排强度</span></code> ，VisCEADs 仪表盘能助分省分行业部门交叉分析，提供坚实的科学基础，达成《<a class="reference external" href="https://www.gov.cn/zhengce/202405/content_6954583.htm">2024—2025年节能降碳行动方案</a>》中的具体指标要求，包括每單位国内生产总值  <code class="docutils literal notranslate"><span class="pre">二氧化碳排放</span></code>  和  <code class="docutils literal notranslate"><span class="pre">能源消耗</span></code>　的持续减量，以最终达成《巴黎协定》1.5℃目标。</p>
-<div class="important admonition">
-<p class="admonition-title"><code class="docutils literal notranslate"><span class="pre">二氧化碳排放</span></code> 指标要降多少？</p>
-<ul class="simple">
-<li><p>中国2024年要<code class="docutils literal notranslate"><span class="pre">年减3.9%</span></code>左右（<code class="docutils literal notranslate"><span class="pre">单位国内生产总值二氧化碳排放</span></code>。见<a class="reference external" href="https://www.gov.cn/zhengce/202405/content_6954583.htm">《2024—2025年节能降碳行动方案》</a></p></li>
-<li><p>PwC指出，世界碳排强度需<code class="docutils literal notranslate"><span class="pre">年均减少17.2%</span></code>，才能达《巴黎协定》1.5℃目标。见<a class="reference external" href="https://www.pwc.tw/zh/news/press-release/press-20231011.html">《2023淨零排放經濟指數報告》（Net Zero Economy Index 2023）</a>。</p></li>
-<li><p>澳恪森研究发现，世界碳排强度需<code class="docutils literal notranslate"><span class="pre">年均减少19%</span></code>，才能达1.5℃目标。见<a class="reference external" href="https://oxon8.netlify.app/visualization/prj-visnetzero/index.zh">VisNetZero成果</a>）。</p></li>
-</ul>
+  <section class="tex2jax_ignore mathjax_ignore" id="main-graph">
+<h1><span class="section-number">2. </span>📉Main Graph<a class="headerlink" href="#main-graph" title="Permalink to this heading">#</a></h1>
+<p>The <code class="docutils literal notranslate"><span class="pre">Main</span> <span class="pre">Graph</span></code>, composed by a <code class="docutils literal notranslate"><span class="pre">network</span> <span class="pre">graph</span></code> of input-output relationship, is situated at the top of the dashboard, with the interactive widgets next to it in the  <code class="docutils literal notranslate"><span class="pre">side</span> <span class="pre">bar</span></code>. It is used to explore the interactive relationship of <code class="docutils literal notranslate"><span class="pre">industry</span> <span class="pre">structure</span></code> within an economy.</p>
+<blockquote>
+<div><p>TBD: to be translated soon</p>
+</div></blockquote>
+<p><img alt="../figures/VisCEADs_layout.zh.png" src="../_images/VisCEADs_layout.zh.png" /></p>
+<p><code class="docutils literal notranslate"><span class="pre">副表及副图</span></code>，位于仪表盘布局正下方。</p>
+<div class="note admonition">
+<p class="admonition-title">研究笔记：<code class="docutils literal notranslate"><span class="pre">前5%</span></code> 的产业投入产出关系</p>
+<p>投入产出网络为简／减化的产业网络关系，经澳恪森研究得出，排名 <code class="docutils literal notranslate"><span class="pre">前5%</span></code> 的产业投入产出关系，其产值通常占该地区经济活动产值的 <code class="docutils literal notranslate"><span class="pre">60%至80%</span></code>，按此简化网络可产出一方面具代表性，一方面人眼可识别并能取得洞察的网络图。</p>
 </div>
-<hr class="docutils" />
-<p>參考來源：</p>
-<ul class="simple">
-<li><p>中国统计局，2023/01/01，<a class="reference external" href="https://www.stats.gov.cn/zs/tjws/tjfx/202301/t20230101_1903477.html">投入产出表的分析要点有哪些，《领导干部统计知识问答》</a></p></li>
-<li><p>国发委，2024/05，<a class="reference external" href="https://www.gov.cn/zhengce/202405/content_6954583.htm">《2024—2025年节能降碳行动方案》国家政策</a></p></li>
-<li><p><a class="reference external" href="https://data.stats.gov.cn/ifnormal.htm?u=/files/html/quickSearch/trcc/trcc01.html&amp;amp;h=740">中国统计局 投入产出表</a></p></li>
-</ul>
-<p>参考书目：</p>
-<div class="docutils container" id="id2">
-<dl class="citation">
-<dt class="label" id="id3"><span class="brackets"><a class="fn-backref" href="#id1">SHGH20</a></span></dt>
-<dd><p>Yuli Shan, Qi Huang, Dabo Guan, and Klaus Hubacek. China co2 emission accounts 2016–2017. <em>Scientific Data</em>, 7(1):54, Feb 2020. URL: <a class="reference external" href="https://doi.org/10.1038/s41597-020-0393-y">https://doi.org/10.1038/s41597-020-0393-y</a>, <a class="reference external" href="https://doi.org/10.1038/s41597-020-0393-y">doi:10.1038/s41597-020-0393-y</a>.</p>
-</dd>
-</dl>
-</div>
-<div class="seealso admonition">
-<p class="admonition-title"><code class="docutils literal notranslate"><span class="pre">CEADs中国碳核算数据库</span></code></p>
-<p>…</p>
-</div>
-<hr class="docutils" />
-<div class="seealso admonition">
-<p class="admonition-title"><code class="docutils literal notranslate"><span class="pre">visCEADs</span></code></p>
-<p>…</p>
-</div>
-<hr class="docutils" />
-<div class="seealso admonition">
-<p class="admonition-title"><code class="docutils literal notranslate"><span class="pre">VisNetZero</span></code></p>
-<p>…</p>
+<div class="toctree-wrapper compound">
 </div>
 </section>
 
@@ -487,20 +459,20 @@ document.write(`
                   
 <div class="prev-next-area">
     <a class="left-prev"
-       href="../index.en.html"
+       href="01.VisCEADs.en.html"
        title="previous page">
       <i class="fa-solid fa-angle-left"></i>
       <div class="prev-next-info">
         <p class="prev-next-subtitle">previous</p>
-        <p class="prev-next-title">VisCEADs：Input-Output Network Visualization</p>
+        <p class="prev-next-title"><span class="section-number">1. </span>ℹ️ Basic Information</p>
       </div>
     </a>
     <a class="right-next"
-       href="02.Main.en.html"
+       href="../features/app_feature_main-01.en.html"
        title="next page">
       <div class="prev-next-info">
         <p class="prev-next-subtitle">next</p>
-        <p class="prev-next-title"><span class="section-number">2. </span>📉Main Graph</p>
+        <p class="prev-next-title"><span class="section-number">2.1. </span>💡Information provided through the main network</p>
       </div>
       <i class="fa-solid fa-angle-right"></i>
     </a>
