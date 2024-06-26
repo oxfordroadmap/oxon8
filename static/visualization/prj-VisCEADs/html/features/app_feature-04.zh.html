@@ -1,0 +1,929 @@
+
+
+<!DOCTYPE html>
+
+
+<html lang="zh" data-content_root="" data-theme="dark">
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
+    <title>3.5. 🔀分页4桑基图 &#8212; VisCEADs 使用指南</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "dark";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "dark";
+  </script>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../_static/styles/theme.css?digest=3ee479438cf8b5e0d341" rel="stylesheet" />
+<link href="../_static/styles/bootstrap.css?digest=3ee479438cf8b5e0d341" rel="stylesheet" />
+<link href="../_static/styles/pydata-sphinx-theme.css?digest=3ee479438cf8b5e0d341" rel="stylesheet" />
+
+  
+  <link href="../_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=3ee479438cf8b5e0d341" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/sphinx-book-theme.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/copybutton.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-design.5ea377869091fd0449014c60fc090103.min.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/custom.css" />
+  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=3ee479438cf8b5e0d341" />
+<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=3ee479438cf8b5e0d341" />
+  <script src="../_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=3ee479438cf8b5e0d341"></script>
+
+    <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/_sphinx_javascript_frameworks_compat.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/clipboard.min.js"></script>
+    <script src="../_static/copybutton.js"></script>
+    <script src="../_static/scripts/sphinx-book-theme.js"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="../_static/togglebutton.js"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script src="../_static/design-tabs.js"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script async="async" src="../_static/sphinx-thebe.js"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'features/app_feature-04.zh';</script>
+    <script src="https://cdn.holoviz.org/panel/1.4.2/dist/bundled/react@17/umd/react.production.min.js"></script>
+    <script src="https://cdn.holoviz.org/panel/1.4.2/dist/bundled/react-dom@17/umd/react-dom.production.min.js"></script>
+    <script src="https://cdn.holoviz.org/panel/1.4.2/dist/bundled/babel-standalone@latest/babel.min.js"></script>
+    <script src="https://cdn.holoviz.org/panel/1.4.2/dist/bundled/echarts/echarts@5.4.1/dist/echarts.min.js"></script>
+    <script src="https://cdn.holoviz.org/panel/1.4.2/dist/bundled/echarts/echarts-gl@2.0.9/dist/echarts-gl.min.js"></script>
+    <script src="https://cdn.holoviz.org/panel/1.4.2/dist/bundled/datatabulator/tabulator-tables@5.5.0/dist/js/tabulator.min.js"></script>
+    <script src="https://cdn.holoviz.org/panel/1.4.2/dist/bundled/datatabulator/luxon/build/global/luxon.min.js"></script>
+    <script src="https://cdn.bokeh.org/bokeh/release/bokeh-3.4.0.min.js"></script>
+    <script src="https://cdn.bokeh.org/bokeh/release/bokeh-gl-3.4.0.min.js"></script>
+    <script src="https://cdn.bokeh.org/bokeh/release/bokeh-tables-3.4.0.min.js"></script>
+    <script src="https://cdn.bokeh.org/bokeh/release/bokeh-widgets-3.4.0.min.js"></script>
+    <script src="https://cdn.holoviz.org/panel/1.4.2/dist/panel.min.js"></script>
+    <link rel="index" title="索引" href="../genindex.html" />
+    <link rel="search" title="搜索" href="../search.html" />
+    <link rel="next" title="4. 🗃️CEADs 数据库" href="../chapters/04.Data.zh.html" />
+    <link rel="prev" title="3.4. 📉分页3历史走势" href="app_feature-03.zh.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="zh"/>
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="dark">
+
+  
+  
+  <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">跳至主内容</a></div>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>导航回顶部</button>
+
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-primary-sidebar-checkbox"/>
+  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-secondary-sidebar-checkbox"/>
+  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="../search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search this book..."
+         aria-label="Search this book..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+
+  <div class="pst-async-banner-revealer d-none">
+  <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="版本警告"></aside>
+</div>
+
+  
+    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+    </header>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      
+      
+      <div class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+
+  
+
+<a class="navbar-brand logo" href="../index.zh.html">
+  
+  
+  
+  
+  
+    
+    
+    
+    <img src="../_static/logo.svg" class="logo__image only-dark" alt="VisCEADs 使用指南 - Home"/>
+    <script>document.write(`<img src="../_static/logo.svg" class="logo__image only-light" alt="VisCEADs 使用指南 - Home"/>`);</script>
+  
+  
+</a></div>
+        <div class="sidebar-primary-item">
+
+ <script>
+ document.write(`
+   <button class="btn navbar-btn search-button-field search-button__button" title="搜索" aria-label="搜索" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+    <span class="search-button__default-text">搜索</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script></div>
+        <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="../index.zh.html">
+                    VisCEADs：投入产出网络
+                </a>
+            </li>
+        </ul>
+        <ul class="current nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../chapters/01.VisCEADs.zh.html">1. ℹ️ 基本信息</a></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../chapters/02.Main.zh.html">2. 📉主图</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="app_feature_main-01.zh.html">2.1. 💡网络图可供情报</a></li>
+<li class="toctree-l2"><a class="reference internal" href="app_feature_main-02.zh.html">2.2. 🖱网络图可供控件</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 current active has-children"><a class="reference internal" href="../chapters/03.Additional.zh.html">3. 📅副图表</a><details open="open"><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="app_feature-01.zh.html">3.1. 🏭分页1行业表</a></li>
+<li class="toctree-l2"><a class="reference internal" href="app_feature-02.zh.html">3.2. 💹分页2投入产出表</a></li>
+
+<li class="toctree-l2"><a class="reference internal" href="app_feature-03.zh.html">3.4. 📉分页3历史走势</a></li>
+<li class="toctree-l2 current active"><a class="current reference internal" href="#">3.5. 🔀分页4桑基图</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1"><a class="reference internal" href="../chapters/04.Data.zh.html">4. 🗃️CEADs 数据库</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../chapters/05.Roadmapping.zh.html">5. 🧭发展路线</a></li>
+</ul>
+
+    </div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main" role="main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article d-print-none">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><button class="sidebar-toggle primary-toggle btn btn-sm" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</button></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-source-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Source repositories">
+    <i class="fab fa-github"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="https://github.com/oxon8/VisCEADs_jupyter_book" target="_blank"
+   class="btn btn-sm btn-source-repository-button dropdown-item"
+   title="源码库"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fab fa-github"></i>
+  </span>
+<span class="btn__text-container">Repository</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li><a href="https://github.com/oxon8/VisCEADs_jupyter_book/edit/master/html/features/app_feature-04.zh.ipynb" target="_blank"
+   class="btn btn-sm btn-source-edit-button dropdown-item"
+   title="Suggest edit"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-pencil-alt"></i>
+  </span>
+<span class="btn__text-container">Suggest edit</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li><a href="https://github.com/oxon8/VisCEADs_jupyter_book/issues/new?title=Issue%20on%20page%20%2Ffeatures/app_feature-04.zh.html&body=Your%20issue%20content%20here." target="_blank"
+   class="btn btn-sm btn-source-issues-button dropdown-item"
+   title="创建议题"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-lightbulb"></i>
+  </span>
+<span class="btn__text-container">Open issue</span>
+</a>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="下载此页面">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="../_sources/features/app_feature-04.zh.ipynb" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="下载源文件"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="btn__text-container">.ipynb</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="列印成 PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="全屏模式"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm navbar-btn theme-switch-button" title="亮屏/黑暗模式" aria-label="亮屏/黑暗模式" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="theme-switch nav-link" data-mode="light"><i class="fa-solid fa-sun fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="dark"><i class="fa-solid fa-moon fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="auto"><i class="fa-solid fa-circle-half-stroke fa-lg"></i></span>
+  </button>
+`);
+</script>
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm navbar-btn search-button search-button__button" title="搜索" aria-label="搜索" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+  </button>
+`);
+</script>
+<button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</button>
+</div></div>
+      
+    </div>
+  
+</div>
+</div>
+              
+              
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>🔀分页4桑基图</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+            <div>
+                <h2> 目录 </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id2">3.5.1. 示意展示图</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id3">3.5.2. 📜桑基图探究<code class="docutils literal notranslate"><span class="pre">产业结构</span></code>和<code class="docutils literal notranslate"><span class="pre">能源结构</span></code></a><ul class="visible nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id4">3.5.2.1. 💱投入产出表的桑基图可提供关系洞察</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id5">3.5.2.2. 🛢传统桑基图用于能源供应与消费</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id6">3.5.2.3. ❓<code class="docutils literal notranslate"><span class="pre">结构转型</span></code>要怎样启动</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#i">3.5.3. ℹ️此桑基图的交互功能</a><ul class="visible nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id7">3.5.3.1. 可排版</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id8">3.5.3.2. 可选 <code class="docutils literal notranslate"><span class="pre">地区</span></code> 及 <code class="docutils literal notranslate"><span class="pre">年份</span></code></a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id9">3.5.4. 🎁客制化</a><ul class="visible nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id10">3.5.4.1. 客制化可能例子一</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id11">3.5.4.2. 客制化可能例子二</a></li>
+</ul>
+</li>
+</ul>
+            </nav>
+        </div>
+    </div>
+</div>
+
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                  
+  <script type="module" src="https://cdn.holoviz.org/panel/1.4.2/dist/bundled/@microsoft/fast-components@2.30.6/dist/fast-components.js"></script>
+<script type="module" src="https://cdn.holoviz.org/panel/1.4.2/dist/bundled/fast/js/fast_design.js"></script>
+<section id="id1">
+<h1><span class="section-number">3.5. </span>🔀分页4桑基图<a class="headerlink" href="#id1" title="Permalink to this heading">#</a></h1>
+<p>分页4提供<code class="docutils literal notranslate"><span class="pre">核心桑基（图）：核心投入产出行业关系</span></code>。</p>
+<p>此处允许用户选择 <code class="docutils literal notranslate"><span class="pre">地区</span></code> 及 <code class="docutils literal notranslate"><span class="pre">年份</span></code>，比较前7名的核心投入产出行业关系桑基（图）。</p>
+<section id="id2">
+<h2><span class="section-number">3.5.1. </span>示意展示图<a class="headerlink" href="#id2" title="Permalink to this heading">#</a></h2>
+<p>下图仅为展示，完整交互功能见<a class="reference external" href="https://oxon8.netlify.app/visualization/prj-VisCEADs/index.zh">VisCEADs仪表盘</a>。</p>
+<div class="cell tag_remove-input tag_full-height docutils container">
+<div class="cell_output docutils container">
+<div class="output text_html"><div id='8b357581-04ec-403e-8d90-d7b1996284eb'>
+  <div id="c8284907-7b25-4832-9693-f24df21fcd27" data-root-id="8b357581-04ec-403e-8d90-d7b1996284eb" style="display: contents;"></div>
+</div>
+<script type="application/javascript">(function(root) {
+  var docs_json = {"515b01bd-b667-4b3e-a7db-52bb9ed4ce8b":{"version":"3.4.0","title":"Bokeh Application","roots":[{"type":"object","name":"panel.models.reactive_html.ReactiveHTML","id":"8b357581-04ec-403e-8d90-d7b1996284eb","attributes":{"subscribed_events":{"type":"set","entries":["dom_event"]},"stylesheets":["\n:host(.pn-loading):before, .pn-loading:before {\n  background-color: #c3c3c3;\n  mask-size: auto calc(min(50%, 400px));\n  -webkit-mask-size: auto calc(min(50%, 400px));\n}",{"type":"object","name":"ImportedStyleSheet","id":"24537063-488d-4460-8d51-ae903d99eb9c","attributes":{"url":"https://cdn.holoviz.org/panel/1.4.2/dist/css/loading.css"}},{"type":"object","name":"ImportedStyleSheet","id":"3876b3dd-fc99-435d-b823-c0226f9a252f","attributes":{"url":"https://cdn.holoviz.org/panel/1.4.2/dist/bundled/theme/dark.css"}},{"type":"object","name":"ImportedStyleSheet","id":"0320a59d-4264-43dd-a3c9-edca625f6cb6","attributes":{"url":"https://cdn.holoviz.org/panel/1.4.2/dist/bundled/theme/native.css"}}],"margin":0,"align":"start","children":{"type":"map","entries":[["fast-wrapper",[{"type":"object","name":"Row","id":"0616bd73-ad87-48ac-990e-a218566df883","attributes":{"name":"Row02969","stylesheets":["\n:host(.pn-loading):before, .pn-loading:before {\n  background-color: #c3c3c3;\n  mask-size: auto calc(min(50%, 400px));\n  -webkit-mask-size: auto calc(min(50%, 400px));\n}",{"id":"24537063-488d-4460-8d51-ae903d99eb9c"},{"type":"object","name":"ImportedStyleSheet","id":"34850d06-9f8a-4183-94f2-41a987362152","attributes":{"url":"https://cdn.holoviz.org/panel/1.4.2/dist/css/listpanel.css"}},{"id":"3876b3dd-fc99-435d-b823-c0226f9a252f"},{"type":"object","name":"ImportedStyleSheet","id":"84db397f-aa14-4420-8af5-0720c4cf8bcd","attributes":{"url":"https://cdn.holoviz.org/panel/1.4.2/dist/bundled/theme/fast.css"}}],"width":800,"height":540,"margin":0,"sizing_mode":"fixed","align":"start","children":[{"type":"object","name":"panel.models.layout.Column","id":"0a852ecf-5a8b-46bd-9fe5-fcdc05a01a4f","attributes":{"name":"Column02947","stylesheets":["\n:host(.pn-loading):before, .pn-loading:before {\n  background-color: #c3c3c3;\n  mask-size: auto calc(min(50%, 400px));\n  -webkit-mask-size: auto calc(min(50%, 400px));\n}",{"id":"24537063-488d-4460-8d51-ae903d99eb9c"},{"id":"34850d06-9f8a-4183-94f2-41a987362152"},{"id":"3876b3dd-fc99-435d-b823-c0226f9a252f"},{"id":"84db397f-aa14-4420-8af5-0720c4cf8bcd"}],"margin":0,"sizing_mode":"stretch_height","align":"start","children":[{"type":"object","name":"Row","id":"9a989c64-44ef-46d1-9b81-7d93c02ec452","attributes":{"name":"Row02944","stylesheets":["\n:host(.pn-loading):before, .pn-loading:before {\n  background-color: #c3c3c3;\n  mask-size: auto calc(min(50%, 400px));\n  -webkit-mask-size: auto calc(min(50%, 400px));\n}",{"id":"24537063-488d-4460-8d51-ae903d99eb9c"},{"id":"34850d06-9f8a-4183-94f2-41a987362152"},{"id":"3876b3dd-fc99-435d-b823-c0226f9a252f"},{"id":"84db397f-aa14-4420-8af5-0720c4cf8bcd"}],"margin":0,"align":"start","children":[{"type":"object","name":"panel.models.widgets.CustomSelect","id":"9fd58fe7-4cd6-44d7-a135-ec31155777bf","attributes":{"stylesheets":["\n:host(.pn-loading):before, .pn-loading:before {\n  background-color: #c3c3c3;\n  mask-size: auto calc(min(50%, 400px));\n  -webkit-mask-size: auto calc(min(50%, 400px));\n}",{"id":"24537063-488d-4460-8d51-ae903d99eb9c"},{"type":"object","name":"ImportedStyleSheet","id":"e17f27a2-6691-4472-b41b-6d341645f017","attributes":{"url":"https://cdn.holoviz.org/panel/1.4.2/dist/css/select.css"}},{"id":"3876b3dd-fc99-435d-b823-c0226f9a252f"},{"id":"84db397f-aa14-4420-8af5-0720c4cf8bcd"}],"width":200,"min_width":200,"margin":[5,10],"align":"start","title":"\u9009\u62e9\u5730\u533a","options":[["BJ:\u5317\u4eac","BJ:\u5317\u4eac"],["TJ:\u5929\u6d25","TJ:\u5929\u6d25"],["HE:\u6cb3\u5317","HE:\u6cb3\u5317"],["SX:\u5c71\u897f","SX:\u5c71\u897f"],["NM:\u5185\u8499\u53e4","NM:\u5185\u8499\u53e4"],["LN:\u8fbd\u5b81","LN:\u8fbd\u5b81"],["JL:\u5409\u6797","JL:\u5409\u6797"],["HL:\u9ed1\u9f99\u6c5f","HL:\u9ed1\u9f99\u6c5f"],["SH:\u4e0a\u6d77","SH:\u4e0a\u6d77"],["JS:\u6c5f\u82cf","JS:\u6c5f\u82cf"],["ZJ:\u6d59\u6c5f","ZJ:\u6d59\u6c5f"],["AH:\u5b89\u5fbd","AH:\u5b89\u5fbd"],["FJ:\u798f\u5efa","FJ:\u798f\u5efa"],["JX:\u6c5f\u897f","JX:\u6c5f\u897f"],["SD:\u5c71\u4e1c","SD:\u5c71\u4e1c"],["HA:\u6cb3\u5357","HA:\u6cb3\u5357"],["HB:\u6e56\u5317","HB:\u6e56\u5317"],["HN:\u6e56\u5357","HN:\u6e56\u5357"],["GD:\u5e7f\u4e1c","GD:\u5e7f\u4e1c"],["GX:\u5e7f\u897f","GX:\u5e7f\u897f"],["HI:\u6d77\u5357","HI:\u6d77\u5357"],["CQ:\u91cd\u5e86","CQ:\u91cd\u5e86"],["SC:\u56db\u5ddd","SC:\u56db\u5ddd"],["GZ:\u8d35\u5dde","GZ:\u8d35\u5dde"],["YN:\u4e91\u5357","YN:\u4e91\u5357"],["XZ:\u897f\u85cf","XZ:\u897f\u85cf"],["SN:\u9655\u897f","SN:\u9655\u897f"],["GS:\u7518\u8083","GS:\u7518\u8083"],["QH:\u9752\u6d77","QH:\u9752\u6d77"],["NX:\u5b81\u590f","NX:\u5b81\u590f"],["XJ:\u65b0\u7586","XJ:\u65b0\u7586"]],"value":"BJ:\u5317\u4eac"}},{"type":"object","name":"panel.models.layout.Column","id":"d1f76344-1226-4f18-b5b3-0834b3f90e00","attributes":{"name":"Column00933","stylesheets":["\n:host(.pn-loading):before, .pn-loading:before {\n  background-color: #c3c3c3;\n  mask-size: auto calc(min(50%, 400px));\n  -webkit-mask-size: auto calc(min(50%, 400px));\n}",{"id":"24537063-488d-4460-8d51-ae903d99eb9c"},{"id":"34850d06-9f8a-4183-94f2-41a987362152"},{"id":"3876b3dd-fc99-435d-b823-c0226f9a252f"},{"id":"84db397f-aa14-4420-8af5-0720c4cf8bcd"}],"width":220,"min_width":220,"margin":0,"align":"start","children":[{"type":"object","name":"Div","id":"444487d6-4e07-459f-ac4d-6691eae051cf","attributes":{"stylesheets":["\n:host(.pn-loading):before, .pn-loading:before {\n  background-color: #c3c3c3;\n  mask-size: auto calc(min(50%, 400px));\n  -webkit-mask-size: auto calc(min(50%, 400px));\n}",{"id":"24537063-488d-4460-8d51-ae903d99eb9c"},{"id":"3876b3dd-fc99-435d-b823-c0226f9a252f"},{"id":"84db397f-aa14-4420-8af5-0720c4cf8bcd"}],"width":200,"min_width":200,"margin":[5,0,0,10],"align":"start","text":"\u9009\u62e9\u5e74\u4efd: <b>2012</b>"}},{"type":"object","name":"Slider","id":"4b32e496-2f1d-4429-a2ee-8d312a259312","attributes":{"stylesheets":["\n:host(.pn-loading):before, .pn-loading:before {\n  background-color: #c3c3c3;\n  mask-size: auto calc(min(50%, 400px));\n  -webkit-mask-size: auto calc(min(50%, 400px));\n}",{"id":"24537063-488d-4460-8d51-ae903d99eb9c"},{"id":"3876b3dd-fc99-435d-b823-c0226f9a252f"},{"id":"84db397f-aa14-4420-8af5-0720c4cf8bcd"}],"width":200,"min_width":200,"margin":[0,10,5,10],"align":"start","show_value":false,"tooltips":false,"start":0,"end":3,"value":0}}]}}]}},{"type":"object","name":"panel.models.echarts.ECharts","id":"6113fb13-c5f6-4e58-aea3-047f6e89af07","attributes":{"subscribed_events":{"type":"set","entries":["echarts_event"]},"stylesheets":["\n:host(.pn-loading):before, .pn-loading:before {\n  background-color: #c3c3c3;\n  mask-size: auto calc(min(50%, 400px));\n  -webkit-mask-size: auto calc(min(50%, 400px));\n}",{"id":"24537063-488d-4460-8d51-ae903d99eb9c"},{"id":"3876b3dd-fc99-435d-b823-c0226f9a252f"},{"id":"84db397f-aa14-4420-8af5-0720c4cf8bcd"}],"width":800,"height":500,"margin":[5,10],"sizing_mode":"stretch_height","align":"start","data":{"type":"map","entries":[["animation",true],["animationThreshold",2000],["animationDuration",1000],["animationEasing","cubicOut"],["animationDelay",0],["animationDurationUpdate",300],["animationEasingUpdate","cubicOut"],["animationDelayUpdate",0],["aria",{"type":"map","entries":[["enabled",false]]}],["color",["#5470c6","#91cc75","#fac858","#ee6666","#73c0de","#3ba272","#fc8452","#9a60b4","#ea7ccc"]],["series",[{"type":"map","entries":[["type","sankey"],["data",[{"type":"map","entries":[["name","\u623f\u5730\u4ea7"]]},{"type":"map","entries":[["name","\u6279\u53d1\u96f6\u552e"]]},{"type":"map","entries":[["name","\u79df\u8d41\u5546\u52a1"]]},{"type":"map","entries":[["name","\u79d1\u5b66\u7814\u7a76\u6280\u672f\u670d\u52a1"]]},{"type":"map","entries":[["name","\u5236\u975e\u91d1\u5c5e"]]},{"type":"map","entries":[["name","\u5efa\u7b51"]]},{"type":"map","entries":[["name","\u91d1\u878d"]]},{"type":"map","entries":[["name","\u79df\u8d41\u5546\u52a1\uff08\u56de\uff09"]]}]],["links",[{"type":"map","entries":[["source","\u91d1\u878d"],["target","\u623f\u5730\u4ea7"],["value",40966.6067199536]]},{"type":"map","entries":[["source","\u79df\u8d41\u5546\u52a1"],["target","\u6279\u53d1\u96f6\u552e"],["value",31911.643364934735]]},{"type":"map","entries":[["source","\u79df\u8d41\u5546\u52a1"],["target","\u91d1\u878d"],["value",30625.84970473621]]},{"type":"map","entries":[["source","\u91d1\u878d"],["target","\u79df\u8d41\u5546\u52a1\uff08\u56de\uff09"],["value",29999.588974760765]]},{"type":"map","entries":[["source","\u91d1\u878d"],["target","\u79d1\u5b66\u7814\u7a76\u6280\u672f\u670d\u52a1"],["value",27121.846787474853]]},{"type":"map","entries":[["source","\u5236\u975e\u91d1\u5c5e"],["target","\u5efa\u7b51"],["value",26620.995952086123]]},{"type":"map","entries":[["source","\u91d1\u878d"],["target","\u6279\u53d1\u96f6\u552e"],["value",22759.765860406664]]}]],["left","5%"],["top","5%"],["right","20%"],["bottom","5%"],["nodeWidth",20],["nodeGap",8],["nodeAlign","justify"],["orient","horizontal"],["draggable",true],["label",{"type":"map","entries":[["show",true],["rotate",0],["margin",8],["fontSize",16]]}],["lineStyle",{"type":"map","entries":[["show",true],["width",1],["opacity",0.5],["curveness",0.5],["type","solid"],["color","source"]]}],["tooltip",{"type":"map","entries":[["show",true],["trigger","item"],["triggerOn","mousemove"],["axisPointer",{"type":"map","entries":[["type","line"]]}],["showContent",true],["alwaysShowContent",false],["showDelay",0],["hideDelay",100],["enterable",false],["confine",false],["appendToBody",false],["transitionDuration",0.4],["textStyle",{"type":"map","entries":[["fontSize",14]]}],["borderWidth",0],["padding",5],["order","seriesAsc"]]}],["itemStyle",{"type":"map","entries":[["borderColor","#aaa"],["borderWidth",1]]}],["rippleEffect",{"type":"map","entries":[["show",true],["brushType","stroke"],["scale",2.5],["period",4]]}]]}]],["legend",[{"type":"map","entries":[["data",[""]],["selected",{"type":"map"}],["show",true],["padding",5],["itemGap",10],["itemWidth",25],["itemHeight",14],["backgroundColor","transparent"],["borderColor","#ccc"],["borderRadius",0],["pageButtonItemGap",5],["pageButtonPosition","end"],["pageFormatter","{current}/{total}"],["pageIconColor","#2f4554"],["pageIconInactiveColor","#aaa"],["pageIconSize",15],["animationDurationUpdate",800],["selector",false],["selectorPosition","auto"],["selectorItemGap",7],["selectorButtonGap",10]]}]],["tooltip",{"type":"map","entries":[["show",true],["trigger","item"],["triggerOn","mousemove|click"],["axisPointer",{"type":"map","entries":[["type","line"]]}],["showContent",true],["alwaysShowContent",false],["showDelay",0],["hideDelay",100],["enterable",false],["confine",false],["appendToBody",false],["transitionDuration",0.4],["textStyle",{"type":"map","entries":[["fontSize",14]]}],["borderWidth",0],["padding",5],["order","seriesAsc"]]}],["title",[{"type":"map","entries":[["show",true],["text","(BJ:\u5317\u4eac,2012) \u6851\u57fa\u56fe \u524d7\u884c\u4e1a\u95f4\u6295\u5165\u4ea7\u51fa\u5173\u7cfb"],["target","blank"],["subtarget","blank"],["padding",5],["itemGap",10],["textAlign","auto"],["textVerticalAlign","auto"],["triggerEvent",false]]}]]]},"options":null}}]}}]}}]]]},"data":{"type":"object","name":"FastWrapper1","id":"abfe2bf0-27e3-4019-b24c-e7aa1d4a0ff1","attributes":{"name":"FastWrapper02971","style":{"type":"object","name":"FastStyle00918","id":"916b7325-b49d-476c-93f5-df9a8ba49b11","attributes":{"name":"FastStyle00918","tags":["__ref:8b357581-04ec-403e-8d90-d7b1996284eb"],"background_color":"#181818","color":"#ffffff","neutral_fill_card_rest":"#212121","neutral_focus":"#717171","neutral_foreground_rest":"#e5e5e5","shadow":false,"luminance":0.1}}}},"html":"&lt;div id=&quot;fast-wrapper-${id}&quot; class=&quot;fast-wrapper&quot;&gt;&lt;/div&gt;","nodes":["fast-wrapper"],"scripts":{"type":"map","entries":[["render",["let accent, bg, luminance\nif (window._JUPYTERLAB) {\n  accent = getComputedStyle(document.body).getPropertyValue(&#x27;--jp-brand-color0&#x27;).trim();\n  bg = getComputedStyle(document.body).getPropertyValue(&#x27;--jp-layout-color0&#x27;).trim();\n  let color = getComputedStyle(document.body).getPropertyValue(&#x27;--jp-ui-font-color0&#x27;).trim();\n  luminance = color == &#x27;rgba(255, 255, 255, 1)&#x27; ? 0.23 : 1.0;\n} else {\n  accent = data.style.accent_base_color;\n  bg = data.style.background_color;\n  luminance = data.style.luminance;\n}\nbg = bg === &#x27;white&#x27; ? &#x27;#ffffff&#x27; : bg;\nbg = bg === &#x27;black&#x27; ? &#x27;#000000&#x27; : bg;\nstate.design = design = new window.fastDesignProvider(view.el)\ndesign.setLuminance(luminance);\ndesign.setNeutralColor(data.style.neutral_color);\ndesign.setAccentColor(accent);\ndesign.setBackgroundColor(bg);\ndesign.setCornerRadius(data.style.corner_radius);"]]]}}},{"type":"object","name":"panel.models.comm_manager.CommManager","id":"adc9ab87-f3d7-4d21-bbbe-ec35c7dd6753","attributes":{"plot_id":"8b357581-04ec-403e-8d90-d7b1996284eb","comm_id":"eca375189d5d45abbc010f4232ba44cf","client_comm_id":"db47d753de564a619e6c92f30360a078"}}],"defs":[{"type":"model","name":"ReactiveHTML1"},{"type":"model","name":"FlexBox1","properties":[{"name":"align_content","kind":"Any","default":"flex-start"},{"name":"align_items","kind":"Any","default":"flex-start"},{"name":"flex_direction","kind":"Any","default":"row"},{"name":"flex_wrap","kind":"Any","default":"wrap"},{"name":"gap","kind":"Any","default":""},{"name":"justify_content","kind":"Any","default":"flex-start"}]},{"type":"model","name":"FloatPanel1","properties":[{"name":"config","kind":"Any","default":{"type":"map"}},{"name":"contained","kind":"Any","default":true},{"name":"position","kind":"Any","default":"right-top"},{"name":"offsetx","kind":"Any","default":null},{"name":"offsety","kind":"Any","default":null},{"name":"theme","kind":"Any","default":"primary"},{"name":"status","kind":"Any","default":"normalized"}]},{"type":"model","name":"GridStack1","properties":[{"name":"mode","kind":"Any","default":"warn"},{"name":"ncols","kind":"Any","default":null},{"name":"nrows","kind":"Any","default":null},{"name":"allow_resize","kind":"Any","default":true},{"name":"allow_drag","kind":"Any","default":true},{"name":"state","kind":"Any","default":[]}]},{"type":"model","name":"drag1","properties":[{"name":"slider_width","kind":"Any","default":5},{"name":"slider_color","kind":"Any","default":"black"},{"name":"value","kind":"Any","default":50}]},{"type":"model","name":"click1","properties":[{"name":"terminal_output","kind":"Any","default":""},{"name":"debug_name","kind":"Any","default":""},{"name":"clears","kind":"Any","default":0}]},{"type":"model","name":"FastWrapper1","properties":[{"name":"object","kind":"Any","default":null},{"name":"style","kind":"Any","default":null}]},{"type":"model","name":"NotificationAreaBase1","properties":[{"name":"js_events","kind":"Any","default":{"type":"map"}},{"name":"position","kind":"Any","default":"bottom-right"},{"name":"_clear","kind":"Any","default":0}]},{"type":"model","name":"NotificationArea1","properties":[{"name":"js_events","kind":"Any","default":{"type":"map"}},{"name":"notifications","kind":"Any","default":[]},{"name":"position","kind":"Any","default":"bottom-right"},{"name":"_clear","kind":"Any","default":0},{"name":"types","kind":"Any","default":[{"type":"map","entries":[["type","warning"],["background","#ffc107"],["icon",{"type":"map","entries":[["className","fas fa-exclamation-triangle"],["tagName","i"],["color","white"]]}]]},{"type":"map","entries":[["type","info"],["background","#007bff"],["icon",{"type":"map","entries":[["className","fas fa-info-circle"],["tagName","i"],["color","white"]]}]]}]}]},{"type":"model","name":"Notification","properties":[{"name":"background","kind":"Any","default":null},{"name":"duration","kind":"Any","default":3000},{"name":"icon","kind":"Any","default":null},{"name":"message","kind":"Any","default":""},{"name":"notification_type","kind":"Any","default":null},{"name":"_destroyed","kind":"Any","default":false}]},{"type":"model","name":"TemplateActions1","properties":[{"name":"open_modal","kind":"Any","default":0},{"name":"close_modal","kind":"Any","default":0}]},{"type":"model","name":"BootstrapTemplateActions1","properties":[{"name":"open_modal","kind":"Any","default":0},{"name":"close_modal","kind":"Any","default":0}]},{"type":"model","name":"TemplateEditor1","properties":[{"name":"layout","kind":"Any","default":[]}]},{"type":"model","name":"MaterialTemplateActions1","properties":[{"name":"open_modal","kind":"Any","default":0},{"name":"close_modal","kind":"Any","default":0}]},{"type":"model","name":"copy_to_clipboard1","properties":[{"name":"fill","kind":"Any","default":"none"},{"name":"value","kind":"Any","default":null}]},{"type":"model","name":"FastStyle00918","properties":[{"name":"background_color","kind":"Any","default":"#ffffff"},{"name":"neutral_color","kind":"Any","default":"#000000"},{"name":"accent_base_color","kind":"Any","default":"#0072B5"},{"name":"collapsed_icon","kind":"Any","default":"\n<svg style=\"stroke: var(--accent-fill-rest);\" width=\"18\" height=\"18\" viewBox=\"0 0 18 18\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" slot=\"collapsed-icon\">\n  <path d=\"M15.2222 1H2.77778C1.79594 1 1 1.79594 1 2.77778V15.2222C1 16.2041 1.79594 17 2.77778 17H15.2222C16.2041 17 17 16.2041 17 15.2222V2.77778C17 1.79594 16.2041 1 15.2222 1Z\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n  <path d=\"M9 5.44446V12.5556\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n  <path d=\"M5.44446 9H12.5556\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n</svg>\n"},{"name":"expanded_icon","kind":"Any","default":"\n<svg style=\"stroke: var(--accent-fill-rest);\" width=\"18\" height=\"18\" viewBox=\"0 0 18 18\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" slot=\"expanded-icon\">\n  <path d=\"M15.2222 1H2.77778C1.79594 1 1 1.79594 1 2.77778V15.2222C1 16.2041 1.79594 17 2.77778 17H15.2222C16.2041 17 17 16.2041 17 15.2222V2.77778C17 1.79594 16.2041 1 15.2222 1Z\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n  <path d=\"M5.44446 9H12.5556\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n</svg>\n"},{"name":"color","kind":"Any","default":"#2B2B2B"},{"name":"neutral_fill_card_rest","kind":"Any","default":"#F7F7F7"},{"name":"neutral_focus","kind":"Any","default":"#888888"},{"name":"neutral_foreground_rest","kind":"Any","default":"#2B2B2B"},{"name":"header_luminance","kind":"Any","default":0.23},{"name":"header_background","kind":"Any","default":"#0072B5"},{"name":"header_neutral_color","kind":"Any","default":"#0072B5"},{"name":"header_accent_base_color","kind":"Any","default":"#ffffff"},{"name":"header_color","kind":"Any","default":"#ffffff"},{"name":"font","kind":"Any","default":"Open Sans, sans-serif"},{"name":"font_url","kind":"Any","default":"//fonts.googleapis.com/css?family=Open+Sans"},{"name":"corner_radius","kind":"Any","default":3},{"name":"shadow","kind":"Any","default":true},{"name":"luminance","kind":"Any","default":1.0}]}]}};
+  var render_items = [{"docid":"515b01bd-b667-4b3e-a7db-52bb9ed4ce8b","roots":{"8b357581-04ec-403e-8d90-d7b1996284eb":"c8284907-7b25-4832-9693-f24df21fcd27"},"root_ids":["8b357581-04ec-403e-8d90-d7b1996284eb"]}];
+  var docs = Object.values(docs_json)
+  if (!docs) {
+    return
+  }
+  const py_version = docs[0].version.replace('rc', '-rc.').replace('.dev', '-dev.')
+  function embed_document(root) {
+    var Bokeh = get_bokeh(root)
+    Bokeh.embed.embed_items_notebook(docs_json, render_items);
+    for (const render_item of render_items) {
+      for (const root_id of render_item.root_ids) {
+	const id_el = document.getElementById(root_id)
+	if (id_el.children.length && (id_el.children[0].className === 'bk-root')) {
+	  const root_el = id_el.children[0]
+	  root_el.id = root_el.id + '-rendered'
+	}
+      }
+    }
+  }
+  function get_bokeh(root) {
+    if (root.Bokeh === undefined) {
+      return null
+    } else if (root.Bokeh.version !== py_version) {
+      if (root.Bokeh.versions === undefined || !root.Bokeh.versions.has(py_version)) {
+	return null
+      }
+      return root.Bokeh.versions.get(py_version);
+    } else if (root.Bokeh.version === py_version) {
+      return root.Bokeh
+    }
+    return null
+  }
+  function is_loaded(root) {
+    var Bokeh = get_bokeh(root)
+    return (Bokeh != null && Bokeh.Panel !== undefined && ( root.Tabulator !== undefined) && ( root.Tabulator !== undefined) && ( root.echarts !== undefined) && ( root.echarts !== undefined) && ( root.Tabulator !== undefined) && ( root.echarts !== undefined))
+  }
+  if (is_loaded(root)) {
+    embed_document(root);
+  } else {
+    var attempts = 0;
+    var timer = setInterval(function(root) {
+      if (is_loaded(root)) {
+        clearInterval(timer);
+        embed_document(root);
+      } else if (document.readyState == "complete") {
+        attempts++;
+        if (attempts > 200) {
+          clearInterval(timer);
+	  var Bokeh = get_bokeh(root)
+	  if (Bokeh == null || Bokeh.Panel == null) {
+            console.warn("Panel: ERROR: Unable to run Panel code because Bokeh or Panel library is missing");
+	  } else {
+	    console.warn("Panel: WARNING: Attempting to render but not all required libraries could be resolved.")
+	    embed_document(root)
+	  }
+        }
+      }
+    }, 25, root)
+  }
+})(window);</script></div></div>
+</div>
+</section>
+<section id="id3">
+<h2><span class="section-number">3.5.2. </span>📜桑基图探究<code class="docutils literal notranslate"><span class="pre">产业结构</span></code>和<code class="docutils literal notranslate"><span class="pre">能源结构</span></code><a class="headerlink" href="#id3" title="Permalink to this heading">#</a></h2>
+<p>桑基图对探究一经济体的 <code class="docutils literal notranslate"><span class="pre">产业结构</span></code> 和 <code class="docutils literal notranslate"><span class="pre">能源结构</span></code>（Energy Mix）的交互关系至关重要。</p>
+<section id="id4">
+<h3><span class="section-number">3.5.2.1. </span>💱投入产出表的桑基图可提供关系洞察<a class="headerlink" href="#id4" title="Permalink to this heading">#</a></h3>
+<p>投入产出表的桑基图可提供以下洞察：</p>
+<ul class="simple">
+<li><p>该经济体的 <code class="docutils literal notranslate"><span class="pre">主要行业部门</span></code> 的投入产出关系</p></li>
+<li><p>该经济体的 <code class="docutils literal notranslate"><span class="pre">能源</span></code> 及 <code class="docutils literal notranslate"><span class="pre">非能源</span></code> 行业部门的投入产出关系</p></li>
+</ul>
+<div class="note admonition">
+<p class="admonition-title">研究笔记：投入产出表的桑基图可回流</p>
+<p>不同于能源的桑基图（单向，不能回流），投入产出表的桑基图有回流的可能。本桑基图按行业从自然资源到社会消费的流动顺序假设出发，对行业部门先进行排序后，并再将回流的关系标出，以配合桑基图不可回流的特性。</p>
+</div>
+</section>
+<section id="id5">
+<h3><span class="section-number">3.5.2.2. </span>🛢传统桑基图用于能源供应与消费<a class="headerlink" href="#id5" title="Permalink to this heading">#</a></h3>
+<p>桑基图（Sankey）常用于 <code class="docutils literal notranslate"><span class="pre">能源供应与消费</span></code> 是否平衡、是否有效率等等的管理与决策。</p>
+<p><img alt="../figures/ENERGY_2017_CHINA.zh.png" src="../_images/ENERGY_2017_CHINA.zh.png" />
+2017年中国能源供应与消费图</p>
+<p>国际能源署（IEA）为世界各经济体制作桑基图，展示能源从源到端的生产、进口、加工、分布、及消耗情况。桑基图也能展示能源 <code class="docutils literal notranslate"><span class="pre">能源结构</span></code>（Energy Mix）。</p>
+</section>
+<section id="id6">
+<h3><span class="section-number">3.5.2.3. </span>❓<code class="docutils literal notranslate"><span class="pre">结构转型</span></code>要怎样启动<a class="headerlink" href="#id6" title="Permalink to this heading">#</a></h3>
+<p>投入产出表的桑基图，可搭配能源的情报来探究一经济体的 <code class="docutils literal notranslate"><span class="pre">产业结构</span></code> 和 <code class="docutils literal notranslate"><span class="pre">能源结构</span></code>（Energy Mix）的交互关系，透过理解其关系的变化及消长，来探究 <code class="docutils literal notranslate"><span class="pre">净零经济</span></code> 的 <code class="docutils literal notranslate"><span class="pre">产业转型</span></code> 及 <code class="docutils literal notranslate"><span class="pre">能源转型</span></code> 方案。</p>
+</section>
+</section>
+<section id="i">
+<h2><span class="section-number">3.5.3. </span>ℹ️此桑基图的交互功能<a class="headerlink" href="#i" title="Permalink to this heading">#</a></h2>
+<section id="id7">
+<h3><span class="section-number">3.5.3.1. </span>可排版<a class="headerlink" href="#id7" title="Permalink to this heading">#</a></h3>
+<p>此桑基图可依用户需求，自行<code class="docutils literal notranslate"><span class="pre">点选</span></code> 及 <code class="docutils literal notranslate"><span class="pre">拖拽</span></code> 图元素进行排版。</p>
+<p>处有分 <strong>投入</strong>-<strong>产出</strong> 的对映选择器（可多选）方便用户过滤相关产业（节点）。</p>
+<div class="tip admonition">
+<p class="admonition-title">用户可对桑基图排版</p>
+<p>此桑基图可依用户需求，自行<code class="docutils literal notranslate"><span class="pre">点选</span></code> 及 <code class="docutils literal notranslate"><span class="pre">拖拽</span></code> 图元素进行排版。</p>
+</div>
+</section>
+<section id="id8">
+<h3><span class="section-number">3.5.3.2. </span>可选 <code class="docutils literal notranslate"><span class="pre">地区</span></code> 及 <code class="docutils literal notranslate"><span class="pre">年份</span></code><a class="headerlink" href="#id8" title="Permalink to this heading">#</a></h3>
+<p>此处允许用户选择 <code class="docutils literal notranslate"><span class="pre">地区</span></code> 及 <code class="docutils literal notranslate"><span class="pre">年份</span></code>，比较前7名的核心投入产出行业关系桑基（图）。</p>
+<div class="cell tag_remove-input tag_full-height docutils container">
+<div class="cell_output docutils container">
+<div class="output text_html"><div id='ba698d4b-d27b-4fba-841c-465601648de6'>
+  <div id="bf345ce4-41f8-4f5d-a355-3075d29953f3" data-root-id="ba698d4b-d27b-4fba-841c-465601648de6" style="display: contents;"></div>
+</div>
+<script type="application/javascript">(function(root) {
+  var docs_json = {"88303194-c35c-4d41-ab4b-2033c2834b54":{"version":"3.4.0","title":"Bokeh Application","roots":[{"type":"object","name":"panel.models.reactive_html.ReactiveHTML","id":"ba698d4b-d27b-4fba-841c-465601648de6","attributes":{"subscribed_events":{"type":"set","entries":["dom_event"]},"stylesheets":["\n:host(.pn-loading):before, .pn-loading:before {\n  background-color: #c3c3c3;\n  mask-size: auto calc(min(50%, 400px));\n  -webkit-mask-size: auto calc(min(50%, 400px));\n}",{"type":"object","name":"ImportedStyleSheet","id":"59806673-9d28-46b5-bbad-1d2df00972af","attributes":{"url":"https://cdn.holoviz.org/panel/1.4.2/dist/css/loading.css"}},{"type":"object","name":"ImportedStyleSheet","id":"e1242b16-b972-4e4e-a9ef-9dd50c972fa9","attributes":{"url":"https://cdn.holoviz.org/panel/1.4.2/dist/bundled/theme/dark.css"}},{"type":"object","name":"ImportedStyleSheet","id":"b63a77b7-64d5-4bb8-a6fa-1433dff33731","attributes":{"url":"https://cdn.holoviz.org/panel/1.4.2/dist/bundled/theme/native.css"}}],"margin":0,"align":"start","children":{"type":"map","entries":[["fast-wrapper",[{"type":"object","name":"Row","id":"29d9d1ef-f43b-47bc-852b-e79197574e6f","attributes":{"name":"Row02984","stylesheets":["\n:host(.pn-loading):before, .pn-loading:before {\n  background-color: #c3c3c3;\n  mask-size: auto calc(min(50%, 400px));\n  -webkit-mask-size: auto calc(min(50%, 400px));\n}",{"id":"59806673-9d28-46b5-bbad-1d2df00972af"},{"type":"object","name":"ImportedStyleSheet","id":"d004291f-8105-4872-b0f4-d51b337ae57f","attributes":{"url":"https://cdn.holoviz.org/panel/1.4.2/dist/css/listpanel.css"}},{"id":"e1242b16-b972-4e4e-a9ef-9dd50c972fa9"},{"type":"object","name":"ImportedStyleSheet","id":"2f8187ef-8330-4212-b28c-077bbf9a95b2","attributes":{"url":"https://cdn.holoviz.org/panel/1.4.2/dist/bundled/theme/fast.css"}}],"width":800,"height":540,"margin":0,"sizing_mode":"fixed","align":"start","children":[{"type":"object","name":"panel.models.layout.Column","id":"ed300530-f3b4-4c36-b442-2fcab417287f","attributes":{"name":"Column02947","stylesheets":["\n:host(.pn-loading):before, .pn-loading:before {\n  background-color: #c3c3c3;\n  mask-size: auto calc(min(50%, 400px));\n  -webkit-mask-size: auto calc(min(50%, 400px));\n}",{"id":"59806673-9d28-46b5-bbad-1d2df00972af"},{"id":"d004291f-8105-4872-b0f4-d51b337ae57f"},{"id":"e1242b16-b972-4e4e-a9ef-9dd50c972fa9"},{"id":"2f8187ef-8330-4212-b28c-077bbf9a95b2"}],"margin":0,"sizing_mode":"stretch_height","align":"start","children":[{"type":"object","name":"Row","id":"a36ceb5d-0cb8-4d29-b0b4-5488b9fb0ffc","attributes":{"name":"Row02944","stylesheets":["\n:host(.pn-loading):before, .pn-loading:before {\n  background-color: #c3c3c3;\n  mask-size: auto calc(min(50%, 400px));\n  -webkit-mask-size: auto calc(min(50%, 400px));\n}",{"id":"59806673-9d28-46b5-bbad-1d2df00972af"},{"id":"d004291f-8105-4872-b0f4-d51b337ae57f"},{"id":"e1242b16-b972-4e4e-a9ef-9dd50c972fa9"},{"id":"2f8187ef-8330-4212-b28c-077bbf9a95b2"}],"margin":0,"align":"start","children":[{"type":"object","name":"panel.models.widgets.CustomSelect","id":"961354cc-6a34-4985-ad06-4cf5fbd7d72e","attributes":{"stylesheets":["\n:host(.pn-loading):before, .pn-loading:before {\n  background-color: #c3c3c3;\n  mask-size: auto calc(min(50%, 400px));\n  -webkit-mask-size: auto calc(min(50%, 400px));\n}",{"id":"59806673-9d28-46b5-bbad-1d2df00972af"},{"type":"object","name":"ImportedStyleSheet","id":"f9fd12a4-ca23-434e-9774-cb676267af9e","attributes":{"url":"https://cdn.holoviz.org/panel/1.4.2/dist/css/select.css"}},{"id":"e1242b16-b972-4e4e-a9ef-9dd50c972fa9"},{"id":"2f8187ef-8330-4212-b28c-077bbf9a95b2"}],"width":200,"min_width":200,"margin":[5,10],"align":"start","title":"\u9009\u62e9\u5730\u533a","options":[["BJ:\u5317\u4eac","BJ:\u5317\u4eac"],["TJ:\u5929\u6d25","TJ:\u5929\u6d25"],["HE:\u6cb3\u5317","HE:\u6cb3\u5317"],["SX:\u5c71\u897f","SX:\u5c71\u897f"],["NM:\u5185\u8499\u53e4","NM:\u5185\u8499\u53e4"],["LN:\u8fbd\u5b81","LN:\u8fbd\u5b81"],["JL:\u5409\u6797","JL:\u5409\u6797"],["HL:\u9ed1\u9f99\u6c5f","HL:\u9ed1\u9f99\u6c5f"],["SH:\u4e0a\u6d77","SH:\u4e0a\u6d77"],["JS:\u6c5f\u82cf","JS:\u6c5f\u82cf"],["ZJ:\u6d59\u6c5f","ZJ:\u6d59\u6c5f"],["AH:\u5b89\u5fbd","AH:\u5b89\u5fbd"],["FJ:\u798f\u5efa","FJ:\u798f\u5efa"],["JX:\u6c5f\u897f","JX:\u6c5f\u897f"],["SD:\u5c71\u4e1c","SD:\u5c71\u4e1c"],["HA:\u6cb3\u5357","HA:\u6cb3\u5357"],["HB:\u6e56\u5317","HB:\u6e56\u5317"],["HN:\u6e56\u5357","HN:\u6e56\u5357"],["GD:\u5e7f\u4e1c","GD:\u5e7f\u4e1c"],["GX:\u5e7f\u897f","GX:\u5e7f\u897f"],["HI:\u6d77\u5357","HI:\u6d77\u5357"],["CQ:\u91cd\u5e86","CQ:\u91cd\u5e86"],["SC:\u56db\u5ddd","SC:\u56db\u5ddd"],["GZ:\u8d35\u5dde","GZ:\u8d35\u5dde"],["YN:\u4e91\u5357","YN:\u4e91\u5357"],["XZ:\u897f\u85cf","XZ:\u897f\u85cf"],["SN:\u9655\u897f","SN:\u9655\u897f"],["GS:\u7518\u8083","GS:\u7518\u8083"],["QH:\u9752\u6d77","QH:\u9752\u6d77"],["NX:\u5b81\u590f","NX:\u5b81\u590f"],["XJ:\u65b0\u7586","XJ:\u65b0\u7586"]],"value":"BJ:\u5317\u4eac"}},{"type":"object","name":"panel.models.layout.Column","id":"b987e005-0344-4e4c-8067-f970e1797b3a","attributes":{"name":"Column00933","stylesheets":["\n:host(.pn-loading):before, .pn-loading:before {\n  background-color: #c3c3c3;\n  mask-size: auto calc(min(50%, 400px));\n  -webkit-mask-size: auto calc(min(50%, 400px));\n}",{"id":"59806673-9d28-46b5-bbad-1d2df00972af"},{"id":"d004291f-8105-4872-b0f4-d51b337ae57f"},{"id":"e1242b16-b972-4e4e-a9ef-9dd50c972fa9"},{"id":"2f8187ef-8330-4212-b28c-077bbf9a95b2"}],"width":220,"min_width":220,"margin":0,"align":"start","children":[{"type":"object","name":"Div","id":"6bf856bd-f54b-4f95-a61b-00af62baa076","attributes":{"stylesheets":["\n:host(.pn-loading):before, .pn-loading:before {\n  background-color: #c3c3c3;\n  mask-size: auto calc(min(50%, 400px));\n  -webkit-mask-size: auto calc(min(50%, 400px));\n}",{"id":"59806673-9d28-46b5-bbad-1d2df00972af"},{"id":"e1242b16-b972-4e4e-a9ef-9dd50c972fa9"},{"id":"2f8187ef-8330-4212-b28c-077bbf9a95b2"}],"width":200,"min_width":200,"margin":[5,0,0,10],"align":"start","text":"\u9009\u62e9\u5e74\u4efd: <b>2012</b>"}},{"type":"object","name":"Slider","id":"4d9d95c1-82da-4db2-bed1-52729e9290d6","attributes":{"stylesheets":["\n:host(.pn-loading):before, .pn-loading:before {\n  background-color: #c3c3c3;\n  mask-size: auto calc(min(50%, 400px));\n  -webkit-mask-size: auto calc(min(50%, 400px));\n}",{"id":"59806673-9d28-46b5-bbad-1d2df00972af"},{"id":"e1242b16-b972-4e4e-a9ef-9dd50c972fa9"},{"id":"2f8187ef-8330-4212-b28c-077bbf9a95b2"}],"width":200,"min_width":200,"margin":[0,10,5,10],"align":"start","show_value":false,"tooltips":false,"start":0,"end":3,"value":0}}]}}]}},{"type":"object","name":"panel.models.echarts.ECharts","id":"b820b67c-4d2b-48f4-a210-78baec6110c3","attributes":{"subscribed_events":{"type":"set","entries":["echarts_event"]},"stylesheets":["\n:host(.pn-loading):before, .pn-loading:before {\n  background-color: #c3c3c3;\n  mask-size: auto calc(min(50%, 400px));\n  -webkit-mask-size: auto calc(min(50%, 400px));\n}",{"id":"59806673-9d28-46b5-bbad-1d2df00972af"},{"id":"e1242b16-b972-4e4e-a9ef-9dd50c972fa9"},{"id":"2f8187ef-8330-4212-b28c-077bbf9a95b2"}],"width":800,"height":500,"margin":[5,10],"sizing_mode":"stretch_height","align":"start","data":{"type":"map","entries":[["animation",true],["animationThreshold",2000],["animationDuration",1000],["animationEasing","cubicOut"],["animationDelay",0],["animationDurationUpdate",300],["animationEasingUpdate","cubicOut"],["animationDelayUpdate",0],["aria",{"type":"map","entries":[["enabled",false]]}],["color",["#5470c6","#91cc75","#fac858","#ee6666","#73c0de","#3ba272","#fc8452","#9a60b4","#ea7ccc"]],["series",[{"type":"map","entries":[["type","sankey"],["data",[{"type":"map","entries":[["name","\u623f\u5730\u4ea7"]]},{"type":"map","entries":[["name","\u6279\u53d1\u96f6\u552e"]]},{"type":"map","entries":[["name","\u79df\u8d41\u5546\u52a1"]]},{"type":"map","entries":[["name","\u79d1\u5b66\u7814\u7a76\u6280\u672f\u670d\u52a1"]]},{"type":"map","entries":[["name","\u5236\u975e\u91d1\u5c5e"]]},{"type":"map","entries":[["name","\u5efa\u7b51"]]},{"type":"map","entries":[["name","\u91d1\u878d"]]},{"type":"map","entries":[["name","\u79df\u8d41\u5546\u52a1\uff08\u56de\uff09"]]}]],["links",[{"type":"map","entries":[["source","\u91d1\u878d"],["target","\u623f\u5730\u4ea7"],["value",40966.6067199536]]},{"type":"map","entries":[["source","\u79df\u8d41\u5546\u52a1"],["target","\u6279\u53d1\u96f6\u552e"],["value",31911.643364934735]]},{"type":"map","entries":[["source","\u79df\u8d41\u5546\u52a1"],["target","\u91d1\u878d"],["value",30625.84970473621]]},{"type":"map","entries":[["source","\u91d1\u878d"],["target","\u79df\u8d41\u5546\u52a1\uff08\u56de\uff09"],["value",29999.588974760765]]},{"type":"map","entries":[["source","\u91d1\u878d"],["target","\u79d1\u5b66\u7814\u7a76\u6280\u672f\u670d\u52a1"],["value",27121.846787474853]]},{"type":"map","entries":[["source","\u5236\u975e\u91d1\u5c5e"],["target","\u5efa\u7b51"],["value",26620.995952086123]]},{"type":"map","entries":[["source","\u91d1\u878d"],["target","\u6279\u53d1\u96f6\u552e"],["value",22759.765860406664]]}]],["left","5%"],["top","5%"],["right","20%"],["bottom","5%"],["nodeWidth",20],["nodeGap",8],["nodeAlign","justify"],["orient","horizontal"],["draggable",true],["label",{"type":"map","entries":[["show",true],["rotate",0],["margin",8],["fontSize",16]]}],["lineStyle",{"type":"map","entries":[["show",true],["width",1],["opacity",0.5],["curveness",0.5],["type","solid"],["color","source"]]}],["tooltip",{"type":"map","entries":[["show",true],["trigger","item"],["triggerOn","mousemove"],["axisPointer",{"type":"map","entries":[["type","line"]]}],["showContent",true],["alwaysShowContent",false],["showDelay",0],["hideDelay",100],["enterable",false],["confine",false],["appendToBody",false],["transitionDuration",0.4],["textStyle",{"type":"map","entries":[["fontSize",14]]}],["borderWidth",0],["padding",5],["order","seriesAsc"]]}],["itemStyle",{"type":"map","entries":[["borderColor","#aaa"],["borderWidth",1]]}],["rippleEffect",{"type":"map","entries":[["show",true],["brushType","stroke"],["scale",2.5],["period",4]]}]]}]],["legend",[{"type":"map","entries":[["data",[""]],["selected",{"type":"map"}],["show",true],["padding",5],["itemGap",10],["itemWidth",25],["itemHeight",14],["backgroundColor","transparent"],["borderColor","#ccc"],["borderRadius",0],["pageButtonItemGap",5],["pageButtonPosition","end"],["pageFormatter","{current}/{total}"],["pageIconColor","#2f4554"],["pageIconInactiveColor","#aaa"],["pageIconSize",15],["animationDurationUpdate",800],["selector",false],["selectorPosition","auto"],["selectorItemGap",7],["selectorButtonGap",10]]}]],["tooltip",{"type":"map","entries":[["show",true],["trigger","item"],["triggerOn","mousemove|click"],["axisPointer",{"type":"map","entries":[["type","line"]]}],["showContent",true],["alwaysShowContent",false],["showDelay",0],["hideDelay",100],["enterable",false],["confine",false],["appendToBody",false],["transitionDuration",0.4],["textStyle",{"type":"map","entries":[["fontSize",14]]}],["borderWidth",0],["padding",5],["order","seriesAsc"]]}],["title",[{"type":"map","entries":[["show",true],["text","(BJ:\u5317\u4eac,2012) \u6851\u57fa\u56fe \u524d7\u884c\u4e1a\u95f4\u6295\u5165\u4ea7\u51fa\u5173\u7cfb"],["target","blank"],["subtarget","blank"],["padding",5],["itemGap",10],["textAlign","auto"],["textVerticalAlign","auto"],["triggerEvent",false]]}]]]},"options":null}}]}}]}}]]]},"data":{"type":"object","name":"FastWrapper1","id":"40626ce2-ab11-4024-a41d-0e797e6a518f","attributes":{"name":"FastWrapper02986","style":{"type":"object","name":"FastStyle00918","id":"94fa022b-a0f5-4662-819d-973d0bbd8d74","attributes":{"name":"FastStyle00918","tags":["__ref:ba698d4b-d27b-4fba-841c-465601648de6"],"background_color":"#181818","color":"#ffffff","neutral_fill_card_rest":"#212121","neutral_focus":"#717171","neutral_foreground_rest":"#e5e5e5","shadow":false,"luminance":0.1}}}},"html":"&lt;div id=&quot;fast-wrapper-${id}&quot; class=&quot;fast-wrapper&quot;&gt;&lt;/div&gt;","nodes":["fast-wrapper"],"scripts":{"type":"map","entries":[["render",["let accent, bg, luminance\nif (window._JUPYTERLAB) {\n  accent = getComputedStyle(document.body).getPropertyValue(&#x27;--jp-brand-color0&#x27;).trim();\n  bg = getComputedStyle(document.body).getPropertyValue(&#x27;--jp-layout-color0&#x27;).trim();\n  let color = getComputedStyle(document.body).getPropertyValue(&#x27;--jp-ui-font-color0&#x27;).trim();\n  luminance = color == &#x27;rgba(255, 255, 255, 1)&#x27; ? 0.23 : 1.0;\n} else {\n  accent = data.style.accent_base_color;\n  bg = data.style.background_color;\n  luminance = data.style.luminance;\n}\nbg = bg === &#x27;white&#x27; ? &#x27;#ffffff&#x27; : bg;\nbg = bg === &#x27;black&#x27; ? &#x27;#000000&#x27; : bg;\nstate.design = design = new window.fastDesignProvider(view.el)\ndesign.setLuminance(luminance);\ndesign.setNeutralColor(data.style.neutral_color);\ndesign.setAccentColor(accent);\ndesign.setBackgroundColor(bg);\ndesign.setCornerRadius(data.style.corner_radius);"]]]}}},{"type":"object","name":"panel.models.comm_manager.CommManager","id":"9bfd54ed-5a98-447f-918e-54f8181a6c82","attributes":{"plot_id":"ba698d4b-d27b-4fba-841c-465601648de6","comm_id":"af3e40bbb7e5404ebe0028906c40e9ab","client_comm_id":"e2de577ee6644e3bbc53bb50d97ef1a4"}}],"defs":[{"type":"model","name":"ReactiveHTML1"},{"type":"model","name":"FlexBox1","properties":[{"name":"align_content","kind":"Any","default":"flex-start"},{"name":"align_items","kind":"Any","default":"flex-start"},{"name":"flex_direction","kind":"Any","default":"row"},{"name":"flex_wrap","kind":"Any","default":"wrap"},{"name":"gap","kind":"Any","default":""},{"name":"justify_content","kind":"Any","default":"flex-start"}]},{"type":"model","name":"FloatPanel1","properties":[{"name":"config","kind":"Any","default":{"type":"map"}},{"name":"contained","kind":"Any","default":true},{"name":"position","kind":"Any","default":"right-top"},{"name":"offsetx","kind":"Any","default":null},{"name":"offsety","kind":"Any","default":null},{"name":"theme","kind":"Any","default":"primary"},{"name":"status","kind":"Any","default":"normalized"}]},{"type":"model","name":"GridStack1","properties":[{"name":"mode","kind":"Any","default":"warn"},{"name":"ncols","kind":"Any","default":null},{"name":"nrows","kind":"Any","default":null},{"name":"allow_resize","kind":"Any","default":true},{"name":"allow_drag","kind":"Any","default":true},{"name":"state","kind":"Any","default":[]}]},{"type":"model","name":"drag1","properties":[{"name":"slider_width","kind":"Any","default":5},{"name":"slider_color","kind":"Any","default":"black"},{"name":"value","kind":"Any","default":50}]},{"type":"model","name":"click1","properties":[{"name":"terminal_output","kind":"Any","default":""},{"name":"debug_name","kind":"Any","default":""},{"name":"clears","kind":"Any","default":0}]},{"type":"model","name":"FastWrapper1","properties":[{"name":"object","kind":"Any","default":null},{"name":"style","kind":"Any","default":null}]},{"type":"model","name":"NotificationAreaBase1","properties":[{"name":"js_events","kind":"Any","default":{"type":"map"}},{"name":"position","kind":"Any","default":"bottom-right"},{"name":"_clear","kind":"Any","default":0}]},{"type":"model","name":"NotificationArea1","properties":[{"name":"js_events","kind":"Any","default":{"type":"map"}},{"name":"notifications","kind":"Any","default":[]},{"name":"position","kind":"Any","default":"bottom-right"},{"name":"_clear","kind":"Any","default":0},{"name":"types","kind":"Any","default":[{"type":"map","entries":[["type","warning"],["background","#ffc107"],["icon",{"type":"map","entries":[["className","fas fa-exclamation-triangle"],["tagName","i"],["color","white"]]}]]},{"type":"map","entries":[["type","info"],["background","#007bff"],["icon",{"type":"map","entries":[["className","fas fa-info-circle"],["tagName","i"],["color","white"]]}]]}]}]},{"type":"model","name":"Notification","properties":[{"name":"background","kind":"Any","default":null},{"name":"duration","kind":"Any","default":3000},{"name":"icon","kind":"Any","default":null},{"name":"message","kind":"Any","default":""},{"name":"notification_type","kind":"Any","default":null},{"name":"_destroyed","kind":"Any","default":false}]},{"type":"model","name":"TemplateActions1","properties":[{"name":"open_modal","kind":"Any","default":0},{"name":"close_modal","kind":"Any","default":0}]},{"type":"model","name":"BootstrapTemplateActions1","properties":[{"name":"open_modal","kind":"Any","default":0},{"name":"close_modal","kind":"Any","default":0}]},{"type":"model","name":"TemplateEditor1","properties":[{"name":"layout","kind":"Any","default":[]}]},{"type":"model","name":"MaterialTemplateActions1","properties":[{"name":"open_modal","kind":"Any","default":0},{"name":"close_modal","kind":"Any","default":0}]},{"type":"model","name":"copy_to_clipboard1","properties":[{"name":"fill","kind":"Any","default":"none"},{"name":"value","kind":"Any","default":null}]},{"type":"model","name":"FastStyle00918","properties":[{"name":"background_color","kind":"Any","default":"#ffffff"},{"name":"neutral_color","kind":"Any","default":"#000000"},{"name":"accent_base_color","kind":"Any","default":"#0072B5"},{"name":"collapsed_icon","kind":"Any","default":"\n<svg style=\"stroke: var(--accent-fill-rest);\" width=\"18\" height=\"18\" viewBox=\"0 0 18 18\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" slot=\"collapsed-icon\">\n  <path d=\"M15.2222 1H2.77778C1.79594 1 1 1.79594 1 2.77778V15.2222C1 16.2041 1.79594 17 2.77778 17H15.2222C16.2041 17 17 16.2041 17 15.2222V2.77778C17 1.79594 16.2041 1 15.2222 1Z\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n  <path d=\"M9 5.44446V12.5556\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n  <path d=\"M5.44446 9H12.5556\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n</svg>\n"},{"name":"expanded_icon","kind":"Any","default":"\n<svg style=\"stroke: var(--accent-fill-rest);\" width=\"18\" height=\"18\" viewBox=\"0 0 18 18\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" slot=\"expanded-icon\">\n  <path d=\"M15.2222 1H2.77778C1.79594 1 1 1.79594 1 2.77778V15.2222C1 16.2041 1.79594 17 2.77778 17H15.2222C16.2041 17 17 16.2041 17 15.2222V2.77778C17 1.79594 16.2041 1 15.2222 1Z\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n  <path d=\"M5.44446 9H12.5556\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n</svg>\n"},{"name":"color","kind":"Any","default":"#2B2B2B"},{"name":"neutral_fill_card_rest","kind":"Any","default":"#F7F7F7"},{"name":"neutral_focus","kind":"Any","default":"#888888"},{"name":"neutral_foreground_rest","kind":"Any","default":"#2B2B2B"},{"name":"header_luminance","kind":"Any","default":0.23},{"name":"header_background","kind":"Any","default":"#0072B5"},{"name":"header_neutral_color","kind":"Any","default":"#0072B5"},{"name":"header_accent_base_color","kind":"Any","default":"#ffffff"},{"name":"header_color","kind":"Any","default":"#ffffff"},{"name":"font","kind":"Any","default":"Open Sans, sans-serif"},{"name":"font_url","kind":"Any","default":"//fonts.googleapis.com/css?family=Open+Sans"},{"name":"corner_radius","kind":"Any","default":3},{"name":"shadow","kind":"Any","default":true},{"name":"luminance","kind":"Any","default":1.0}]}]}};
+  var render_items = [{"docid":"88303194-c35c-4d41-ab4b-2033c2834b54","roots":{"ba698d4b-d27b-4fba-841c-465601648de6":"bf345ce4-41f8-4f5d-a355-3075d29953f3"},"root_ids":["ba698d4b-d27b-4fba-841c-465601648de6"]}];
+  var docs = Object.values(docs_json)
+  if (!docs) {
+    return
+  }
+  const py_version = docs[0].version.replace('rc', '-rc.').replace('.dev', '-dev.')
+  function embed_document(root) {
+    var Bokeh = get_bokeh(root)
+    Bokeh.embed.embed_items_notebook(docs_json, render_items);
+    for (const render_item of render_items) {
+      for (const root_id of render_item.root_ids) {
+	const id_el = document.getElementById(root_id)
+	if (id_el.children.length && (id_el.children[0].className === 'bk-root')) {
+	  const root_el = id_el.children[0]
+	  root_el.id = root_el.id + '-rendered'
+	}
+      }
+    }
+  }
+  function get_bokeh(root) {
+    if (root.Bokeh === undefined) {
+      return null
+    } else if (root.Bokeh.version !== py_version) {
+      if (root.Bokeh.versions === undefined || !root.Bokeh.versions.has(py_version)) {
+	return null
+      }
+      return root.Bokeh.versions.get(py_version);
+    } else if (root.Bokeh.version === py_version) {
+      return root.Bokeh
+    }
+    return null
+  }
+  function is_loaded(root) {
+    var Bokeh = get_bokeh(root)
+    return (Bokeh != null && Bokeh.Panel !== undefined && ( root.Tabulator !== undefined) && ( root.Tabulator !== undefined) && ( root.echarts !== undefined) && ( root.echarts !== undefined) && ( root.Tabulator !== undefined) && ( root.echarts !== undefined))
+  }
+  if (is_loaded(root)) {
+    embed_document(root);
+  } else {
+    var attempts = 0;
+    var timer = setInterval(function(root) {
+      if (is_loaded(root)) {
+        clearInterval(timer);
+        embed_document(root);
+      } else if (document.readyState == "complete") {
+        attempts++;
+        if (attempts > 200) {
+          clearInterval(timer);
+	  var Bokeh = get_bokeh(root)
+	  if (Bokeh == null || Bokeh.Panel == null) {
+            console.warn("Panel: ERROR: Unable to run Panel code because Bokeh or Panel library is missing");
+	  } else {
+	    console.warn("Panel: WARNING: Attempting to render but not all required libraries could be resolved.")
+	    embed_document(root)
+	  }
+        }
+      }
+    }, 25, root)
+  }
+})(window);</script></div></div>
+</div>
+</section>
+</section>
+<section id="id9">
+<h2><span class="section-number">3.5.4. </span>🎁客制化<a class="headerlink" href="#id9" title="Permalink to this heading">#</a></h2>
+<p>此处可视化限于网络及数据资源，限制在前7产业投入产出关系。</p>
+<p>实际情况可选定行业及地区做客制化分析。若有额外客制化需求，请洽<a class="reference external" href="mailto:h&#46;liao&#37;&#52;&#48;ieee&#46;org?subject=%E5%AE%A2%E5%88%B6%E5%8C%96VisCEADs">📧澳恪森</a>。</p>
+<p>以下展示部分例子 （选择行业数量较多或指定）：</p>
+<section id="id10">
+<h3><span class="section-number">3.5.4.1. </span>客制化可能例子一<a class="headerlink" href="#id10" title="Permalink to this heading">#</a></h3>
+<p>比较前15名的 <code class="docutils literal notranslate"><span class="pre">北京</span></code> , <code class="docutils literal notranslate"><span class="pre">2017新</span></code> 核心投入产出行业关系桑基（图）。</p>
+<div class="cell tag_remove-input docutils container">
+<div class="cell_output docutils container">
+<div class="output text_html"><div id='0ad9d3df-ff27-40e2-8e79-2d2d53a6c7df'>
+  <div id="aacbe8dc-1888-456f-b6bc-541abc9cd4be" data-root-id="0ad9d3df-ff27-40e2-8e79-2d2d53a6c7df" style="display: contents;"></div>
+</div>
+<script type="application/javascript">(function(root) {
+  var docs_json = {"3ec3a8e4-f8b2-4ace-be73-562283eeaa1a":{"version":"3.4.0","title":"Bokeh Application","roots":[{"type":"object","name":"panel.models.reactive_html.ReactiveHTML","id":"0ad9d3df-ff27-40e2-8e79-2d2d53a6c7df","attributes":{"subscribed_events":{"type":"set","entries":["dom_event"]},"stylesheets":["\n:host(.pn-loading):before, .pn-loading:before {\n  background-color: #c3c3c3;\n  mask-size: auto calc(min(50%, 400px));\n  -webkit-mask-size: auto calc(min(50%, 400px));\n}",{"type":"object","name":"ImportedStyleSheet","id":"382cdfd6-b07f-4c4c-88fa-74b47bfd227f","attributes":{"url":"https://cdn.holoviz.org/panel/1.4.2/dist/css/loading.css"}},{"type":"object","name":"ImportedStyleSheet","id":"e6d457fa-50b6-493f-b765-1e2e3719419f","attributes":{"url":"https://cdn.holoviz.org/panel/1.4.2/dist/bundled/theme/dark.css"}},{"type":"object","name":"ImportedStyleSheet","id":"01a68142-e28c-40f3-80cb-d45ad18e4399","attributes":{"url":"https://cdn.holoviz.org/panel/1.4.2/dist/bundled/theme/native.css"}}],"margin":0,"align":"start","children":{"type":"map","entries":[["fast-wrapper",[{"type":"object","name":"panel.models.echarts.ECharts","id":"c27819b5-65ff-4eb3-a31a-696b6d2e1e8e","attributes":{"subscribed_events":{"type":"set","entries":["echarts_event"]},"stylesheets":["\n:host(.pn-loading):before, .pn-loading:before {\n  background-color: #c3c3c3;\n  mask-size: auto calc(min(50%, 400px));\n  -webkit-mask-size: auto calc(min(50%, 400px));\n}",{"id":"382cdfd6-b07f-4c4c-88fa-74b47bfd227f"},{"id":"e6d457fa-50b6-493f-b765-1e2e3719419f"},{"type":"object","name":"ImportedStyleSheet","id":"389457ed-c318-4a68-ab19-74b1afb249fa","attributes":{"url":"https://cdn.holoviz.org/panel/1.4.2/dist/bundled/theme/fast.css"}}],"width":720,"height":540,"margin":[5,10],"sizing_mode":"fixed","align":"start","data":{"type":"map","entries":[["animation",true],["animationThreshold",2000],["animationDuration",1000],["animationEasing","cubicOut"],["animationDelay",0],["animationDurationUpdate",300],["animationEasingUpdate","cubicOut"],["animationDelayUpdate",0],["aria",{"type":"map","entries":[["enabled",false]]}],["color",["#5470c6","#91cc75","#fac858","#ee6666","#73c0de","#3ba272","#fc8452","#9a60b4","#ea7ccc"]],["series",[{"type":"map","entries":[["type","sankey"],["data",[{"type":"map","entries":[["name","\u8fd0\u8f93\u4ed3\u50a8\u90ae\u653f"]]},{"type":"map","entries":[["name","\u623f\u5730\u4ea7"]]},{"type":"map","entries":[["name","\u6280\u672f\u670d\u52a1"]]},{"type":"map","entries":[["name","\u91d1\u878d\uff08\u56de\uff09"]]},{"type":"map","entries":[["name","\u6279\u53d1\u96f6\u552e"]]},{"type":"map","entries":[["name","\u79df\u8d41\u5546\u52a1"]]},{"type":"map","entries":[["name","\u536b\u751f\u793e\u4f1a\u5de5\u4f5c"]]},{"type":"map","entries":[["name","\u5236\u975e\u91d1\u5c5e"]]},{"type":"map","entries":[["name","\u901a\u4fe1\u7535\u5b50\u8bbe\u5907"]]},{"type":"map","entries":[["name","\u5efa\u7b51"]]},{"type":"map","entries":[["name","\u5236\u5316\u5b66"]]},{"type":"map","entries":[["name","\u91d1\u878d"]]},{"type":"map","entries":[["name","\u4fe1\u901a\u8f6f\u4ef6\u6280\u672f"]]},{"type":"map","entries":[["name","\u79d1\u5b66\u7814\u7a76"]]}]],["links",[{"type":"map","entries":[["source","\u6280\u672f\u670d\u52a1"],["target","\u5efa\u7b51"],["value",50512.49843401473]]},{"type":"map","entries":[["source","\u91d1\u878d"],["target","\u79df\u8d41\u5546\u52a1"],["value",50096.21679037818]]},{"type":"map","entries":[["source","\u79df\u8d41\u5546\u52a1"],["target","\u4fe1\u901a\u8f6f\u4ef6\u6280\u672f"],["value",49835.33352573469]]},{"type":"map","entries":[["source","\u6280\u672f\u670d\u52a1"],["target","\u79d1\u5b66\u7814\u7a76"],["value",46005.00896742612]]},{"type":"map","entries":[["source","\u79df\u8d41\u5546\u52a1"],["target","\u6280\u672f\u670d\u52a1"],["value",44619.30909999687]]},{"type":"map","entries":[["source","\u91d1\u878d"],["target","\u6279\u53d1\u96f6\u552e"],["value",41225.45568346404]]},{"type":"map","entries":[["source","\u623f\u5730\u4ea7"],["target","\u91d1\u878d"],["value",35876.16506518656]]},{"type":"map","entries":[["source","\u79df\u8d41\u5546\u52a1"],["target","\u6279\u53d1\u96f6\u552e"],["value",35302.20288035462]]},{"type":"map","entries":[["source","\u79df\u8d41\u5546\u52a1"],["target","\u91d1\u878d\uff08\u56de\uff09"],["value",32427.803286054477]]},{"type":"map","entries":[["source","\u91d1\u878d"],["target","\u6280\u672f\u670d\u52a1"],["value",32047.775791262487]]},{"type":"map","entries":[["source","\u5236\u5316\u5b66"],["target","\u536b\u751f\u793e\u4f1a\u5de5\u4f5c"],["value",31294.20072182003]]},{"type":"map","entries":[["source","\u901a\u4fe1\u7535\u5b50\u8bbe\u5907"],["target","\u4fe1\u901a\u8f6f\u4ef6\u6280\u672f"],["value",31143.982246279065]]},{"type":"map","entries":[["source","\u6279\u53d1\u96f6\u552e"],["target","\u5efa\u7b51"],["value",28333.404253608827]]},{"type":"map","entries":[["source","\u5236\u975e\u91d1\u5c5e"],["target","\u5efa\u7b51"],["value",26098.497251191697]]},{"type":"map","entries":[["source","\u8fd0\u8f93\u4ed3\u50a8\u90ae\u653f"],["target","\u6280\u672f\u670d\u52a1"],["value",25275.077844694624]]}]],["left","5%"],["top","5%"],["right","20%"],["bottom","5%"],["nodeWidth",20],["nodeGap",8],["nodeAlign","justify"],["orient","horizontal"],["draggable",true],["label",{"type":"map","entries":[["show",true],["rotate",0],["margin",8],["fontSize",16]]}],["lineStyle",{"type":"map","entries":[["show",true],["width",1],["opacity",0.5],["curveness",0.5],["type","solid"],["color","source"]]}],["tooltip",{"type":"map","entries":[["show",true],["trigger","item"],["triggerOn","mousemove"],["axisPointer",{"type":"map","entries":[["type","line"]]}],["showContent",true],["alwaysShowContent",false],["showDelay",0],["hideDelay",100],["enterable",false],["confine",false],["appendToBody",false],["transitionDuration",0.4],["textStyle",{"type":"map","entries":[["fontSize",14]]}],["borderWidth",0],["padding",5],["order","seriesAsc"]]}],["itemStyle",{"type":"map","entries":[["borderColor","#aaa"],["borderWidth",1]]}],["rippleEffect",{"type":"map","entries":[["show",true],["brushType","stroke"],["scale",2.5],["period",4]]}]]}]],["legend",[{"type":"map","entries":[["data",[""]],["selected",{"type":"map"}],["show",true],["padding",5],["itemGap",10],["itemWidth",25],["itemHeight",14],["backgroundColor","transparent"],["borderColor","#ccc"],["borderRadius",0],["pageButtonItemGap",5],["pageButtonPosition","end"],["pageFormatter","{current}/{total}"],["pageIconColor","#2f4554"],["pageIconInactiveColor","#aaa"],["pageIconSize",15],["animationDurationUpdate",800],["selector",false],["selectorPosition","auto"],["selectorItemGap",7],["selectorButtonGap",10]]}]],["tooltip",{"type":"map","entries":[["show",true],["trigger","item"],["triggerOn","mousemove|click"],["axisPointer",{"type":"map","entries":[["type","line"]]}],["showContent",true],["alwaysShowContent",false],["showDelay",0],["hideDelay",100],["enterable",false],["confine",false],["appendToBody",false],["transitionDuration",0.4],["textStyle",{"type":"map","entries":[["fontSize",14]]}],["borderWidth",0],["padding",5],["order","seriesAsc"]]}],["title",[{"type":"map","entries":[["show",true],["text","(\u5317\u4eac,2017\u65b0) \u6851\u57fa\u56fe \u524d15\u884c\u4e1a\u95f4\u6295\u5165\u4ea7\u51fa\u5173\u7cfb"],["target","blank"],["subtarget","blank"],["padding",5],["itemGap",10],["textAlign","auto"],["textVerticalAlign","auto"],["triggerEvent",false]]}]]]},"options":null}}]]]},"data":{"type":"object","name":"FastWrapper1","id":"91ef2e1a-b3bc-4a26-a841-a9bf538db8c6","attributes":{"name":"FastWrapper03000","style":{"type":"object","name":"FastStyle00918","id":"4e400eda-64a0-4414-867d-d09928e7228f","attributes":{"name":"FastStyle00918","tags":["__ref:0ad9d3df-ff27-40e2-8e79-2d2d53a6c7df"],"background_color":"#181818","color":"#ffffff","neutral_fill_card_rest":"#212121","neutral_focus":"#717171","neutral_foreground_rest":"#e5e5e5","shadow":false,"luminance":0.1}}}},"html":"&lt;div id=&quot;fast-wrapper-${id}&quot; class=&quot;fast-wrapper&quot;&gt;&lt;/div&gt;","nodes":["fast-wrapper"],"scripts":{"type":"map","entries":[["render",["let accent, bg, luminance\nif (window._JUPYTERLAB) {\n  accent = getComputedStyle(document.body).getPropertyValue(&#x27;--jp-brand-color0&#x27;).trim();\n  bg = getComputedStyle(document.body).getPropertyValue(&#x27;--jp-layout-color0&#x27;).trim();\n  let color = getComputedStyle(document.body).getPropertyValue(&#x27;--jp-ui-font-color0&#x27;).trim();\n  luminance = color == &#x27;rgba(255, 255, 255, 1)&#x27; ? 0.23 : 1.0;\n} else {\n  accent = data.style.accent_base_color;\n  bg = data.style.background_color;\n  luminance = data.style.luminance;\n}\nbg = bg === &#x27;white&#x27; ? &#x27;#ffffff&#x27; : bg;\nbg = bg === &#x27;black&#x27; ? &#x27;#000000&#x27; : bg;\nstate.design = design = new window.fastDesignProvider(view.el)\ndesign.setLuminance(luminance);\ndesign.setNeutralColor(data.style.neutral_color);\ndesign.setAccentColor(accent);\ndesign.setBackgroundColor(bg);\ndesign.setCornerRadius(data.style.corner_radius);"]]]}}},{"type":"object","name":"panel.models.comm_manager.CommManager","id":"e7cfbf96-74cc-46e3-8906-801cc9fe7b4f","attributes":{"plot_id":"0ad9d3df-ff27-40e2-8e79-2d2d53a6c7df","comm_id":"52ea20051a6b429c8878ecce6ee9269b","client_comm_id":"aaf66ad61ac64258a61ee407b585ea5e"}}],"defs":[{"type":"model","name":"ReactiveHTML1"},{"type":"model","name":"FlexBox1","properties":[{"name":"align_content","kind":"Any","default":"flex-start"},{"name":"align_items","kind":"Any","default":"flex-start"},{"name":"flex_direction","kind":"Any","default":"row"},{"name":"flex_wrap","kind":"Any","default":"wrap"},{"name":"gap","kind":"Any","default":""},{"name":"justify_content","kind":"Any","default":"flex-start"}]},{"type":"model","name":"FloatPanel1","properties":[{"name":"config","kind":"Any","default":{"type":"map"}},{"name":"contained","kind":"Any","default":true},{"name":"position","kind":"Any","default":"right-top"},{"name":"offsetx","kind":"Any","default":null},{"name":"offsety","kind":"Any","default":null},{"name":"theme","kind":"Any","default":"primary"},{"name":"status","kind":"Any","default":"normalized"}]},{"type":"model","name":"GridStack1","properties":[{"name":"mode","kind":"Any","default":"warn"},{"name":"ncols","kind":"Any","default":null},{"name":"nrows","kind":"Any","default":null},{"name":"allow_resize","kind":"Any","default":true},{"name":"allow_drag","kind":"Any","default":true},{"name":"state","kind":"Any","default":[]}]},{"type":"model","name":"drag1","properties":[{"name":"slider_width","kind":"Any","default":5},{"name":"slider_color","kind":"Any","default":"black"},{"name":"value","kind":"Any","default":50}]},{"type":"model","name":"click1","properties":[{"name":"terminal_output","kind":"Any","default":""},{"name":"debug_name","kind":"Any","default":""},{"name":"clears","kind":"Any","default":0}]},{"type":"model","name":"FastWrapper1","properties":[{"name":"object","kind":"Any","default":null},{"name":"style","kind":"Any","default":null}]},{"type":"model","name":"NotificationAreaBase1","properties":[{"name":"js_events","kind":"Any","default":{"type":"map"}},{"name":"position","kind":"Any","default":"bottom-right"},{"name":"_clear","kind":"Any","default":0}]},{"type":"model","name":"NotificationArea1","properties":[{"name":"js_events","kind":"Any","default":{"type":"map"}},{"name":"notifications","kind":"Any","default":[]},{"name":"position","kind":"Any","default":"bottom-right"},{"name":"_clear","kind":"Any","default":0},{"name":"types","kind":"Any","default":[{"type":"map","entries":[["type","warning"],["background","#ffc107"],["icon",{"type":"map","entries":[["className","fas fa-exclamation-triangle"],["tagName","i"],["color","white"]]}]]},{"type":"map","entries":[["type","info"],["background","#007bff"],["icon",{"type":"map","entries":[["className","fas fa-info-circle"],["tagName","i"],["color","white"]]}]]}]}]},{"type":"model","name":"Notification","properties":[{"name":"background","kind":"Any","default":null},{"name":"duration","kind":"Any","default":3000},{"name":"icon","kind":"Any","default":null},{"name":"message","kind":"Any","default":""},{"name":"notification_type","kind":"Any","default":null},{"name":"_destroyed","kind":"Any","default":false}]},{"type":"model","name":"TemplateActions1","properties":[{"name":"open_modal","kind":"Any","default":0},{"name":"close_modal","kind":"Any","default":0}]},{"type":"model","name":"BootstrapTemplateActions1","properties":[{"name":"open_modal","kind":"Any","default":0},{"name":"close_modal","kind":"Any","default":0}]},{"type":"model","name":"TemplateEditor1","properties":[{"name":"layout","kind":"Any","default":[]}]},{"type":"model","name":"MaterialTemplateActions1","properties":[{"name":"open_modal","kind":"Any","default":0},{"name":"close_modal","kind":"Any","default":0}]},{"type":"model","name":"copy_to_clipboard1","properties":[{"name":"fill","kind":"Any","default":"none"},{"name":"value","kind":"Any","default":null}]},{"type":"model","name":"FastStyle00918","properties":[{"name":"background_color","kind":"Any","default":"#ffffff"},{"name":"neutral_color","kind":"Any","default":"#000000"},{"name":"accent_base_color","kind":"Any","default":"#0072B5"},{"name":"collapsed_icon","kind":"Any","default":"\n<svg style=\"stroke: var(--accent-fill-rest);\" width=\"18\" height=\"18\" viewBox=\"0 0 18 18\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" slot=\"collapsed-icon\">\n  <path d=\"M15.2222 1H2.77778C1.79594 1 1 1.79594 1 2.77778V15.2222C1 16.2041 1.79594 17 2.77778 17H15.2222C16.2041 17 17 16.2041 17 15.2222V2.77778C17 1.79594 16.2041 1 15.2222 1Z\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n  <path d=\"M9 5.44446V12.5556\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n  <path d=\"M5.44446 9H12.5556\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n</svg>\n"},{"name":"expanded_icon","kind":"Any","default":"\n<svg style=\"stroke: var(--accent-fill-rest);\" width=\"18\" height=\"18\" viewBox=\"0 0 18 18\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" slot=\"expanded-icon\">\n  <path d=\"M15.2222 1H2.77778C1.79594 1 1 1.79594 1 2.77778V15.2222C1 16.2041 1.79594 17 2.77778 17H15.2222C16.2041 17 17 16.2041 17 15.2222V2.77778C17 1.79594 16.2041 1 15.2222 1Z\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n  <path d=\"M5.44446 9H12.5556\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n</svg>\n"},{"name":"color","kind":"Any","default":"#2B2B2B"},{"name":"neutral_fill_card_rest","kind":"Any","default":"#F7F7F7"},{"name":"neutral_focus","kind":"Any","default":"#888888"},{"name":"neutral_foreground_rest","kind":"Any","default":"#2B2B2B"},{"name":"header_luminance","kind":"Any","default":0.23},{"name":"header_background","kind":"Any","default":"#0072B5"},{"name":"header_neutral_color","kind":"Any","default":"#0072B5"},{"name":"header_accent_base_color","kind":"Any","default":"#ffffff"},{"name":"header_color","kind":"Any","default":"#ffffff"},{"name":"font","kind":"Any","default":"Open Sans, sans-serif"},{"name":"font_url","kind":"Any","default":"//fonts.googleapis.com/css?family=Open+Sans"},{"name":"corner_radius","kind":"Any","default":3},{"name":"shadow","kind":"Any","default":true},{"name":"luminance","kind":"Any","default":1.0}]}]}};
+  var render_items = [{"docid":"3ec3a8e4-f8b2-4ace-be73-562283eeaa1a","roots":{"0ad9d3df-ff27-40e2-8e79-2d2d53a6c7df":"aacbe8dc-1888-456f-b6bc-541abc9cd4be"},"root_ids":["0ad9d3df-ff27-40e2-8e79-2d2d53a6c7df"]}];
+  var docs = Object.values(docs_json)
+  if (!docs) {
+    return
+  }
+  const py_version = docs[0].version.replace('rc', '-rc.').replace('.dev', '-dev.')
+  function embed_document(root) {
+    var Bokeh = get_bokeh(root)
+    Bokeh.embed.embed_items_notebook(docs_json, render_items);
+    for (const render_item of render_items) {
+      for (const root_id of render_item.root_ids) {
+	const id_el = document.getElementById(root_id)
+	if (id_el.children.length && (id_el.children[0].className === 'bk-root')) {
+	  const root_el = id_el.children[0]
+	  root_el.id = root_el.id + '-rendered'
+	}
+      }
+    }
+  }
+  function get_bokeh(root) {
+    if (root.Bokeh === undefined) {
+      return null
+    } else if (root.Bokeh.version !== py_version) {
+      if (root.Bokeh.versions === undefined || !root.Bokeh.versions.has(py_version)) {
+	return null
+      }
+      return root.Bokeh.versions.get(py_version);
+    } else if (root.Bokeh.version === py_version) {
+      return root.Bokeh
+    }
+    return null
+  }
+  function is_loaded(root) {
+    var Bokeh = get_bokeh(root)
+    return (Bokeh != null && Bokeh.Panel !== undefined && ( root.Tabulator !== undefined) && ( root.Tabulator !== undefined) && ( root.echarts !== undefined) && ( root.echarts !== undefined) && ( root.Tabulator !== undefined) && ( root.echarts !== undefined))
+  }
+  if (is_loaded(root)) {
+    embed_document(root);
+  } else {
+    var attempts = 0;
+    var timer = setInterval(function(root) {
+      if (is_loaded(root)) {
+        clearInterval(timer);
+        embed_document(root);
+      } else if (document.readyState == "complete") {
+        attempts++;
+        if (attempts > 200) {
+          clearInterval(timer);
+	  var Bokeh = get_bokeh(root)
+	  if (Bokeh == null || Bokeh.Panel == null) {
+            console.warn("Panel: ERROR: Unable to run Panel code because Bokeh or Panel library is missing");
+	  } else {
+	    console.warn("Panel: WARNING: Attempting to render but not all required libraries could be resolved.")
+	    embed_document(root)
+	  }
+        }
+      }
+    }, 25, root)
+  }
+})(window);</script></div></div>
+</div>
+</section>
+<section id="id11">
+<h3><span class="section-number">3.5.4.2. </span>客制化可能例子二<a class="headerlink" href="#id11" title="Permalink to this heading">#</a></h3>
+<p>比较前25名的 <code class="docutils literal notranslate"><span class="pre">江苏</span></code> , <code class="docutils literal notranslate"><span class="pre">2017</span></code> 核心投入产出行业关系桑基（图）。</p>
+<div class="cell tag_remove-input docutils container">
+<div class="cell_output docutils container">
+<div class="output text_html"><div id='4037393e-6212-47ed-9d96-05783d358b41'>
+  <div id="c8c21583-502b-4fbb-ba47-841897405c7d" data-root-id="4037393e-6212-47ed-9d96-05783d358b41" style="display: contents;"></div>
+</div>
+<script type="application/javascript">(function(root) {
+  var docs_json = {"9bb528c0-7f8a-415d-a3b3-fa7a14d1ec7f":{"version":"3.4.0","title":"Bokeh Application","roots":[{"type":"object","name":"panel.models.reactive_html.ReactiveHTML","id":"4037393e-6212-47ed-9d96-05783d358b41","attributes":{"subscribed_events":{"type":"set","entries":["dom_event"]},"stylesheets":["\n:host(.pn-loading):before, .pn-loading:before {\n  background-color: #c3c3c3;\n  mask-size: auto calc(min(50%, 400px));\n  -webkit-mask-size: auto calc(min(50%, 400px));\n}",{"type":"object","name":"ImportedStyleSheet","id":"07d0feea-ce1d-410e-8b3e-a7214788e891","attributes":{"url":"https://cdn.holoviz.org/panel/1.4.2/dist/css/loading.css"}},{"type":"object","name":"ImportedStyleSheet","id":"719d6123-33de-4e0e-b980-c740258c0fb5","attributes":{"url":"https://cdn.holoviz.org/panel/1.4.2/dist/bundled/theme/dark.css"}},{"type":"object","name":"ImportedStyleSheet","id":"0411baa6-9b76-4b47-a1e6-25f7749b5784","attributes":{"url":"https://cdn.holoviz.org/panel/1.4.2/dist/bundled/theme/native.css"}}],"margin":0,"align":"start","children":{"type":"map","entries":[["fast-wrapper",[{"type":"object","name":"panel.models.echarts.ECharts","id":"e18641cf-e29f-4413-bdb8-e9c62386fc15","attributes":{"subscribed_events":{"type":"set","entries":["echarts_event"]},"stylesheets":["\n:host(.pn-loading):before, .pn-loading:before {\n  background-color: #c3c3c3;\n  mask-size: auto calc(min(50%, 400px));\n  -webkit-mask-size: auto calc(min(50%, 400px));\n}",{"id":"07d0feea-ce1d-410e-8b3e-a7214788e891"},{"id":"719d6123-33de-4e0e-b980-c740258c0fb5"},{"type":"object","name":"ImportedStyleSheet","id":"e7d00930-f4dc-48ef-a15d-c7e30188b323","attributes":{"url":"https://cdn.holoviz.org/panel/1.4.2/dist/bundled/theme/fast.css"}}],"width":720,"height":540,"margin":[5,10],"sizing_mode":"fixed","align":"start","data":{"type":"map","entries":[["animation",true],["animationThreshold",2000],["animationDuration",1000],["animationEasing","cubicOut"],["animationDelay",0],["animationDurationUpdate",300],["animationEasingUpdate","cubicOut"],["animationDelayUpdate",0],["aria",{"type":"map","entries":[["enabled",false]]}],["color",["#5470c6","#91cc75","#fac858","#ee6666","#73c0de","#3ba272","#fc8452","#9a60b4","#ea7ccc"]],["series",[{"type":"map","entries":[["type","sankey"],["data",[{"type":"map","entries":[["name","\u79d1\u5b66\u7814\u7a76\u6280\u672f\u670d\u52a1"]]},{"type":"map","entries":[["name","\u5efa\u7b51"]]},{"type":"map","entries":[["name","\u901a\u7528\u8bbe\u5907"]]},{"type":"map","entries":[["name","\u519c\u6797\u7267\u6e14"]]},{"type":"map","entries":[["name","\u519c\u6797\u7267\u6e14\uff08\u56de\uff09"]]},{"type":"map","entries":[["name","\u536b\u751f\u793e\u4f1a\u5de5\u4f5c"]]},{"type":"map","entries":[["name","\u5236\u975e\u91d1\u5c5e"]]},{"type":"map","entries":[["name","\u7535\u6c14\u673a\u68b0\u5668\u6750"]]},{"type":"map","entries":[["name","\u52a0\u5de5\u98df\u54c1\u70df\u8349"]]},{"type":"map","entries":[["name","\u623f\u5730\u4ea7"]]},{"type":"map","entries":[["name","\u5236\u670d\u978b\u5e3d\u76ae\u7fbd"]]},{"type":"map","entries":[["name","\u4ea7\u4f9b\u7535\u70ed\u529b"]]},{"type":"map","entries":[["name","\u5236\u91d1\u5c5e\u5236\u54c1"]]},{"type":"map","entries":[["name","\u52a0\u5de5\u91d1\u5c5e\u51b6\u70bc"]]},{"type":"map","entries":[["name","\u4f4f\u5bbf\u9910\u996e"]]},{"type":"map","entries":[["name","\u901a\u4fe1\u7535\u5b50\u8bbe\u5907"]]},{"type":"map","entries":[["name","\u7eba\u7ec7\u54c1"]]},{"type":"map","entries":[["name","\u91d1\u878d\uff08\u56de\uff09"]]},{"type":"map","entries":[["name","\u6279\u53d1\u96f6\u552e"]]},{"type":"map","entries":[["name","\u79df\u8d41\u5546\u52a1"]]},{"type":"map","entries":[["name","\u5236\u5316\u5b66"]]},{"type":"map","entries":[["name","\u91d1\u878d"]]}]],["links",[{"type":"map","entries":[["source","\u5236\u975e\u91d1\u5c5e"],["target","\u5efa\u7b51"],["value",270178.2638910651]]},{"type":"map","entries":[["source","\u519c\u6797\u7267\u6e14"],["target","\u52a0\u5de5\u98df\u54c1\u70df\u8349"],["value",267348.2674324332]]},{"type":"map","entries":[["source","\u52a0\u5de5\u91d1\u5c5e\u51b6\u70bc"],["target","\u7535\u6c14\u673a\u68b0\u5668\u6750"],["value",238119.21547775503]]},{"type":"map","entries":[["source","\u79d1\u5b66\u7814\u7a76\u6280\u672f\u670d\u52a1"],["target","\u5efa\u7b51"],["value",157351.82131285657]]},{"type":"map","entries":[["source","\u52a0\u5de5\u91d1\u5c5e\u51b6\u70bc"],["target","\u5236\u91d1\u5c5e\u5236\u54c1"],["value",149952.13971602407]]},{"type":"map","entries":[["source","\u7eba\u7ec7\u54c1"],["target","\u5236\u670d\u978b\u5e3d\u76ae\u7fbd"],["value",148862.0528402135]]},{"type":"map","entries":[["source","\u91d1\u878d"],["target","\u5efa\u7b51"],["value",145757.92222957656]]},{"type":"map","entries":[["source","\u91d1\u878d"],["target","\u79df\u8d41\u5546\u52a1"],["value",141398.79760197905]]},{"type":"map","entries":[["source","\u52a0\u5de5\u91d1\u5c5e\u51b6\u70bc"],["target","\u5efa\u7b51"],["value",128356.96072222339]]},{"type":"map","entries":[["source","\u79df\u8d41\u5546\u52a1"],["target","\u91d1\u878d\uff08\u56de\uff09"],["value",123774.59594127857]]},{"type":"map","entries":[["source","\u6279\u53d1\u96f6\u552e"],["target","\u901a\u4fe1\u7535\u5b50\u8bbe\u5907"],["value",96180.75449661545]]},{"type":"map","entries":[["source","\u519c\u6797\u7267\u6e14"],["target","\u7eba\u7ec7\u54c1"],["value",87407.62467154585]]},{"type":"map","entries":[["source","\u5236\u5316\u5b66"],["target","\u536b\u751f\u793e\u4f1a\u5de5\u4f5c"],["value",81180.80601919166]]},{"type":"map","entries":[["source","\u52a0\u5de5\u91d1\u5c5e\u51b6\u70bc"],["target","\u901a\u7528\u8bbe\u5907"],["value",78090.29885032751]]},{"type":"map","entries":[["source","\u5236\u5316\u5b66"],["target","\u7535\u6c14\u673a\u68b0\u5668\u6750"],["value",74630.85861877003]]},{"type":"map","entries":[["source","\u91d1\u878d"],["target","\u623f\u5730\u4ea7"],["value",73279.27654669616]]},{"type":"map","entries":[["source","\u52a0\u5de5\u98df\u54c1\u70df\u8349"],["target","\u4f4f\u5bbf\u9910\u996e"],["value",71866.66163136672]]},{"type":"map","entries":[["source","\u5236\u5316\u5b66"],["target","\u901a\u4fe1\u7535\u5b50\u8bbe\u5907"],["value",70462.94652663801]]},{"type":"map","entries":[["source","\u4ea7\u4f9b\u7535\u70ed\u529b"],["target","\u5236\u5316\u5b66"],["value",65825.30913108337]]},{"type":"map","entries":[["source","\u4ea7\u4f9b\u7535\u70ed\u529b"],["target","\u52a0\u5de5\u91d1\u5c5e\u51b6\u70bc"],["value",63901.69876611034]]},{"type":"map","entries":[["source","\u5236\u5316\u5b66"],["target","\u7eba\u7ec7\u54c1"],["value",63813.69046006815]]},{"type":"map","entries":[["source","\u5236\u5316\u5b66"],["target","\u5efa\u7b51"],["value",60627.44522646747]]},{"type":"map","entries":[["source","\u52a0\u5de5\u98df\u54c1\u70df\u8349"],["target","\u519c\u6797\u7267\u6e14\uff08\u56de\uff09"],["value",60149.63468740978]]},{"type":"map","entries":[["source","\u4f4f\u5bbf\u9910\u996e"],["target","\u91d1\u878d"],["value",59394.208360606804]]},{"type":"map","entries":[["source","\u6279\u53d1\u96f6\u552e"],["target","\u5236\u5316\u5b66"],["value",58686.70101747137]]}]],["left","5%"],["top","5%"],["right","20%"],["bottom","5%"],["nodeWidth",20],["nodeGap",8],["nodeAlign","justify"],["orient","horizontal"],["draggable",true],["label",{"type":"map","entries":[["show",true],["rotate",0],["margin",8],["fontSize",16]]}],["lineStyle",{"type":"map","entries":[["show",true],["width",1],["opacity",0.5],["curveness",0.5],["type","solid"],["color","source"]]}],["tooltip",{"type":"map","entries":[["show",true],["trigger","item"],["triggerOn","mousemove"],["axisPointer",{"type":"map","entries":[["type","line"]]}],["showContent",true],["alwaysShowContent",false],["showDelay",0],["hideDelay",100],["enterable",false],["confine",false],["appendToBody",false],["transitionDuration",0.4],["textStyle",{"type":"map","entries":[["fontSize",14]]}],["borderWidth",0],["padding",5],["order","seriesAsc"]]}],["itemStyle",{"type":"map","entries":[["borderColor","#aaa"],["borderWidth",1]]}],["rippleEffect",{"type":"map","entries":[["show",true],["brushType","stroke"],["scale",2.5],["period",4]]}]]}]],["legend",[{"type":"map","entries":[["data",[""]],["selected",{"type":"map"}],["show",true],["padding",5],["itemGap",10],["itemWidth",25],["itemHeight",14],["backgroundColor","transparent"],["borderColor","#ccc"],["borderRadius",0],["pageButtonItemGap",5],["pageButtonPosition","end"],["pageFormatter","{current}/{total}"],["pageIconColor","#2f4554"],["pageIconInactiveColor","#aaa"],["pageIconSize",15],["animationDurationUpdate",800],["selector",false],["selectorPosition","auto"],["selectorItemGap",7],["selectorButtonGap",10]]}]],["tooltip",{"type":"map","entries":[["show",true],["trigger","item"],["triggerOn","mousemove|click"],["axisPointer",{"type":"map","entries":[["type","line"]]}],["showContent",true],["alwaysShowContent",false],["showDelay",0],["hideDelay",100],["enterable",false],["confine",false],["appendToBody",false],["transitionDuration",0.4],["textStyle",{"type":"map","entries":[["fontSize",14]]}],["borderWidth",0],["padding",5],["order","seriesAsc"]]}],["title",[{"type":"map","entries":[["show",true],["text","(\u6c5f\u82cf,2017) \u6851\u57fa\u56fe \u524d25\u884c\u4e1a\u95f4\u6295\u5165\u4ea7\u51fa\u5173\u7cfb"],["target","blank"],["subtarget","blank"],["padding",5],["itemGap",10],["textAlign","auto"],["textVerticalAlign","auto"],["triggerEvent",false]]}]]]},"options":null}}]]]},"data":{"type":"object","name":"FastWrapper1","id":"ee7bcec5-6ae5-449c-94a4-7dbd11339b62","attributes":{"name":"FastWrapper03007","style":{"type":"object","name":"FastStyle00918","id":"5426c370-692d-4a48-a03e-5ce77f84c808","attributes":{"name":"FastStyle00918","tags":["__ref:4037393e-6212-47ed-9d96-05783d358b41"],"background_color":"#181818","color":"#ffffff","neutral_fill_card_rest":"#212121","neutral_focus":"#717171","neutral_foreground_rest":"#e5e5e5","shadow":false,"luminance":0.1}}}},"html":"&lt;div id=&quot;fast-wrapper-${id}&quot; class=&quot;fast-wrapper&quot;&gt;&lt;/div&gt;","nodes":["fast-wrapper"],"scripts":{"type":"map","entries":[["render",["let accent, bg, luminance\nif (window._JUPYTERLAB) {\n  accent = getComputedStyle(document.body).getPropertyValue(&#x27;--jp-brand-color0&#x27;).trim();\n  bg = getComputedStyle(document.body).getPropertyValue(&#x27;--jp-layout-color0&#x27;).trim();\n  let color = getComputedStyle(document.body).getPropertyValue(&#x27;--jp-ui-font-color0&#x27;).trim();\n  luminance = color == &#x27;rgba(255, 255, 255, 1)&#x27; ? 0.23 : 1.0;\n} else {\n  accent = data.style.accent_base_color;\n  bg = data.style.background_color;\n  luminance = data.style.luminance;\n}\nbg = bg === &#x27;white&#x27; ? &#x27;#ffffff&#x27; : bg;\nbg = bg === &#x27;black&#x27; ? &#x27;#000000&#x27; : bg;\nstate.design = design = new window.fastDesignProvider(view.el)\ndesign.setLuminance(luminance);\ndesign.setNeutralColor(data.style.neutral_color);\ndesign.setAccentColor(accent);\ndesign.setBackgroundColor(bg);\ndesign.setCornerRadius(data.style.corner_radius);"]]]}}},{"type":"object","name":"panel.models.comm_manager.CommManager","id":"7cff64f3-5974-4bc2-9858-64cad96374c0","attributes":{"plot_id":"4037393e-6212-47ed-9d96-05783d358b41","comm_id":"2bf1ccb4abb94b619b737ff4b015ace5","client_comm_id":"2af86b60a4684eecb42c41bb131a2641"}}],"defs":[{"type":"model","name":"ReactiveHTML1"},{"type":"model","name":"FlexBox1","properties":[{"name":"align_content","kind":"Any","default":"flex-start"},{"name":"align_items","kind":"Any","default":"flex-start"},{"name":"flex_direction","kind":"Any","default":"row"},{"name":"flex_wrap","kind":"Any","default":"wrap"},{"name":"gap","kind":"Any","default":""},{"name":"justify_content","kind":"Any","default":"flex-start"}]},{"type":"model","name":"FloatPanel1","properties":[{"name":"config","kind":"Any","default":{"type":"map"}},{"name":"contained","kind":"Any","default":true},{"name":"position","kind":"Any","default":"right-top"},{"name":"offsetx","kind":"Any","default":null},{"name":"offsety","kind":"Any","default":null},{"name":"theme","kind":"Any","default":"primary"},{"name":"status","kind":"Any","default":"normalized"}]},{"type":"model","name":"GridStack1","properties":[{"name":"mode","kind":"Any","default":"warn"},{"name":"ncols","kind":"Any","default":null},{"name":"nrows","kind":"Any","default":null},{"name":"allow_resize","kind":"Any","default":true},{"name":"allow_drag","kind":"Any","default":true},{"name":"state","kind":"Any","default":[]}]},{"type":"model","name":"drag1","properties":[{"name":"slider_width","kind":"Any","default":5},{"name":"slider_color","kind":"Any","default":"black"},{"name":"value","kind":"Any","default":50}]},{"type":"model","name":"click1","properties":[{"name":"terminal_output","kind":"Any","default":""},{"name":"debug_name","kind":"Any","default":""},{"name":"clears","kind":"Any","default":0}]},{"type":"model","name":"FastWrapper1","properties":[{"name":"object","kind":"Any","default":null},{"name":"style","kind":"Any","default":null}]},{"type":"model","name":"NotificationAreaBase1","properties":[{"name":"js_events","kind":"Any","default":{"type":"map"}},{"name":"position","kind":"Any","default":"bottom-right"},{"name":"_clear","kind":"Any","default":0}]},{"type":"model","name":"NotificationArea1","properties":[{"name":"js_events","kind":"Any","default":{"type":"map"}},{"name":"notifications","kind":"Any","default":[]},{"name":"position","kind":"Any","default":"bottom-right"},{"name":"_clear","kind":"Any","default":0},{"name":"types","kind":"Any","default":[{"type":"map","entries":[["type","warning"],["background","#ffc107"],["icon",{"type":"map","entries":[["className","fas fa-exclamation-triangle"],["tagName","i"],["color","white"]]}]]},{"type":"map","entries":[["type","info"],["background","#007bff"],["icon",{"type":"map","entries":[["className","fas fa-info-circle"],["tagName","i"],["color","white"]]}]]}]}]},{"type":"model","name":"Notification","properties":[{"name":"background","kind":"Any","default":null},{"name":"duration","kind":"Any","default":3000},{"name":"icon","kind":"Any","default":null},{"name":"message","kind":"Any","default":""},{"name":"notification_type","kind":"Any","default":null},{"name":"_destroyed","kind":"Any","default":false}]},{"type":"model","name":"TemplateActions1","properties":[{"name":"open_modal","kind":"Any","default":0},{"name":"close_modal","kind":"Any","default":0}]},{"type":"model","name":"BootstrapTemplateActions1","properties":[{"name":"open_modal","kind":"Any","default":0},{"name":"close_modal","kind":"Any","default":0}]},{"type":"model","name":"TemplateEditor1","properties":[{"name":"layout","kind":"Any","default":[]}]},{"type":"model","name":"MaterialTemplateActions1","properties":[{"name":"open_modal","kind":"Any","default":0},{"name":"close_modal","kind":"Any","default":0}]},{"type":"model","name":"copy_to_clipboard1","properties":[{"name":"fill","kind":"Any","default":"none"},{"name":"value","kind":"Any","default":null}]},{"type":"model","name":"FastStyle00918","properties":[{"name":"background_color","kind":"Any","default":"#ffffff"},{"name":"neutral_color","kind":"Any","default":"#000000"},{"name":"accent_base_color","kind":"Any","default":"#0072B5"},{"name":"collapsed_icon","kind":"Any","default":"\n<svg style=\"stroke: var(--accent-fill-rest);\" width=\"18\" height=\"18\" viewBox=\"0 0 18 18\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" slot=\"collapsed-icon\">\n  <path d=\"M15.2222 1H2.77778C1.79594 1 1 1.79594 1 2.77778V15.2222C1 16.2041 1.79594 17 2.77778 17H15.2222C16.2041 17 17 16.2041 17 15.2222V2.77778C17 1.79594 16.2041 1 15.2222 1Z\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n  <path d=\"M9 5.44446V12.5556\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n  <path d=\"M5.44446 9H12.5556\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n</svg>\n"},{"name":"expanded_icon","kind":"Any","default":"\n<svg style=\"stroke: var(--accent-fill-rest);\" width=\"18\" height=\"18\" viewBox=\"0 0 18 18\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" slot=\"expanded-icon\">\n  <path d=\"M15.2222 1H2.77778C1.79594 1 1 1.79594 1 2.77778V15.2222C1 16.2041 1.79594 17 2.77778 17H15.2222C16.2041 17 17 16.2041 17 15.2222V2.77778C17 1.79594 16.2041 1 15.2222 1Z\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n  <path d=\"M5.44446 9H12.5556\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n</svg>\n"},{"name":"color","kind":"Any","default":"#2B2B2B"},{"name":"neutral_fill_card_rest","kind":"Any","default":"#F7F7F7"},{"name":"neutral_focus","kind":"Any","default":"#888888"},{"name":"neutral_foreground_rest","kind":"Any","default":"#2B2B2B"},{"name":"header_luminance","kind":"Any","default":0.23},{"name":"header_background","kind":"Any","default":"#0072B5"},{"name":"header_neutral_color","kind":"Any","default":"#0072B5"},{"name":"header_accent_base_color","kind":"Any","default":"#ffffff"},{"name":"header_color","kind":"Any","default":"#ffffff"},{"name":"font","kind":"Any","default":"Open Sans, sans-serif"},{"name":"font_url","kind":"Any","default":"//fonts.googleapis.com/css?family=Open+Sans"},{"name":"corner_radius","kind":"Any","default":3},{"name":"shadow","kind":"Any","default":true},{"name":"luminance","kind":"Any","default":1.0}]}]}};
+  var render_items = [{"docid":"9bb528c0-7f8a-415d-a3b3-fa7a14d1ec7f","roots":{"4037393e-6212-47ed-9d96-05783d358b41":"c8c21583-502b-4fbb-ba47-841897405c7d"},"root_ids":["4037393e-6212-47ed-9d96-05783d358b41"]}];
+  var docs = Object.values(docs_json)
+  if (!docs) {
+    return
+  }
+  const py_version = docs[0].version.replace('rc', '-rc.').replace('.dev', '-dev.')
+  function embed_document(root) {
+    var Bokeh = get_bokeh(root)
+    Bokeh.embed.embed_items_notebook(docs_json, render_items);
+    for (const render_item of render_items) {
+      for (const root_id of render_item.root_ids) {
+	const id_el = document.getElementById(root_id)
+	if (id_el.children.length && (id_el.children[0].className === 'bk-root')) {
+	  const root_el = id_el.children[0]
+	  root_el.id = root_el.id + '-rendered'
+	}
+      }
+    }
+  }
+  function get_bokeh(root) {
+    if (root.Bokeh === undefined) {
+      return null
+    } else if (root.Bokeh.version !== py_version) {
+      if (root.Bokeh.versions === undefined || !root.Bokeh.versions.has(py_version)) {
+	return null
+      }
+      return root.Bokeh.versions.get(py_version);
+    } else if (root.Bokeh.version === py_version) {
+      return root.Bokeh
+    }
+    return null
+  }
+  function is_loaded(root) {
+    var Bokeh = get_bokeh(root)
+    return (Bokeh != null && Bokeh.Panel !== undefined && ( root.Tabulator !== undefined) && ( root.Tabulator !== undefined) && ( root.echarts !== undefined) && ( root.echarts !== undefined) && ( root.Tabulator !== undefined) && ( root.echarts !== undefined))
+  }
+  if (is_loaded(root)) {
+    embed_document(root);
+  } else {
+    var attempts = 0;
+    var timer = setInterval(function(root) {
+      if (is_loaded(root)) {
+        clearInterval(timer);
+        embed_document(root);
+      } else if (document.readyState == "complete") {
+        attempts++;
+        if (attempts > 200) {
+          clearInterval(timer);
+	  var Bokeh = get_bokeh(root)
+	  if (Bokeh == null || Bokeh.Panel == null) {
+            console.warn("Panel: ERROR: Unable to run Panel code because Bokeh or Panel library is missing");
+	  } else {
+	    console.warn("Panel: WARNING: Attempting to render but not all required libraries could be resolved.")
+	    embed_document(root)
+	  }
+        }
+      }
+    }, 25, root)
+  }
+})(window);</script></div></div>
+</div>
+<div class="tip admonition">
+<p class="admonition-title">用户可对桑基图排版</p>
+<p>此桑基图可依用户需求，自行<code class="docutils literal notranslate"><span class="pre">点选</span></code> 及 <code class="docutils literal notranslate"><span class="pre">拖拽</span></code> 图元素进行排版。</p>
+</div>
+</section>
+</section>
+</section>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            name: "python3",
+            path: "./features"
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+                </article>
+              
+
+              
+              
+              
+              
+                <footer class="prev-next-footer d-print-none">
+                  
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="app_feature-03.zh.html"
+       title="前一页">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">往前</p>
+        <p class="prev-next-title"><span class="section-number">3.4. </span>📉分页3历史走势</p>
+      </div>
+    </a>
+    <a class="right-next"
+       href="../chapters/04.Data.zh.html"
+       title="下一页">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">往下</p>
+        <p class="prev-next-title"><span class="section-number">4. </span>🗃️CEADs 数据库</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> 目录
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id2">3.5.1. 示意展示图</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id3">3.5.2. 📜桑基图探究<code class="docutils literal notranslate"><span class="pre">产业结构</span></code>和<code class="docutils literal notranslate"><span class="pre">能源结构</span></code></a><ul class="visible nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id4">3.5.2.1. 💱投入产出表的桑基图可提供关系洞察</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id5">3.5.2.2. 🛢传统桑基图用于能源供应与消费</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id6">3.5.2.3. ❓<code class="docutils literal notranslate"><span class="pre">结构转型</span></code>要怎样启动</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#i">3.5.3. ℹ️此桑基图的交互功能</a><ul class="visible nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id7">3.5.3.1. 可排版</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id8">3.5.3.2. 可选 <code class="docutils literal notranslate"><span class="pre">地区</span></code> 及 <code class="docutils literal notranslate"><span class="pre">年份</span></code></a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id9">3.5.4. 🎁客制化</a><ul class="visible nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id10">3.5.4.1. 客制化可能例子一</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id11">3.5.4.2. 客制化可能例子二</a></li>
+</ul>
+</li>
+</ul>
+  </nav></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+<div class="bd-footer-content__inner container">
+  
+  <div class="footer-item">
+    
+<p class="component-author">
+作者： Han-Teng Liao (廖汉腾)
+</p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+
+  <p class="copyright">
+    
+      © Copyright 著作权所有 2024.
+      <br/>
+    
+  </p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+</div>
+          </footer>
+        
+
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="../_static/scripts/bootstrap.js?digest=3ee479438cf8b5e0d341"></script>
+<script src="../_static/scripts/pydata-sphinx-theme.js?digest=3ee479438cf8b5e0d341"></script>
+
+  <footer class="bd-footer">
+  </footer>
+  </body>
+</html>
