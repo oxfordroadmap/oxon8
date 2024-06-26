@@ -35,7 +35,7 @@ image:
 <!--more-->
 ###  网络图展示投入产出关系及关键指标
 
-作为``产业结构``核心，``网络图``[展示投入产出关系及行业部门关键指标](https://oxon8.netlify.app/visualization/prj-visceads/html/chapters/02.main)。其交互控件有[年份、地区、主要指标、网络引力斥力调整]({{< reflink path="/visualization/prj-visceads/html/features/app_feature_main-02">}})。
+作为``产业结构``核心，``网络图``[展示投入产出关系及行业部门关键指标](https://oxon8.netlify.app/visualization/prj-visceads/html/chapters/02.main)。其交互控件有[年份、地区、主要指标、网络引力斥力调整]({{< reflink path="/visualization/prj-visceads/html/features/app_feature_main-02.zh">}})。
 
 
 > VisCEADs 主页截屏一：展示 ``网络图``、``桑基图``、``关键指标互动图表``
@@ -47,7 +47,7 @@ image:
 
 ### 更多可交互图表构成``减污降碳全景图``
 
-作为详细信息补充，[📅副图表]({{< reflink path="/visualization/prj-visceads/html/chapters/03.additional">}})将以下分页整合：
+作为详细信息补充，[📅副图表]({{< reflink path="/visualization/prj-visceads/html/chapters/03.additional.zh">}})将以下分页整合：
 - [🏭分页1行业表]({{< reflink path="/visualization/prj-visceads/html/features/app_feature-01.zh">}})
 - [💹分页2投入产出表]({{< reflink path="/visualization/prj-visceads/html/features/app_feature-02.zh">}})
 - [📉分页3历史走势]({{< reflink path="/visualization/prj-visceads/html/features/app_feature-03.zh">}})
@@ -57,7 +57,7 @@ VisCEADs基于[``中国碳核算数据库（CEADs）``](https://www.ceads.net.cn
 
 ### 创新点：数据科学缩减及可视化
 
-VisCEADs 创新点主要将ViSCEADs 相关的百万多的数据点，经数据科学有效缩减并转换成可视化的格式。相关的数据缩减及转换说明请参见[``《使用手册》4. 🗃️CEADs 数据库``]({{< reflink path="/visualization/prj-visceads/html/chapters/05.roadmapping.html">}})。
+VisCEADs 创新点主要将ViSCEADs 相关的百万多的数据点，经数据科学有效缩减并转换成可视化的格式。相关的数据缩减及转换说明请参见[``《使用手册》4. 🗃️CEADs 数据库``]({{< reflink path="/visualization/prj-visceads/html/chapters/05.roadmapping.zh">}})。
 
 {{% callout note %}}
 澳恪森综合考量信息量、视觉负担，以及网络交互响应速度后，将开放版的VisCEADs采用各年份各省前5%的边缘数据，计88个边。
@@ -76,7 +76,7 @@ VisCEADs 创新点主要将ViSCEADs 相关的百万多的数据点，经数据�
 
 ### 小结：从情报到行动方案
 
-为达「精准脱碳」国家[《2024—2025年节能降碳行动方案》](https://www.gov.cn/zhengce/202405/content_6954583.htm)具体下达的``脱碳指标``，以及更长久的《巴黎协定》1.5℃目标 （参见[VisNetZero成果]({{< reflink path="visualization/prj-visNetZero/index">}})），VisCEADs 可助用户精准找到以下关键信息及情报：
+为达「精准脱碳」国家[《2024—2025年节能降碳行动方案》](https://www.gov.cn/zhengce/202405/content_6954583.htm)具体下达的``脱碳指标``，以及更长久的《巴黎协定》1.5℃目标 （参见[VisNetZero成果]({{< reflink path="visualization/prj-visNetZero/index.zh">}})），VisCEADs 可助用户精准找到以下关键信息及情报：
 * ``减多少``、
 * ``减哪``、
 * ``如何产业链上下游连减``
@@ -86,7 +86,7 @@ VisCEADs 创新点主要将ViSCEADs 相关的百万多的数据点，经数据�
 
 ## 从情报到智能：「精准脱碳」智能助手化
 
-为求运营可持续，澳恪森计划于2024下半年推出``科研产研客制化产品``（订价💵USD 6.8k 或 💴RMB 50k起），并将收入再投资，于2025年推出**脱碳智能助手**生成建议及可视化。（详情参考请见[``使用手册 5. 🧭发展路线``]({{< reflink path="/visualization/prj-visceads/html/chapters/05.roadmapping.html">}})）
+为求运营可持续，澳恪森计划于2024下半年推出``科研产研客制化产品``（订价💵USD 6.8k 或 💴RMB 50k起），并将收入再投资，于2025年推出**脱碳智能助手**生成建议及可视化。（详情参考请见[``使用手册 5. 🧭发展路线``]({{< reflink path="/visualization/prj-visceads/html/chapters/05.roadmapping.zh">}})）
 
 智能化指的是进一步使用机器学习、合成数据、人工智能等，使可视化平台提升功能，能回答用户脱碳问题。
 
