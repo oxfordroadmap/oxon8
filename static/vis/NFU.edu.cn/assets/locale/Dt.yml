@@ -1,0 +1,1587 @@
+Author:
+  Cao, Huiru:
+    en: Cao, Huiru
+    zh_Hans: 曹辉茹
+    zh_Hant: 曹輝茹
+  Chen, Haishan:
+    en: Chen, Haishan
+    zh_Hans: 陈海山
+    zh_Hant: 陳海山
+  Chen, Kai-Sheng:
+    en: Chen, Kai-Sheng
+    zh_Hans: 陈楷升
+    zh_Hant: 陳楷升
+  Hong, Wien:
+    en: Hong, Wien
+    zh_Hans: 洪维恩
+    zh_Hant: 洪維恩
+  Hu, Kuang-Hua:
+    en: Hu, Kuang-Hua
+    zh_Hans: 胡光华
+    zh_Hant: 胡光华
+  Liao, Han-Teng:
+    en: Liao, Han-Teng
+    zh_Hans: 廖汉腾
+    zh_Hant: 廖漢騰
+  Lin, Hung-Wen:
+    en: Lin, Hung-Wen
+    zh_Hans: 林鴻文
+    zh_Hant: 林鴻文
+  Liu, Minsi:
+    en: Liu, Minsi
+    zh_Hans: 刘敏思
+    zh_Hant: 刘敏思
+  Luo, Guo:
+    en: Luo, Guo
+    zh_Hans: 罗国
+    zh_Hant: 羅國
+  Lv, Xuanjiao:
+    en: Lv, Xuanjiao
+    zh_Hans: 吕宣姣
+    zh_Hant: 呂宣姣
+  Ou, Chung-Ya:
+    en: Ou, Chung-Ya
+    zh_Hans: 欧崇亚
+    zh_Hant: 欧崇亚
+  Pan, Chung-Lien:
+    en: Pan, Chung-Lien
+    zh_Hans: '潘仲亷 '
+    zh_Hant: '潘仲亷 '
+  Tsai, Hung-Yu:
+    en: Tsai, Hung-Yu
+    zh_Hans: 蔡泓育
+    zh_Hant: 蔡泓育
+  Wang, Wei-Ching:
+    en: Wang, Wei-Ching
+    zh_Hans: 王维靖
+    zh_Hant: 王維靖
+  Wu, Hung-Che:
+    en: Wu, Hung-Che
+    zh_Hans: 吴宏哲
+    zh_Hant: 吳宏哲
+  Xu, Ziyu:
+    en: Xu, Ziyu
+    zh_Hans: 徐子玉
+    zh_Hant: 徐子玉
+  Yang, Zhi:
+    en: Yang, Zhi
+    zh_Hans: 杨智
+    zh_Hant: 楊智
+  Yuan, Junying:
+    en: Yuan, Junying
+    zh_Hans: 苑俊英
+    zh_Hant: 苑俊英
+  Zhan, Choujun:
+    en: Zhan, Choujun
+    zh_Hans: 詹俦军
+    zh_Hant: 詹儔軍
+  Zhang, Yuan:
+    en: Zhang, Yuan
+    zh_Hans: 张媛
+    zh_Hant: 張媛
+  Zuo, Haichun:
+    en: Zuo, Haichun
+    zh_Hans: 左海春
+    zh_Hant: 左海春
+Country:
+  Australia:
+    en: Australia
+    zh_Hans: 澳大利亚
+    zh_Hant: 澳大利亞
+  Bangladesh:
+    en: Bangladesh
+    zh_Hans: 孟加拉国
+    zh_Hant: 孟加拉國
+  Belgium:
+    en: Belgium
+    zh_Hans: 比利时
+    zh_Hant: 比利時
+  Canada:
+    en: Canada
+    zh_Hans: 加拿大
+    zh_Hant: 加拿大
+  China:
+    en: China
+    zh_Hans: 中国
+    zh_Hant: 中國
+  England:
+    en: England
+    zh_Hans: 英国
+    zh_Hant: 英國
+  Finland:
+    en: Finland
+    zh_Hans: 芬兰
+    zh_Hant: 芬蘭
+  France:
+    en: France
+    zh_Hans: 法国
+    zh_Hant: 法國
+  Germany:
+    en: Germany
+    zh_Hans: 德国
+    zh_Hant: 德國
+  Hong Kong:
+    en: Hong Kong
+    zh_Hans: 香港
+    zh_Hant: 香港
+  India:
+    en: India
+    zh_Hans: 印度
+    zh_Hant: 印度
+  Indonesia:
+    en: Indonesia
+    zh_Hans: 印度尼西亚
+    zh_Hant: 印尼
+  Iran:
+    en: Iran
+    zh_Hans: 伊朗
+    zh_Hant: 伊朗
+  Japan:
+    en: Japan
+    zh_Hans: 日本
+    zh_Hant: 日本
+  Jordan:
+    en: Jordan
+    zh_Hans: 约旦
+    zh_Hant: 約旦
+  Kazakhstan:
+    en: Kazakhstan
+    zh_Hans: 哈萨克斯坦
+    zh_Hant: 哈薩克
+  Malaysia:
+    en: Malaysia
+    zh_Hans: 马来西亚
+    zh_Hant: 馬來西亞
+  Netherlands:
+    en: Netherlands
+    zh_Hans: 荷兰
+    zh_Hant: 荷蘭
+  Norway:
+    en: Norway
+    zh_Hans: 挪威
+    zh_Hant: 挪威
+  Pakistan:
+    en: Pakistan
+    zh_Hans: 巴基斯坦
+    zh_Hant: 巴基斯坦
+  Philippines:
+    en: Philippines
+    zh_Hans: 菲律宾
+    zh_Hant: 菲律賓
+  Qatar:
+    en: Qatar
+    zh_Hans: 卡塔尔
+    zh_Hant: 卡達
+  Russia:
+    en: Russia
+    zh_Hans: 俄罗斯
+    zh_Hant: 俄羅斯
+  Singapore:
+    en: Singapore
+    zh_Hans: 新加坡
+    zh_Hant: 新加坡
+  South Africa:
+    en: South Africa
+    zh_Hans: 南非
+    zh_Hant: 南非
+  South Korea:
+    en: South Korea
+    zh_Hans: 韩国
+    zh_Hant: 韓國
+  Sweden:
+    en: Sweden
+    zh_Hans: 瑞典
+    zh_Hant: 瑞典
+  Switzerland:
+    en: Switzerland
+    zh_Hans: 瑞士
+    zh_Hant: 瑞士
+  Taiwan:
+    en: Taiwan
+    zh_Hans: 台湾
+    zh_Hant: 臺灣
+  Tanzania:
+    en: Tanzania
+    zh_Hans: 坦桑尼亚
+    zh_Hant: 坦尚尼亞
+  Thailand:
+    en: Thailand
+    zh_Hans: 泰国
+    zh_Hant: 泰國
+  UK:
+    en: UK
+    zh_Hans: 英国
+    zh_Hant: 英國
+  USA:
+    en: USA
+    zh_Hans: 美国
+    zh_Hant: 美國
+  Vietnam:
+    en: Vietnam
+    zh_Hans: 越南
+    zh_Hant: 越南
+Dtype_detail:
+  0) Correction:
+    en: 0) Correction
+    zh_Hans: 0）更正
+    zh_Hant: 0）更正
+  0) Retraction:
+    en: 0) Retraction
+    zh_Hans: 0）撤稿
+    zh_Hant: 0）撤稿
+  1) Article:
+    en: 1) Article
+    zh_Hans: 1）文章
+    zh_Hant: 1）文章
+  2) Book Chapter:
+    en: 2) Book Chapter
+    zh_Hans: 2）书章
+    zh_Hant: 2）書章
+  3) Proceedings:
+    en: 3) Proceedings
+    zh_Hans: 3）会议论文
+    zh_Hant: 3）會議論文
+  4) Preprint:
+    en: 4) Preprint
+    zh_Hans: 4）预印本
+    zh_Hant: 4）預印本
+  5) Editorial:
+    en: 5) Editorial
+    zh_Hans: 5）社论
+    zh_Hant: 5）社論
+  5) Letter:
+    en: 5) Letter
+    zh_Hans: 5）投书
+    zh_Hant: 5）投書
+  7) Book Review:
+    en: 7) Book Review
+    zh_Hans: 7）书评
+    zh_Hant: 7）書評
+  7) Misc:
+    en: 7) Misc
+    zh_Hans: 7）杂项
+    zh_Hant: 7）雜項
+  8) Biographical:
+    en: 8) Biographical
+    zh_Hans: 8）传记
+    zh_Hant: 8）傳記
+  9) Meeting Abstract:
+    en: 9) Meeting Abstract
+    zh_Hans: 9）开会摘要
+    zh_Hant: 9）開會摘要
+GUI_App00:
+  AlertBulletPoints:
+    en: ''
+    zh_Hans: '* 贡献比例从八成多降至**五六成**。
+
+      * 篇数当量从2018年67篇降至近三年的**41-47**篇。
+
+      * UTD方法显示共同作者多，但近年该机构贡献占比逐年下降。'
+    zh_Hant: '* 貢獻比例從八成多降至**五六成**。
+
+      * 篇數當量從2018年67篇降至近三年的**41-47**篇。
+
+      * UTD方法顯示共同作者多，但近年該機構貢獻占比逐年下降。'
+  AlertHighlight:
+    en: Experiencing growth during 2018-2020, the university faces challenges in both
+      the contribution ratio and number indicators, especially after around 2020-2022
+    zh_Hans: 在2018-2020年成长期后，此大学于**贡献比例**及**数量**计量上近年遇到挑战，特别是在2020-2022年前后见**负成长**。
+    zh_Hant: 在2018-2020年成長期後，此大學於**貢獻比例**及**數量**計量上近年遇到挑戰，特別是在2020-2022年前後見**負成長**。
+  AlertHighlightTitle:
+    en: '{} Scientific Performance'
+    zh_Hans: '{} 科研成果表现趋势'
+    zh_Hant: '{} 科研成果表現趨勢'
+  ContributionRatio:
+    en: Contribution Raio
+    zh_Hans: 贡献比
+    zh_Hant: 貢獻比
+  ContributionRatioFormula:
+    en: Contribution Raio--Formula
+    zh_Hans: 贡献比公式
+    zh_Hant: 貢獻比公式
+  Data_Filtered:
+    en: Filtered Dataset
+    zh_Hans: 数据集
+    zh_Hant: 數據集
+  GaugeTitle:
+    en: 'Indicator gauges: Best year and latest year'
+    zh_Hans: 贡献比指标：最佳年份和最新年份
+    zh_Hant: 貢獻比指標：最佳年份和最新年份
+  PlotRatio:
+    en: Contribution Raio Plot--Rolling and Yearly
+    zh_Hans: 贡献比数值图--含年度及滾动均值
+    zh_Hant: 貢獻比數值圖--含年度及滾動均值
+  PlotRollingTitle:
+    en: Rolling Average Plot
+    zh_Hans: 滾动均值图
+    zh_Hant: 滾動均值圖
+  PlotYearlyTitle:
+    en: Yearly Trend Plot
+    zh_Hans: 年度数值图
+    zh_Hant: 年度數值圖
+  indicator:
+    en: indicator
+    zh_Hans: 指标
+    zh_Hant: 指標
+  threshold:
+    en: threshold
+    zh_Hans: 阈值
+    zh_Hant: 閾值
+GUI_App01:
+  AlertBulletPoints:
+    en: ''
+    zh_Hans: '1. 未提及二级单位的文章不少。
+
+      2. 多数单位于2020-2022年前后达峰值后**走下坡**。
+
+      3. 表现较好学院有**电气**丶**商学院**丶及**会计学院**。
+
+      4. 表现较好科研单位有**高校影响力**丶**财会研究中心**丶等。
+
+      5. 论文数据库EI及WoS呈现理工vs.人文的差异。
+
+      6. 大学及学院<u>决策者</u>可按**投入**（资金丶场地丶设备）-**产出**的关系合理比较单位。'
+    zh_Hant: '1. 未提及二級單位的文章不少。
+
+      2. 多數單位於2020-2022年前後達峰值後**走下坡**。
+
+      3. 表現較好學院有**電氣**、**商學院**、及**會計學院**。
+
+      4. 表現較好科研單位有**高校影響力**、**財會研究中心**、等。
+
+      5. 論文數據庫EI及WoS呈現理工vs.人文的差異。
+
+      6. 大學及學院<u>決策者</u>可按**投入**（資金、場地、設備）-**產出**的關係合理比較單位。'
+  AlertHighlight:
+    en: Ranking tables and diagrams show the performance of Org02
+    zh_Hans: 绩效图表展示3主要学院及2校级研究中心的表现总体较好...
+    zh_Hant: 績效圖表展示3主要學院及2校級研究中心的表現總體較好...
+  AlertHighlightTitle:
+    en: 🏢Performance Assessment -- at the Org02 level
+    zh_Hans: 🏢绩效评估 -- 二级单位 层次
+    zh_Hant: 🏢績效評估 -- 二級單位 層次
+  ContributionRatio:
+    en: Contribution Raio
+    zh_Hans: 贡献比
+    zh_Hant: 貢獻比
+  ContributionRatioFormula:
+    en: Contribution Raio--Formula
+    zh_Hans: 贡献比公式
+    zh_Hant: 貢獻比公式
+  Data_Filtered:
+    en: Filtered Dataset
+    zh_Hans: 数据集
+    zh_Hant: 數據集
+  GaugeTitle:
+    en: 'Indicator gauges: Best year and latest year'
+    zh_Hans: 贡献比指标：最佳年份和最新年份
+    zh_Hant: 貢獻比指標：最佳年份和最新年份
+  PlotRatio:
+    en: Contribution Raio Plot--Rolling and Yearly
+    zh_Hans: 贡献比数值图--含年度及滾动均值
+    zh_Hant: 貢獻比數值圖--含年度及滾動均值
+  PlotRollingTitle:
+    en: Rolling Average Plot
+    zh_Hans: 滾动均值图
+    zh_Hant: 滾動均值圖
+  PlotYearlyTitle:
+    en: Yearly Trend Plot
+    zh_Hans: 年度数值图
+    zh_Hant: 年度數值圖
+  Stats_Sel:
+    en: 'Stats: Selected parameters (adjust them at the Widget Box).'
+    zh_Hans: （左侧调参）控制部分小计： 📅二级单位 📅二级单位-📜来源文献刊物
+    zh_Hant: （左側調參）控制部分小計： 📅二级单位 📅二级单位-📜来源文獻刊物
+  TrendPlotNote:
+    en: 'Note: The sidebar (parameters) allows changing parameters, such as methods,
+      databases, document types'
+    zh_Hans: '* 注1：最左侧控制部件框（调参）可以调整参数，如计量方法、论文索引库及文献类型 (除年份及二级单位以外)。
+
+      * 注2：左侧图例说明可以点击, 切换高亮与否。'
+    zh_Hant: '* 註1：最左側控制部件框（調參）可以調整參數，如計量方法、論文索引庫及文獻類型 (除了年份及二級單位以外)。
+
+      * 註2：左侧圖例說明可以點擊, 切換高亮與否。'''
+  TrendPlotTitle:
+    en: '{} Trend Plot: Top {} -- {}'
+    zh_Hans: '{} 历年趋势圖: 前{} -- {}'
+    zh_Hant: '{} 歷年趨勢圖: 前{} -- {}'
+  col_range_year:
+    en: range_year
+    zh_Hans: range_出版年
+    zh_Hant: range_出版年
+  indicator:
+    en: indicator
+    zh_Hans: 指标
+    zh_Hant: 指標
+  threshold:
+    en: threshold
+    zh_Hans: 阈值
+    zh_Hant: 閾值
+GUI_App02:
+  AlertBulletPoints:
+    en: ''
+    zh_Hans: '1. 少量（通常2-5）科研人员对二级单位整体成果有决定性影响。
+
+      2. 科研人员是否能持续发表国际论文，或与**硕士点建设**丶**本科论文指导**丶及擅长的**课题能力**高度相关。
+
+      3. <u>新进</u>科研人员等亦可参考此数据探究此大学各单位是否重视科研人员的成长及留用。
+
+      4. 大学及学院<u>决策者</u>按**投入**（科研奬励丶升职评比丶资源丶场地丶设备）-**产出**的关系合理比较科研人员及相关单位。'
+    zh_Hant: '1. 少量（通常2-5）科研人員對二級單位整體成果有決定性影響。
+
+      2. 科研人員是否能持續發表國際論文，或與**碩士點建設**、**本科論文指導**、及擅長的**課題能力**高度相關。
+
+      3. <u>新進</u>科研人員等亦可參考此數據探究此大學各單位是否重視科研人員的成長及留用。
+
+      4. 大學及學院<u>決策者</u>可按**投入**（科研奬勵、升職評比、資源、場地、設備）-**產出**的關系合理比較科研人員及相關單位。'
+  AlertHighlight:
+    en: Ranking tables and diagrams show the performance of Org02
+    zh_Hans: 绩效图表展示表现较好的作者，且贡献比的权值较能突显一篇多作者文章的分布...
+    zh_Hant: 績效圖表展示表現較好的作者，且貢獻比的權值較能突顯一篇多作者文章的分佈...
+  AlertHighlightTitle:
+    en: 🕵🏻Performance Assessment -- at the Author level
+    zh_Hans: 🕵🏻绩效评估 -- 作者 层次
+    zh_Hant: 🕵🏻績效評估 -- 作者 層次
+  Author(s):
+    en: 'Selected Authors: '
+    zh_Hans: 已选科研人员：
+    zh_Hant: 已選科研人員：
+  AuthorPrompt:
+    en: Please select any author(s) first
+    zh_Hans: 请先勾选科研人员（可多选）
+    zh_Hant: 請先勾選科研人員（可多選）
+  References:
+    en: References
+    zh_Hans: 参考书目
+    zh_Hant: 參考書目
+  Stats_All_years:
+    en: 'Stats: All years'
+    zh_Hans: 历年总计表：📅作者 📅作者-二级单位
+    zh_Hant: 歷年總計表：📅作者 📅作者-二級單位
+  Stats_Sel:
+    en: 'Stats: Selected parameters (adjust them at the Widget Box).'
+    zh_Hans: （左侧调参）控制部分小计： 📅作者 📅作者-二级单位
+    zh_Hant: （左側調參）控制部分小計： 📅作者 📅作者-二級單位
+  Stats_Sel_Author_Sources:
+    en: 'Stats: Author-Sources (adjust them at the Widget Box).'
+    zh_Hans: （左侧调参，上栏选作者）作者 与 🏢二级单位 📜来源 关系小计
+    zh_Hant: （左側調參，上欄選作者）作者 與 🏢二級單位 📜來源 關系小計
+  col_range_year:
+    en: range_year
+    zh_Hans: range_出版年
+    zh_Hant: range_出版年
+GUI_App03:
+  AlertBulletPoints:
+    en: ''
+    zh_Hans: '* 科研人员需累积超过总量一篇才纳入此图。
+
+      * 可观察科研人员跨单位合作研究情况。
+
+      * 可观察**八二**帕雷托法则（英语：Pareto principle）。'
+    zh_Hant: '* 科研人員需累積超過總量一篇才納入此圖。
+
+      * 可觀察科研人員跨單位合作研究情況。
+
+      * 可觀察**八二**帕雷托法則（英語：Pareto principle）。'
+  AlertHighlight:
+    en: 'A Sankey-diagram shows the relationship among scholars and organizations:'
+    zh_Hans: （待完成）桑基圖概覽展示**科研人員**、**二級單位** 對該大學的貢獻比累積權重值
+    zh_Hant: （待完成）桑基图概览展示**科研人员**丶**二级单位** 对该大学的贡献比累积权重值.
+  AlertHighlightTitle:
+    en: 🌈Performance Assessment -- a Sankey-diagram overivew
+    zh_Hans: 🌈绩效评估 -- 桑基图概览
+    zh_Hant: 🌈績效評估 -- 桑基圖概覽
+GUI_App04:
+  AlertBulletPoints:
+    en: ''
+    zh_Hans: '* 仅有部份科研人员有谷歌学术侧写。
+
+      * 可观察影响力的时间趋势。
+
+      * 可观察科研人员如何自我呈现一级及二级单位。'
+    zh_Hant: '* 僅有部份科研人員有谷歌學術側寫。
+
+      * 可觀察影響力的時間趨勢。
+
+      * 可觀察科研人員如何自我呈現一級及二級單位。'
+  AlertHighlight:
+    en: 'A sample of Google Scholar profiles is shown here:'
+    zh_Hans: （待完成）发表量高的科研人员在谷歌学术 (Google Scholar) 的单位侧写及（被引）影响力
+    zh_Hant: （待完成）發表量高的科研人員在谷歌學術 (Google Scholar) 的單位側寫及（被引）影響力
+  AlertHighlightTitle:
+    en: 📈Impact Assessment -- a Sample from Google Scholar
+    zh_Hans: 📈影响力评估 -- 谷歌学术样本
+    zh_Hant: 📈影響力評估 -- 谷歌學術樣本
+GUI_url_misc:
+  All:
+    en: All options
+    zh_Hans: 全选
+    zh_Hant: 全選
+  ButtonRefresh:
+    en: 🔁Refresh
+    zh_Hans: 🔁更新
+    zh_Hant: 🔁更新
+  ButtonSave:
+    en: 💾Save
+    zh_Hans: 💾存档
+    zh_Hant: 💾存檔
+  DashboardTitle00:
+    en: 🏫Performance Assessment -- {} Trend
+    zh_Hans: 🏫科研成果表现绩效评估 -- {} 趋势
+    zh_Hant: 🏫科研成果表現績效評估 -- {} 趨勢
+  DashboardTitle01:
+    en: 🏢Performance Assessment -- at the Org02 level
+    zh_Hans: 🏢绩效评估 -- 二级单位 层次
+    zh_Hant: 🏢績效評估 -- 二級單位 層次
+  DashboardTitle02:
+    en: 🕵🏻Performance Assessment -- at the Author level
+    zh_Hans: 🕵🏻绩效评估 -- 作者 层次
+    zh_Hant: 🕵🏻績效評估 -- 作者 層次
+  DashboardTitle03:
+    en: 🌈Performance Assessment -- a Sankey-diagram overivew
+    zh_Hans: 🌈绩效评估 -- 桑基图概览
+    zh_Hant: 🌈績效評估 -- 桑基圖概覽
+  DashboardTitle04:
+    en: 📈Impact Assessment -- a Sample from Google Scholar
+    zh_Hans: 📈影响力评估 -- 谷歌学术样本
+    zh_Hant: 📈影響力評估 -- 谷歌學術樣本
+  DashboardTitleShort:
+    en: Performance Assessment
+    zh_Hans: 科研成果表现
+    zh_Hant: 科研成果表現
+  EnterMinimumValue:
+    en: Enter minimum value
+    zh_Hans: 最小值
+    zh_Hant: 最小值
+  Footnote:
+    en: Note.
+    zh_Hans: 注
+    zh_Hant: 註
+  Menu:
+    en: Menu
+    zh_Hans: 导航选单
+    zh_Hant: 導航選單
+  PaneDebug:
+    en: Pane -- Debug
+    zh_Hans: 监测框（除错用）
+    zh_Hant: 監測框（除錯用）
+  References:
+    en: References
+    zh_Hans: 参考书目
+    zh_Hant: 參考書目
+  SelectAuthor:
+    en: Please select any author(s) first
+    zh_Hans: 请先勾选科研人员（可多选）
+    zh_Hant: 請先勾選科研人員（可多選）
+  SelectDtypeScope:
+    en: Document Type
+    zh_Hans: 成果类型
+    zh_Hant: 成果類型
+  SelectDtypeScopeBrief:
+    en: Select the scope (multiple)
+    zh_Hans: 勾选范围，可多选
+    zh_Hant: 勾選範圍，可多選
+  SelectMethodDBScope:
+    en: Methods and Databases
+    zh_Hans: 计量方法 与 论文检索库
+    zh_Hant: 計量方法 與 論文檢索庫
+  SelectMethodDBScopeBrief:
+    en: Indexing databases refer to the EI and the Web of Science (WoS). Metric methods
+      refer to the UTD ranking method.
+    zh_Hans: 检索库指 EI 及 Web of Science (WoS)；计量方法采德克萨斯大学达拉斯分校UTD排名计量法
+    zh_Hant: 檢索庫指 EI 及 Web of Science (WoS)；計量方法采德克薩斯大學達拉斯分校UTD排名計量法
+  SelectMethodDBScopeNote:
+    en: ¹ UTD_fc counts the first and correspondence author(s) only.
+    zh_Hans: ¹ UTD_fc只计第一及通讯作者，UTD 按比计所有作者
+    zh_Hant: ¹ UTD_fc只計第一及通訊作者，UTD 按比計所有作者
+  SelectOrg02:
+    en: Select Org02
+    zh_Hans: 选择二级单位
+    zh_Hant: 選擇二級單位
+  SelectOrgPrimary:
+    en: Select primary org
+    zh_Hans: 选择一级单位
+    zh_Hant: 選擇一級單位
+  SelectTimeWindowSize:
+    en: Select time window size
+    zh_Hans: 选择滾动均值窗口（年）
+    zh_Hant: 選擇滾動均值窗口（年）
+  SelectYearRange:
+    en: Select year range
+    zh_Hans: 选择出版年范围
+    zh_Hant: 選擇出版年範圍
+  SelectedAuthors:
+    en: 'Author(s):'
+    zh_Hans: '已选科研人员:'
+    zh_Hant: '已選科研人員:'
+  TrendPlot:
+    en: Trend Plot
+    zh_Hans: 趋势圖
+    zh_Hant: 趨勢圖
+  WidgetBox:
+    en: Widget Box
+    zh_Hans: 控制部件框
+    zh_Hant: 控制部件框
+  col_range_year:
+    en: range_year
+    zh_Hans: range_出版年
+    zh_Hant: range_出版年
+  url_visCEADs:
+    en: https://oxon8.netlify.app/visualization/prj-visceads/index.en
+    zh_Hans: https://oxon8.netlify.app/visualization/prj-visceads/index.zh
+    zh_Hant: https://oxon8.netlify.app/visualization/prj-visceads/index.zh
+  url_visNetZero:
+    en: https://oxon8.netlify.app/visualization/prj-visnetzero/index.en
+    zh_Hans: https://oxon8.netlify.app/visualization/prj-visnetzero/index.zh
+    zh_Hant: https://oxon8.netlify.app/visualization/prj-visceads/index.zh
+_meta_:
+  Dtype_detail:
+    en: Document Type
+    zh_Hans: 文献类型
+    zh_Hant: 文獻類型
+  col_range_year:
+    en: range_year
+    zh_Hans: range_出版年
+    zh_Hant: range_出版年
+  db:
+    en: db
+    zh_Hans: 论文检索库
+    zh_Hant: 文獻檢索庫
+  idx:
+    en: idx
+    zh_Hans: 📰论文检索号
+    zh_Hant: 📰文獻檢索庫號
+  idx_au:
+    en: idx_au
+    zh_Hans: 检索号_au
+    zh_Hant: 文獻庫號_AU
+  idx_aui:
+    en: idx_aui
+    zh_Hans: 检索号_aui
+    zh_Hant: 文獻庫號_AUI
+  mean:
+    en: Mean ȳ
+    zh_Hans: 均值 ȳ
+    zh_Hant: 平均值ȳ
+  method:
+    en: method
+    zh_Hans: 权重计量方法
+    zh_Hant: 權重計量方法
+  ratio_c:
+    en: 🍕ratio_c
+    zh_Hans: 🍕贡献比例
+    zh_Hant: 🍕貢獻比例
+  rolling_idx:
+    en: 📰idx (rolling)
+    zh_Hans: 📰论文量（滚动）
+    zh_Hant: 📰文獻量（滾動）
+  rolling_ratio:
+    en: 🍕ratio (rolling)
+    zh_Hans: 🍕贡献比例（滚动）
+    zh_Hant: 🍕貢獻比例（滾動）
+  rolling_weight:
+    en: ⚖weight (rolling)
+    zh_Hans: ⚖权重值（滚动）
+    zh_Hant: ⚖權重值（滾動）
+  source:
+    en: source
+    zh_Hans: 📜文献来源刊物
+    zh_Hant: 📜文獻來源刊物
+  t_Author:
+    en: t_Author
+    zh_Hans: 作者
+    zh_Hant: 作者
+  t_Country:
+    en: t_Country
+    zh_Hans: 地区
+    zh_Hant: 地區國家
+  t_loc:
+    en: t_loc
+    zh_Hans: 地点
+    zh_Hant: 地點
+  t_org01:
+    en: t_org01
+    zh_Hans: 一级单位
+    zh_Hant: 一級單位
+  t_org02:
+    en: t_org02
+    zh_Hans: 二级单位
+    zh_Hant: 二級單位
+  this_org01:
+    en: Nanfang Coll Guangzhou
+    zh_Hans: 广州南方学院
+    zh_Hant: 廣州南方學院
+  title:
+    en: Title
+    zh_Hans: 篇名
+    zh_Hant: 篇名
+  weight:
+    en: ⚖weight
+    zh_Hans: ⚖权重值
+    zh_Hant: ⚖權重值
+  year:
+    en: year
+    zh_Hans: 出版年
+    zh_Hant: 出版年
+org01:
+  '#UNKNOWN':
+    en: ❓Unknown❓
+    zh_Hans: ❓未知❓
+    zh_Hant: ❓未知❓
+  CUNY:
+    en: CUNY
+    zh_Hans: 纽约市立大学
+    zh_Hant: 紐約市立大學
+  Nanfang Coll Guangzhou:
+    en: Nanfang Coll Guangzhou
+    zh_Hans: 广州南方学院
+    zh_Hant: 廣州南方學院
+  Natl Hlth Commiss & Guangdong Prov:
+    en: Natl Hlth Commiss & Guangdong Prov
+    zh_Hans: 国家健康委员
+    zh_Hant: 國家健康委員
+  SCIEX China:
+    en: SCIEX China
+    zh_Hans: 上海SCIEX分析仪器贸易有限公司
+    zh_Hant: 上海SCIEX分析仪器贸易有限公司
+  Shenzhen Mindray Biomed Elect Co:
+    en: Shenzhen Mindray Biomed Elect Co
+    zh_Hans: 深圳迈瑞生物医药有限公司
+    zh_Hant: 深圳邁瑞生物醫藥有限公司
+  acad sinica:
+    en: acad sinica
+    zh_Hans: 中研院
+    zh_Hant: 中研院
+  al farabi kazakh natl univ:
+    en: al farabi kazakh natl univ
+    zh_Hans: 法拉比哈萨克国立大学
+    zh_Hant: 法拉比哈薩克國立大學
+  anhui univ:
+    en: anhui univ
+    zh_Hans: 安徽大学
+    zh_Hant: 安徽大學
+  australian natl univ:
+    en: australian natl univ
+    zh_Hans: 澳大利亚国立大学
+    zh_Hant: 澳大利亞國立大學
+  beijing city univ:
+    en: beijing city univ
+    zh_Hans: 北京城市学院
+    zh_Hant: 北京城市學院
+  beijing inst technol:
+    en: beijing inst technol
+    zh_Hans: 北京理工大学
+    zh_Hant: 北京理工大學
+  beijing normal univ:
+    en: beijing normal univ
+    zh_Hans: 北京师范大学
+    zh_Hant: 北京師範大學
+  beijing technol & business univ:
+    en: beijing technol & business univ
+    zh_Hans: 北京工商大学
+    zh_Hant: 北京工商大學
+  brigham young univ:
+    en: brigham young univ
+    zh_Hans: 杨百翰大学
+    zh_Hant: 楊百翰大學
+  cent hosp wuhan:
+    en: cent hosp wuhan
+    zh_Hans: 武汉市中心医院
+    zh_Hant: 武漢市中心醫院
+  cent s univ:
+    en: cent s univ
+    zh_Hans: 中南大学
+    zh_Hant: 中南大學
+  chang gung mem hosp:
+    en: chang gung mem hosp
+    zh_Hans: 长庚纪念医院
+    zh_Hant: 長庚紀念醫院
+  chang gung univ:
+    en: chang gung univ
+    zh_Hans: 长庚大学
+    zh_Hant: 長庚大學
+  changchun univ chinese med:
+    en: changchun univ chinese med
+    zh_Hans: 长春中医药大学
+    zh_Hant: 長春中醫藥大學
+  cheng shiu univ:
+    en: cheng shiu univ
+    zh_Hans: 郑州大学
+    zh_Hant: 鄭州大學
+  chengdu neust univ:
+    en: chengdu neust univ
+    zh_Hans: 成都东软学院
+    zh_Hant: 成都東軟學院
+  chinese acad sci:
+    en: chinese acad sci
+    zh_Hans: 中国科学院
+    zh_Hant: 中國科學院
+  chinese culture univ:
+    en: chinese culture univ
+    zh_Hans: 中国文化大学
+    zh_Hant: 中國文化大學
+  chinese univ hong kong:
+    en: chinese univ hong kong
+    zh_Hans: 香港中文大学
+    zh_Hant: 香港中文大學
+  chongqing univ:
+    en: chongqing univ
+    zh_Hans: 重庆大学
+    zh_Hant: 重慶大學
+  chongqing univ posts & telecommun:
+    en: chongqing univ posts & telecommun
+    zh_Hans: 重庆邮电大学
+    zh_Hant: 重慶郵電大學
+  city univ hong kong:
+    en: city univ hong kong
+    zh_Hans: 香港城市大学
+    zh_Hant: 香港城市大學
+  city univ macau:
+    en: city univ macau
+    zh_Hans: 澳门城市大学
+    zh_Hant: 澳門城市大學
+  dalian med univ:
+    en: dalian med univ
+    zh_Hans: 大连医科大学
+    zh_Hant: 大連醫科大學
+  de montft univ:
+    en: de montft univ
+    zh_Hans: 德蒙福特大学
+    zh_Hant: 德蒙福特大學
+  dongguan univ technol:
+    en: dongguan univ technol
+    zh_Hans: 东莞理工学院
+    zh_Hant: 東莞理工學院
+  donghua univ:
+    en: donghua univ
+    zh_Hans: 东华大学
+    zh_Hant: 東華大學
+  educ univ hong kong:
+    en: educ univ hong kong
+    zh_Hans: 香港教育大学
+    zh_Hant: 香港教育大學
+  feng chia univ:
+    en: feng chia univ
+    zh_Hans: 逢甲大学
+    zh_Hant: 逢甲大學
+  foshan univ:
+    en: foshan univ
+    zh_Hans: 佛山大学
+    zh_Hant: 佛山大學
+  fu jen catholic univ:
+    en: fu jen catholic univ
+    zh_Hans: 天主教辅仁大学
+    zh_Hant: 天主教輔仁大學
+  fudan univ:
+    en: fudan univ
+    zh_Hans: 复旦大学
+    zh_Hant: 復旦大學
+  guangdong polytech environm protect engn:
+    en: guangdong polytech environm protect engn
+    zh_Hans: 广东环境保护工程职业学院
+    zh_Hant: 廣東環境保護工程職業學院
+  guangdong polytech normal univ:
+    en: guangdong polytech normal univ
+    zh_Hans: 广东技术师范大学
+    zh_Hant: 廣東技術師範大學
+  guangdong prov hosp chinese med:
+    en: guangdong prov hosp chinese med
+    zh_Hans: 广东省中医院
+    zh_Hant: 廣東省中醫院
+  guangdong prov second hosp tradit chinese med:
+    en: guangdong prov second hosp tradit chinese med
+    zh_Hans: 广东省第二中医院
+    zh_Hant: 廣東省第二中醫院
+  guangdong univ:
+    en: guangdong univ
+    zh_Hans: 广东外语外贸大学南国商学院
+    zh_Hant: 廣東外語外貿大學南國商學院
+  guangdong univ finance & econ:
+    en: guangdong univ finance & econ
+    zh_Hans: 广东财经大学
+    zh_Hant: 廣東財經大學
+  guangdong univ foreign studies:
+    en: guangdong univ foreign studies
+    zh_Hans: 广东外语外贸大学
+    zh_Hant: 廣東外語外貿大學
+  guangdong univ technol:
+    en: guangdong univ technol
+    zh_Hans: 广东工业大学
+    zh_Hant: 廣東工業大學
+  guangxi univ:
+    en: guangxi univ
+    zh_Hans: 广西大学
+    zh_Hant: 廣西大學
+  guangxi univ chinese med:
+    en: guangxi univ chinese med
+    zh_Hans: 广西中医药大学
+    zh_Hant: 廣西中醫藥大學
+  guangzhou acad fine arts:
+    en: guangzhou acad fine arts
+    zh_Hans: 广州美术学院
+    zh_Hant: 廣州美術學院
+  guangzhou coll commerce:
+    en: guangzhou coll commerce
+    zh_Hans: 广州商学院
+    zh_Hant: 廣州商學院
+  guangzhou coll technol & business:
+    en: guangzhou coll technol & business
+    zh_Hans: 广州工商学院
+    zh_Hant: 廣州工商學院
+  guangzhou huashang coll:
+    en: guangzhou huashang coll
+    zh_Hans: 广州华商学院
+    zh_Hant: 廣州華商學院
+  guangzhou huatu infotech co. ltd:
+    en: guangzhou huatu infotech co. ltd
+    zh_Hans: 广州华图信息科技
+    zh_Hant: 廣州華圖信息科技
+  guangzhou inst sci & technol:
+    en: guangzhou inst sci & technol
+    zh_Hans: 广州理工学院
+    zh_Hant: 廣州理工學院
+  guangzhou inst technol:
+    en: guangzhou inst technol
+    zh_Hans: 广州工程技术职业学院
+    zh_Hant: 廣州工程技術職業學院
+  guangzhou med univ:
+    en: guangzhou med univ
+    zh_Hans: 广州医科大学
+    zh_Hant: 廣州醫科大學
+  guangzhou nanyang polytech:
+    en: guangzhou nanyang polytech
+    zh_Hans: 广州南洋理工职业学院
+    zh_Hant: 廣州南洋理工職業學院
+  guangzhou panyu polytech:
+    en: guangzhou panyu polytech
+    zh_Hans: 广州番禺职业技术学院
+    zh_Hant: 廣州番禺職業技術學院
+  guangzhou sern coll:
+    en: guangzhou sern coll
+    zh_Hans: 广州市社会科学院
+    zh_Hant: 廣州市社會科學院
+  guangzhou sport univ:
+    en: guangzhou sport univ
+    zh_Hans: 广州体育学院
+    zh_Hant: 廣州體育學院
+  guangzhou univ:
+    en: guangzhou univ
+    zh_Hans: 广州大学
+    zh_Hant: 廣州大學
+  guangzhou univ chinese med:
+    en: guangzhou univ chinese med
+    zh_Hans: 广州中医药大学
+    zh_Hant: 廣州中醫藥大學
+  guilin tourism univ:
+    en: guilin tourism univ
+    zh_Hans: 桂林旅游学院
+    zh_Hant: 桂林旅游學院
+  guizhou med univ:
+    en: guizhou med univ
+    zh_Hans: 贵州医科大学
+    zh_Hant: 貴州醫科大學
+  harbin inst technol:
+    en: harbin inst technol
+    zh_Hans: 哈尔滨工业大学
+    zh_Hant: 哈爾濱工業大學
+  hefei univ technol:
+    en: hefei univ technol
+    zh_Hans: 合肥工业大学
+    zh_Hant: 合肥工業大學
+  hong kong baptist univ:
+    en: hong kong baptist univ
+    zh_Hans: 香港浸会大学
+    zh_Hant: 香港浸會大學
+  hong kong metropolitan univ:
+    en: hong kong metropolitan univ
+    zh_Hans: 香港都会大学
+    zh_Hant: 香港都會大學
+  hong kong polytech univ:
+    en: hong kong polytech univ
+    zh_Hans: 香港理工大学
+    zh_Hant: 香港理工大學
+  huazhong agr univ:
+    en: huazhong agr univ
+    zh_Hans: 华中农业大学
+    zh_Hant: 華中農業大學
+  huazhong univ sci & technol:
+    en: huazhong univ sci & technol
+    zh_Hans: 华中科技大学
+    zh_Hant: 華中科技大學
+  hubei univ arts & sci:
+    en: hubei univ arts & sci
+    zh_Hans: 湖北文理学院
+    zh_Hant: 湖北文理學院
+  hubei univ econ:
+    en: hubei univ econ
+    zh_Hans: 湖北经济学院
+    zh_Hant: 湖北經濟學院
+  hunan inst technol:
+    en: hunan inst technol
+    zh_Hans: 湖南理工学院
+    zh_Hant: 湖南理工學院
+  hunan univ:
+    en: hunan univ
+    zh_Hans: 湖南大学
+    zh_Hant: 湖南大學
+  inst zhejiang univ quzhou:
+    en: inst zhejiang univ quzhou
+    zh_Hans: 浙江大学衢州研究院
+    zh_Hant: 浙江大學衢州研究院
+  inst zhejiang univ-quzhou:
+    en: inst zhejiang univ-quzhou
+    zh_Hans: 浙江大学衢州研究院
+    zh_Hant: 浙江大學衢州研究院
+  jiaying univ:
+    en: jiaying univ
+    zh_Hans: 嘉应大学
+    zh_Hant: 嘉應大學
+  jilin univ:
+    en: jilin univ
+    zh_Hans: 吉林大学
+    zh_Hant: 吉林大學
+  jimei univ:
+    en: jimei univ
+    zh_Hans: 集美大学
+    zh_Hant: 集美大學
+  jinan univ:
+    en: jinan univ
+    zh_Hans: 暨南大学
+    zh_Hant: 暨南大學
+  jishou univ:
+    en: jishou univ
+    zh_Hans: 吉首大学
+    zh_Hant: 吉首大學
+  karpagam coll engn:
+    en: karpagam coll engn
+    zh_Hans: 卡帕加姆工程学院
+    zh_Hant: 卡帕加姆工程學院
+  kings coll london:
+    en: kings coll london
+    zh_Hans: 伦敦国王学院
+    zh_Hant: 倫敦國王學院
+  kun shan univ:
+    en: kun shan univ
+    zh_Hans: 昆山大学
+    zh_Hant: 昆山大學
+  kyungpook natl univ:
+    en: kyungpook natl univ
+    zh_Hans: 庆北国立大学
+    zh_Hant: 慶北國立大學
+  lanzhou univ:
+    en: lanzhou univ
+    zh_Hans: 兰州大学
+    zh_Hant: 蘭州大學
+  macau univ sci & technol:
+    en: macau univ sci & technol
+    zh_Hans: 澳門科技大學
+    zh_Hant: 澳門科技大學
+  ming chuan univ:
+    en: ming chuan univ
+    zh_Hans: 銘傳大學
+    zh_Hant: 銘傳大學
+  mininstitute agr & rural affairs:
+    en: mininstitute agr & rural affairs
+    zh_Hans: 中国农业农村部
+    zh_Hant: 中國農業農村部
+  nanjing forestry univ:
+    en: nanjing forestry univ
+    zh_Hans: 南京林业大学
+    zh_Hant: 南京林業大學
+  nanjing univ informat sci & technol:
+    en: nanjing univ informat sci & technol
+    zh_Hans: 南京信息工程大学
+    zh_Hant: 南京信息工程大學
+  nanjing univ sci & technol:
+    en: nanjing univ sci & technol
+    zh_Hans: 南京理工大学
+    zh_Hant: 南京理工大學
+  nankai univ:
+    en: nankai univ
+    zh_Hans: 南开大学
+    zh_Hant: 南開大學
+  nanyang technol univ:
+    en: nanyang technol univ
+    zh_Hans: 新加坡南洋理工大学
+    zh_Hant: 新加坡南洋理工大學
+  natl cheng kung univ:
+    en: natl cheng kung univ
+    zh_Hans: 国立成功大学
+    zh_Hant: 國立成功大學
+  natl chengchi univ:
+    en: natl chengchi univ
+    zh_Hans: 国立政治大学
+    zh_Hant: 國立政治大學
+  natl chung hsing univ:
+    en: natl chung hsing univ
+    zh_Hans: 国立中兴大学
+    zh_Hant: 國立中興大學
+  natl dong hwa univ:
+    en: natl dong hwa univ
+    zh_Hans: 国立东华大学
+    zh_Hant: 國立東華大學
+  natl formosa univ:
+    en: natl formosa univ
+    zh_Hans: 国立虎尾科技大学
+    zh_Hant: 國立虎尾科技大學
+  natl kaohsiung univ sci & technol:
+    en: natl kaohsiung univ sci & technol
+    zh_Hans: 国立高雄科技大学
+    zh_Hant: 國立高雄科技大學
+  natl taichung univ educ:
+    en: natl taichung univ educ
+    zh_Hans: 国立台中教育大学
+    zh_Hant: 國立台中教育大學
+  natl taichung univ sci & technol:
+    en: natl taichung univ sci & technol
+    zh_Hans: 国立台中科技大学
+    zh_Hant: 國立台中科技大學
+  natl taipei univ:
+    en: natl taipei univ
+    zh_Hans: 国立台北大学
+    zh_Hant: 國立台北大學
+  natl taipei univ technol:
+    en: natl taipei univ technol
+    zh_Hans: 国立台北科技大学
+    zh_Hant: 國立台北科技大學
+  natl taitung univ:
+    en: natl taitung univ
+    zh_Hans: 国立台北大学
+    zh_Hant: 國立台北大學
+  natl taiwan univ:
+    en: natl taiwan univ
+    zh_Hans: 国立台湾大学
+    zh_Hant: 國立台灣大學
+  natl taiwan univ sci & technol:
+    en: natl taiwan univ sci & technol
+    zh_Hans: 国立台湾科技大学
+    zh_Hant: 國立台灣科技大學
+  natl united univ:
+    en: natl united univ
+    zh_Hans: 国立联合大学
+    zh_Hant: 國立聯合大學
+  natl univ singapore:
+    en: natl univ singapore
+    zh_Hans: 新加坡国立大学
+    zh_Hant: 新加坡國立大學
+  neust inst guangdong:
+    en: neust inst guangdong
+    zh_Hans: 广东东软学院
+    zh_Hant: 廣東東軟學院
+  oriental inst technol:
+    en: oriental inst technol
+    zh_Hans: 亚东科技大学
+    zh_Hant: 亞東科技大學
+  peking univ:
+    en: peking univ
+    zh_Hans: 北京大学
+    zh_Hant: 北京大學
+  s china agr univ:
+    en: s china agr univ
+    zh_Hans: 华南农业大学
+    zh_Hant: 華南農業大學
+  s china normal univ:
+    en: s china normal univ
+    zh_Hans: 华南师范大学
+    zh_Hant: 華南師範大學
+  s china normal univ china:
+    en: s china normal univ china
+    zh_Hans: 华南师范大学
+    zh_Hant: 華南師範大學
+  s china univ technol:
+    en: s china univ technol
+    zh_Hans: 华南理工大学
+    zh_Hant: 華南理工大學
+  sch informat engn:
+    en: sch informat engn
+    zh_Hans: 广州番禺职业技术学院
+    zh_Hant: 廣州番禺職業技術學院
+  sern med univ:
+    en: sern med univ
+    zh_Hans: 南方医科大学
+    zh_Hant: 南方醫科大學
+  sern univ sci & technol:
+    en: sern univ sci & technol
+    zh_Hans: 南方科技大学
+    zh_Hant: 南方科技大學
+  shanghai jiao tong univ:
+    en: shanghai jiao tong univ
+    zh_Hans: 上海交通大学
+    zh_Hant: 上海交通大學
+  shenzhen hong kong inst brain sci:
+    en: shenzhen hong kong inst brain sci
+    zh_Hans: 深圳先进技术研究院
+    zh_Hant: 深圳先進技術研究院
+  shenzhen univ:
+    en: shenzhen univ
+    zh_Hans: 深圳大学
+    zh_Hant: 深圳大學
+  shih chien univ:
+    en: shih chien univ
+    zh_Hans: 实践大学
+    zh_Hant: 實踐大學
+  soochow univ:
+    en: soochow univ
+    zh_Hans: 苏州大学
+    zh_Hant: 蘇州大學
+  stware engn inst guangzhou:
+    en: stware engn inst guangzhou
+    zh_Hans: 广州软件学院
+    zh_Hant: 廣州軟件學院
+  sun yat sen univ:
+    en: sun yat sen univ
+    zh_Hans: 中山大学
+    zh_Hant: 中山大學
+  sun yat-sen university:
+    en: sun yat-sen university
+    zh_Hans: 中山大学
+    zh_Hant: 中山大學
+  sun yatsen univ:
+    en: sun yatsen univ
+    zh_Hans: 中山大学
+    zh_Hant: 中山大學
+  sw forestry univ:
+    en: sw forestry univ
+    zh_Hans: 西南林业大学
+    zh_Hant: 西南林業大學
+  sw jiaotong univ:
+    en: sw jiaotong univ
+    zh_Hans: 西南交通大学
+    zh_Hant: 西南交通大學
+  tainan univ technol:
+    en: tainan univ technol
+    zh_Hans: 台南科技大学
+    zh_Hant: 台南科技大學
+  taipei coll maritime technol:
+    en: taipei coll maritime technol
+    zh_Hans: 台北海洋科技大学
+    zh_Hant: 台北海洋科技大學
+  taipei univ marine technol:
+    en: taipei univ marine technol
+    zh_Hans: 台北海洋科技大學
+    zh_Hant: 台北海洋科技大學
+  tamkang univ:
+    en: tamkang univ
+    zh_Hans: 淡江大学
+    zh_Hant: 淡江大學
+  taylors univ:
+    en: taylors univ
+    zh_Hans: 马来西亚泰莱大学
+    zh_Hant: 馬來西亞泰萊大學
+  tsinghua univ:
+    en: tsinghua univ
+    zh_Hans: 清华大学
+    zh_Hant: 清華大學
+  ucsi univ:
+    en: ucsi univ
+    zh_Hans: 马来西亚思特雅大学
+    zh_Hant: 馬來西亞思特雅大學
+  univ brawijaya:
+    en: univ brawijaya
+    zh_Hans: 布拉维加亚大学
+    zh_Hant: 布拉維加亞大學
+  univ chinese acad sci:
+    en: univ chinese acad sci
+    zh_Hans: 中国科学院大学
+    zh_Hant: 中國科學院大學
+  univ chinese acad scis:
+    en: univ chinese acad scis
+    zh_Hans: 中国科学院大学
+    zh_Hant: 中國科學院大學
+  univ foreign studies:
+    en: univ foreign studies
+    zh_Hans: 广东外语外贸大学南国商学院
+    zh_Hant: 廣東外語外貿大學南國商學院
+  univ hong kong:
+    en: univ hong kong
+    zh_Hans: 香港大学
+    zh_Hant: 香港大學
+  univ kebangsaan malaysia:
+    en: univ kebangsaan malaysia
+    zh_Hans: 马来西亚国立大学
+    zh_Hant: 馬來西亞國立大學
+  univ macau:
+    en: univ macau
+    zh_Hans: 澳门大学
+    zh_Hant: 澳門大學
+  univ miami:
+    en: univ miami
+    zh_Hans: 迈阿密大学
+    zh_Hant: 邁阿密大學
+  univ putra malaysia:
+    en: univ putra malaysia
+    zh_Hans: 马来西亚博特拉大学
+    zh_Hant: 馬來西亞博特拉大學
+  univ shanghai sci & technol:
+    en: univ shanghai sci & technol
+    zh_Hans: 上海理工大学
+    zh_Hant: 上海理工大学
+  wuhan text univ:
+    en: wuhan text univ
+    zh_Hans: 武汉纺织大学
+    zh_Hant: 武漢紡織大學
+  wuhan univ:
+    en: wuhan univ
+    zh_Hans: 武汉大学
+    zh_Hant: 武漢大學
+  wuhan univ technol:
+    en: wuhan univ technol
+    zh_Hans: 武汉理工大学
+    zh_Hant: 武漢理工大學
+  xiamen univ:
+    en: xiamen univ
+    zh_Hans: 厦门大学
+    zh_Hant: 廈門大學
+  xinxiang med univ:
+    en: xinxiang med univ
+    zh_Hans: 新乡医学院
+    zh_Hant: 新鄉醫學院
+  xinyang normal univ:
+    en: xinyang normal univ
+    zh_Hans: 信阳师范大学
+    zh_Hant: 信陽師範大學
+  zhaoqing univ:
+    en: zhaoqing univ
+    zh_Hans: 肇庆大学
+    zh_Hant: 肇慶大學
+  zhejiang univ:
+    en: zhejiang univ
+    zh_Hans: 浙江大学
+    zh_Hant: 浙江大學
+  zhengzhou univ:
+    en: zhengzhou univ
+    zh_Hans: 郑州大学
+    zh_Hant: 鄭州大學
+  zhongkai univ agr & engn:
+    en: zhongkai univ agr & engn
+    zh_Hans: 仲恺农业工程学院
+    zh_Hant: 仲愷農業工程學院
+org02:
+  '#UNKNOWN':
+    en: ❓Unknown❓
+    zh_Hans: ❓未知❓
+    zh_Hant: ❓未知❓
+  '#UNKNOWN(NFU)':
+    en: ❓Unknown(NFU)❓
+    zh_Hans: ❓未知(NFU)❓
+    zh_Hant: ❓未知(NFU)❓
+  '#Unknown':
+    en: ❓Unknown❓
+    zh_Hans: ❓未知❓
+    zh_Hant: ❓未知❓
+  Off Educ Adm & Sci Res:
+    en: Off Educ Adm & Sci Res
+    zh_Hans: 学务与科研部
+    zh_Hant: 學務與科研部
+  accounting sch:
+    en: accounting sch
+    zh_Hans: 会计学院
+    zh_Hant: 會計學院
+  affiliated hosp 1:
+    en: affiliated hosp 1
+    zh_Hans: 附属医院1
+    zh_Hant: 附屬醫院1
+  business sch:
+    en: business sch
+    zh_Hans: 商学院
+    zh_Hant: 商學院
+  coll attainment:
+    en: coll attainment
+    zh_Hans: 达人书院
+    zh_Hant: 達人書院
+  coll comp sci:
+    en: coll comp sci
+    zh_Hans: 计算机科学系
+    zh_Hant: 計算機科學系
+  coll english educ ctr:
+    en: coll english educ ctr
+    zh_Hans: 大学英语教学中心
+    zh_Hant: 大學英語教學中心
+  dept acad polit & business studies:
+    en: dept acad polit & business studies
+    zh_Hans: 政商研究院
+    zh_Hant: 政商研究院
+  dept accounting:
+    en: dept accounting
+    zh_Hans: 会计系
+    zh_Hant: 會計系
+  dept art design & creat ind:
+    en: dept art design & creat ind
+    zh_Hans: 艺创学院
+    zh_Hant: 藝創學院
+  dept comp sci & informat engn:
+    en: dept comp sci & informat engn
+    zh_Hans: 计算机科学与信息工程系
+    zh_Hant: 計算機科學與信息工程系
+  dept econ:
+    en: dept econ
+    zh_Hans: 经济系
+    zh_Hant: 經濟系
+  dept econ & business management:
+    en: dept econ & business management
+    zh_Hans: 经商系
+    zh_Hant: 經商系
+  dept elect engn:
+    en: dept elect engn
+    zh_Hans: 电子工程系
+    zh_Hant: 電子工程系
+  dept finance:
+    en: dept finance
+    zh_Hans: 财务部
+    zh_Hant: 財務部
+  dept food & beverage management:
+    en: dept food & beverage management
+    zh_Hans: 餐饮管理系
+    zh_Hant: 餐飲管理系
+  dept gen educ:
+    en: dept gen educ
+    zh_Hans: 通识教育
+    zh_Hant: 通識教育
+  dept lab med:
+    en: dept lab med
+    zh_Hans: 医学实验系
+    zh_Hant: 醫學實驗系
+  dept literature & media studies:
+    en: dept literature & media studies
+    zh_Hans: 文媒系
+    zh_Hant: 文媒系
+  dept management engn:
+    en: dept management engn
+    zh_Hans: 管理工程系
+    zh_Hant: 管理工程系
+  dept pediat:
+    en: dept pediat
+    zh_Hans: 儿科系
+    zh_Hant: 兒科系
+  dept publ management:
+    en: dept publ management
+    zh_Hans: 公管系
+    zh_Hant: 公管系
+  finance & accounting res ctr:
+    en: finance & accounting res ctr
+    zh_Hans: 金融与会计研究中心
+    zh_Hant: 金融與會計研究中心
+  guangzhou nanyang polytechnic:
+    en: guangzhou nanyang polytechnic
+    zh_Hans: x广州南洋理工学院x
+    zh_Hant: x廣州南洋理工學院x
+  guangzhou univ chinese med:
+    en: guangzhou univ chinese med
+    zh_Hans: x广州中医药大学x
+    zh_Hant: x廣州中醫藥大學x
+  higher educ impact assessment ctr:
+    en: higher educ impact assessment ctr
+    zh_Hans: 高校影响力研究中心
+    zh_Hant: 高校影響力研究中心
+  lab esg data drn decis:
+    en: lab esg data drn decis
+    zh_Hans: ESG数据驱动决策实验室
+    zh_Hant: ESG數據驅動決策實驗室
+  new media res ctr:
+    en: new media res ctr
+    zh_Hans: 新媒体研究中心
+    zh_Hant: 新媒體研究中心
+  sch accounting & finance:
+    en: sch accounting & finance
+    zh_Hans: 会计与金融系
+    zh_Hant: 會計與金融系
+  sch business:
+    en: sch business
+    zh_Hans: 商科系
+    zh_Hant: 商科系
+  sch business & econ:
+    en: sch business & econ
+    zh_Hans: 商业与经济系
+    zh_Hant: 商業與經濟系
+  sch comp:
+    en: sch comp
+    zh_Hans: 计算机科学系
+    zh_Hant: 計算機科學系
+  sch comp sci:
+    en: sch comp sci
+    zh_Hans: 计算机科学系
+    zh_Hant: 計算機科學系
+  sch comp sci & engn:
+    en: sch comp sci & engn
+    zh_Hans: 计算机科学与工程系
+    zh_Hant: 計算機科學與工程系
+  sch data & comp sci:
+    en: sch data & comp sci
+    zh_Hans: 数据与计算机科学系
+    zh_Hant: 數據與計算機科學系
+  sch econ & management:
+    en: sch econ & management
+    zh_Hans: 经济与管理系
+    zh_Hant: 經濟與管理系
+  sch elect & comp engn:
+    en: sch elect & comp engn
+    zh_Hans: 电气与计算机工程学院
+    zh_Hant: 電氣與計算機工程學院
+  sch elect & informat engn:
+    en: sch elect & informat engn
+    zh_Hans: 电子与信息工程系
+    zh_Hant: 電子與信息工程系
+  sch foreign languages:
+    en: sch foreign languages
+    zh_Hans: 外语学院
+    zh_Hant: 外語學院
+  sch informat sci & technol:
+    en: sch informat sci & technol
+    zh_Hans: 信息科学与技术系
+    zh_Hant: 信息科學與技術系
+  sch information sci & technology:
+    en: sch information sci & technology
+    zh_Hans: 信息科学与技术系
+    zh_Hant: 信息科學與技術系
+  sch life & hlth technol:
+    en: sch life & hlth technol
+    zh_Hans: 生命健康技术系
+    zh_Hant: 生命健康技術系
+  sch literature & commun:
+    en: sch literature & commun
+    zh_Hans: 文传学院
+    zh_Hant: 文傳學院
+  sch management:
+    en: sch management
+    zh_Hans: 管理系
+    zh_Hant: 管理系
+  sch mech engn:
+    en: sch mech engn
+    zh_Hans: 机械工程系
+    zh_Hant: 機械工程系
+  sch publ adm:
+    en: sch publ adm
+    zh_Hans: 公共管理学院
+    zh_Hant: 公共管理學院
+  sch publ hlth:
+    en: sch publ hlth
+    zh_Hans: 公共健康系
+    zh_Hant: 公共健康系
+  sch tourism management:
+    en: sch tourism management
+    zh_Hans: 旅游管理系
+    zh_Hant: 旅游管理系
+  sch tradit chinese med & hlth:
+    en: sch tradit chinese med & hlth
+    zh_Hans: 中医药健康学院
+    zh_Hant: 中醫藥健康學院
+  shenzhen hong kong inst brain sci:
+    en: shenzhen hong kong inst brain sci
+    zh_Hans: x深圳香港脑科学研究所x
+    zh_Hant: x深圳香港腦科學研究所x
+  shenzhen neher neural plast lab:
+    en: shenzhen neher neural plast lab
+    zh_Hans: x深圳市神经整形实验室x
+    zh_Hant: x深圳市神經整形實驗室x
+  univ chinese acad sci:
+    en: univ chinese acad sci
+    zh_Hans: x中国科学院大学x
+    zh_Hant: x中國科學院大學x
+  xiangyang cent hosp:
+    en: xiangyang cent hosp
+    zh_Hans: x襄阳市中心医院x
+    zh_Hant: x襄陽市中心醫院x
+  yunkang sch med & hlth:
+    en: yunkang sch med & hlth
+    zh_Hans: 云康医学与健康学院
+    zh_Hant: 雲康醫學與健康學院
