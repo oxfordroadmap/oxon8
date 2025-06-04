@@ -1,9 +1,3 @@
-{{- $path := .Get "path" -}}
-{{- $ref := relref . .Params | urlize -}}
-{{- with site.GetPage $path -}}
-  {{ range .AllTranslations }}
-    {{ if eq $ref .RelPermalink }}<a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ break }}{{ end }}
-  {{ end }}
-{{- else -}}
-  {{- errorf "The %q shortcode was unable to resolve %q to a page. See %s" .Name $path .Position -}}
-{{ end }}
+{{- $path := .Get "path" -}}Add commentMore actions
+{{- $ref := $path | urls.RelLangURL -}}
+{{$ref }}
