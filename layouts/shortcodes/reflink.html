@@ -1,1 +1,3 @@
-{{ relref . .Params }}
+{{- $path := .Get "path" -}}
+{{- $ref := $path | urls.RelLangURL -}}
+{{$ref }}
